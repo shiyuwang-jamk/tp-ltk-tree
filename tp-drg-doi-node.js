@@ -1,5 +1,44 @@
 // run under node.js
 
+/**
+ * Version 1.0.1 (2025-06-28)
+ * Author: Shiyu "Simo" Wang
+ * With guidance from GitHub Copilot.
+ * 
+ * This script deals with coding correspondence in the proprietary Finnish platform Terveysportti (health portal) for medicines.
+ * 
+ * Potentials of the Script:
+ * 1. Access the drugs and groups quickly with the number-only code for DRG shorthand URL
+ * 2. Search with the DRG code in Duodecim's doctor's manual (lääkärin käsikirja, YTK) to find articles where the same drug or drug group appears.
+ * 3. TODO Find out drugs belonging to multiple drug categories.
+ * 
+ * The script first prompts a user for access key string from browser cookie, then queries final links of around 1700 short URLs in the form of
+ *      https://www.terveysportti.fi/doi/drg*****
+ *       ***** being a 5-digit code running from 00001 to 01700, after which all code bigger than 1700 should return 404 as in June 2025.
+ * These URLs (DRGs) have been found in Duodecim's doctor's manual (lääkärin käsikirja, YTK), which can be accessed via similar shorthand URL form
+ *      https://www.terveysportti.fi/doi/ytk*****
+ * Note: YTK's English counterpart, Evidence-Based Medicine Guidelines (EBMG), uses ATC code in its entries.
+ * 
+ * If the DRG number code is valid, the link would redirect to a URL of Duodecim's medicine database (lääketietokanta, LTK) in the form of:
+ *      https://www.terveysportti.fi/apps/laake/laakeryhma/XXXXXX
+ *      XXXXXXX being either an ATC code to a specific substance name or a proprietary coding system in LTK (lääkeryhmä) categorizing medicines with slight derivations from the ATC system.
+ * 
+ * With the code in the redirected URL, the script then
+ * - In the case of an ATC code, fetches the English and Finnish names
+ * - In the case of a LTK group code, fetches the descriptive Finnish text of the group
+ * 
+ * Then the script also finds the upper group name of the substance or group behind the code.
+ * - TODO It is possible that one substance can belong to multiple LTK groups e.g. L04AA24 aka. abatacept being drug for both cancer and rheumatic arthritis (RA). 
+ * - The first version of the script (27.6.2025) failed to address the issue.
+ * 
+ * The fetching is achieved by:
+ * - LTK's API fetching a JSON containing Finnish name and groups with the access key string from browser cookie.
+ * - English drug name from the ATC/DDD website by parsing its webpage with the ATC code.
+ * 
+ * Then the script writes the results into a CSV file with one DRG code per line. A sample of the results can be found at file ./tdoi-drg.csv
+ */
+
+
 // https://www.geeksforgeeks.org/javascript/javascript-program-to-write-data-in-a-text-file/
 const fs = require('fs'); // no DevTools
 const axios = require('axios');
@@ -226,19 +265,7 @@ async function drgVisit(nro) {
     // const headers = error.response.headers;
     const { status, headers } = urlResponse;
     
-    if (status < 300 || !headers.location) {
-        console.error(`TDOI drg${tdoi}: error occurred on first redirection.`, status);
-        writeNewLine([tdoi, status, '','','',''].map(csvEscape).join(','));
-        
-        if (status === 404) {
-            edgeCounter++;
-            if (edgeCounter > edgeThreshold) {
-                const since = nro - edgeCounter;
-                throw new Error(`TDOI drg${tdoi}: 404 since`, since);
-            }
-        }
-        // process.abort();
-    } else {
+    if (status >= 300 && status < 400 && headers.location) {
         const atcCode = atcFind(headers.location);
         console.log('ATC/LTK code for TDOI drg', tdoi, ": ", atcCode);
         let name = 'N/A';
@@ -324,7 +351,19 @@ async function drgVisit(nro) {
                 return;
             }
         }
+    } else if (status === 404) {
+        edgeCounter++;
+        if (edgeCounter > edgeThreshold) {
+            const since = nro - edgeCounter;
+            throw new Error(`TDOI drg${tdoi}: 404 since`, since);
+        }
+    } else {
+    // if (status < 300 || !headers.location) {
+        console.error(`TDOI drg${tdoi}: error occurred on first redirection.`, status);
+        writeNewLine([tdoi, status, '','','',''].map(csvEscape).join(','));
     }
+        
+        // process.abort();
 }
 
 // https://coderwall.com/p/_ppzrw/be-careful-with-settimeout-in-loops
