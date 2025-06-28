@@ -1,0 +1,1711 @@
+﻿TDOI,ATC/LTK,English,Finnish,"Upper LTK group","LTK group name"
+00001,P02CX01,pyrvinium,Pyrviini,P1BA,Sukkulamatolääkkeet
+00002,A2BH,N/A,GLP-1-analogit,A2B,Muut diabeteslääkkeet kuin insuliinit
+00003,J01CE01,benzylpenicillin,Bentsyylipenisilliini,J1ABB,Beetalaktamaasiherkät penisilliinit
+00004,V6B,N/A,Terapeuttiset radioaktiiviset lääkevalmisteet,V6,Radioaktiiviset lääkevalmisteet
+00005,404,,,,
+00006,N2DD,N/A,Muut masennuslääkkeet,N2D,Masennuslääkkeet
+00007,J2,N/A,"Immunoseerumit, immunoglobuliinit, rokotteet",N/A JSON API,N/A JSON API
+00008,N05BE01,buspirone,Buspironi,N2B,Rauhoittavat lääkkeet
+00009,R1F,N/A,Muut hengitysteiden sairauksien lääkkeet,R1,"Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)"
+00010,S1EA,N/A,Antikolinergit,S1E,Mydriaasin ja sykloplegian aiheuttavat lääkkeet
+00011,404,,,,
+00012,G03HB01,cyproterone and estrogen,Syproteroni ja etinyyliestradioli,G2AH,Antiandrogeenit
+00013,A3AD,N/A,A-vitamiinit,A3A,Vitamiinit
+00014,A01AA03,olaflur,Olafluuri,A1GA,Karieksen esto
+00015,S1DB,N/A,Parasympatomimeetit,S1D,Glaukoomalääkkeet
+00016,L1BB,N/A,Hormoniantagonistit,L1B,Endokrinologiset lääkkeet
+00017,C07FB03,atenolol and nifedipine,Atenololi ja nifedipiini,C1EB,Beetasalpaaja ja muu verenpainelääke
+00018,404,,,,
+00019,D1B,N/A,Sienilääkkeet,D1,Ihotautien lääkkeet
+00020,N01AX01,ATCDDD N/A,Try again,,
+00021,J07BG01,"rabies, inactivated, whole virus","Vesikauhurokote, inaktivoitu (koko virus)",J2BBF,Vesikauhu
+00022,C05AX03,"other preparations, combinations",Muut yhdistelmävalmisteet,C1R,Peräpukamien ja peräaukon haavaumien hoito
+00023,A1BA,N/A,Antikolinergit,A1B,Suoliston toiminnallisten häiriöiden lääkkeet
+00024,H01CC02,cetrorelix,Setroreliksi,H1ACB,Gonadotropiinin vapautumisen estäjät
+00025,B05XA14,sodium glycerophosphate,Natriumglyserofosfaatti,B2DA,Elektrolyyttiliuokset ja aminohapot
+00026,L01XA03,oxaliplatin,Oksaliplatiini,L1AEA,Platinayhdisteet
+00027,G03AB05,desogestrel and ethinylestradiol,Desogestreeli ja etinyyliestradioli,G2AAB,Progestageenin  ja estrogeenin sekventiaalivalmisteet
+00028,C1K,N/A,AT-reseptorin salpaajien yhdistelmävalmisteet,C1U,Verenpainelääkkeet
+00029,S01AD03,aciclovir,Asikloviiri,S1B,Viruslääkkeet
+00030,A1K,N/A,"Sapen eritys, sappihapot",A1,Ruoansulatuskanavan lääkkeet
+00031,G03CA03,estradiol,Estradioli,G2AD,Estrogeenit ja estrogeenireseptorin muuntelijat
+00032,V10A,ANTIINFLAMMATORY AGENTS,Tulehdusta lievittävät valmisteet,V6B,Terapeuttiset radioaktiiviset lääkevalmisteet
+00033,404,,,,
+00034,404,,,,
+00035,A09AA02,"multienzymes (lipase, protease etc.)","Useita entsyymejä (lipaasi, proteaasi jne.) sisältävät valmisteet",A1H,Ruoansulatusentsyymit ja happovalmisteet
+00036,D04AB01,lidocaine,Lidokaiini,D1K,Iholle käytettävät paikallispuudutteet
+00037,L01AA01,cyclophosphamide,Syklofosfamidi,L1AA,Alkyloivat aineet
+00038,C09CA06,candesartan,Kandesartaani,C1J,AT-reseptorin salpaajat
+00039,R03BB01,ipratropium bromide,Ipratropiumbromidi,R1HA,Lyhytvaikutteiset antikolinergit (SAMA)
+00040,N2EA,N/A,Hydantoiinijohdokset,N2E,Epilepsialääkkeet
+00041,C01BB01,lidocaine,Lidokaiini,C1BB,Ryhmä 1B
+00042,C1AA,N/A,Digitalisglykosidit,C1A,"Sydänlääkkeet (mm. digitalis, inotroopit, nitraatit)"
+00043,B03XA01,erythropoietin,Epoetiini,B1CC,Muut anemialääkkeet
+00044,S01HA02,oxybuprocaine,Oksibuprokaiini,S1G,Paikallispuudutteet
+00045,A03DA02,pitofenone and analgesics,Pitofenoni ja analgeetti,A1BB,Antikolinergiyhdistelmät
+00046,V08BA01,barium sulfate with suspending agents,Bariumsulfaattivalmisteet,V5B,Jodittomat varjoaineet
+00047,C10AD52,"nicotinic acid, combinations","Nikotiinihappo, yhdistelmävalmisteet",C1PD,"Nikotiinihappo, sen johdokset ja yhdistelmävalmisteet"
+00048,N2CA,N/A,Bentsodiatsepiinit,N2C,Unilääkkeet
+00049,R03BC01,cromoglicic acid,Dinatriumkromoglikaatti,R1AG,Kromonit
+00050,N03AF02,oxcarbazepine,Okskarbatsepiini,N2EC,Karboksamidijohdokset
+00051,C09AA01,captopril,Kaptopriili,C1G,ACE:n estäjät
+00052,404,,,,
+00053,H02AB04,methylprednisolone,Metyyliprednisoloni,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00054,D07BA04,hydrocortisone and antiseptics,Hydrokortisoni ja antiseptit,D1AEA,Mietojen kortikosteroidien yhdistelmät
+00055,C01EB16,ibuprofen,Ibuprofeeni,C1AD,Muut sydänlääkkeet
+00056,J07BC01,"hepatitis B, purified antigen","Hepatiitti B, puhdistettu antigeeni",J2BBC,Hepatiitti
+00057,M01CC01,penicillamine,Penisillamiini,V2G,Muut myrkytysten hoidossa käytettävät lääkkeet.
+00058,P1BB,N/A,Laakamatolääkkeet,P1B,Matolääkkeet
+00059,M2A,N/A,Bisfosfonaatit,M2,Luukudokseen vaikuttavat lääkkeet
+00060,B1AC,N/A,Fibrinolyyttiset lääkeaineet,B1,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet
+00061,N2F,N/A,Parkinsonismilääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+00062,B05BB01,electrolytes,Elektrolyytit,B2BE,Elektrolyyttiliuokset
+00063,M3,N/A,Lihasrelaksantit,N/A JSON API,N/A JSON API
+00064,M05BA06,ibandronic acid,Ibandronihappo,M2A,Bisfosfonaatit
+00065,B1ABA,N/A,Pienimolekyyliset hepariinit (LMWH),B1AFA,Hepariinit
+00066,D09AA02,fusidic acid,Fusidiinihappo,D1J,Lääkesiteet
+00067,N02BA51,"acetylsalicylic acid, combinations excl. psycholeptics","Asetyylisalisyylihappo, yhdistelmävalmisteet",M1A,Tulehduskipulääkkeet
+00068,N05AE03,sertindole,Sertindoli,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+00069,N05CD05,triazolam,Triatsolaami,N2CA,Bentsodiatsepiinit
+00070,C10AA07,rosuvastatin,Rosuvastatiini,C1PA,Statiinit
+00071,A3BD,N/A,Muut kivennäisaineet,A3B,Kivennäisaineet
+00072,G2AH,N/A,Antiandrogeenit,G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+00073,R05CB15,erdosteine,Erdosteiini,R1EB,Limaa irrottavat
+00074,M03AC03,vecuronium,Vekuroni,M3AA,Anestesian yhteydessä käytettävät lihasrelaksantit
+00075,N06BA09,atomoxetine,Atomoksetiini,N2H,ADHD-lääkkeet
+00076,J2BA,N/A,Bakteerirokotteet,J2B,Rokotteet
+00077,M1DAA,N/A,Salisyylihappojohdoksia sisältävät valmisteet,M1DA,Paikalliset tulehduskipulääkkeet
+00078,J06BB02,tetanus immunoglobulin,Tetanusimmunoglobuliini,J2A,Immunoseerumit ja immunoglobuliinit
+00079,C01EB19,ATCDDD N/A,Try again,,
+00080,N2M,N/A,Muut hermostoon vaikuttavat lääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+00081,H1FB,N/A,Lisäkilpirauhasen toimintaa estävät lääkkeet,H1F,Kalsiumtasapainoa säätelevät lääkkeet
+00082,A01AC01,triamcinolone,Triamsinoloni,A1GC,"Suun paikallishoito, kortikosteroidit"
+00083,B2BE,N/A,Elektrolyyttiliuokset,B2B,Parenteraaliset ravintovalmisteet
+00084,C1HB,N/A,ACE:n estäjä ja kalsiumkanavan salpaaja,C1H,ACE:n estäjien yhdistelmävalmisteet
+00085,L04AC05,ustekinumab,Ustekinumabi,D1E,Psoriaasilääkkeet
+00086,B01AE07,dabigatran etexilate,Dabigatraanieteksilaatti,B1AD,Suorat trombiinin estäjät
+00087,N06AA09,amitriptyline,Amitriptyliini,N3D,Neuropaattisen kivun lääkkeet
+00088,A06AC51,"ispaghula, combinations","Ispaghula, yhdistelmävalmisteet",A1DB,Suolen sisältöä lisäävät ulostuslääkkeet
+00089,N02AF02,nalbuphine,Nalbufiini,N3BA,"Heikot opioidit, osittaiset agonistit"
+00090,D11AH02,pimecrolimus,Pimekrolimuusi,D1HAA,Paikalliset kalsineuriinin estäjät
+00091,B02BA01,phytomenadione,Fytomenadioni,V2A,Myrkytysten antidootit
+00092,S01EC01,acetazolamide,Asetatsolamidi,S1DC,Hiilihappoanhydraasin estäjät
+00093,P01BA02,hydroxychloroquine,Hydroksiklorokiini,L2AB,Perinteiset reumalääkkeet (DMARDs)
+00094,J2BAF,N/A,Jäykkäkouristus,J2BA,Bakteerirokotteet
+00095,A10BX03,nateglinide,Try again,,
+00096,D05AD01,trioxysalen,Trioksisaleeni,D1E,Psoriaasilääkkeet
+00097,N06AB04,citalopram,Sitalopraami,N2DB,Selektiiviset serotoniinin takaisinoton estäjät (SSRI)
+00098,V5A,N/A,Jodia sisältävät varjoaineet,V5,Varjoaineet
+00099,404,,,,
+00100,N02CC07,frovatriptan,Frovatriptaani,N3CA,Triptaanit (5-HT1-reseptoriagonistit)
+00101,B2D,N/A,Infuusiokonsentraatit,B2,Veren korvikkeet ja perfuusioliuokset
+00102,404,,,,
+00103,J1DCD,N/A,HIV-lääkkeiden yhdistelmät,J1DC,HIV-lääkkeet
+00104,R01AC03,azelastine,Atselastiini,R1DC,Muut allergialääkkeet kuin kortikosteroidit
+00105,R1FA,N/A,Kurkkukipuun käytettävät valmisteet,R1F,Muut hengitysteiden sairauksien lääkkeet
+00106,V03AB19,physostigmine,Fysostigmiini,V2A,Myrkytysten antidootit
+00107,404,,,,
+00108,M03AC11,cisatracurium,Sisatrakuuri,M3AA,Anestesian yhteydessä käytettävät lihasrelaksantit
+00109,C10BA02,simvastatin and ezetimibe,Simvastatiini ja etsetimibi,C1PF,Statiini ja muu lipidilääke
+00110,L01XE01,ATCDDD N/A,Try again,,
+00111,C01DA08,isosorbide dinitrate,Isosorbididinitraatti,C1AC,Orgaaniset nitraatit
+00112,A04AA01,ondansetron,Ondansetroni,A1CA,Serotoniiniantagonistit
+00113,A10AC01,insulin (human),Ihmisinsuliini,A2AB,Pitkävaikutteiset
+00114,N02AB02,pethidine,Petidiini,N3BB,Vahvat opioidit
+00115,R06AE09,levocetirizine,Levosetiritsiini,R1CA,Väsyttämättömät antihistamiinit
+00116,V03AF03,calcium folinate,Kalsiumfolinaatti,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+00117,L01CA04,vinorelbine,Vinorelbiini,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+00118,H02AB06,prednisolone,Prednisoloni,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00119,A07CA,Oral rehydration salt formulations,Elektrolyytti/hiilihydraattivalmisteet,A1E,Ripulin ja suolistotulehdusten hoito
+00120,A10AE05,insulin detemir,Detemirinsuliini,A2AD,Ylipitkävaikutteiset
+00121,N01AH02,alfentanil,Alfentaniili,N1AAC,Opioidianesteetit
+00122,B01AB02,antithrombin III,Antitrombiini,B1AF,Antikoagulantit
+00123,A01AB03,chlorhexidine,Klooriheksidiini,A1GB,"Suun paikallishoito, mikrobilääkkeet"
+00124,N2CC,N/A,Muut unilääkkeet,N2C,Unilääkkeet
+00125,N2HA,N/A,Try again,,
+00126,J2BBE,N/A,Polio,J2BB,Virusrokotteet
+00127,J05AR01,zidovudine and lamivudine,Tsidovudiini ja lamivudiini,J1DCD,HIV-lääkkeiden yhdistelmät
+00128,404,,,,
+00129,N06DA03,rivastigmine,Rivastigmiini,N2GA,Antikoliiniesteraasit (AKE:n estäjät)
+00130,A12CB01,zinc sulfate,Sinkkisulfaatti,A3BD,Muut kivennäisaineet
+00131,N07BB01,disulfiram,Disulfiraami,N2JB,Alkoholiriippuvuuden hoito
+00132,D1CAB,N/A,Muut kuin mikrobilääkkeet,D1CA,Ulkoisesti käytettävät aknelääkkeet
+00133,J1CB,N/A,Lepralääkkeet,J1C,Mykobakteerilääkkeet
+00134,N02AE01,buprenorphine,Buprenorfiini,N3BA,"Heikot opioidit, osittaiset agonistit"
+00135,G03FB06,medroxyprogesterone and estrogen,Medroksiprogesteroni ja estrogeeni,G2AFB,Sekventiaalivalmisteet
+00136,C01EA01,alprostadil,Alprostadiili,C1AD,Muut sydänlääkkeet
+00137,S01BC05,ketorolac,Ketorolaakki,S1CB,Tulehduskipulääkkeet
+00138,J01DB01,cefalexin,Kefaleksiini,J1ACA,Ensimmäisen polven kefalosporiinit
+00139,N05AB03,perphenazine,Perfenatsiini,N2AAA,Fentiatsiinit
+00140,R03BA08,ciclesonide,Siklesonidi,R1AE,Glukokortikoidit (ICS)
+00141,N06BA04,methylphenidate,Metyylifenidaatti,N2H,ADHD-lääkkeet
+00142,A07EA06,budesonide,Budesonidi,A1EE,Paikalliset kortikosteroidit
+00143,N04BD01,selegiline,Selegiliini,N2FC,MAO-B:n estäjät
+00144,N02AC04,dextropropoxyphene,Dekstropropoksifeeni,N3BA,"Heikot opioidit, osittaiset agonistit"
+00145,404,,,,
+00146,L02BG04,letrozole,Letrotsoli,L1BC,Aromataasin estäjät
+00147,C02KX01,bosentan,Bosentaani,C1M,Pulmonaalihypertension lääkkeet
+00148,S01JA51,"fluorescein, combinations","Fluoreseiini, yhdistelmävalmisteet",S1H,Diagnostiset aineet
+00149,G04BE08,tadalafil,Tadalafiili,G1DB,Erektiohäiriöiden hoitoon tarkoitetut lääkkeet
+00150,L1CB,N/A,Interferonit,L1C,Immunostimulantit
+00151,N04BC05,pramipexole,Pramipeksoli,N2FB,Dopaminergiset lääkkeet
+00152,J01DH02,meropenem,Meropeneemi,J1ACF,Karbapeneemit
+00153,D1AA,N/A,Miedot (ryhmä I),D1A,Iholle käytettävät kortikosteroidit
+00154,A11CC03,alfacalcidol,Alfakalsidoli,A3AA,D-vitamiinit
+00155,L04AD02,tacrolimus,Takrolimuusi,L1DD,Kalsineuriinin estäjät
+00156,D01AC01,clotrimazole,Klotrimatsoli,D1BA,Paikalliset sienilääkkeet
+00157,H1DB,N/A,Tyreostaatit,H1D,Kilpirauhasen toiminnan häiriöiden hoito
+00158,R1EB,N/A,Limaa irrottavat,R1E,Yskänlääkkeet
+00159,L02BG03,anastrozole,Anastrotsoli,L1BC,Aromataasin estäjät
+00160,M01AB05,diclofenac,Diklofenaakki,M1A,Tulehduskipulääkkeet
+00161,N01BB51,"bupivacaine, combinations","Bupivakaiini, yhdistelmävalmisteet",N1B,Paikallispuudutteet
+00162,C01BB02,mexiletine,Meksiletiini,C1BB,Ryhmä 1B
+00163,L04AA25,ATCDDD N/A,Try again,,
+00164,D02AE01,carbamide,Karbamidi,D1F,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito"
+00165,V09B,SKELETON,Luusto,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+00166,404,,,,
+00167,R05CB03,carbocisteine,Karbosisteiini,R1EB,Limaa irrottavat
+00168,404,,,,
+00169,L03AX16,plerixafor,Pleriksafori,L1CD,Muut immunostimulantit
+00170,404,,,,
+00171,A1DD,N/A,Peräruiskeet,A1D,Ulostuslääkkeet
+00172,N06AX12,bupropion,Bupropioni,N2JA,Nikotiiniriippuvuuden hoito
+00173,V03AF02,dexrazoxane,Deksratsoksaani,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+00174,N07BA01,nicotine,Nikotiini,N2JA,Nikotiiniriippuvuuden hoito
+00175,L04AA04,antithymocyte immunoglobulin (rabbit),Antitymosyytti-immunoglobuliini,L1DA,Selektiiviset immunosuppressantit
+00176,N03AX09,lamotrigine,Lamotrigiini,N2EE,Muut epilepsialääkkeet
+00177,C03EA01,hydrochlorothiazide and potassium-sparing agents,Hydroklooritiatsidi ja kaliumia säästävät diureetit,C1CD,Kaliumia säästävien ja muiden diureettien yhdistelmät
+00178,J01EE01,sulfamethoxazole and trimethoprim,Sulfametoksatsoli ja trimetopriimi,J1ADA,Sulfonamidin ja trimetopriimin yhdistelmät
+00179,404,,,,
+00180,L1AEC,N/A,Fotodynaamisessa/säteilyhoidossa käytettävät herkistäjät,L1A,Syöpälääkkeet
+00181,B05AA05,dextran,Dekstraani,B2A,"Veren korvikkeet, infuusionesteet"
+00182,N1AAC,N/A,Opioidianesteetit,N1AA,Yleisanesteetit
+00183,M05BX03,strontium ranelate,Try again,,
+00184,L1BAB,N/A,Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet,L1BA,Hormonit
+00185,A09AB01,glutamic acid hydrochloride,Glutamiinihappo,A1H,Ruoansulatusentsyymit ja happovalmisteet
+00186,N05AG02,pimozide,Pimotsidi,N2AA,Perinteiset psykoosilääkkeet
+00187,N05AX13,paliperidone,Paliperidoni,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+00188,C09DA01,losartan and diuretics,Losartaani ja diureetit,C1KA,AT-reseptorin salpaaja ja diureetti
+00189,A10BH02,vildagliptin,Vildagliptiini,A2BE,DPP-4:n estäjät (gliptiinit)
+00190,J2BC,N/A,Rokotteiden yhdistelmävalmisteet,J2B,Rokotteet
+00191,R06AX13,loratadine,Loratadiini,R1CA,Väsyttämättömät antihistamiinit
+00192,S01GX02,levocabastine,Levokabastiini,S1FB,Allergialääkkeet
+00193,A11DA01,thiamine (vit B1),Tiamiini (B1-vitamiini),A3AB,"B-vitamiinit, myös yhdistelmävalmisteet"
+00194,C1BC,N/A,Ryhmä 1C,C1B,Rytmihäiriölääkkeet
+00195,G04CA02,tamsulosin,Tamsulosiini,G1DCA,Alfareseptoreiden salpaajat
+00196,L01BB05,fludarabine,Fludarabiini,L1ABB,Puriinianalogit
+00197,D07BC01,betamethasone and antiseptics,Beetametasoni ja antiseptit,D1AEC,Vahvojen kortikosteroidien yhdistelmät
+00198,L01BC01,cytarabine,Sytarabiini,L1ABC,Pyrimidiinianalogit
+00199,N3CA,N/A,Triptaanit (5-HT1-reseptoriagonistit),N3C,Migreenilääkkeet (spesifiset)
+00200,A10BD03,metformin and rosiglitazone,Try again,,
+00201,N2ED,N/A,Rasvahappojohdokset,N2E,Epilepsialääkkeet
+00202,C09BB05,ramipril and felodipine,Ramipriili ja felodipiini,C1HB,ACE:n estäjä ja kalsiumkanavan salpaaja
+00203,G03FA12,medroxyprogesterone and estrogen,Medroksiprogesteroni ja estrogeeni,G2AFA,Kiinteät yhdistelmät
+00204,P01BA01,chloroquine,Klorokiini,P1AB,Malarialääkkeet
+00205,G03GA05,follitropin alfa,Follitropiini alfa,G2AG,Ovulaation stimuloijat
+00206,S01EA05,brimonidine,Brimonidiini,S1DA,Sympatomimeetit
+00207,A06AG10,"docusate sodium, incl. combinations",Natriumdokusaatti ja natriumdokusaattia sisältävät yhdistelmävalmisteet,A1DD,Peräruiskeet
+00208,C03CA01,furosemide,Furosemidi,C1CB,Loop-diureetit
+00209,J07BL01,"yellow fever, live attenuated","Keltakuumerokote, elävä heikennetty virus",J2BBJ,Keltakuume
+00210,D02AE51,"carbamide, combinations","Karbamidi, yhdistelmävalmisteet",D1F,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito"
+00211,S01FA06,tropicamide,Tropikamidi,S1EA,Antikolinergit
+00212,C05AA08,fluocortolone,Fluokortoloni,C1R,Peräpukamien ja peräaukon haavaumien hoito
+00213,C03CA02,bumetanide,Bumetanidi,C1CB,Loop-diureetit
+00214,M02AA15,diclofenac,Diklofenaakki,M1DA,Paikalliset tulehduskipulääkkeet
+00215,A02BC04,rabeprazole,Rabepratsoli,A1AD,Protonipumpun estäjät
+00216,A10BX02,repaglinide,Repaglinidi,A2BG,Glinidit
+00217,D1AE,N/A,Kortikosteroidien ja antiseptien/antibioottien yhdistelmät,D1A,Iholle käytettävät kortikosteroidit
+00218,G2AA,N/A,Hormonaaliset ehkäisyvalmisteet (systeeminen vaikutus),G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+00219,S1EB,N/A,Sympatomimeetit,S1E,Mydriaasin ja sykloplegian aiheuttavat lääkkeet
+00220,D10AF51,"clindamycin, combinations","Klindamysiini, yhdistelmävalmisteet",D1CAA,Mikrobilääkkeet
+00221,A1GC,N/A,"Suun paikallishoito, kortikosteroidit",A1G,Suun ja hampaiden hoito
+00222,J01FA10,azithromycin,Atsitromysiini,J1AE,Makrolidit
+00223,J07AL01,"pneumococcus, purified polysaccharides antigen",Pneumokokkipolysakkaridirokote,J2BAE,Pneumokokki
+00224,G03XB01,mifepristone,Mifepristoni,G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+00225,C07BB07,bisoprolol and thiazides,Bisoprololi ja tiatsidit,C1EA,Beetasalpaaja ja diureetti
+00226,M01AX01,nabumetone,Nabumetoni,M1A,Tulehduskipulääkkeet
+00227,N07AA51,"neostigmine, combinations","Neostigmiini, yhdistelmävalmisteet",N2L,Parasympatomimeetit
+00228,M03AC10,mivacurium chloride,Mivakuriumkloridi,M3AA,Anestesian yhteydessä käytettävät lihasrelaksantit
+00229,G03AC01,norethisterone,Noretisteroni,G2AAC,Progestageenit
+00230,G02CB04,quinagolide,Kinagolidi,G1CB,Prolaktiininestäjät
+00231,S01EE05,tafluprost,Tafluprosti,S1DE,Prostaglandiinianalogit
+00232,C09CA01,losartan,Losartaani,C1J,AT-reseptorin salpaajat
+00233,B01AA03,warfarin,Varfariini,B1AA,K-vitamiiniantagonistit
+00234,V01AA11,animals,Eläimet,V1,Allergeenit
+00235,D05AX03,calcitriol,Kalsitrioli,D1E,Psoriaasilääkkeet
+00236,B1AB,N/A,Verihiutaleiden estäjät,B1,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet
+00237,H1AA,N/A,Aivolisäkkeen etulohkon hormonit,H1A,Aivolisäkkeen ja hypotalamuksen hormonit
+00238,N07XX02,riluzole,Rilutsoli,N2M,Muut hermostoon vaikuttavat lääkkeet
+00239,J1ACF,N/A,Karbapeneemit,J1AC,Muut beetalaktaamirakenteiset bakteerilääkkeet
+00240,B05ZB,Hemofiltrates,Hemodialyysiliuokset ja hemofiltraatit,B2,Veren korvikkeet ja perfuusioliuokset
+00241,N2JA,N/A,Nikotiiniriippuvuuden hoito,N2J,Riippuvuuden hoitoon tarkoitetut lääkkeet
+00242,A01AA51,"sodium fluoride, combinations","Natriumfluoridi, yhdistelmävalmisteet",A1GA,Karieksen esto
+00243,M05BC01,dibotermin alfa,Dibotermiini alfa,M2C,Muut luukudokseen vaikuttavat lääkkeet
+00244,A07EB01,cromoglicic acid,Dinatriumkromoglikaatti,A1E,Ripulin ja suolistotulehdusten hoito
+00245,C01BD05,ibutilide,Ibutilidi,C1BE,Ryhmä 3 (repolarisaation pidentäjät)
+00246,N03AB02,phenytoin,Fenytoiini,N2EA,Hydantoiinijohdokset
+00247,G03AC03,levonorgestrel,Levonorgestreeli,G2AAC,Progestageenit
+00248,L1ABA,N/A,Foolihappoanalogit,L1AB,Antimetaboliitit
+00249,V08DA05,"sulfur hexafluoride, phospholipid microspheres",Rikkiheksafluoridi,V5D,Ultraäänikuvausaineet
+00250,S01ED01,timolol,Timololi,S1DD,"Beetasalpaajat, myös yhdistelmät"
+00251,P1,N/A,"Loisten häätö (alkueläimet, madot, syyhy)",N/A JSON API,N/A JSON API
+00252,S01CA01,dexamethasone and antiinfectives,Deksametasoni ja mikrobilääkkeet,S1CC,Kortikosteroidin ja mikrobilääkkeen yhdistelmät
+00253,D1J,N/A,Lääkesiteet,D1,Ihotautien lääkkeet
+00254,404,,,,
+00255,D07AB02,hydrocortisone butyrate,Hydrokortisonibutyraatti,D1AB,Keskivahvat (ryhmä II)
+00256,A06AD11,lactulose,Laktuloosi,A1DC,Osmoottiset ulostuslääkkeet
+00257,C03AA03,hydrochlorothiazide,Hydroklooritiatsidi,C1CA,Tiatsidit ja niiden kaltaiset diureetit
+00258,C1PA,N/A,Statiinit,C1P,Lipidilääkkeet
+00259,A16AA06,betaine,Betaiini,A1JA,Aminohapot
+00260,M02AA10,ketoprofen,Ketoprofeeni,M1DA,Paikalliset tulehduskipulääkkeet
+00261,R1FB,N/A,Surfaktantit,R1F,Muut hengitysteiden sairauksien lääkkeet
+00262,R01AD05,budesonide,Budesonidi,R1DB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00263,S1E,N/A,Mydriaasin ja sykloplegian aiheuttavat lääkkeet,S1,Silmätautien lääkkeet
+00264,S01ED02,betaxolol,Betaksololi,S1DD,"Beetasalpaajat, myös yhdistelmät"
+00265,404,,,,
+00266,A16AA04,mercaptamine,Merkaptamiini,A1JA,Aminohapot
+00267,D07AB08,desonide,Desonidi,D1AB,Keskivahvat (ryhmä II)
+00268,J01DH04,doripenem,Doripeneemi,J1ACF,Karbapeneemit
+00269,L1AEE,N/A,Muut syöpälääkkeet,L1A,Syöpälääkkeet
+00270,J07BM02,"papillomavirus (human types 16, 18)","Ihmisen papilloomavirus (tyyppi 16, 18) -rokote",J2BCA,Papillooma
+00271,C09AA04,perindopril,Perindopriili,C1G,ACE:n estäjät
+00272,N05BA02,chlordiazepoxide,Klooridiatsepoksidi,N2BA,Bentsodiatsepiinit
+00273,S01LA04,ranibizumab,Ranibitsumabi,S1K,Uudelleensuonittumisen estoon käytettävät lääkkeet
+00274,S01EC04,brinzolamide,Brintsolamidi,S1DC,Hiilihappoanhydraasin estäjät
+00275,R03AC12,salmeterol,Salmeteroli,R1AB,Pitkävaikutteiset beeta-2-agonistit (LABA)
+00276,L1,N/A,Syöpälääkkeet ja immuunivasteen muuntajat,N/A JSON API,N/A JSON API
+00277,J07BH01,"rota virus, live attenuated","Rotavirus, elävä heikennetty virus",J2BBG,Rotavirus
+00278,R01AD09,mometasone,Mometasoni,R1DB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00279,404,,,,
+00280,L01DC01,bleomycin,Bleomysiini,L1AD,Sytotoksiset antibiootit
+00281,C07AB09,esmolol,Esmololi,C1BDA,Selektiiviset beetasalpaajat
+00282,G2A,N/A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet,H1,Hormonit (paitsi insuliinit) ja ehkäisy
+00283,L02BA02,toremifene,Toremifeeni,L1BBA,Antiestrogeenit
+00284,G03XC01,raloxifene,Raloksifeeni,G2AD,Estrogeenit ja estrogeenireseptorin muuntelijat
+00285,J07AN01,"tuberculosis, live attenuated","Tuberkuloosirokote, elävä heikennetty",J2BAG,Tuberkuloosi/BCG
+00286,C03DA04,eplerenone,Eplerenoni,C1CCA,Aldosteroniantagonistit
+00287,404,,,,
+00288,S01AA13,fusidic acid,Fusidiinihappo,S1A,Mikrobilääkkeet
+00289,P1B,N/A,Matolääkkeet,P1,"Loisten häätö (alkueläimet, madot, syyhy)"
+00290,G1DA,N/A,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito),G1D,Virtsaelinten sairauksien lääkkeet
+00291,N07CA01,betahistine,Betahistiini,N2K,Huimauslääkkeet
+00292,404,,,,
+00293,R01AD12,fluticasone furoate,Flutikasonifuroaatti,R1DB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00294,A16AA05,carglumic acid,Karglumiinihappo,A1JA,Aminohapot
+00295,J01DH03,ertapenem,Ertapeneemi,J1ACF,Karbapeneemit
+00296,404,,,,
+00297,404,,,,
+00298,S1DD,N/A,"Beetasalpaajat, myös yhdistelmät",S1D,Glaukoomalääkkeet
+00299,D05BA02,methoxsalen,Metoksaleeni,D1E,Psoriaasilääkkeet
+00300,404,,,,
+00301,M01AB15,ketorolac,Ketorolaakki,M1A,Tulehduskipulääkkeet
+00302,J1DD,N/A,Muut HIV-lääkkeet,J1DC,HIV-lääkkeet
+00303,R06AE07,cetirizine,Setiritsiini,R1CA,Väsyttämättömät antihistamiinit
+00304,D1F,N/A,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito",D1,Ihotautien lääkkeet
+00305,H1,N/A,Hormonit (paitsi insuliinit) ja ehkäisy,N/A JSON API,N/A JSON API
+00306,J05AR03,tenofovir disoproxil and emtricitabine,Tenofoviiridisoproksiili ja emtrisitabiini,J1DCD,HIV-lääkkeiden yhdistelmät
+00307,H01CB03,lanreotide,Lanreotidi,H1ACC,Somatostatiinin analogit
+00308,N2CB,N/A,Bentsodiatsepiinien kaltaiset unilääkkeet,N2C,Unilääkkeet
+00309,S01GX06,emedastine,Emedastiini,S1FB,Allergialääkkeet
+00310,M03AC09,rocuronium bromide,Rokuroniumbromidi,M3AA,Anestesian yhteydessä käytettävät lihasrelaksantit
+00311,L01AX03,temozolomide,Temotsolomidi,L1AA,Alkyloivat aineet
+00312,V10B,PAIN PALLIATION (BONE SEEKING AGENTS),Kipua lievittävät (luustoon hakeutuvat) valmisteet,V6B,Terapeuttiset radioaktiiviset lääkevalmisteet
+00313,R03BA02,budesonide,Budesonidi,R1AE,Glukokortikoidit (ICS)
+00314,D09AB01,zinc bandage without supplements,Sinkkiside ilman muita lääkeaineita,D1J,Lääkesiteet
+00315,L03AB05,interferon alfa-2b,Interferonialfa-2b,L1CB,Interferonit
+00316,M01AE51,"ibuprofen, combinations","Ibuprofeeni, yhdistelmävalmisteet",M1A,Tulehduskipulääkkeet
+00317,M3A,N/A,Perifeeriset lihasrelaksantit,M3,Lihasrelaksantit
+00318,J07CA02,diphtheria-pertussis-poliomyelitis-tetanus,"Kurkkumätä-, hinkuyskä-, polio-, jäykkäkouristusrokote",J2BC,Rokotteiden yhdistelmävalmisteet
+00319,404,,,,
+00320,C1R,N/A,Peräpukamien ja peräaukon haavaumien hoito,A1,Ruoansulatuskanavan lääkkeet
+00321,N06AA12,doxepin,Doksepiini,N2DA,Tri- ja tetrasykliset masennuslääkkeet
+00322,V09I,TUMOUR DETECTION,Kasvainten diagnosointi,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+00323,C09DB01,valsartan and amlodipine,Valsartaani ja amlodipiini,C1KB,AT-reseptorin salpaaja ja kalsiumkanavan salpaaja
+00324,N06AX17,milnacipran,Milnasipraani,N2DF,Serotoniinin ja noradrenaliinin takaisinoton estäjät (SNRI)
+00325,R03DX05,omalizumab,Omalitsumabi,D1HD,Muut ihotautilääkkeet
+00326,404,,,,
+00327,R05CB01,acetylcysteine,Asetyylikysteiini,R1EB,Limaa irrottavat
+00328,H03BB01,carbimazole,Karbimatsoli,H1DB,Tyreostaatit
+00329,404,,,,
+00330,C09BA06,quinapril and diuretics,Kinapriili ja diureetit,C1HA,ACE:n estäjä ja diureetti
+00331,J01DB05,cefadroxil,Kefadroksiili,J1ACA,Ensimmäisen polven kefalosporiinit
+00332,N04BC09,rotigotine,Rotigotiini,N2FB,Dopaminergiset lääkkeet
+00333,B02BD02,coagulation factor VIII,Hyytymistekijä VIII,B1BE,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit
+00334,D07AC01,betamethasone,Beetametasoni,D1AC,Vahvat (ryhmä III)
+00335,L03AA13,pegfilgrastim,Pegfilgrastiimi,L1CA,Kasvutekijät
+00336,N03AE01,clonazepam,Klonatsepaami,N2EB,Bentsodiatsepiinit
+00337,404,,,,
+00338,N1A,N/A,Anestesia-aineet,N1,Anestesia-aineet ja puudutteet
+00339,404,,,,
+00340,J1DCA,N/A,Proteaasin estäjät,J1DC,HIV-lääkkeet
+00341,D1AEC,N/A,Vahvojen kortikosteroidien yhdistelmät,D1AE,Kortikosteroidien ja antiseptien/antibioottien yhdistelmät
+00342,A08AB01,orlistat,Orlistaatti,A1F,Lihavuuslääkkeet
+00343,V03AF07,rasburicase,Rasburikaasi,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+00344,G03AA12,drospirenone and ethinylestradiol,Drospirenoni ja etinyyliestradioli,G2AAA,Progestageenin ja estrogeenin kiinteät yhdistelmät
+00345,N05CH01,melatonin,Melatoniini,N2CC,Muut unilääkkeet
+00346,C1BB,N/A,Ryhmä 1B,C1B,Rytmihäiriölääkkeet
+00347,J1C,N/A,Mykobakteerilääkkeet,N/A JSON API,N/A JSON API
+00348,L01AD02,lomustine,Lomustiini,L1AA,Alkyloivat aineet
+00349,R1CB,N/A,Muut antihistamiinit,R1C,Antihistamiinit
+00350,C05BA01,organo-heparinoid,Organoheparinoidit,B1AFA,Hepariinit
+00351,J01GB06,amikacin,Amikasiini,J1AG,Aminoglykosidit
+00352,L04AB06,golimumab,Golimumabi,L1DB,TNF-alfan estäjät
+00353,A02BD07,"lansoprazole, amoxicillin and clarithromycin","Lansopratsoli, amoksisilliini ja klaritromysiini",A1AE,Helikobakteerin häätöön tarkoitetut yhdistelmävalmisteet
+00354,G04BE01,alprostadil,Alprostadiili,G1DB,Erektiohäiriöiden hoitoon tarkoitetut lääkkeet
+00355,C1BF,N/A,Ryhmä 4 (kalsiumkanavan salpaajat),C1B,Rytmihäiriölääkkeet
+00356,A02BD02,"lansoprazole, tetracycline and metronidazole",Try again,,
+00357,J07CA06,diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus,"Kurkkumätä-, Haemophilus influenzae tyyppi b -, hinkuyskä-, polio-, jäykkäkouristusrokote",J2BC,Rokotteiden yhdistelmävalmisteet
+00358,S1FA,N/A,Sympatomimeetit,S1F,Silmien punoitusta ja allergiaoireita vähentävät lääkkeet
+00359,J05AE09,tipranavir,Tipranaviiri,J1DCA,Proteaasin estäjät
+00360,J01XA02,teicoplanin,Teikoplaniini,J1AK,Peptidoglykaanit
+00361,J05AX07,enfuvirtide,Enfuvirtidi,J1DD,Muut HIV-lääkkeet
+00362,A1JC,N/A,Muut aineenvaihduntasairauksien lääkkeet,A1J,"Aminohapot, entsyymit ja muut aineenvaihduntasairauksien lääkkeet"
+00363,404,,,,
+00364,A1DE,N/A,Suolistossa vaikuttavat opioidiantagonistit,A1D,Ulostuslääkkeet
+00365,G03CA04,estriol,Estrioli,G2AD,Estrogeenit ja estrogeenireseptorin muuntelijat
+00366,V03AF08,palifermin,Palifermiini,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+00367,404,,,,
+00368,D05AX02,calcipotriol,Kalsipotrioli,D1E,Psoriaasilääkkeet
+00369,P01AB01,metronidazole,Metronidatsoli,P1AA,Amebiaasilääkkeet
+00370,M01CB01,sodium aurothiomalate,Natriumaurotiomalaatti,L2AA,Kulta
+00371,J2BAH,N/A,Lavantauti,J2BA,Bakteerirokotteet
+00372,A02BA53,"famotidine, combinations","Famotidiini, yhdistelmävalmisteet",A1AB,H2-reseptorisalpaajat
+00373,B02BD07,coagulation factor XIII,Hyytymistekijä XIII,B1BE,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit
+00374,N1AAA,N/A,Halogenoidut hiilivedyt,N1AA,Yleisanesteetit
+00375,N2BA,N/A,Bentsodiatsepiinit,N2B,Rauhoittavat lääkkeet
+00376,J07BD52,"measles, combinations with mumps and rubella, live attenuated","Tuhkarokko-sikotauti-vihurirokkorokote, elävä heikennetty virus",J2BBD,Tuhkarokko
+00377,A2AB,N/A,Pitkävaikutteiset,A2A,Insuliinit
+00378,404,,,,
+00379,V6A,N/A,Diagnostiset radioaktiiviset lääkevalmisteet,V6,Radioaktiiviset lääkevalmisteet
+00380,404,,,,
+00381,404,,,,
+00382,R01BA01,phenylpropanolamine,Fenyylipropanoliamiini,R1DE,Systeemisesti käytettävät nenän tukkoisuutta vähentävät lääkkeet
+00383,D11AX10,finasteride,Finasteridi,D1HD,Muut ihotautilääkkeet
+00384,D01AE15,terbinafine,Terbinafiini,D1BA,Paikalliset sienilääkkeet
+00385,V5C,N/A,MRI-kuvausaineet,V5,Varjoaineet
+00386,N03AX17,stiripentol,Stiripentoli,N2EE,Muut epilepsialääkkeet
+00387,J01AA07,tetracycline,Tetrasykliini,J1AA,Tetrasykliinit
+00388,G04BD11,fesoterodine,Fesoterodiini,G1DA,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito)
+00389,D01AE16,amorolfine,Amorolfiini,D1BA,Paikalliset sienilääkkeet
+00390,N05AA02,levomepromazine,Levomepromatsiini,N2AAA,Fentiatsiinit
+00391,D07AB01,clobetasone,Klobetasoni,D1AB,Keskivahvat (ryhmä II)
+00392,R01AX10,various,Natriumkloridi,R1DD,Muut nenään paikallisesti käytettävät aineet
+00393,N03AX15,zonisamide,Tsonisamidi,N2EE,Muut epilepsialääkkeet
+00394,A02BB01,misoprostol,Misoprostoli,A1AC,Prostaglandiinianalogit
+00395,J01CF02,cloxacillin,Kloksasilliini,J1ABC,Beetalaktamaasiresistentit penisilliinit
+00396,A02AA04,magnesium hydroxide,Magnesiumhydroksidi,A1AA,Antasidit
+00397,G03GA08,choriogonadotropin alfa,Koriongonadotropiini alfa,G2AG,Ovulaation stimuloijat
+00398,N07AA03,distigmine,Distigmiini,N2L,Parasympatomimeetit
+00399,R05CB06,ambroxol,Ambroksoli,R1EB,Limaa irrottavat
+00400,N03AX18,lacosamide,Lakosamidi,N2EE,Muut epilepsialääkkeet
+00401,A07DA03,loperamide,Loperamidi,A1ED,Suolen motiliteettia vähentävät lääkkeet  (opioidijohdokset)
+00402,C09XA02,aliskiren,Aliskireeni,C1L,Reniininestäjät
+00403,L02BX02,degarelix,Degareliksi,L1BBC,Muut hormoniantagonistit
+00404,A01AB11,various,Jodi,A1GB,"Suun paikallishoito, mikrobilääkkeet"
+00405,404,,,,
+00406,S02CA02,flumetasone and antiinfectives,Flumetasoni ja mikrobilääkkeet,S2,Korvatautien lääkkeet
+00407,V03AB27,4-dimethylaminophenol,4-dimetyyliaminofenoli,V2A,Myrkytysten antidootit
+00408,L1DE,N/A,S1P-reseptorin modulaattorit,L1D,Immunosuppressantit
+00409,V04CX,Other diagnostic agents,Muut diagnostiset aineet,V3,Diagnostiset aineet
+00410,J01EE02,sulfadiazine and trimethoprim,Sulfadiatsiini ja trimetopriimi,J1ADA,Sulfonamidin ja trimetopriimin yhdistelmät
+00411,J01XX08,linezolid,Linetsolidi,J1AL,Muut bakteerilääkkeet
+00412,404,,,,
+00413,N06AB06,sertraline,Sertraliini,N2DB,Selektiiviset serotoniinin takaisinoton estäjät (SSRI)
+00414,L01DB06,idarubicin,Idarubisiini,L1AD,Sytotoksiset antibiootit
+00415,N01AX14,esketamine,Esketamiini,N1AAD,Muut yleisanesteetit
+00416,S01FA01,atropine,Atropiini,S1EA,Antikolinergit
+00417,J06BA02,"immunoglobulins, normal human, for intravascular adm.","Immunoglobuliini, iv",J2A,Immunoseerumit ja immunoglobuliinit
+00418,R06AX27,desloratadine,Desloratadiini,R1CA,Väsyttämättömät antihistamiinit
+00419,B1AA,N/A,K-vitamiiniantagonistit,B1AF,Antikoagulantit
+00420,M2C,N/A,Muut luukudokseen vaikuttavat lääkkeet,M2,Luukudokseen vaikuttavat lääkkeet
+00421,A10BH03,saxagliptin,Saksagliptiini,A2BE,DPP-4:n estäjät (gliptiinit)
+00422,404,,,,
+00423,G2AFB,N/A,Sekventiaalivalmisteet,G2AF,Progestageenien ja estrogeenien yhdistelmävalmisteet
+00424,C09CA07,telmisartan,Telmisartaani,C1J,AT-reseptorin salpaajat
+00425,D07CA01,hydrocortisone and antibiotics,Hydrokortisoni ja antibiootit,D1AEA,Mietojen kortikosteroidien yhdistelmät
+00426,G02CB01,bromocriptine,Bromokriptiini,G1CB,Prolaktiininestäjät
+00427,B1B,N/A,Hyytymistä edistävät lääkkeet,B1,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet
+00428,R05CB13,dornase alfa (desoxyribonuclease),Dornaasialfa (desoksyribonukleaasi),R1L,Kystisen fibroosin lääkkeet
+00429,A10BD08,metformin and vildagliptin,Metformiini ja vildagliptiini,A2BB,Oraalisten diabeteslääkkeiden yhdistelmävalmisteet
+00430,L02BA01,tamoxifen,Tamoksifeeni,L1BBA,Antiestrogeenit
+00431,H1F,N/A,Kalsiumtasapainoa säätelevät lääkkeet,H1,Hormonit (paitsi insuliinit) ja ehkäisy
+00432,V08CA05,mangafodipir,Mangafodipiiri,V5C,MRI-kuvausaineet
+00433,J05AR04,"zidovudine, lamivudine and abacavir","Tsidovudiini, lamivudiini ja abakaviiri",J1DCD,HIV-lääkkeiden yhdistelmät
+00434,R03AK07,formoterol and budesonide,Formoteroli ja budesonidi,R1AD,Pitkävaikutteinen beeta-2-agonisti ja glukokortikoidi
+00435,B1BB,N/A,K-vitamiini (fytomenadioni),A3A,Vitamiinit
+00436,J07AP01,"typhoid, oral, live attenuated","Oraalinen lavantautirokote, elävä heikennetty",J2BAH,Lavantauti
+00437,N03AG04,vigabatrin,Vigabatriini,N2ED,Rasvahappojohdokset
+00438,N2,N/A,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",N/A JSON API,N/A JSON API
+00439,N1AAB,N/A,Barbituraatit,N1AA,Yleisanesteetit
+00440,L01AA03,melphalan,Melfalaani,L1AA,Alkyloivat aineet
+00441,R1E,N/A,Yskänlääkkeet,R1,"Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)"
+00442,B01AC04,clopidogrel,Klopidogreeli,B1ABD,ADP-reseptorin salpaajat
+00443,N02AX02,tramadol,Tramadoli,N3BA,"Heikot opioidit, osittaiset agonistit"
+00444,N3BB,N/A,Vahvat opioidit,N3B,Opioidit
+00445,G2AC,N/A,Androgeenit,G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+00446,C01BA01,quinidine,Kinidiini,C1BA,Ryhmä 1A
+00447,N02CC03,zolmitriptan,Tsolmitriptaani,N3CA,Triptaanit (5-HT1-reseptoriagonistit)
+00448,A1D,N/A,Ulostuslääkkeet,A1,Ruoansulatuskanavan lääkkeet
+00449,S01BA04,prednisolone,Prednisoloni,S1CA,Kortikosteroidit
+00450,N01BB03,mepivacaine,Mepivakaiini,N1B,Paikallispuudutteet
+00451,L1AEA,N/A,Platinayhdisteet,L1A,Syöpälääkkeet
+00452,J01DC04,cefaclor,Kefaklori,J1ACB,Toisen polven kefalosporiinit
+00453,V03AB23,acetylcysteine,Asetyylikysteiini,V2A,Myrkytysten antidootit
+00454,V03AF04,calcium levofolinate,Kalsiumlevofolinaatti,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+00455,404,,,,
+00456,V03AC03,deferasirox,Deferasiroksi,V2B,Rautaa kelatoivat aineet
+00457,D05AX52,"calcipotriol, combinations",Kalsipotriolin ja steroidin yhdistelmävalmisteet,D1E,Psoriaasilääkkeet
+00458,A1J,N/A,"Aminohapot, entsyymit ja muut aineenvaihduntasairauksien lääkkeet",N/A JSON API,N/A JSON API
+00459,C01CA01,etilefrine,Etilefriini,C1AB,Inotrooppiset lääkkeet
+00460,L1CC,N/A,Interleukiinit,L1C,Immunostimulantit
+00461,A07DA53,"loperamide, combinations","Loperamidi, yhdistelmävalmisteet",A1ED,Suolen motiliteettia vähentävät lääkkeet  (opioidijohdokset)
+00462,B01AC06,acetylsalicylic acid,Asetyylisalisyylihappo,B1ABB,Asetyylisalisyylihappo ja sen yhdistelmät
+00463,N06AX03,mianserin,Mianseriini,N2DD,Muut masennuslääkkeet
+00464,C10AB05,fenofibrate,Fenofibraatti,C1PB,Fibraatit
+00465,A1DC,N/A,Osmoottiset ulostuslääkkeet,A1D,Ulostuslääkkeet
+00466,N06AG02,moclobemide,Moklobemidi,N2DC,Selektiiviset MAO:n estäjät
+00467,A1DA,N/A,Suolta stimuloivat ulostuslääkkeet,A1D,Ulostuslääkkeet
+00468,J05AH02,oseltamivir,Oseltamiviiri,J1DB,Influenssaviruslääkkeet
+00469,S01JA01,fluorescein,Fluoreseiini,S1H,Diagnostiset aineet
+00470,M05BA03,pamidronic acid,Pamidronaatti,M2A,Bisfosfonaatit
+00471,A10AE02,insulin (beef),Naudaninsuliini,A2AD,Ylipitkävaikutteiset
+00472,L1AC,N/A,Kasvialkaloidit ja muut luonnontuotteet,L1A,Syöpälääkkeet
+00473,G02BA03,plastic IUD with progestogen,Progesteronia sisältävä muovikierukka,G2AB,Paikallisesti käytettävät ehkäisimet
+00474,R01AA05,oxymetazoline,Oksimetatsoliini,R1DA,"Sympatomimeetit, myös yhdistelmät"
+00475,D10AF01,clindamycin,Klindamysiini,D1CAA,Mikrobilääkkeet
+00476,N01BA05,benzocaine,Bentsokaiini,N1B,Paikallispuudutteet
+00477,C08CA02,felodipine,Felodipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+00478,H1FA,N/A,Lisäkilpirauhasen hormonit ja analogit,H1F,Kalsiumtasapainoa säätelevät lääkkeet
+00479,D10AX03,azelaic acid,Atselaiinihappo,D1CAB,Muut kuin mikrobilääkkeet
+00480,J07BC20,combinations,Hepatiitti A ja B,J2BBC,Hepatiitti
+00481,404,,,,
+00482,B03XA02,darbepoetin alfa,Darbepoetiini alfa,B1CC,Muut anemialääkkeet
+00483,M01AB55,"diclofenac, combinations","Diklofenaakki, yhdistelmävalmisteet",M1A,Tulehduskipulääkkeet
+00484,404,,,,
+00485,V08CA11,gadofosveset,Gadofosveseetti,V5C,MRI-kuvausaineet
+00486,D1,N/A,Ihotautien lääkkeet,N/A JSON API,N/A JSON API
+00487,N07BB04,naltrexone,Naltreksoni,N2JB,Alkoholiriippuvuuden hoito
+00488,N2JC,N/A,Opioidiriippuvuuden hoito,N2J,Riippuvuuden hoitoon tarkoitetut lääkkeet
+00489,A11GA01,ascorbic acid (vit C),Askorbiinihappo (C-vitamiini),A3AC,C-vitamiinit
+00490,G1CA,N/A,Kohtua supistavat tai relaksoivat lääkeaineet,G1,Gynekologiset lääkkeet
+00491,J04AC01,isoniazid,Isoniatsidi,J1CA,Tuberkuloosilääkkeet
+00492,V03AF01,mesna,Mesna,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+00493,N01AH06,remifentanil,Remifentaniili,N1AAC,Opioidianesteetit
+00494,A11CC05,colecalciferol,Kolekalsiferoli (D3-vitamiini),A3AA,D-vitamiinit
+00495,V08AB03,ioxaglic acid,Joksagliinihappo,V5A,Jodia sisältävät varjoaineet
+00496,H01AC03,mecasermin,Mekasermiini,H1AA,Aivolisäkkeen etulohkon hormonit
+00497,A10AB06,insulin glulisine,Glulisinsuliini,A2AA,Pikavaikutteiset
+00498,C09BA15,zofenopril and diuretics,Tsofenopriili ja diureetit,C1HA,ACE:n estäjä ja diureetti
+00499,D06BB11,docosanol,Try again,,
+00500,J1AE,N/A,Makrolidit,J1A,Bakteerilääkkeet
+00501,S1DA,N/A,Sympatomimeetit,S1D,Glaukoomalääkkeet
+00502,B01AC16,eptifibatide,Eptifibatidi,B1ABC,Glykoproteiini IIb/IIIa -estäjät
+00503,J01CE02,phenoxymethylpenicillin,Fenoksimetyylipenisilliini,J1ABB,Beetalaktamaasiherkät penisilliinit
+00504,G03GA06,follitropin beta,Follitropiini beeta,G2AG,Ovulaation stimuloijat
+00505,N2DC,N/A,Selektiiviset MAO:n estäjät,N2D,Masennuslääkkeet
+00506,H02BX01,"methylprednisolone, combinations","Metyyliprednisoloni, yhdistelmävalmisteet",H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00507,C01CA24,epinephrine,Adrenaliini,C1AB,Inotrooppiset lääkkeet
+00508,C1A,N/A,"Sydänlääkkeet (mm. digitalis, inotroopit, nitraatit)",C1,Sydän- ja verenkiertoelimistön lääkkeet
+00509,J07BA02,"encephalitis, Japanese, inactivated, whole virus",Inaktivoitu Japanin aivotulehdus -rokote (koko virus),J2BBA,Enkefaliitti
+00510,M01AG02,tolfenamic acid,Tolfenaamihappo,M1A,Tulehduskipulääkkeet
+00511,J1ACA,N/A,Ensimmäisen polven kefalosporiinit,J1AC,Muut beetalaktaamirakenteiset bakteerilääkkeet
+00512,G03AA11,norgestimate and ethinylestradiol,Norgestimaatti ja etinyyliestradioli,G2AAA,Progestageenin ja estrogeenin kiinteät yhdistelmät
+00513,B01AC22,prasugrel,Prasugreeli,B1ABD,ADP-reseptorin salpaajat
+00514,J1ACD,N/A,Neljännen polven kefalosporiinit,J1AC,Muut beetalaktaamirakenteiset bakteerilääkkeet
+00515,V5B,N/A,Jodittomat varjoaineet,V5,Varjoaineet
+00516,A10BX01,guar gum,500,Check manually,
+00517,D10AE01,benzoyl peroxide,Bentsoyyliperoksidi,D1CAB,Muut kuin mikrobilääkkeet
+00518,A16AX06,miglustat,Miglustaatti,A1JC,Muut aineenvaihduntasairauksien lääkkeet
+00519,D05BB02,acitretin,Asitretiini,D1E,Psoriaasilääkkeet
+00520,N1B,N/A,Paikallispuudutteet,N1,Anestesia-aineet ja puudutteet
+00521,N2AA,N/A,Perinteiset psykoosilääkkeet,N2A,Psykoosilääkkeet
+00522,A01AB22,doxycycline,500,Check manually,
+00523,404,,,,
+00524,H1AC,N/A,Hypotalamuksen hormonit,H1A,Aivolisäkkeen ja hypotalamuksen hormonit
+00525,R03BC03,nedocromil,Nedokromiili,R1AG,Kromonit
+00526,N01AB07,desflurane,Desfluraani,N1AAA,Halogenoidut hiilivedyt
+00527,B05XA01,potassium chloride,Kaliumkloridi,B2DA,Elektrolyyttiliuokset ja aminohapot
+00528,L02BG06,exemestane,Eksemestaani,L1BC,Aromataasin estäjät
+00529,N2A,N/A,Psykoosilääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+00530,R1CA,N/A,Väsyttämättömät antihistamiinit,R1C,Antihistamiinit
+00531,C08DB01,diltiazem,Diltiatseemi,C1FB,Pääasiassa sydämeen vaikuttavat kalsiumkanavan salpaajat
+00532,G04BX01,magnesium hydroxide,Magnesiumhydroksidi,G1DF,Muut virtsaelinten sairauksien lääkkeet
+00533,C09BA02,enalapril and diuretics,Enalapriili ja diureetit,C1HA,ACE:n estäjä ja diureetti
+00534,A10AB01,insulin (human),Ihmisinsuliini,A2AE,Lyhytvaikutteiset
+00535,L01CD01,paclitaxel,Paklitakseli,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+00536,R03DA05,aminophylline,Aminofylliini,R1BC,Ksantiinijohdokset
+00537,N04BA02,levodopa and decarboxylase inhibitor,Levodopa ja dekarboksylaasin estäjä,N2FB,Dopaminergiset lääkkeet
+00538,D06AX04,neomycin,Neomysiini,D1DA,"Paikalliset antibiootit, kemoterapia"
+00539,J2BAB,N/A,Haemophilus influenzae b,J2BA,Bakteerirokotteet
+00540,A2BD,N/A,Glitatsonit (insuliininherkistäjät),A2B,Muut diabeteslääkkeet kuin insuliinit
+00541,J01GB03,gentamicin,Gentamisiini,J1AG,Aminoglykosidit
+00542,A16AB04,agalsidase beta,Agalsidaasibeeta,A1JB,Entsyymit
+00543,B03BA01,cyanocobalamin,Syanokobalamiini,B1CB,B-vitamiini ja foolihappo
+00544,J2BBJ,N/A,Keltakuume,J2BB,Virusrokotteet
+00545,A10AD04,insulin lispro,Lisproinsuliini,A2AC,Insuliinisekoitteet
+00546,J01DF01,aztreonam,Atstreonaami,J1ACE,Monobaktaamit
+00547,N05BA06,lorazepam,Loratsepaami,N2EB,Bentsodiatsepiinit
+00548,D01AC07,tioconazole,Tiokonatsoli,D1BA,Paikalliset sienilääkkeet
+00549,R03BA05,fluticasone,Flutikasoni,R1AE,Glukokortikoidit (ICS)
+00550,H1A,N/A,Aivolisäkkeen ja hypotalamuksen hormonit,H1,Hormonit (paitsi insuliinit) ja ehkäisy
+00551,C1FA,N/A,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat,C1F,Kalsiumkanavan salpaajat
+00552,C1BE,N/A,Ryhmä 3 (repolarisaation pidentäjät),C1B,Rytmihäiriölääkkeet
+00553,D07XC01,betamethasone,Beetametasoni ja salisyylihappo,D1AEC,Vahvojen kortikosteroidien yhdistelmät
+00554,V08CA08,gadobenic acid,Gadobeenihappo,V5C,MRI-kuvausaineet
+00555,S01GX05,lodoxamide,Lodoksamidi,S1FB,Allergialääkkeet
+00556,C07AG02,carvedilol,Karvediloli,C1DC,Alfa- ja beetareseptoreiden salpaajat
+00557,G03AC08,etonogestrel,Etonogestreeli,G2AAC,Progestageenit
+00558,N04BC04,ropinirole,Ropiniroli,N2FB,Dopaminergiset lääkkeet
+00559,D1AEB,N/A,Keskivahvojen kortikosteroidien yhdistelmät,D1AE,Kortikosteroidien ja antiseptien/antibioottien yhdistelmät
+00560,V08CA01,gadopentetic acid,Gadopenteettihappo,V5C,MRI-kuvausaineet
+00561,L01BC04,carmofur,Karmofuuri,L1ABC,Pyrimidiinianalogit
+00562,V6BC,N/A,Muut terapeuttiset radioaktiiviset lääkevalmisteet,V6B,Terapeuttiset radioaktiiviset lääkevalmisteet
+00563,G03FB05,norethisterone and estrogen,Noretisteroni ja estrogeeni,G2AFB,Sekventiaalivalmisteet
+00564,J05AB11,valaciclovir,Valasikloviiri,J0AB,Herpes/sytomegalo/Ebstein-Barr -lääkkeet
+00565,N02AA03,hydromorphone,Hydromorfoni,N3BB,Vahvat opioidit
+00566,C07AB08,celiprolol,Seliprololi,C1BDA,Selektiiviset beetasalpaajat
+00567,B01AB04,dalteparin,Daltepariini,B1ABA,Pienimolekyyliset hepariinit (LMWH)
+00568,N05AF05,zuclopenthixol,Tsuklopentiksoli,N2AA,Perinteiset psykoosilääkkeet
+00569,L04AH02,everolimus,Everolimuusi,L1DA,Selektiiviset immunosuppressantit
+00570,R01AX06,mupirocin,Mupirosiini,R1DD,Muut nenään paikallisesti käytettävät aineet
+00571,L02AB02,medroxyprogesterone,Medroksiprogesteroni,L1BAA,Estrogeenit ja progestageenit
+00572,J06BB16,ATCDDD N/A,500,Check manually,
+00573,G1DB,N/A,Erektiohäiriöiden hoitoon tarkoitetut lääkkeet,G1D,Virtsaelinten sairauksien lääkkeet
+00574,P02CA01,mebendazole,Mebendatsoli,P1BA,Sukkulamatolääkkeet
+00575,D03BA02,collagenase,Kollagenaasi,D1F,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito"
+00576,C07BB02,metoprolol and thiazides,Metoprololi ja tiatsidit,C1EA,Beetasalpaaja ja diureetti
+00577,M05BA02,clodronic acid,Klodronaatti,M2A,Bisfosfonaatit
+00578,J01CF01,dicloxacillin,Dikloksasilliini,J1ABC,Beetalaktamaasiresistentit penisilliinit
+00579,G02AB01,methylergometrine,Metyyliergometriini,G1CA,Kohtua supistavat tai relaksoivat lääkeaineet
+00580,A12BA01,potassium chloride,Kaliumkloridi,A3BC,Kalium
+00581,P1A,N/A,Alkueläimiin vaikuttavat lääkkeet,P1,"Loisten häätö (alkueläimet, madot, syyhy)"
+00582,V3A,N/A,Tuberkuliinitesti,V3,Diagnostiset aineet
+00583,R01AC08,olopatadine,500,Check manually,
+00584,L04AH01,sirolimus,Sirolimuusi,L1DA,Selektiiviset immunosuppressantit
+00585,A3AA,N/A,D-vitamiinit,A3A,Vitamiinit
+00586,J05AG04,etravirine,Etraviriini,J1DCB,Käänteiskopioijaentsyymin estäjät
+00587,J01XX05,methenamine,Metenamiini,J1AL,Muut bakteerilääkkeet
+00588,A04AA03,tropisetron,Tropisetroni,A1CA,Serotoniiniantagonistit
+00589,H05AA03,parathyroid hormone,Lisäkilpirauhashormoni,H1FA,Lisäkilpirauhasen hormonit ja analogit
+00590,G01AF02,clotrimazole,Klotrimatsoli,G1A,Gynekologiset mikrobilääkkeet ja muu paikallishoito
+00591,A07EA02,hydrocortisone,Hydrokortisoni,A1EE,Paikalliset kortikosteroidit
+00592,C09CA04,irbesartan,Irbesartaani,C1J,AT-reseptorin salpaajat
+00593,A2B,N/A,Muut diabeteslääkkeet kuin insuliinit,A2,Diabeteslääkkeet
+00594,G01AF08,tioconazole,Tiokonatsoli,G1A,Gynekologiset mikrobilääkkeet ja muu paikallishoito
+00595,D11AX18,diclofenac,Diklofenaakki,D1HD,Muut ihotautilääkkeet
+00596,S01EE04,travoprost,Travoprosti,S1DE,Prostaglandiinianalogit
+00597,A11CC02,dihydrotachysterol,Dihydrotakysteroli,A3AA,D-vitamiinit
+00598,A03BB01,butylscopolamine,Butyyliskopolamiini,A1BA,Antikolinergit
+00599,A07BA01,medicinal charcoal,Lääkehiili,V2G,Muut myrkytysten hoidossa käytettävät lääkkeet.
+00600,C1EB,N/A,Beetasalpaaja ja muu verenpainelääke,C1E,Beetasalpaajien yhdistelmävalmisteet
+00601,G03AA13,norelgestromin and ethinylestradiol,Norelgestromiini ja etinyyliestradioli,G2AAA,Progestageenin ja estrogeenin kiinteät yhdistelmät
+00602,L01CA02,vincristine,Vinkristiini,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+00603,N2EE,N/A,Muut epilepsialääkkeet,N2E,Epilepsialääkkeet
+00604,J1AC,N/A,Muut beetalaktaamirakenteiset bakteerilääkkeet,J1A,Bakteerilääkkeet
+00605,N01AB08,sevoflurane,Sevofluraani,N1AAA,Halogenoidut hiilivedyt
+00606,C01DA02,glyceryl trinitrate,Glyseryylitrinitraatti,C1AC,Orgaaniset nitraatit
+00607,N06AX16,venlafaxine,Venlafaksiini,N2DF,Serotoniinin ja noradrenaliinin takaisinoton estäjät (SNRI)
+00608,J2A,N/A,Immunoseerumit ja immunoglobuliinit,J2,"Immunoseerumit, immunoglobuliinit, rokotteet"
+00609,C09DA07,telmisartan and diuretics,Telmisartaani ja diureetit,C1KA,AT-reseptorin salpaaja ja diureetti
+00610,N02CA52,"ergotamine, combinations excl. psycholeptics","Ergotamiini, yhdistelmävalmisteet",N3CB,Torajyväalkaloidit
+00611,D03AX03,dexpanthenol,Dekspantenoli,D1F,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito"
+00612,J06BA01,"immunoglobulins, normal human, for extravascular adm.","Immunoglobuliini, sc",J2A,Immunoseerumit ja immunoglobuliinit
+00613,N02CA01,dihydroergotamine,Dihydroergotamiini,N3CB,Torajyväalkaloidit
+00614,404,,,,
+00615,N02CC01,sumatriptan,Sumatriptaani,N3CA,Triptaanit (5-HT1-reseptoriagonistit)
+00616,J05AG01,nevirapine,Nevirapiini,J1DCB,Käänteiskopioijaentsyymin estäjät
+00617,H01CB02,octreotide,Oktreotidi,V2G,Muut myrkytysten hoidossa käytettävät lääkkeet.
+00618,N06AX05,trazodone,Tratsodoni,N2DD,Muut masennuslääkkeet
+00619,404,,,,
+00620,N06AA04,clomipramine,Klomipramiini,N2DA,Tri- ja tetrasykliset masennuslääkkeet
+00621,404,,,,
+00622,N2EB,N/A,Bentsodiatsepiinit,N2E,Epilepsialääkkeet
+00623,N01BB20,combinations,Yhdistelmävalmisteet,N1B,Paikallispuudutteet
+00624,404,,,,
+00625,R06AX18,acrivastine,Akrivastiini,R1CA,Väsyttämättömät antihistamiinit
+00626,B05XB02,alanyl glutamine,Alanyyliglutamiini,B2DA,Elektrolyyttiliuokset ja aminohapot
+00627,A16AX04,nitisinone,Nitisinoni,A1JC,Muut aineenvaihduntasairauksien lääkkeet
+00628,M04AC01,colchicine,Kolkisiini,M1K,Kihtilääkkeet
+00629,404,,,,
+00630,L04AC02,basiliximab,Basiliksimabi,L1DC,Interleukiinien estäjät
+00631,L01XX05,hydroxycarbamide,Hydroksikarbamidi,L1AEE,Muut syöpälääkkeet
+00632,P01BC02,mefloquine,Meflokiini,P1AB,Malarialääkkeet
+00633,V03AE04,calcium acetate and magnesium carbonate,Kalsiumasetaatti ja magnesiumkarbonaatti,V2C,Hyperkalemia- ja hyperfosfatemialääkkeet
+00634,A2,N/A,Diabeteslääkkeet,N/A JSON API,N/A JSON API
+00635,J05AF02,didanosine,Didanosiini,J1DCB,Käänteiskopioijaentsyymin estäjät
+00636,C01BC04,flecainide,Flekainidi,C1BC,Ryhmä 1C
+00637,H01BA02,desmopressin,Desmopressiini,H1AB,Aivolisäkkeen takalohkon hormonit
+00638,L03AB07,interferon beta-1a,Interferonibeeta-1a,L1CB,Interferonit
+00639,C1D,N/A,Beetasalpaajat,C1U,Verenpainelääkkeet
+00640,N01BB01,bupivacaine,Bupivakaiini,N1B,Paikallispuudutteet
+00641,J1AK,N/A,Peptidoglykaanit,J1A,Bakteerilääkkeet
+00642,J01XA01,vancomycin,Vankomysiini,J1AK,Peptidoglykaanit
+00643,J1A,N/A,Bakteerilääkkeet,N/A JSON API,N/A JSON API
+00644,C10AC01,colestyramine,Kolestyramiini,C1PC,Sappihappojen sitojat
+00645,A02BX02,sucralfate,Sukralfaatti,A1A,Liikahappoisuuden hoito
+00646,J01XX09,daptomycin,Daptomysiini,J1AL,Muut bakteerilääkkeet
+00647,404,,,,
+00648,G04BXXX,ATCDDD N/A,500,Check manually,
+00649,J06BB03,varicella/zoster immunoglobulin,Varicella zoster-immunoglobuliini,J2A,Immunoseerumit ja immunoglobuliinit
+00650,A06AD10,mineral salts in combination,500,Check manually,
+00651,G04CB01,finasteride,Finasteridi,G1DCB,Testosteroni-5-alfareduktaasin estäjät
+00652,404,,,,
+00653,H01AC01,somatropin,Somatropiini,H1AA,Aivolisäkkeen etulohkon hormonit
+00654,A3A,N/A,Vitamiinit,A3,Vitamiinit ja kivennäisaineet
+00655,L04AC07,tocilizumab,Tosilitsumabi,L1DC,Interleukiinien estäjät
+00656,B02BD08,coagulation factor VIIa,Hyytymistekijä VIIa,B1BE,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit
+00657,L01CX01,trabectedin,Trabektediini,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+00658,J2BBB,N/A,Influenssa,J2BB,Virusrokotteet
+00659,M3B,N/A,Keskushermostoon vaikuttavat lihasrelaksantit,M3,Lihasrelaksantit
+00660,D06BB06,penciclovir,Pensikloviiri,D1DB,Paikalliset viruslääkkeet
+00661,J05AE03,ritonavir,Ritonaviiri,J1DCA,Proteaasin estäjät
+00662,V03AB04,pralidoxime,Pralidoksiimi,V2A,Myrkytysten antidootit
+00663,C1KA,N/A,AT-reseptorin salpaaja ja diureetti,C1K,AT-reseptorin salpaajien yhdistelmävalmisteet
+00664,M05BA07,risedronic acid,Risedronaatti,M2A,Bisfosfonaatit
+00665,M03BC01,orphenadrine (citrate),Orfenadriini,M3B,Keskushermostoon vaikuttavat lihasrelaksantit
+00666,B02AA02,tranexamic acid,Traneksaamihappo,B1BA,Antifibrinolyyttiset lääkkeet
+00667,V2E,N/A,Sytostaattihoidon haittoja vähentävät lääkkeet,V2,"Myrkytysten, yliannostusten ym. hoito"
+00668,404,,,,
+00669,D1BB,N/A,Systeemisesti käytettävät sienilääkkeet,D1B,Sienilääkkeet
+00670,R01AD08,fluticasone,Flutikasoni,R1DB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00671,V03AC02,deferiprone,Deferiproni,V2B,Rautaa kelatoivat aineet
+00672,S1L,N/A,"Silmien kostutus, keratiitin hoito",S1,Silmätautien lääkkeet
+00673,R01AD11,triamcinolone,Triamsinoloni,R1DB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00674,C1KB,N/A,AT-reseptorin salpaaja ja kalsiumkanavan salpaaja,C1K,AT-reseptorin salpaajien yhdistelmävalmisteet
+00675,A07EC01,sulfasalazine,Sulfasalatsiini,A1EF,5-ASA ja sen johdokset
+00676,N04BC06,cabergoline,Kabergoliini,N2FB,Dopaminergiset lääkkeet
+00677,D08AE04,triclosan,Triklosaani,D1G,Antiseptit ja desinfektioaineet
+00678,A10BB07,glipizide,500,Check manually,
+00679,N06AX18,reboxetine,Reboksetiini,N2DD,Muut masennuslääkkeet
+00680,G03AB06,gestodene and ethinylestradiol,Gestodeeni ja etinyyliestradioli,G2AAB,Progestageenin  ja estrogeenin sekventiaalivalmisteet
+00681,S01EB09,acetylcholine,Asetyylikoliini,S1DB,Parasympatomimeetit
+00682,A06AG11,"sodium lauryl sulfoacetate, incl. combinations",Lauryylisulfaatti ja lauryylisulfaattia sisältävät yhdistelmävalmisteet,A1DD,Peräruiskeet
+00683,N06AB03,fluoxetine,Fluoksetiini,N2DB,Selektiiviset serotoniinin takaisinoton estäjät (SSRI)
+00684,N01BB54,"prilocaine, combinations","Prilokaiini, yhdistelmävalmisteet",N1B,Paikallispuudutteet
+00685,N06AA10,nortriptyline,Nortriptyliini,N2DA,Tri- ja tetrasykliset masennuslääkkeet
+00686,S01FA04,cyclopentolate,Syklopentolaatti,S1EA,Antikolinergit
+00687,B01AF01,rivaroxaban,Rivaroksabaani,B1AFB,Suorat hyytymistekijä X:n estäjät
+00688,N01BB09,ropivacaine,Ropivakaiini,N1B,Paikallispuudutteet
+00689,J1AL,N/A,Muut bakteerilääkkeet,J1A,Bakteerilääkkeet
+00690,M05BB04,"risedronic acid, calcium and colecalciferol, sequential","Risedronaatti, kalsium ja kolekalsiferoli",M2B,"Bisfosfonaatit,  yhdistelmävalmisteet"
+00691,N05AB02,fluphenazine,Flufenatsiini,N2AAA,Fentiatsiinit
+00692,L01BA04,pemetrexed,Pemetreksedi,L1ABA,Foolihappoanalogit
+00693,C09AA15,zofenopril,Tsofenopriili,C1G,ACE:n estäjät
+00694,N05AC01,periciazine,Perisiatsiini,N2AAA,Fentiatsiinit
+00695,N03AX10,felbamate,Felbamaatti,N2EE,Muut epilepsialääkkeet
+00696,J2BBD,N/A,Tuhkarokko,J2BB,Virusrokotteet
+00697,A10BG02,rosiglitazone,500,Check manually,
+00698,V08CA02,gadoteric acid,Gadoteerihappo,V5C,MRI-kuvausaineet
+00699,M01AX05,glucosamine,Glukosamiini,M1D,Muut TULES- ja kipulääkkeet
+00700,C10AX09,ezetimibe,Etsetimibi,C1PE,Muut lipidilääkkeet
+00701,C03XA01,tolvaptan,Tolvaptaani,G1DF,Muut virtsaelinten sairauksien lääkkeet
+00702,C1HA,N/A,ACE:n estäjä ja diureetti,C1H,ACE:n estäjien yhdistelmävalmisteet
+00703,L01XX11,estramustine,Estramustiini,L1AEE,Muut syöpälääkkeet
+00704,B1BA,N/A,Antifibrinolyyttiset lääkkeet,B1B,Hyytymistä edistävät lääkkeet
+00705,J05AR10,lopinavir and ritonavir,Lopinaviiri ja ritonaviiri,J1DCD,HIV-lääkkeiden yhdistelmät
+00706,M3AA,N/A,Anestesian yhteydessä käytettävät lihasrelaksantit,M3A,Perifeeriset lihasrelaksantit
+00707,D1G,N/A,Antiseptit ja desinfektioaineet,D1,Ihotautien lääkkeet
+00708,V03AF10,sodium levofolinate,Natriumlevofolinaatti,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+00709,N02AA05,oxycodone,"Oksikodoni, myös yhdistelmävalmisteet",N3BB,Vahvat opioidit
+00710,N3BA,N/A,"Heikot opioidit, osittaiset agonistit",N3B,Opioidit
+00711,C1BDB,N/A,Epäselektiiviset beetasalpaajat,C1D,Beetasalpaajat
+00712,404,,,,
+00713,V03AB22,amyl nitrite,500,Check manually,
+00714,M01AX25,chondroitin sulfate,Kondroitiinisulfaatti,M1D,Muut TULES- ja kipulääkkeet
+00715,M01AB01,indometacin,Indometasiini,M1A,Tulehduskipulääkkeet
+00716,404,,,,
+00717,404,,,,
+00718,404,,,,
+00719,C10AB02,bezafibrate,Betsafibraatti,C1PB,Fibraatit
+00720,A08AA10,sibutramine,500,Check manually,
+00721,B1BE,N/A,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit,B1B,Hyytymistä edistävät lääkkeet
+00722,B03BA03,hydroxocobalamin,Hydroksokobalamiini,B1CB,B-vitamiini ja foolihappo
+00723,M01AC02,tenoxicam,Tenoksikaami,M1A,Tulehduskipulääkkeet
+00724,B02BB01,"fibrinogen, human",Fibrinogeeni,B1B,Hyytymistä edistävät lääkkeet
+00725,A12AA04,calcium carbonate,Kalsiumkarbonaatti,A3BA,Kalsium
+00726,R01AC06,thonzylamine,500,Check manually,
+00727,404,,,,
+00728,A3BA,N/A,Kalsium,A3B,Kivennäisaineet
+00729,H05AA02,teriparatide,Teriparatidi,M2C,Muut luukudokseen vaikuttavat lääkkeet
+00730,C1PD,N/A,"Nikotiinihappo, sen johdokset ja yhdistelmävalmisteet",C1P,Lipidilääkkeet
+00731,L01DB02,daunorubicin,Daunorubisiini,L1AD,Sytotoksiset antibiootit
+00732,A2A,N/A,Insuliinit,A2,Diabeteslääkkeet
+00733,M05BB03,alendronic acid and colecalciferol,Alendronaatti ja kolekalsiferoli,M2B,"Bisfosfonaatit,  yhdistelmävalmisteet"
+00734,S01EE01,latanoprost,Latanoprosti,S1DE,Prostaglandiinianalogit
+00735,404,,,,
+00736,D08AC02,chlorhexidine,Klooriheksidiini ja sen yhdistelmävalmisteet,D1G,Antiseptit ja desinfektioaineet
+00737,A10AE04,insulin glargine,Glargininsuliini,A2AD,Ylipitkävaikutteiset
+00738,C01CA07,dobutamine,Dobutamiini,C1AB,Inotrooppiset lääkkeet
+00739,B03BA02,cyanocobalamin tannin complex,500,Check manually,
+00740,S1DE,N/A,Prostaglandiinianalogit,S1D,Glaukoomalääkkeet
+00741,L01XC06,ATCDDD N/A,500,Check manually,
+00742,C1PB,N/A,Fibraatit,C1P,Lipidilääkkeet
+00743,A1EF,N/A,5-ASA ja sen johdokset,A1E,Ripulin ja suolistotulehdusten hoito
+00744,V08CA04,gadoteridol,Gadoteridoli,V5C,MRI-kuvausaineet
+00745,B2C,N/A,Peritoneaalidialyysiliuokset,B2,Veren korvikkeet ja perfuusioliuokset
+00746,S01XA02,retinol,Retinoli,S1L,"Silmien kostutus, keratiitin hoito"
+00747,A02AD01,ordinary salt combinations,Tavanomaiset alumiini/kalsium/magnesiumyhdisteet,A1AA,Antasidit
+00748,C1PE,N/A,Muut lipidilääkkeet,C1P,Lipidilääkkeet
+00749,D1BA,N/A,Paikalliset sienilääkkeet,D1B,Sienilääkkeet
+00750,A10BD07,metformin and sitagliptin,Metformiini ja sitagliptiini,A2BB,Oraalisten diabeteslääkkeiden yhdistelmävalmisteet
+00751,404,,,,
+00752,N03AG01,valproic acid,Valproiinihappo,N2ED,Rasvahappojohdokset
+00753,S01AA01,chloramphenicol,Kloramfenikoli,S1A,Mikrobilääkkeet
+00754,A04AD12,aprepitant,Aprepitantti,A1CB,Substanssi P:n antagonistit
+00755,N06DX01,memantine,Memantiini,N2G,Alzheimerin taudin lääkkeet
+00756,N03AF03,rufinamide,Rufinamidi,N2EC,Karboksamidijohdokset
+00757,M1DA,N/A,Paikalliset tulehduskipulääkkeet,M1,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)"
+00758,G1DCB,N/A,Testosteroni-5-alfareduktaasin estäjät,G1DC,Eturauhasen hyvänlaatuisen liikakasvun lääkkeet
+00759,N06AB08,fluvoxamine,Fluvoksamiini,N2DB,Selektiiviset serotoniinin takaisinoton estäjät (SSRI)
+00760,N02CC05,almotriptan,Almotriptaani,N3CA,Triptaanit (5-HT1-reseptoriagonistit)
+00761,R03DC01,zafirlukast,Tsafirlukasti,R1BD,Leukotrieenireseptorin salpaajat
+00762,404,,,,
+00763,S1K,N/A,Uudelleensuonittumisen estoon käytettävät lääkkeet,S1,Silmätautien lääkkeet
+00764,L01AX04,dacarbazine,Dakarbatsiini,L1AA,Alkyloivat aineet
+00765,D08AG02,povidone-iodine,Jodi,D1G,Antiseptit ja desinfektioaineet
+00766,B02BD06,von Willebrand factor and coagulation factor VIII in combination,Von Willebrand-tekijän ja hyytymistekijä VIII:n yhdistelmävalmisteet,B1BE,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit
+00767,C09DA03,valsartan and diuretics,Valsartaani ja diureetit,C1KA,AT-reseptorin salpaaja ja diureetti
+00768,A03AX13,silicones,Silikonit,A1B,Suoliston toiminnallisten häiriöiden lääkkeet
+00769,404,,,,
+00770,L1BC,N/A,Aromataasin estäjät,L1B,Endokrinologiset lääkkeet
+00771,L1CD,N/A,Muut immunostimulantit,L1C,Immunostimulantit
+00772,C07AB02,metoprolol,Metoprololi,C1BDA,Selektiiviset beetasalpaajat
+00773,G02BB01,vaginal ring with progestogen and estrogen,Progestogeeniä ja estrogeeniä sisältävät emätinrenkaat,G2AB,Paikallisesti käytettävät ehkäisimet
+00774,B1CA,N/A,Rauta ja rauta-foolihappoyhdistelmät,B1C,Anemialääkkeet
+00775,L1DA,N/A,Selektiiviset immunosuppressantit,L1D,Immunosuppressantit
+00776,R03CA02,ephedrine,Efedriini,R1H,Keuhkoputkia avaavat lääkkeet
+00777,D1CB,N/A,Systeemisesti käytettävät aknelääkkeet,D1C,Aknelääkkeet
+00778,N2H,N/A,ADHD-lääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+00779,A12AX,"Calcium, combinations with vitamin D and/or other drugs",Kalsiumin yhdistelmävalmisteet,A3B,Kivennäisaineet
+00780,L02AE03,goserelin,Gosereliini,L1BAB,Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet
+00781,404,,,,
+00782,S01GX08,ketotifen,Ketotifeeni,S1FB,Allergialääkkeet
+00783,J1ABC,N/A,Beetalaktamaasiresistentit penisilliinit,J1AB,Penisilliinit
+00784,404,,,,
+00785,J2BBA,N/A,Enkefaliitti,J2BB,Virusrokotteet
+00786,D1A,N/A,Iholle käytettävät kortikosteroidit,D1,Ihotautien lääkkeet
+00787,B05XC,Vitamins,Vitamiinit,B2D,Infuusiokonsentraatit
+00788,S01LA03,pegaptanib,Pegaptanibi,S1K,Uudelleensuonittumisen estoon käytettävät lääkkeet
+00789,A06AH01,methylnaltrexone bromide,Metyylinaltreksonibromidi,A1DE,Suolistossa vaikuttavat opioidiantagonistit
+00790,J01AA04,lymecycline,Lymesykliini,J1AA,Tetrasykliinit
+00791,R1DD,N/A,Muut nenään paikallisesti käytettävät aineet,R1D,Nenän tukkoisuutta lievittävät paikallisvalmisteet
+00792,R06AX22,ebastine,Ebastiini,R1CA,Väsyttämättömät antihistamiinit
+00793,G04BD04,oxybutynin,Oksibutiniini,G1DA,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito)
+00794,A1G,N/A,Suun ja hampaiden hoito,A1,Ruoansulatuskanavan lääkkeet
+00795,G03CX01,tibolone,Tiboloni,G2AD,Estrogeenit ja estrogeenireseptorin muuntelijat
+00796,C08DA01,verapamil,Verapamiili,C1FB,Pääasiassa sydämeen vaikuttavat kalsiumkanavan salpaajat
+00797,H05BA01,calcitonin (salmon synthetic),Kalsitoniini (lohen synteettinen),M2C,Muut luukudokseen vaikuttavat lääkkeet
+00798,A07FA02,saccharomyces boulardii,Saccharomyces boulardii,A1EG,Mikro-organismit
+00799,C01BC03,propafenone,Propafenoni,C1BC,Ryhmä 1C
+00800,404,,,,
+00801,V09D,HEPATIC AND RETICULO ENDOTHELIAL SYSTEM,Maksa ja retukuloenditeliaalijärjestelmä,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+00802,B1ABB,N/A,Asetyylisalisyylihappo ja sen yhdistelmät,B1AB,Verihiutaleiden estäjät
+00803,G03GA04,urofollitropin,Urofollitropiini,G2AG,Ovulaation stimuloijat
+00804,R03DC03,montelukast,Montelukasti,R1BD,Leukotrieenireseptorin salpaajat
+00805,L1C,N/A,Immunostimulantit,L1,Syöpälääkkeet ja immuunivasteen muuntajat
+00806,C10AA01,simvastatin,Simvastatiini,C1PA,Statiinit
+00807,C02AC05,moxonidine,Moksonidiini,C1EF,Sentraalisesti vaikuttavat
+00808,J05AB14,valganciclovir,Valgansikloviiri,J0AB,Herpes/sytomegalo/Ebstein-Barr -lääkkeet
+00809,N06AX21,duloxetine,Duloksetiini,G1DA,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito)
+00810,J01CA08,pivmecillinam,Pivmesillinaami,J1AC,Muut beetalaktaamirakenteiset bakteerilääkkeet
+00811,A1JA,N/A,Aminohapot,A1J,"Aminohapot, entsyymit ja muut aineenvaihduntasairauksien lääkkeet"
+00812,D06BB10,imiquimod,Imikimodi,D1DB,Paikalliset viruslääkkeet
+00813,J02AC01,fluconazole,Flukonatsoli,D1BB,Systeemisesti käytettävät sienilääkkeet
+00814,D07AC13,mometasone,Mometasoni,D1AC,Vahvat (ryhmä III)
+00815,404,,,,
+00816,R1BD,N/A,Leukotrieenireseptorin salpaajat,R1G,Anti-inflammatoriset lääkkeet
+00817,C1DC,N/A,Alfa- ja beetareseptoreiden salpaajat,C1D,Beetasalpaajat
+00818,G03DA04,progesterone,Progesteroni,G2AE,Progestageenit (muu kuin raskauden ehkäisy)
+00819,B05XA30,combinations of electrolytes,Elektrolyyttiyhdistelmävalmisteet,B2DA,Elektrolyyttiliuokset ja aminohapot
+00820,N05BA01,diazepam,Diatsepaami,N2EB,Bentsodiatsepiinit
+00821,N07BC02,methadone,Metadoni,N3BB,Vahvat opioidit
+00822,C1C,N/A,Diureetit,C1U,Verenpainelääkkeet
+00823,404,,,,
+00824,L01CB01,etoposide,Etoposidi,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+00825,J02AC03,voriconazole,Vorikonatsoli,J1BA,Imidatsoli- ja triatsolijohdokset
+00826,R05DA01,ethylmorphine,Etyylimorfiini,R1EA,Yskänärsytystä hillitsevät
+00827,C02CA01,prazosin,Pratsosiini,C1EE,Alfasalpaajat
+00828,C05BB02,polidocanol,Polidokanoli (lauromakrogoli 400),C1QA,Sklerosoivat lääkeaineet
+00829,J1ADA,N/A,Sulfonamidin ja trimetopriimin yhdistelmät,J1AD,Sulfonamidit ja trimetopriimi
+00830,A06AG02,bisacodyl,Bisakodyyli,A1DD,Peräruiskeet
+00831,L1AA,N/A,Alkyloivat aineet,L1A,Syöpälääkkeet
+00832,404,,,,
+00833,L01XD03,methyl aminolevulinate,Metyyliaminolevulinaatti,D1DA,"Paikalliset antibiootit, kemoterapia"
+00834,C07AB03,atenolol,Atenololi,C1BDA,Selektiiviset beetasalpaajat
+00835,C1AB,N/A,Inotrooppiset lääkkeet,C1A,"Sydänlääkkeet (mm. digitalis, inotroopit, nitraatit)"
+00836,V03AB14,protamine,Protamiini,V2A,Myrkytysten antidootit
+00837,A07AA11,rifaximin,Rifaksimiini,A1EA,Suolistoantibiootit
+00838,C1CB,N/A,Loop-diureetit,C1C,Diureetit
+00839,N05BA12,alprazolam,Alpratsolaami,N2BA,Bentsodiatsepiinit
+00840,A02BC05,esomeprazole,Esomepratsoli,A1AD,Protonipumpun estäjät
+00841,L03AX13,glatiramer acetate,Glatirameeriasetaatti,L1CD,Muut immunostimulantit
+00842,B02BX04,romiplostim,Romiplostiimi,L1CAB,Verihiutalekasvutekijät
+00843,L1ABC,N/A,Pyrimidiinianalogit,L1AB,Antimetaboliitit
+00844,C1CD,N/A,Kaliumia säästävien ja muiden diureettien yhdistelmät,C1C,Diureetit
+00845,C05AE01,glyceryl trinitrate,Glyseryylitrinitraatti,C1R,Peräpukamien ja peräaukon haavaumien hoito
+00846,N03AA03,primidone,Primidoni,N2EE,Muut epilepsialääkkeet
+00847,A12AA06,calcium lactate gluconate,Kalsiumlaktaattiglukonaatti,A3BA,Kalsium
+00848,A10BG03,pioglitazone,Pioglitatsoni,A2BD,Glitatsonit (insuliininherkistäjät)
+00849,N2FB,N/A,Dopaminergiset lääkkeet,N2F,Parkinsonismilääkkeet
+00850,J05AF07,tenofovir disoproxil,Tenofoviiridisoproksiili,J1DCB,Käänteiskopioijaentsyymin estäjät
+00851,R1DA,N/A,"Sympatomimeetit, myös yhdistelmät",R1D,Nenän tukkoisuutta lievittävät paikallisvalmisteet
+00852,L04AX04,lenalidomide,Lenalidomidi,L1DX,Muut immunosuppressantit
+00853,G03GA02,human menopausal gonadotrophin,Menotropiini,G2AG,Ovulaation stimuloijat
+00854,S01BC03,diclofenac,Diklofenaakki,S1CB,Tulehduskipulääkkeet
+00855,N2E,N/A,Epilepsialääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+00856,C1EA,N/A,Beetasalpaaja ja diureetti,C1E,Beetasalpaajien yhdistelmävalmisteet
+00857,N05AD01,haloperidol,Haloperidoli,N2AA,Perinteiset psykoosilääkkeet
+00858,A07AA02,nystatin,Nystatiini,A1GB,"Suun paikallishoito, mikrobilääkkeet"
+00859,V08AB07,ioversol,Joversoli,V5A,Jodia sisältävät varjoaineet
+00860,M05BA08,zoledronic acid,Tsoledronihappo,M2A,Bisfosfonaatit
+00861,J06BB04,hepatitis B immunoglobulin,Hepatiitti-B-immunoglobuliini,J2A,Immunoseerumit ja immunoglobuliinit
+00862,C01BA03,disopyramide,Disopyramidi,C1BA,Ryhmä 1A
+00863,A1GA,N/A,Karieksen esto,A1G,Suun ja hampaiden hoito
+00864,J07BK01,"varicella, live attenuated","Vesirokkorokote, elävä heikennetty virus",J2BBH,Vesirokko ja vyöruusu
+00865,D11AC03,selenium compounds,Seleeniyhdisteet,D1HB,Lääkeshampoot (hilse; kaljuuntuminen)
+00866,R01AA07,xylometazoline,Ksylometatsoliini,R1DA,"Sympatomimeetit, myös yhdistelmät"
+00867,M03BC51,"orphenadrine, combinations","Orfenadriini, yhdistelmävalmisteet",M3B,Keskushermostoon vaikuttavat lihasrelaksantit
+00868,R05DA08,pholcodine,500,Check manually,
+00869,G03AA09,desogestrel and ethinylestradiol,Desogestreeli ja etinyyliestradioli,G2AAA,Progestageenin ja estrogeenin kiinteät yhdistelmät
+00870,404,,,,
+00871,A1AD,N/A,Protonipumpun estäjät,A1A,Liikahappoisuuden hoito
+00872,J02AX04,caspofungin,Kaspofungiini,J1BB,Systeemiset sienilääkkeet
+00873,L01XD04,aminolevulinic acid,Aminolevuliinihappo,D1DA,"Paikalliset antibiootit, kemoterapia"
+00874,S01ED51,"timolol, combinations","Timololi, yhdistelmävalmisteet",S1DD,"Beetasalpaajat, myös yhdistelmät"
+00875,N2AB,N/A,Uudemmat (epätyypilliset) psykoosilääkkeet,N2A,Psykoosilääkkeet
+00876,V03AB01,ipecacuanha,Ipekakuana,V2A,Myrkytysten antidootit
+00877,J04BA02,dapsone,Dapsoni,D1HD,Muut ihotautilääkkeet
+00878,N06CA01,amitriptyline and psycholeptics,Amitriptyliini ja muu psyykenlääke,N2DE,Masennuslääkkeen ja muun psyykenlääkkeen yhdistelmät
+00879,N05AX12,aripiprazole,Aripipratsoli,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+00880,L01DA01,dactinomycin,Daktinomysiini,L1AD,Sytotoksiset antibiootit
+00881,V01AA20,various,Muut allergeenit,V1,Allergeenit
+00882,N3D,N/A,Neuropaattisen kivun lääkkeet,M1,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)"
+00883,C1J,N/A,AT-reseptorin salpaajat,C1U,Verenpainelääkkeet
+00884,N07BA03,varenicline,Varenikliini,N2JA,Nikotiiniriippuvuuden hoito
+00885,A1F,N/A,Lihavuuslääkkeet,A1,Ruoansulatuskanavan lääkkeet
+00886,G1DCA,N/A,Alfareseptoreiden salpaajat,G1DC,Eturauhasen hyvänlaatuisen liikakasvun lääkkeet
+00887,404,,,,
+00888,B05BC01,mannitol,Mannitoli,B2BF,Osmoottiset diureetit
+00889,C1L,N/A,Reniininestäjät,C1U,Verenpainelääkkeet
+00890,R1BC,N/A,Ksantiinijohdokset,R1H,Keuhkoputkia avaavat lääkkeet
+00891,R03BA01,beclometasone,Beklometasoni,R1AE,Glukokortikoidit (ICS)
+00892,A10BH01,sitagliptin,Sitagliptiini,A2BE,DPP-4:n estäjät (gliptiinit)
+00893,L01CA01,vinblastine,Vinblastiini,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+00894,D1AEA,N/A,Mietojen kortikosteroidien yhdistelmät,D1AE,Kortikosteroidien ja antiseptien/antibioottien yhdistelmät
+00895,H1CB,N/A,"Glukokortikoidit, myös yhdistelmävalmisteet",H1C,Kortikosteroidit (systeeminen käyttö)
+00896,G03BA03,testosterone,Testosteroni,G2AC,Androgeenit
+00897,R01AC05,spaglumic acid,500,Check manually,
+00898,B02BD03,factor VIII inhibitor bypassing activity,Hyytymistekijä VIII:n vasta-aineen ohittava aine,B1BE,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit
+00899,G04CA01,alfuzosin,Alfutsosiini,G1DCA,Alfareseptoreiden salpaajat
+00900,D1C,N/A,Aknelääkkeet,D1,Ihotautien lääkkeet
+00901,C09AA03,lisinopril,Lisinopriili,C1G,ACE:n estäjät
+00902,404,,,,
+00903,J1DCB,N/A,Käänteiskopioijaentsyymin estäjät,J1DC,HIV-lääkkeet
+00904,J07AE01,"cholera, inactivated, whole cell",Inaktivoitu kolerarokote (koko solu),J2BAA,Kolera
+00905,404,,,,
+00906,P1AA,N/A,Amebiaasilääkkeet,P1A,Alkueläimiin vaikuttavat lääkkeet
+00907,J01CR02,amoxicillin and beta-lactamase inhibitor,Amoksisilliini ja beetalaktamaasin estäjä,J1ABD,Penisilliinien yhdistelmävalmisteet
+00908,N2FC,N/A,MAO-B:n estäjät,N2F,Parkinsonismilääkkeet
+00909,J07CA09,diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus-hepatitis B,"Kurkkumätä-, Hib -, hinkuyskä-, polio-, jäykkäkouristus-, hepatiitti B -rokote",J2BC,Rokotteiden yhdistelmävalmisteet
+00910,G03AA10,gestodene and ethinylestradiol,Gestodeeni ja etinyyliestradioli,G2AAA,Progestageenin ja estrogeenin kiinteät yhdistelmät
+00911,A01AB04,amphotericin B,Amfoterisiini,A1GB,"Suun paikallishoito, mikrobilääkkeet"
+00912,M01AH05,etoricoxib,Etorikoksibi,M1B,Koksibit
+00913,C1B,N/A,Rytmihäiriölääkkeet,C1,Sydän- ja verenkiertoelimistön lääkkeet
+00914,J2BBC,N/A,Hepatiitti,J2BB,Virusrokotteet
+00915,C1BD,N/A,Ryhmä 2 (beetasalpaajat),C1B,Rytmihäiriölääkkeet
+00916,H01CA02,nafarelin,Nafareliini,L1BAB,Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet
+00917,404,,,,
+00918,N2FA,N/A,Antikolinergit,N2F,Parkinsonismilääkkeet
+00919,R06AE03,cyclizine,Syklitsiini,A1C,Pahoinvointilääkkeet
+00920,L01DB01,doxorubicin,Doksorubisiini,L1AD,Sytotoksiset antibiootit
+00921,J1AG,N/A,Aminoglykosidit,J1A,Bakteerilääkkeet
+00922,A02BA03,famotidine,Famotidiini,A1AB,H2-reseptorisalpaajat
+00923,L1ABB,N/A,Puriinianalogit,L1AB,Antimetaboliitit
+00924,A2BC,N/A,Alfaglukosidaasin estäjät,A2B,Muut diabeteslääkkeet kuin insuliinit
+00925,N04BX01,tolcapone,Tolkaponi,N2FB,Dopaminergiset lääkkeet
+00926,V2C,N/A,Hyperkalemia- ja hyperfosfatemialääkkeet,V2,"Myrkytysten, yliannostusten ym. hoito"
+00927,L1BBB,N/A,Antiandrogeenit,L1BB,Hormoniantagonistit
+00928,R01AX03,ipratropium bromide,Ipratropiumbromidi,R1DD,Muut nenään paikallisesti käytettävät aineet
+00929,C10AB04,gemfibrozil,Gemfibrotsiili,C1PB,Fibraatit
+00930,C07AA05,propranolol,Propranololi,C1BDB,Epäselektiiviset beetasalpaajat
+00931,J07BF03,"poliomyelitis, trivalent, inactivated, whole virus","Inaktivoitu poliorokote, trivalentti (koko virus)",J2BBE,Polio
+00932,J02AA01,amphotericin B,Amfoterisiini,P1AC,Leishmaniaasi- ja trypanosomiaasilääkkeet
+00933,C1PF,N/A,Statiini ja muu lipidilääke,C1P,Lipidilääkkeet
+00934,L01DB03,epirubicin,Epirubisiini,L1AD,Sytotoksiset antibiootit
+00935,N05AA01,chlorpromazine,Klooripromatsiini,N2AAA,Fentiatsiinit
+00936,L01DB07,mitoxantrone,Mitoksantroni,L1AD,Sytotoksiset antibiootit
+00937,S1D,N/A,Glaukoomalääkkeet,S1,Silmätautien lääkkeet
+00938,L02AE02,leuprorelin,Leuproreliini,L1BAB,Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet
+00939,N01AX10,propofol,Propofoli,N1AAD,Muut yleisanesteetit
+00940,A16AB03,agalsidase alfa,Agalsidaasialfa,A1JB,Entsyymit
+00941,D01AC20,imidazoles/triazoles in combination with corticosteroids,Sienilääke ja kortikosteroidi,D1BA,Paikalliset sienilääkkeet
+00942,L01BB06,clofarabine,Klofarabiini,L1ABB,Puriinianalogit
+00943,M1D,N/A,Muut TULES- ja kipulääkkeet,M1,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)"
+00944,R1C,N/A,Antihistamiinit,R1,"Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)"
+00945,404,,,,
+00946,M01CB03,auranofin,Auranofiini,L2AA,Kulta
+00947,A1EE,N/A,Paikalliset kortikosteroidit,A1E,Ripulin ja suolistotulehdusten hoito
+00948,B05DB,Hypertonic solutions,Hypertoniset liuokset,B2C,Peritoneaalidialyysiliuokset
+00949,A10AB04,insulin lispro,Lisproinsuliini,A2AA,Pikavaikutteiset
+00950,G1D,N/A,Virtsaelinten sairauksien lääkkeet,N/A JSON API,N/A JSON API
+00951,D04AA04,tripelennamine,Tripelennamiini,D1HD,Muut ihotautilääkkeet
+00952,A1H,N/A,Ruoansulatusentsyymit ja happovalmisteet,A1,Ruoansulatuskanavan lääkkeet
+00953,M03BX01,baclofen,Baklofeeni,M3B,Keskushermostoon vaikuttavat lihasrelaksantit
+00954,P1ABC,N/A,"Proguaniili, yhdistelmävalmisteet",P1AB,Malarialääkkeet
+00955,A07EC03,olsalazine,500,Check manually,
+00956,L03AB04,interferon alfa-2a,Interferonialfa-2a,L1CB,Interferonit
+00957,H02AB09,hydrocortisone,Hydrokortisoni,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+00958,M01AE03,ketoprofen,Ketoprofeeni,M1A,Tulehduskipulääkkeet
+00959,R1AG,N/A,Kromonit,R1G,Anti-inflammatoriset lääkkeet
+00960,S01EC03,dorzolamide,Dortsolamidi,S1DC,Hiilihappoanhydraasin estäjät
+00961,C07AB05,betaxolol,Betaksololi,C1BDA,Selektiiviset beetasalpaajat
+00962,404,,,,
+00963,C01EB17,ivabradine,Ivabradiini,C1AD,Muut sydänlääkkeet
+00964,A1C,N/A,Pahoinvointilääkkeet,N/A JSON API,N/A JSON API
+00965,C08CA07,nisoldipine,Nisoldipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+00966,A11HA05,biotin,Biotiini,A3A,Vitamiinit
+00967,404,,,,
+00968,S01GX09,olopatadine,Olopatadiini,S1FB,Allergialääkkeet
+00969,H01AB01,thyrotropin alfa,Tyrotropiini,H1AA,Aivolisäkkeen etulohkon hormonit
+00970,L03AB11,peginterferon alfa-2a,Peginterferonialfa-2a,L1CB,Interferonit
+00971,J04AB02,rifampicin,Rifampisiini,J1CA,Tuberkuloosilääkkeet
+00972,N02AA59,"codeine, combinations excl. psycholeptics","Kodeiini, yhdistelmävalmisteet",N3BA,"Heikot opioidit, osittaiset agonistit"
+00973,B1D,N/A,Perinnöllisen angioedeeman (HAE) lääkkeet,B1,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet
+00974,A10AD01,insulin (human),Ihmisinsuliini,A2AC,Insuliinisekoitteet
+00975,J2BAA,N/A,Kolera,J2BA,Bakteerirokotteet
+00976,M03AX01,botulinum toxin,Botuliinitoksiini,M3A,Perifeeriset lihasrelaksantit
+00977,J06BB01,anti-D (rh) immunoglobulin,Anti-D-immunoglobuliini,J2A,Immunoseerumit ja immunoglobuliinit
+00978,404,,,,
+00979,A16AB02,imiglucerase,Imigluseraasi,A1JB,Entsyymit
+00980,N01BB02,lidocaine,Lidokaiini,N1B,Paikallispuudutteet
+00981,D10AD03,adapalene,Adapaleeni,D1CAB,Muut kuin mikrobilääkkeet
+00982,L04AB04,adalimumab,Adalimumabi,D1E,Psoriaasilääkkeet
+00983,C09AA05,ramipril,Ramipriili,C1G,ACE:n estäjät
+00984,J1ABD,N/A,Penisilliinien yhdistelmävalmisteet,J1AB,Penisilliinit
+00985,J05AE07,fosamprenavir,Fosamprenaviiri,J1DCA,Proteaasin estäjät
+00986,D1AB,N/A,Keskivahvat (ryhmä II),D1A,Iholle käytettävät kortikosteroidit
+00987,404,,,,
+00988,404,,,,
+00989,R03AA01,epinephrine,Adrenaliini,R1H,Keuhkoputkia avaavat lääkkeet
+00990,N01AX03,ketamine,Ketamiini,N1AAD,Muut yleisanesteetit
+00991,R1EA,N/A,Yskänärsytystä hillitsevät,R1E,Yskänlääkkeet
+00992,B01AA04,phenprocoumon,Fenprokumoni,B1AA,K-vitamiiniantagonistit
+00993,C05AA01,hydrocortisone,Hydrokortisoni,C1R,Peräpukamien ja peräaukon haavaumien hoito
+00994,S01EE03,bimatoprost,Bimatoprosti,S1DE,Prostaglandiinianalogit
+00995,P1BA,N/A,Sukkulamatolääkkeet,P1B,Matolääkkeet
+00996,L01BC06,capecitabine,Kapesitabiini,L1ABC,Pyrimidiinianalogit
+00997,N07AA02,pyridostigmine,Pyridostigmiini,A1BC,Suolen motiliteettiä lisäävät lääkkeet
+00998,J1ACC,N/A,Kolmannen polven kefalosporiinit,J1AC,Muut beetalaktaamirakenteiset bakteerilääkkeet
+00999,C02KX02,ambrisentan,Ambrisentaani,C1M,Pulmonaalihypertension lääkkeet
+01000,B02BD01,"coagulation factor IX, II, VII and X in combination","Hyytymistekijät IX, II, VII ja X yhdistelmävalmisteina",B1BE,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit
+01001,J01CE08,benzathine benzylpenicillin,Bentsyylipenisilliinibentsatiini,J1ABB,Beetalaktamaasiherkät penisilliinit
+01002,G02CB03,cabergoline,Kabergoliini,G1CB,Prolaktiininestäjät
+01003,V09H,INFLAMMATION AND INFECTION DETECTION,Tulehdusten ja infektioiden diagnosointi,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+01004,A01AB17,metronidazole,500,Check manually,
+01005,H01BA04,terlipressin,Terlipressiini,H1AB,Aivolisäkkeen takalohkon hormonit
+01006,D01AA02,natamycin,Natamysiini,D1BA,Paikalliset sienilääkkeet
+01007,J02AC04,posaconazole,Posakonatsoli,J1BA,Imidatsoli- ja triatsolijohdokset
+01008,404,,,,
+01009,C08CA01,amlodipine,Amlodipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+01010,C09CA08,olmesartan medoxomil,Olmesartaanimedoksomiili,C1J,AT-reseptorin salpaajat
+01011,R1EC,N/A,Yhdistelmävalmisteet ja muut yskä- ja vilustumislääkkeet,R1E,Yskänlääkkeet
+01012,C1CA,N/A,Tiatsidit ja niiden kaltaiset diureetit,C1C,Diureetit
+01013,V08AA01,diatrizoic acid,Diatritsoiinihappo,V5A,Jodia sisältävät varjoaineet
+01014,J2BAC,N/A,Meningokokki,J2BA,Bakteerirokotteet
+01015,V08CA03,gadodiamide,Gadodiamidi,V5C,MRI-kuvausaineet
+01016,L01BB02,mercaptopurine,Merkaptopuriini,L1ABB,Puriinianalogit
+01017,404,,,,
+01018,M1A,N/A,Tulehduskipulääkkeet,M1C,Tulehduskipulääkkeet ja parasetamoli
+01019,A03FA01,metoclopramide,Metoklopramidi,A1C,Pahoinvointilääkkeet
+01020,N06DA02,donepezil,Donepetsiili,N2GA,Antikoliiniesteraasit (AKE:n estäjät)
+01021,C07AB07,bisoprolol,Bisoprololi,C1BDA,Selektiiviset beetasalpaajat
+01022,J05AR06,"emtricitabine, tenofovir disoproxil and efavirenz","Emtrisitabiini, tenofoviiridisoproksiili ja efavirentsi",J1DCD,HIV-lääkkeiden yhdistelmät
+01023,A12AA02,calcium glubionate,Kalsiumglubionaatti,A3BA,Kalsium
+01024,N04BD02,rasagiline,Rasagiliini,N2FC,MAO-B:n estäjät
+01025,V03AB25,flumazenil,Flumatseniili,V2A,Myrkytysten antidootit
+01026,D06BA01,silver sulfadiazine,Hopeasulfadiatsiini,D1DA,"Paikalliset antibiootit, kemoterapia"
+01027,V10XX02,ibritumomab tiuxetan (90Y),Ibritumomabitiuksetaani [90Y],V6BC,Muut terapeuttiset radioaktiiviset lääkevalmisteet
+01028,N05CF01,zopiclone,Tsopikloni,N2CB,Bentsodiatsepiinien kaltaiset unilääkkeet
+01029,V09G,CARDIOVASCULAR SYSTEM,Sydän ja verisuonet,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+01030,C1N,N/A,Muut verenpainelääkkeet,C1,Sydän- ja verenkiertoelimistön lääkkeet
+01031,J05AF08,adefovir dipivoxil,Adefoviiridipivoksiili,J0ABA,B-hepatiittilääkkeet
+01032,A16AB07,alglucosidase alfa,Alglukosidaasialfa,A1JB,Entsyymit
+01033,B1C,N/A,Anemialääkkeet,B1,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet
+01034,A1JB,N/A,Entsyymit,A1J,"Aminohapot, entsyymit ja muut aineenvaihduntasairauksien lääkkeet"
+01035,C09BA04,perindopril and diuretics,Perindopriili ja diureetit,C1HA,ACE:n estäjä ja diureetti
+01036,C05AA04,prednisolone,Prednisoloni,C1R,Peräpukamien ja peräaukon haavaumien hoito
+01037,A02BD03,"lansoprazole, amoxicillin and metronidazole","Lansopratsoli, metronidatsoli ja amoksisilliini",A1AE,Helikobakteerin häätöön tarkoitetut yhdistelmävalmisteet
+01038,404,,,,
+01039,S01FA02,scopolamine,Skopolamiini,S1EA,Antikolinergit
+01040,C08CA10,nilvadipine,Nilvadipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+01041,J01XE01,nitrofurantoin,Nitrofurantoiini,J1AL,Muut bakteerilääkkeet
+01042,N2DE,N/A,Masennuslääkkeen ja muun psyykenlääkkeen yhdistelmät,N2D,Masennuslääkkeet
+01043,C1H,N/A,ACE:n estäjien yhdistelmävalmisteet,C1U,Verenpainelääkkeet
+01044,J05AF01,zidovudine,Tsidovudiini,J1DCB,Käänteiskopioijaentsyymin estäjät
+01045,J02AB02,ketoconazole,Ketokonatsoli,J1BA,Imidatsoli- ja triatsolijohdokset
+01046,A10BD05,metformin and pioglitazone,500,Check manually,
+01047,H02AB02,dexamethasone,Deksametasoni,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+01048,404,,,,
+01049,G01AA10,clindamycin,Klindamysiini,G1A,Gynekologiset mikrobilääkkeet ja muu paikallishoito
+01050,G2AAC,N/A,Progestageenit,G2AA,Hormonaaliset ehkäisyvalmisteet (systeeminen vaikutus)
+01051,D1HB,N/A,Lääkeshampoot (hilse; kaljuuntuminen),D1,Ihotautien lääkkeet
+01052,D11AX01,minoxidil,Minoksidiili,D1HB,Lääkeshampoot (hilse; kaljuuntuminen)
+01053,B01AB05,enoxaparin,Enoksapariini,B1ABA,Pienimolekyyliset hepariinit (LMWH)
+01054,N06AB05,paroxetine,Paroksetiini,N2DB,Selektiiviset serotoniinin takaisinoton estäjät (SSRI)
+01055,A12BA51,"potassium, combinations",500,Check manually,
+01056,J07BA01,"encephalitis, tick borne, inactivated, whole virus",Inaktivoitu puutiaisaivotulehdusrokote (koko virus),J2BBA,Enkefaliitti
+01057,L04AK01,leflunomide,Leflunomidi,L1DA,Selektiiviset immunosuppressantit
+01058,B1CB,N/A,B-vitamiini ja foolihappo,A3AB,"B-vitamiinit, myös yhdistelmävalmisteet"
+01059,H04AA01,glucagon,Glukagoni,V2G,Muut myrkytysten hoidossa käytettävät lääkkeet.
+01060,S1CC,N/A,Kortikosteroidin ja mikrobilääkkeen yhdistelmät,S1C,Anti-inflammatoriset lääkkeet
+01061,H02AA02,fludrocortisone,Fludrokortisoni,H1CA,Mineralokortikoidit
+01062,G03AC09,desogestrel,Desogestreeli,G2AAC,Progestageenit
+01063,J2BAG,N/A,Tuberkuloosi/BCG,J2BA,Bakteerirokotteet
+01064,C08CA05,nifedipine,Nifedipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+01065,404,,,,
+01066,V2A,N/A,Myrkytysten antidootit,V2,"Myrkytysten, yliannostusten ym. hoito"
+01067,A10BB12,glimepiride,Glimepiridi,A2BA,Sulfonyyliureat
+01068,B01AB01,heparin,Fraktioimaton hepariini,B1AFA,Hepariinit
+01069,N04BX02,entacapone,Entakaponi,N2FB,Dopaminergiset lääkkeet
+01070,404,,,,
+01071,J07AP03,"typhoid, purified polysaccharide antigen",Lavantautipolysakkaridirokote,J2BAH,Lavantauti
+01072,G1CB,N/A,Prolaktiininestäjät,G1,Gynekologiset lääkkeet
+01073,A2BB,N/A,Oraalisten diabeteslääkkeiden yhdistelmävalmisteet,A2B,Muut diabeteslääkkeet kuin insuliinit
+01074,J0AB,N/A,Herpes/sytomegalo/Ebstein-Barr -lääkkeet,J1D,Viruslääkkeet
+01075,N3B,N/A,Opioidit,M1,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)"
+01076,S1H,N/A,Diagnostiset aineet,S1,Silmätautien lääkkeet
+01077,V5D,N/A,Ultraäänikuvausaineet,V5,Varjoaineet
+01078,C09BB02,enalapril and lercanidipine,Enalapriili ja lerkanidipiini,C1HB,ACE:n estäjä ja kalsiumkanavan salpaaja
+01079,H02AB07,prednisone,Prednisoni,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+01080,V08CA06,gadoversetamide,Gadoversetamidi,V5C,MRI-kuvausaineet
+01081,G2AE,N/A,Progestageenit (muu kuin raskauden ehkäisy),G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+01082,N02CC04,rizatriptan,Ritsatriptaani,N3CA,Triptaanit (5-HT1-reseptoriagonistit)
+01083,J05AP01,ribavirin,Ribaviriini,J1DA,C-hepatiittilääkkeet
+01084,L1B,N/A,Endokrinologiset lääkkeet,L1,Syöpälääkkeet ja immuunivasteen muuntajat
+01085,N03AX03,sultiame,Sultiaami,N2EE,Muut epilepsialääkkeet
+01086,C01EB10,adenosine,Adenosiini,C1B,Rytmihäiriölääkkeet
+01087,A1AC,N/A,Prostaglandiinianalogit,A1A,Liikahappoisuuden hoito
+01088,M03AB01,suxamethonium,Suksametoni,M3AA,Anestesian yhteydessä käytettävät lihasrelaksantit
+01089,C07AA07,sotalol,Sotaloli,C1BDB,Epäselektiiviset beetasalpaajat
+01090,404,,,,
+01091,L01XC04,ATCDDD N/A,Alemtutsumabi,L1AEB,Monoklonaaliset vasta-aineet
+01092,G2AAB,N/A,Progestageenin  ja estrogeenin sekventiaalivalmisteet,G2AA,Hormonaaliset ehkäisyvalmisteet (systeeminen vaikutus)
+01093,N05CD08,midazolam,Midatsolaami,N1AAD,Muut yleisanesteetit
+01094,B05DA,Isotonic solutions,Isotoniset liuokset,B2C,Peritoneaalidialyysiliuokset
+01095,H1D,N/A,Kilpirauhasen toiminnan häiriöiden hoito,H1,Hormonit (paitsi insuliinit) ja ehkäisy
+01096,B1AD,N/A,Suorat trombiinin estäjät,B1AF,Antikoagulantit
+01097,S1FB,N/A,Allergialääkkeet,S1F,Silmien punoitusta ja allergiaoireita vähentävät lääkkeet
+01098,L04AB02,infliximab,Infliksimabi,D1E,Psoriaasilääkkeet
+01099,M05BB01,"etidronic acid and calcium, sequential",500,Check manually,
+01100,A3AC,N/A,C-vitamiinit,A3A,Vitamiinit
+01101,B05XA31,electrolytes in combination with other drugs,Elektrolyyttien ja muiden lääkeaineiden yhdistelmävalmisteet,B2DA,Elektrolyyttiliuokset ja aminohapot
+01102,404,,,,
+01103,404,,,,
+01104,G04BX14,dapoxetine,Dapoksetiini,G1DF,Muut virtsaelinten sairauksien lääkkeet
+01105,N01AF03,thiopental,Tiopentaali,N1AAB,Barbituraatit
+01106,L03AB03,interferon gamma,Interferonigamma,L1CB,Interferonit
+01107,C09DA02,eprosartan and diuretics,Eprosartaani ja diureetit,C1KA,AT-reseptorin salpaaja ja diureetti
+01108,N02BG08,ziconotide,Tsikonotidi,M1D,Muut TULES- ja kipulääkkeet
+01109,L04AA24,abatacept,Abatasepti,L1DA,Selektiiviset immunosuppressantit
+01110,M09AX01,hyaluronic acid,Hyaluronihappo,M1D,Muut TULES- ja kipulääkkeet
+01111,L2AA,N/A,Kulta,L2AB,Perinteiset reumalääkkeet (DMARDs)
+01112,N06AX22,agomelatine,Agomelatiini,N2DD,Muut masennuslääkkeet
+01113,J02AX06,anidulafungin,Anidulafungiini,J1BB,Systeemiset sienilääkkeet
+01114,J07BB02,"influenza, inactivated, split virus or surface antigen","Influenssarokote, puhdistettu antigeeni",J2BBB,Influenssa
+01115,L02BA03,fulvestrant,Fulvestrantti,L1BBA,Antiestrogeenit
+01116,L03AB10,peginterferon alfa-2b,Peginterferonialfa-2b,L1CB,Interferonit
+01117,N03AG06,tiagabine,Tiagabiini,N2ED,Rasvahappojohdokset
+01118,404,,,,
+01119,C07AB12,nebivolol,Nebivololi,C1BDA,Selektiiviset beetasalpaajat
+01120,G2AFA,N/A,Kiinteät yhdistelmät,G2AF,Progestageenien ja estrogeenien yhdistelmävalmisteet
+01121,J2BAE,N/A,Pneumokokki,J2BA,Bakteerirokotteet
+01122,N02CC06,eletriptan,Eletriptaani,N3CA,Triptaanit (5-HT1-reseptoriagonistit)
+01123,J01CA04,amoxicillin,Amoksisilliini,J1ABA,Laajaspektriset penisilliinit
+01124,D1AC,N/A,Vahvat (ryhmä III),D1A,Iholle käytettävät kortikosteroidit
+01125,A04AA02,granisetron,Granisetroni,A1CA,Serotoniiniantagonistit
+01126,C1,N/A,Sydän- ja verenkiertoelimistön lääkkeet,N/A JSON API,N/A JSON API
+01127,B02BD09,ATCDDD N/A,500,Check manually,
+01128,G01AF04,miconazole,Mikonatsoli,G1A,Gynekologiset mikrobilääkkeet ja muu paikallishoito
+01129,H1CA,N/A,Mineralokortikoidit,H1C,Kortikosteroidit (systeeminen käyttö)
+01130,L03AX03,BCG vaccine,BCG-rokote,L1CD,Muut immunostimulantit
+01131,L03AC01,aldesleukin,Aldesleukiini,L1CC,Interleukiinit
+01132,H01AX01,pegvisomant,Pegvisomantti,H1AA,Aivolisäkkeen etulohkon hormonit
+01133,P02DA01,niclosamide,Niklosamidi,P1BB,Laakamatolääkkeet
+01134,C01EB02,camphora,Kamferi,C1AD,Muut sydänlääkkeet
+01135,V08CA10,gadoxetic acid,Gadoksetiinihappo,V5C,MRI-kuvausaineet
+01136,G2AAA,N/A,Progestageenin ja estrogeenin kiinteät yhdistelmät,G2AA,Hormonaaliset ehkäisyvalmisteet (systeeminen vaikutus)
+01137,A1GB,N/A,"Suun paikallishoito, mikrobilääkkeet",A1G,Suun ja hampaiden hoito
+01138,A1AE,N/A,Helikobakteerin häätöön tarkoitetut yhdistelmävalmisteet,A1A,Liikahappoisuuden hoito
+01139,V03AC01,deferoxamine,Desferrioksamiini,V2B,Rautaa kelatoivat aineet
+01140,N07AA30,ambenonium,Ambenoni,N2L,Parasympatomimeetit
+01141,J01GB01,tobramycin,Tobramysiini,J1AG,Aminoglykosidit
+01142,G02CX01,atosiban,Atosibaani,G1CA,Kohtua supistavat tai relaksoivat lääkeaineet
+01143,N05AB04,prochlorperazine,Proklooriperatsiini,A1CC,Neuroleptit
+01144,B2,N/A,Veren korvikkeet ja perfuusioliuokset,N/A JSON API,N/A JSON API
+01145,B05XA03,sodium chloride,Natriumkloridi,B2DA,Elektrolyyttiliuokset ja aminohapot
+01146,L01AA07,trofosfamide,Trofosfamidi,L1AA,Alkyloivat aineet
+01147,M04AA01,allopurinol,Allopurinoli,M1K,Kihtilääkkeet
+01148,B01AD11,tenecteplase,Tenekteplaasi,B1AC,Fibrinolyyttiset lääkeaineet
+01149,J1D,N/A,Viruslääkkeet,N/A JSON API,N/A JSON API
+01150,M01AH01,celecoxib,Selekoksibi,M1B,Koksibit
+01151,L01AB01,busulfan,Busulfaani,L1AA,Alkyloivat aineet
+01152,P1C,N/A,Ulkoloisten häätön käytettävät lääkkeet,P1,"Loisten häätö (alkueläimet, madot, syyhy)"
+01153,G2AAD,N/A,Jälkiehkäisy,G2AA,Hormonaaliset ehkäisyvalmisteet (systeeminen vaikutus)
+01154,D06AX01,fusidic acid,Fusidiinihappo,D1DA,"Paikalliset antibiootit, kemoterapia"
+01155,S01BA13,rimexolone,500,Check manually,
+01156,J1AH,N/A,Fluorokinolonit,J1A,Bakteerilääkkeet
+01157,404,,,,
+01158,L04AX03,methotrexate,Metotreksaatti,D1E,Psoriaasilääkkeet
+01159,A03CA02,clidinium and psycholeptics,Klidiini ja psyykenlääke,A1BB,Antikolinergiyhdistelmät
+01160,J1AB,N/A,Penisilliinit,J1A,Bakteerilääkkeet
+01161,C01CA04,dopamine,Dopamiini,C1AB,Inotrooppiset lääkkeet
+01162,L1BBA,N/A,Antiestrogeenit,L1BB,Hormoniantagonistit
+01163,J01AA02,doxycycline,Doksisykliini,P1AB,Malarialääkkeet
+01164,C02KX03,sitaxentan,Sitaksentaani,C1M,Pulmonaalihypertension lääkkeet
+01165,404,,,,
+01166,B05AA01,albumin,Albumiini,B2A,"Veren korvikkeet, infuusionesteet"
+01167,N06AX11,mirtazapine,Mirtatsapiini,N2DD,Muut masennuslääkkeet
+01168,C03BA11,indapamide,Indapamidi,C1CA,Tiatsidit ja niiden kaltaiset diureetit
+01169,J05AF10,entecavir,Entekaviiri,J0ABA,B-hepatiittilääkkeet
+01170,V2B,N/A,Rautaa kelatoivat aineet,V2,"Myrkytysten, yliannostusten ym. hoito"
+01171,N3C,N/A,Migreenilääkkeet (spesifiset),M1,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)"
+01172,J01GB07,netilmicin,Netilmisiini,J1AG,Aminoglykosidit
+01173,N03AX11,topiramate,Topiramaatti,N2EE,Muut epilepsialääkkeet
+01174,L1DC,N/A,Interleukiinien estäjät,L1D,Immunosuppressantit
+01175,C01BD01,amiodarone,Amiodaroni,C1BE,Ryhmä 3 (repolarisaation pidentäjät)
+01176,S01AA30,combinations of different antibiotics,Mikrobilääkkeiden yhdistelmävalmisteet,S1A,Mikrobilääkkeet
+01177,R05CA10,combinations,Yhdistelmävalmisteet,R1EC,Yhdistelmävalmisteet ja muut yskä- ja vilustumislääkkeet
+01178,V03AB15,naloxone,Naloksoni,V2A,Myrkytysten antidootit
+01179,J01EA01,trimethoprim,Trimetopriimi,J1AD,Sulfonamidit ja trimetopriimi
+01180,V07AB,"Solvents and diluting agents, incl. irrigating solutions","Liuottimet, laimentimet, huuhteluliuokset",V4,Tekniset valmisteet
+01181,R07AA02,natural phospholipids,Luonnolliset fosfolipidit,R1FB,Surfaktantit
+01182,J07BC02,"hepatitis A, inactivated, whole virus",Inaktivoitu hepatiitti A -rokote (koko virus),J2BBC,Hepatiitti
+01183,G03GA01,chorionic gonadotrophin,Koriongonadotropiini,G2AG,Ovulaation stimuloijat
+01184,N02AB03,fentanyl,Fentanyyli,N3BB,Vahvat opioidit
+01185,L04AD01,ciclosporin,Siklosporiini,D1HA,Atooppisen ihottuman lääkkeet
+01186,L04AA23,ATCDDD N/A,500,Check manually,
+01187,B01AC17,tirofiban,Tirofibaani,B1ABC,Glykoproteiini IIb/IIIa -estäjät
+01188,404,,,,
+01189,C08CA13,lercanidipine,Lerkanidipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+01190,C09AA06,quinapril,Kinapriili,C1G,ACE:n estäjät
+01191,C04AD03,pentoxifylline,Pentoksifylliini,C1Q,"Ääreisverisuonia laajentavat aineet, suonikohjujen hoito"
+01192,C10AA05,atorvastatin,Atorvastatiini,C1PA,Statiinit
+01193,C10AC04,colesevelam,Kolesevelaami,C1PC,Sappihappojen sitojat
+01194,N05BA04,oxazepam,Oksatsepaami,N2BA,Bentsodiatsepiinit
+01195,N04AA02,biperiden,Biperideeni,N2FA,Antikolinergit
+01196,L04AB05,certolizumab pegol,Sertolitsumabipegoli,D1E,Psoriaasilääkkeet
+01197,V08AB05,iopromide,Jopromidi,V5A,Jodia sisältävät varjoaineet
+01198,R03AC13,formoterol,Formoteroli,R1AB,Pitkävaikutteiset beeta-2-agonistit (LABA)
+01199,A07AA09,vancomycin,Vankomysiini,A1EA,Suolistoantibiootit
+01200,404,,,,
+01201,J1ACB,N/A,Toisen polven kefalosporiinit,J1AC,Muut beetalaktaamirakenteiset bakteerilääkkeet
+01202,J1ACE,N/A,Monobaktaamit,J1AC,Muut beetalaktaamirakenteiset bakteerilääkkeet
+01203,C07AA03,pindolol,Pindololi,C1BDB,Epäselektiiviset beetasalpaajat
+01204,A2BE,N/A,DPP-4:n estäjät (gliptiinit),A2B,Muut diabeteslääkkeet kuin insuliinit
+01205,H1AB,N/A,Aivolisäkkeen takalohkon hormonit,H1A,Aivolisäkkeen ja hypotalamuksen hormonit
+01206,J05AE01,saquinavir,Sakinaviiri,J1DCA,Proteaasin estäjät
+01207,L01XE06,ATCDDD N/A,500,Check manually,
+01208,N01AB06,isoflurane,Isofluraani,N1AAA,Halogenoidut hiilivedyt
+01209,L2A,N/A,Reuman ja systeemisten sidekudossairauksien lääkkeet,M1,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)"
+01210,M01AE17,dexketoprofen,Deksketoprofeeni,M1A,Tulehduskipulääkkeet
+01211,L01XX23,mitotane,Mitotaani,L1AEE,Muut syöpälääkkeet
+01212,C1G,N/A,ACE:n estäjät,C1U,Verenpainelääkkeet
+01213,C09BA05,ramipril and diuretics,Ramipriili ja diureetit,C1HA,ACE:n estäjä ja diureetti
+01214,N1,N/A,Anestesia-aineet ja puudutteet,N/A JSON API,N/A JSON API
+01215,G2AF,N/A,Progestageenien ja estrogeenien yhdistelmävalmisteet,G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+01216,N01AH01,fentanyl,Fentanyyli,N1AAC,Opioidianesteetit
+01217,C09CA03,valsartan,Valsartaani,C1J,AT-reseptorin salpaajat
+01218,J04AB04,rifabutin,Rifabutiini,J1CA,Tuberkuloosilääkkeet
+01219,D01AC03,econazole,Ekonatsoli,D1BA,Paikalliset sienilääkkeet
+01220,M1K,N/A,Kihtilääkkeet,M1,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)"
+01221,G03DA02,medroxyprogesterone,Medroksiprogesteroni,G2AE,Progestageenit (muu kuin raskauden ehkäisy)
+01222,A1A,N/A,Liikahappoisuuden hoito,A1,Ruoansulatuskanavan lääkkeet
+01223,C07AG01,labetalol,Labetaloli,C1DC,Alfa- ja beetareseptoreiden salpaajat
+01224,404,,,,
+01225,B05BA01,amino acids,Aminohapot,B2B,Parenteraaliset ravintovalmisteet
+01226,R03AC03,terbutaline,Terbutaliini,R1AA,Lyhytvaikutteiset beeta-2-agonistit (SABA)
+01227,C10AA04,fluvastatin,Fluvastatiini,C1PA,Statiinit
+01228,404,,,,
+01229,G03AC06,medroxyprogesterone,Medroksiprogesteroni,G2AAC,Progestageenit
+01230,V03AE03,lanthanum carbonate,Lantaanikarbonaatti,V2C,Hyperkalemia- ja hyperfosfatemialääkkeet
+01231,N05AB01,dixyrazine,Diksyratsiini,N2AAA,Fentiatsiinit
+01232,R1FC,N/A,Hengitystoimintaa stimuloivat lääkkeet,R1F,Muut hengitysteiden sairauksien lääkkeet
+01233,J05AE02,indinavir,Indinaviiri,J1DCA,Proteaasin estäjät
+01234,J05AF05,lamivudine,Lamivudiini,J1DCB,Käänteiskopioijaentsyymin estäjät
+01235,G1DC,N/A,Eturauhasen hyvänlaatuisen liikakasvun lääkkeet,G1D,Virtsaelinten sairauksien lääkkeet
+01236,N07XX04,sodium oxybate,Natriumoksibaatti (hydroksivoihappo),N2N,Narkolepsialääkkeet
+01237,L02AE04,triptorelin,Triptoreliini,L1BAB,Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet
+01238,G01AF05,econazole,Ekonatsoli,G1A,Gynekologiset mikrobilääkkeet ja muu paikallishoito
+01239,G03GB02,clomifene,Klomifeeni,G2AG,Ovulaation stimuloijat
+01240,G03AA07,levonorgestrel and ethinylestradiol,Levonorgestreeli ja etinyyliestradioli,G2AAA,Progestageenin ja estrogeenin kiinteät yhdistelmät
+01241,J1ABB,N/A,Beetalaktamaasiherkät penisilliinit,J1AB,Penisilliinit
+01242,M02AA07,piroxicam,Piroksikaami,M1DA,Paikalliset tulehduskipulääkkeet
+01243,L01BB04,cladribine,Kladribiini,L1ABB,Puriinianalogit
+01244,D10AD53,"adapalene, combinations","Adapaleeni, yhdistelmävalmisteet",D1CAB,Muut kuin mikrobilääkkeet
+01245,G2AD,N/A,Estrogeenit ja estrogeenireseptorin muuntelijat,G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+01246,V04CL,Tests for allergic diseases,Allergiatestit,V3,Diagnostiset aineet
+01247,B05AA07,hydroxyethylstarch,500,Check manually,
+01248,404,,,,
+01249,404,,,,
+01250,A01AA01,sodium fluoride,Natriumfluoridi,A1GA,Karieksen esto
+01251,404,,,,
+01252,R05CB02,bromhexine,Bromiheksiini,R1EB,Limaa irrottavat
+01253,V03AB34,fomepizole,Fomepitsoli,V2A,Myrkytysten antidootit
+01254,D10BA01,isotretinoin,Isotretinoiini,D1CB,Systeemisesti käytettävät aknelääkkeet
+01255,J02AX05,micafungin,Mikafungiini,J1BB,Systeemiset sienilääkkeet
+01256,N05CF02,zolpidem,Tsolpideemi,N2CB,Bentsodiatsepiinien kaltaiset unilääkkeet
+01257,C1E,N/A,Beetasalpaajien yhdistelmävalmisteet,C1U,Verenpainelääkkeet
+01258,G02AD02,dinoprostone,Dinoprostoni,G1CA,Kohtua supistavat tai relaksoivat lääkeaineet
+01259,N05CD07,temazepam,Tematsepaami,N2CA,Bentsodiatsepiinit
+01260,M09AA72,"quinine, combinations with psycholeptics",500,Check manually,
+01261,D06BX01,metronidazole,Metronidatsoli,D1DA,"Paikalliset antibiootit, kemoterapia"
+01262,G01AF01,metronidazole,Metronidatsoli,G1A,Gynekologiset mikrobilääkkeet ja muu paikallishoito
+01263,R01AD01,beclometasone,Beklometasoni,R1DB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+01264,N05AH04,quetiapine,Ketiapiini,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+01265,A07FA01,lactic acid producing organisms,Maitohappobakteerit,A1EG,Mikro-organismit
+01266,N1AAD,N/A,Muut yleisanesteetit,N1AA,Yleisanesteetit
+01267,L01BC07,azacitidine,Atsasitidiini,L1ABC,Pyrimidiinianalogit
+01268,J07AL52,"pneumococcus purified polysaccharides antigen and haemophilus influenzae, conjugated",Pneumokokki (ja Haemophilus influenzae) -konjugaattirokote,J2BAE,Pneumokokki
+01269,R02AA05,chlorhexidine,Klooriheksidiini,R1FA,Kurkkukipuun käytettävät valmisteet
+01270,V09F,THYROID,Kilpirauhanen,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+01271,N02AA01,morphine,Morfiini,N3BB,Vahvat opioidit
+01272,L02AB01,megestrol,Megestroli,L1BAA,Estrogeenit ja progestageenit
+01273,J1BA,N/A,Imidatsoli- ja triatsolijohdokset,J1BB,Systeemiset sienilääkkeet
+01274,G04CB02,dutasteride,Dutasteridi,G1DCB,Testosteroni-5-alfareduktaasin estäjät
+01275,N05AH02,clozapine,Klotsapiini,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+01276,D06BB03,aciclovir,Asikloviiri,D1DB,Paikalliset viruslääkkeet
+01277,B1,N/A,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet,N/A JSON API,N/A JSON API
+01278,B01AC05,ticlopidine,Tiklopidiini,B1ABD,ADP-reseptorin salpaajat
+01279,A04AD01,scopolamine,Skopolamiini,A1C,Pahoinvointilääkkeet
+01280,V03AF05,amifostine,Amifostiini,V2E,Sytostaattihoidon haittoja vähentävät lääkkeet
+01281,J2B,N/A,Rokotteet,J2,"Immunoseerumit, immunoglobuliinit, rokotteet"
+01282,A3AB,N/A,"B-vitamiinit, myös yhdistelmävalmisteet",A3A,Vitamiinit
+01283,L1AEB,N/A,Monoklonaaliset vasta-aineet,L1A,Syöpälääkkeet
+01284,C1AC,N/A,Orgaaniset nitraatit,C1A,"Sydänlääkkeet (mm. digitalis, inotroopit, nitraatit)"
+01285,R01BA52,"pseudoephedrine, combinations","Pseudoefedriini, yhdistelmävalmisteet",R1DE,Systeemisesti käytettävät nenän tukkoisuutta vähentävät lääkkeet
+01286,C1Q,N/A,"Ääreisverisuonia laajentavat aineet, suonikohjujen hoito",C1,Sydän- ja verenkiertoelimistön lääkkeet
+01287,N05AX08,risperidone,Risperidoni,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+01288,A02BC03,lansoprazole,Lansopratsoli,A1AD,Protonipumpun estäjät
+01289,G04BD09,trospium,Trospium,G1DA,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito)
+01290,N05AE04,ziprasidone,Tsiprasidoni,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+01291,C1CC,N/A,Kaliumia säästävät diureetit,C1C,Diureetit
+01292,S01CA03,hydrocortisone and antiinfectives,Hydrokortisoni ja mikrobilääkkeet,S1CC,Kortikosteroidin ja mikrobilääkkeen yhdistelmät
+01293,404,,,,
+01294,G03AD02,ulipristal,Ulipristaali,G2AAD,Jälkiehkäisy
+01295,A02BA02,ranitidine,Ranitidiini,A1AB,H2-reseptorisalpaajat
+01296,B02BD04,coagulation factor IX,Hyytymistekijä IX,B1BE,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit
+01297,D11AH01,tacrolimus,Takrolimuusi,D1HAA,Paikalliset kalsineuriinin estäjät
+01298,M04AB01,probenecid,Probenesidi,M1K,Kihtilääkkeet
+01299,H1E,N/A,Haiman hormonit (glukagoni),H1,Hormonit (paitsi insuliinit) ja ehkäisy
+01300,L03AA02,filgrastim,Filgrastiimi,L1CA,Kasvutekijät
+01301,J01FA01,erythromycin,Erytromysiini,J1AE,Makrolidit
+01302,V01AA03,house dust mites,Huonepölypunkki,V1,Allergeenit
+01303,G04BD07,tolterodine,Tolterodiini,G1DA,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito)
+01304,S1CB,N/A,Tulehduskipulääkkeet,S1C,Anti-inflammatoriset lääkkeet
+01305,S01BA07,fluorometholone,Fluorometoloni,S1CA,Kortikosteroidit
+01306,M1,N/A,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",N/A JSON API,N/A JSON API
+01307,D01AC08,ketoconazole,Ketokonatsoli,D1BA,Paikalliset sienilääkkeet
+01308,B02BC30,combinations,Paikallisesti käytettävät hemostaatit,B1B,Hyytymistä edistävät lääkkeet
+01309,D07AC03,desoximetasone,Desoksimetasoni,D1AC,Vahvat (ryhmä III)
+01310,S01BA01,dexamethasone,Deksametasoni,S1CA,Kortikosteroidit
+01311,A11HA30,dexpanthenol,Dekspantenoli,A3A,Vitamiinit
+01312,A3BC,N/A,Kalium,A3B,Kivennäisaineet
+01313,L02AA02,polyestradiol phosphate,Polyestradiolifosfaatti,L1BAA,Estrogeenit ja progestageenit
+01314,V03AB33,hydroxocobalamin,Hydroksokobalamiini,V2A,Myrkytysten antidootit
+01315,S1F,N/A,Silmien punoitusta ja allergiaoireita vähentävät lääkkeet,S1,Silmätautien lääkkeet
+01316,L03AB08,interferon beta-1b,Interferonibeeta-1b,L1CB,Interferonit
+01317,A10AB02,insulin (beef),500,Check manually,
+01318,A06AB06,senna glycosides,Sennaglykosidit,A1DA,Suolta stimuloivat ulostuslääkkeet
+01319,A1BB,N/A,Antikolinergiyhdistelmät,A1B,Suoliston toiminnallisten häiriöiden lääkkeet
+01320,R01AC04,antazoline,Antatsoliini,R1DC,Muut allergialääkkeet kuin kortikosteroidit
+01321,V03AB24,digitalis antitoxin,Digitaliksen vasta-aine,V2A,Myrkytysten antidootit
+01322,D07CC01,betamethasone and antibiotics,Beetametasoni ja antibiootit,D1AEC,Vahvojen kortikosteroidien yhdistelmät
+01323,A16AB05,laronidase,Laronidaasi,A1JB,Entsyymit
+01324,S01GA02,tetryzoline,Tetrytsoliini,S1FA,Sympatomimeetit
+01325,C1BDA,N/A,Selektiiviset beetasalpaajat,C1D,Beetasalpaajat
+01326,R03CC02,salbutamol,500,Check manually,
+01327,D1AD,N/A,Erittäin vahvat (ryhmä IV),D1A,Iholle käytettävät kortikosteroidit
+01328,N06AB10,escitalopram,Essitalopraami,N2DB,Selektiiviset serotoniinin takaisinoton estäjät (SSRI)
+01329,J04AK01,pyrazinamide,Pyratsiiniamidi,J1CA,Tuberkuloosilääkkeet
+01330,404,,,,
+01331,A10BA02,metformin,Metformiini,A2B,Muut diabeteslääkkeet kuin insuliinit
+01332,N04BA03,"levodopa, decarboxylase inhibitor and COMT inhibitor","Levodopa, dekarboksylaasin estäjä ja COMT-estäjä",N2FB,Dopaminergiset lääkkeet
+01333,P03AC04,permethrin,Permetriini,P1C,Ulkoloisten häätön käytettävät lääkkeet
+01334,V08AB11,iobitridol,Jobitridoli,V5A,Jodia sisältävät varjoaineet
+01335,N02BE01,paracetamol,Parasetamoli,M1C,Tulehduskipulääkkeet ja parasetamoli
+01336,L04AA06,mycophenolic acid,Mykofenolihappo,L1DA,Selektiiviset immunosuppressantit
+01337,P1AB,N/A,Malarialääkkeet,P1A,Alkueläimiin vaikuttavat lääkkeet
+01338,J04AK02,ethambutol,Etambutoli,J1CA,Tuberkuloosilääkkeet
+01339,A3,N/A,Vitamiinit ja kivennäisaineet,N/A JSON API,N/A JSON API
+01340,R03BB04,tiotropium bromide,Tiotropiumbromidi,R1HB,Pitkävaikutteiset antikolinergit (LAMA)
+01341,B01AC21,treprostinil,Treprostiniili,C1M,Pulmonaalihypertension lääkkeet
+01342,V08CA09,gadobutrol,Gadobutroli,V5C,MRI-kuvausaineet
+01343,404,,,,
+01344,C1P,N/A,Lipidilääkkeet,C1,Sydän- ja verenkiertoelimistön lääkkeet
+01345,J07BM01,"papillomavirus (human types 6, 11, 16, 18)","Ihmisen papilloomavirus (tyyppi 6, 11, 16, 18) -rokote",J2BCA,Papillooma
+01346,R01AX02,retinol,Retinoli,R1DD,Muut nenään paikallisesti käytettävät aineet
+01347,R1DC,N/A,Muut allergialääkkeet kuin kortikosteroidit,R1D,Nenän tukkoisuutta lievittävät paikallisvalmisteet
+01348,B01AD02,alteplase,Alteplaasi,B1AC,Fibrinolyyttiset lääkeaineet
+01349,404,,,,
+01350,A1E,N/A,Ripulin ja suolistotulehdusten hoito,A1,Ruoansulatuskanavan lääkkeet
+01351,M01AB51,"indometacin, combinations","Indometasiini, yhdistelmävalmisteet",M1A,Tulehduskipulääkkeet
+01352,N04BB01,amantadine,Amantadiini,N2FB,Dopaminergiset lääkkeet
+01353,J2BBH,N/A,Vesirokko ja vyöruusu,J2BB,Virusrokotteet
+01354,N05CM09,Valerianae radix,Valeriaana,N2CC,Muut unilääkkeet
+01355,J01CR05,piperacillin and beta-lactamase inhibitor,Piperasilliini ja beetalaktamaasin estäjä,J1ABD,Penisilliinien yhdistelmävalmisteet
+01356,M05BA01,etidronic acid,500,Check manually,
+01357,C01AA05,digoxin,Digoksiini,C1B,Rytmihäiriölääkkeet
+01358,H01CC01,ganirelix,Ganireliksi,H1ACB,Gonadotropiinin vapautumisen estäjät
+01359,J05AX09,maraviroc,Maraviroki,J1DD,Muut HIV-lääkkeet
+01360,J2BB,N/A,Virusrokotteet,J2B,Rokotteet
+01361,B06AB01,hemin,Hemiini,B1E,Muut hematologiset lääkkeet
+01362,J01FA15,telithromycin,Telitromysiini,J1AE,Makrolidit
+01363,404,,,,
+01364,J2BBF,N/A,Vesikauhu,J2BB,Virusrokotteet
+01365,B01AB10,tinzaparin,Tintsapariini,B1ABA,Pienimolekyyliset hepariinit (LMWH)
+01366,L1D,N/A,Immunosuppressantit,L1,Syöpälääkkeet ja immuunivasteen muuntajat
+01367,C02AC01,clonidine,Klonidiini,C1EF,Sentraalisesti vaikuttavat
+01368,J1DB,N/A,Influenssaviruslääkkeet,J1D,Viruslääkkeet
+01369,VG03,N/A,Munuaiset,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+01370,G03GA07,lutropin alfa,Lutropiini alfa,G2AG,Ovulaation stimuloijat
+01371,R1AE,N/A,Glukokortikoidit (ICS),R1G,Anti-inflammatoriset lääkkeet
+01372,N2DB,N/A,Selektiiviset serotoniinin takaisinoton estäjät (SSRI),N2D,Masennuslääkkeet
+01373,P02CF01,ivermectin,Ivermektiini,P1BA,Sukkulamatolääkkeet
+01374,A1,N/A,Ruoansulatuskanavan lääkkeet,N/A JSON API,N/A JSON API
+01375,J05AB06,ganciclovir,Gansikloviiri,J0AB,Herpes/sytomegalo/Ebstein-Barr -lääkkeet
+01376,N1AA,N/A,Yleisanesteetit,N1A,Anestesia-aineet
+01377,N06DA04,galantamine,Galantamiini,N2GA,Antikoliiniesteraasit (AKE:n estäjät)
+01378,404,,,,
+01379,R01AC02,levocabastine,Levokabastiini,R1DC,Muut allergialääkkeet kuin kortikosteroidit
+01380,G2AG,N/A,Ovulaation stimuloijat,G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+01381,N05BA09,clobazam,Klobatsaami,N2EB,Bentsodiatsepiinit
+01382,404,,,,
+01383,A10AB05,insulin aspart,Aspartinsuliini,A2AA,Pikavaikutteiset
+01384,404,,,,
+01385,N01BB52,"lidocaine, combinations","Lidokaiini, yhdistelmävalmisteet",N1B,Paikallispuudutteet
+01386,A07EC02,mesalazine,Mesalatsiini,A1EF,5-ASA ja sen johdokset
+01387,L01XC08,ATCDDD N/A,500,Check manually,
+01388,L04AX02,thalidomide,Talidomidi,L1DX,Muut immunosuppressantit
+01389,J01MA12,levofloxacin,Levofloksasiini,J1AH,Fluorokinolonit
+01390,L01AA06,ifosfamide,Ifosfamidi,L1AA,Alkyloivat aineet
+01391,A16AA01,levocarnitine,Levokarnitiini,A1JA,Aminohapot
+01392,A2AC,N/A,Insuliinisekoitteet,A2A,Insuliinit
+01393,C01DA14,isosorbide mononitrate,Isosorbidimononitraatti,C1AC,Orgaaniset nitraatit
+01394,R1DE,N/A,Systeemisesti käytettävät nenän tukkoisuutta vähentävät lääkkeet,R1,"Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)"
+01395,L04AC03,anakinra,Anakinra,L1DC,Interleukiinien estäjät
+01396,B05BA10,combinations,Yhdistelmävalmisteet,B2B,Parenteraaliset ravintovalmisteet
+01397,L1CA,N/A,Kasvutekijät,L1C,Immunostimulantit
+01398,J2BBG,N/A,Rotavirus,J2BB,Virusrokotteet
+01399,R05DB05,pentoxyverine,Pentoksiveriini,R1EA,Yskänärsytystä hillitsevät
+01400,R05DA20,combinations,500,Check manually,
+01401,N03AA02,phenobarbital,Fenobarbitaali,N2EE,Muut epilepsialääkkeet
+01402,J01CA01,ampicillin,Ampisilliini,J1ABA,Laajaspektriset penisilliinit
+01403,N2K,N/A,Huimauslääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+01404,B01AC11,iloprost,Iloprosti,B1AE,Prostasykliinianalogit
+01405,C09BA03,lisinopril and diuretics,Lisinopriili ja diureetit,C1HA,ACE:n estäjä ja diureetti
+01406,G03FB08,dydrogesterone and estrogen,Dydrogesteroni ja estrogeeni,G2AFB,Sekventiaalivalmisteet
+01407,N01AH03,sufentanil,Sufentaniili,N1AAC,Opioidianesteetit
+01408,H05BX01,cinacalcet,Sinakalseetti,H1FB,Lisäkilpirauhasen toimintaa estävät lääkkeet
+01409,A1CA,N/A,Serotoniiniantagonistit,A1C,Pahoinvointilääkkeet
+01410,D07BB04,hydrocortisone butyrate and antiseptics,Hydrokortisonibutyraatti ja antiseptit,D1AEB,Keskivahvojen kortikosteroidien yhdistelmät
+01411,J05AB09,famciclovir,Famsikloviiri,J0AB,Herpes/sytomegalo/Ebstein-Barr -lääkkeet
+01412,M03AC01,pancuronium,Pankuroni,M3AA,Anestesian yhteydessä käytettävät lihasrelaksantit
+01413,H03AA01,levothyroxine sodium,Levotyroksiini,H1DA,Kilpirauhashormonit
+01414,N06AA06,trimipramine,Trimipramiini,N2DA,Tri- ja tetrasykliset masennuslääkkeet
+01415,C10AA02,lovastatin,Lovastatiini,C1PA,Statiinit
+01416,N05AD03,melperone,Melperoni,N2AA,Perinteiset psykoosilääkkeet
+01417,404,,,,
+01418,G04BD08,solifenacin,Solifenasiini,G1DA,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito)
+01419,J05AB01,aciclovir,Asikloviiri,J0AB,Herpes/sytomegalo/Ebstein-Barr -lääkkeet
+01420,V08AB10,iomeprol,Jomeproli,V5A,Jodia sisältävät varjoaineet
+01421,A2AA,N/A,Pikavaikutteiset,A2A,Insuliinit
+01422,N02BA01,acetylsalicylic acid,Asetyylisalisyylihappo,M1A,Tulehduskipulääkkeet
+01423,N2C,N/A,Unilääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+01424,L02BB03,bicalutamide,Bikalutamidi,L1BBB,Antiandrogeenit
+01425,B2BF,N/A,Osmoottiset diureetit,B2B,Parenteraaliset ravintovalmisteet
+01426,J1AA,N/A,Tetrasykliinit,J1A,Bakteerilääkkeet
+01427,G1A,N/A,Gynekologiset mikrobilääkkeet ja muu paikallishoito,G1,Gynekologiset lääkkeet
+01428,L01XA02,carboplatin,Karboplatiini,L1AEA,Platinayhdisteet
+01429,J01FA09,clarithromycin,Klaritromysiini,J1AE,Makrolidit
+01430,J01DH51,imipenem and cilastatin,Imipeneemi ja silastatiini,J1ACF,Karbapeneemit
+01431,L1DD,N/A,Kalsineuriinin estäjät,L1D,Immunosuppressantit
+01432,404,,,,
+01433,V09CA03,technetium (99mTc) mertiatide,Teknetium[99mTc]-mertiatidi,VG03,Munuaiset
+01434,M01AE01,ibuprofen,Ibuprofeeni,M1A,Tulehduskipulääkkeet
+01435,A1EA,N/A,Suolistoantibiootit,A1E,Ripulin ja suolistotulehdusten hoito
+01436,C1AD,N/A,Muut sydänlääkkeet,C1A,"Sydänlääkkeet (mm. digitalis, inotroopit, nitraatit)"
+01437,S01LA01,verteporfin,Verteporfiini,S1K,Uudelleensuonittumisen estoon käytettävät lääkkeet
+01438,V03AB21,potassium iodide,Kaliumjodidi,V2A,Myrkytysten antidootit
+01439,A03FA02,cisapride,Sisapridi,A1BC,Suolen motiliteettiä lisäävät lääkkeet
+01440,404,,,,
+01441,N01BB10,levobupivacaine,Levobupivakaiini,N1B,Paikallispuudutteet
+01442,N04BC01,bromocriptine,Bromokriptiini,V2A,Myrkytysten antidootit
+01443,B01AC30,combinations,Asetyylisalisyylihapon yhdistelmävalmisteet,B1ABB,Asetyylisalisyylihappo ja sen yhdistelmät
+01444,S01EB01,pilocarpine,Pilokarpiini,S1DB,Parasympatomimeetit
+01445,404,,,,
+01446,A10AD05,insulin aspart,Aspartinsuliini,A2AC,Insuliinisekoitteet
+01447,404,,,,
+01448,B01AD12,protein C,Proteiini C,B1AF,Antikoagulantit
+01449,A06AB08,sodium picosulfate,Natriumpikosulfaatti,A1DA,Suolta stimuloivat ulostuslääkkeet
+01450,H01BB02,oxytocin,Oksitosiini,G1CA,Kohtua supistavat tai relaksoivat lääkeaineet
+01451,N2B,N/A,Rauhoittavat lääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+01452,G03DB01,dydrogesterone,Dydrogesteroni,G2AE,Progestageenit (muu kuin raskauden ehkäisy)
+01453,D1E,N/A,Psoriaasilääkkeet,D1,Ihotautien lääkkeet
+01454,A14AB01,nandrolone,Nandroloni,A1L,Anaboliset lääkkeet
+01455,A16AX05,zinc acetate,Sinkkiasetaatti,A1JC,Muut aineenvaihduntasairauksien lääkkeet
+01456,D1HA,N/A,Atooppisen ihottuman lääkkeet,D1,Ihotautien lääkkeet
+01457,D01AE14,ciclopirox,Siklopiroksi,D1BA,Paikalliset sienilääkkeet
+01458,B1AE,N/A,Prostasykliinianalogit,B1,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet
+01459,404,,,,
+01460,M01AE02,naproxen,Naprokseeni,M1A,Tulehduskipulääkkeet
+01461,B05BA02,fat emulsions,Rasvaemulsiot,B2B,Parenteraaliset ravintovalmisteet
+01462,B05BB02,electrolytes with carbohydrates,Elektrolyytit ja hiilihydraatit,B2BE,Elektrolyyttiliuokset
+01463,R1DB,N/A,"Glukokortikoidit, myös yhdistelmävalmisteet",R1D,Nenän tukkoisuutta lievittävät paikallisvalmisteet
+01464,J01DE01,cefepime,Kefepiimi,J1ACD,Neljännen polven kefalosporiinit
+01465,C1F,N/A,Kalsiumkanavan salpaajat,C1U,Verenpainelääkkeet
+01466,404,,,,
+01467,M2,N/A,Luukudokseen vaikuttavat lääkkeet,N/A JSON API,N/A JSON API
+01468,B01AC07,dipyridamole,Dipyridamoli,B1AB,Verihiutaleiden estäjät
+01469,B01AX05,fondaparinux,Fondaparinuuksi,B1AFC,Epäsuorat hyytymistekijä X:n estäjät
+01470,A06AC01,ispaghula (psylla seeds),Ispaghula (psylliumin siemenet),A1DB,Suolen sisältöä lisäävät ulostuslääkkeet
+01471,J01FA02,spiramycin,Spiramysiini,J1AE,Makrolidit
+01472,N05CF03,zaleplon,Tsaleploni,N2CB,Bentsodiatsepiinien kaltaiset unilääkkeet
+01473,S1A,N/A,Mikrobilääkkeet,S1,Silmätautien lääkkeet
+01474,J04AM06,"rifampicin, pyrazinamide, ethambutol and isoniazid",500,Check manually,
+01475,J07AM51,"tetanus toxoid, combinations with diphtheria toxoid",Tetanus-difteriatoksoidirokote,J2BAF,Jäykkäkouristus
+01476,A16AB09,idursulfase,Idursulfaasi,A1JB,Entsyymit
+01477,S1,N/A,Silmätautien lääkkeet,N/A JSON API,N/A JSON API
+01478,J05AF09,emtricitabine,Emtrisitabiini,J1DCB,Käänteiskopioijaentsyymin estäjät
+01479,N07AX01,pilocarpine,Pilokarpiini,N2L,Parasympatomimeetit
+01480,V08CB01,ferumoxsil,Ferumoksiili,V5C,MRI-kuvausaineet
+01481,V08AB02,iohexol,Joheksoli,V5A,Jodia sisältävät varjoaineet
+01482,C03EA02,trichlormethiazide and potassium-sparing agents,Trikloorimetiatsidi ja kaliumia säästävät diureetit,C1CD,Kaliumia säästävien ja muiden diureettien yhdistelmät
+01483,L01CD02,docetaxel,Dosetakseli,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+01484,R1,N/A,"Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",N/A JSON API,N/A JSON API
+01485,B05XA05,magnesium sulfate,Magnesiumsulfaatti,B2DA,Elektrolyyttiliuokset ja aminohapot
+01486,A1EB,N/A,Hiilivalmisteet,A1E,Ripulin ja suolistotulehdusten hoito
+01487,L03AA10,lenograstim,Lenograstiimi,L1CA,Kasvutekijät
+01488,R1D,N/A,Nenän tukkoisuutta lievittävät paikallisvalmisteet,R1,"Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)"
+01489,G03AB03,levonorgestrel and ethinylestradiol,Levonorgestreeli ja etinyyliestradioli,G2AAB,Progestageenin  ja estrogeenin sekventiaalivalmisteet
+01490,D01BA02,terbinafine,Terbinafiini,D1BB,Systeemisesti käytettävät sienilääkkeet
+01491,N2EC,N/A,Karboksamidijohdokset,N2E,Epilepsialääkkeet
+01492,L1AB,N/A,Antimetaboliitit,L1A,Syöpälääkkeet
+01493,M01AB08,etodolac,Etodolaakki,M1A,Tulehduskipulääkkeet
+01494,S01GX01,cromoglicic acid,Dinatriumkromoglikaatti,S1FB,Allergialääkkeet
+01495,N2J,N/A,Riippuvuuden hoitoon tarkoitetut lääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+01496,D1CA,N/A,Ulkoisesti käytettävät aknelääkkeet,D1C,Aknelääkkeet
+01497,N03AB05,fosphenytoin,Fosfenytoiini,N2EA,Hydantoiinijohdokset
+01498,S01GX07,azelastine,Atselastiini,S1FB,Allergialääkkeet
+01499,B01AE06,bivalirudin,Bivalirudiini,B1AD,Suorat trombiinin estäjät
+01500,A1DB,N/A,Suolen sisältöä lisäävät ulostuslääkkeet,A1D,Ulostuslääkkeet
+01501,C08CA03,isradipine,Isradipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+01502,A01AB09,miconazole,Mikonatsoli,A1GB,"Suun paikallishoito, mikrobilääkkeet"
+01503,L01CA03,vindesine,Vindesiini,L1AC,Kasvialkaloidit ja muut luonnontuotteet
+01504,S1CA,N/A,Kortikosteroidit,S1C,Anti-inflammatoriset lääkkeet
+01505,404,,,,
+01506,J01MA14,moxifloxacin,Moksifloksasiini,J1AH,Fluorokinolonit
+01507,404,,,,
+01508,D10AD01,tretinoin,Tretinoiini,D1CAB,Muut kuin mikrobilääkkeet
+01509,B05XA06,"potassium phosphate, incl. combinations with other potassium salts","Kaliumfosfaatti, sis. yhdistelmävalmisteet muiden kaliumsuolojen kanssa",B2DA,Elektrolyyttiliuokset ja aminohapot
+01510,H02AB01,betamethasone,Beetametasoni,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+01511,L1BA,N/A,Hormonit,L1B,Endokrinologiset lääkkeet
+01512,B05AA02,other plasma protein fractions,Muut plasman proteiinifraktiot,B2A,"Veren korvikkeet, infuusionesteet"
+01513,G03DC03,lynestrenol,Lynestrenoli,L1BAA,Estrogeenit ja progestageenit
+01514,404,,,,
+01515,M03BX02,tizanidine,Titsanidiini,M3B,Keskushermostoon vaikuttavat lihasrelaksantit
+01516,C10AA03,pravastatin,Pravastatiini,C1PA,Statiinit
+01517,A1ED,N/A,Suolen motiliteettia vähentävät lääkkeet  (opioidijohdokset),A1E,Ripulin ja suolistotulehdusten hoito
+01518,L02BB01,flutamide,Flutamidi,L1BBB,Antiandrogeenit
+01519,L1A,N/A,Syöpälääkkeet,L1,Syöpälääkkeet ja immuunivasteen muuntajat
+01520,D01AC02,miconazole,Mikonatsoli,D1BA,Paikalliset sienilääkkeet
+01521,D1DA,N/A,"Paikalliset antibiootit, kemoterapia",D1,Ihotautien lääkkeet
+01522,B05AA06,gelatin agents,Gelatiini-polymeerit,B2A,"Veren korvikkeet, infuusionesteet"
+01523,404,,,,
+01524,C04AE01,ergoloid mesylates,500,Check manually,
+01525,A02BC02,pantoprazole,Pantopratsoli,A1AD,Protonipumpun estäjät
+01526,L01DC03,mitomycin,Mitomysiini,L1AD,Sytotoksiset antibiootit
+01527,D07AC14,methylprednisolone aceponate,Metyyliprednisoloniaseponaatti,D1AC,Vahvat (ryhmä III)
+01528,L01XE09,ATCDDD N/A,500,Check manually,
+01529,L01XX35,anagrelide,Anagrelidi,L1AEE,Muut syöpälääkkeet
+01530,N2JB,N/A,Alkoholiriippuvuuden hoito,N2J,Riippuvuuden hoitoon tarkoitetut lääkkeet
+01531,J05AR02,lamivudine and abacavir,Lamivudiini ja abakaviiri,J1DCD,HIV-lääkkeiden yhdistelmät
+01532,R03AC02,salbutamol,Salbutamoli,R1AA,Lyhytvaikutteiset beeta-2-agonistit (SABA)
+01533,J06AA03,snake venom antiserum,Käärmeenmyrkkyantitoksiini,V2A,Myrkytysten antidootit
+01534,A1EG,N/A,Mikro-organismit,A1E,Ripulin ja suolistotulehdusten hoito
+01535,404,,,,
+01536,J01FF01,clindamycin,Klindamysiini,J1AL,Muut bakteerilääkkeet
+01537,A1AA,N/A,Antasidit,A1A,Liikahappoisuuden hoito
+01538,404,,,,
+01539,V03AE02,sevelamer,Sevelameeri,V2C,Hyperkalemia- ja hyperfosfatemialääkkeet
+01540,A11HA03,tocopherol (vit E),Tokoferoli (E-vitamiini),A3A,Vitamiinit
+01541,R02AA03,dichlorobenzyl alcohol,Diklooribentsyylialkoholi,R1FA,Kurkkukipuun käytettävät valmisteet
+01542,G03FA01,norethisterone and estrogen,Noretisteroni ja estrogeeni,G2AFA,Kiinteät yhdistelmät
+01543,A06AB02,bisacodyl,Bisakodyyli,A1DA,Suolta stimuloivat ulostuslääkkeet
+01544,404,,,,
+01545,N2D,N/A,Masennuslääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+01546,J05AF06,abacavir,Abakaviiri,J1DCB,Käänteiskopioijaentsyymin estäjät
+01547,404,,,,
+01548,C03BA08,metolazone,Metolatsoni,C1CA,Tiatsidit ja niiden kaltaiset diureetit
+01549,V03AB16,ethanol,Etanoli,V2A,Myrkytysten antidootit
+01550,B05BA03,carbohydrates,Hiilihydraatit,B2B,Parenteraaliset ravintovalmisteet
+01551,L01BB03,tioguanine,Tioguaniini,L1ABB,Puriinianalogit
+01552,A16AX03,sodium phenylbutyrate,Natriumfenyylibutyraatti,A1JC,Muut aineenvaihduntasairauksien lääkkeet
+01553,V01AA07,insects,Hyönteiset,V1,Allergeenit
+01554,N02CC02,naratriptan,Naratriptaani,N3CA,Triptaanit (5-HT1-reseptoriagonistit)
+01555,J1ABA,N/A,Laajaspektriset penisilliinit,J1AB,Penisilliinit
+01556,A05AA02,ursodeoxycholic acid,Ursodeoksikoolihappo,A1K,"Sapen eritys, sappihapot"
+01557,L01BB07,nelarabine,Nelarabiini,L1ABB,Puriinianalogit
+01558,S1G,N/A,Paikallispuudutteet,S1,Silmätautien lääkkeet
+01559,G03FA14,dydrogesterone and estrogen,Dydrogesteroni ja estrogeeni,G2AFA,Kiinteät yhdistelmät
+01560,C07FB02,metoprolol and felodipine,Metoprololi ja felodipiini,C1EB,Beetasalpaaja ja muu verenpainelääke
+01561,M01AG01,mefenamic acid,Mefenaamihappo,M1A,Tulehduskipulääkkeet
+01562,V04CF01,tuberculin,Tuberkuliini,V3A,Tuberkuliinitesti
+01563,G2AB,N/A,Paikallisesti käytettävät ehkäisimet,G2A,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet
+01564,D07AD01,clobetasol,Klobetasoli,D1AD,Erittäin vahvat (ryhmä IV)
+01565,J05AH01,zanamivir,Tsanamiviiri,J1DB,Influenssaviruslääkkeet
+01566,C08CA06,nimodipine,Nimodipiini,C1FA,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat
+01567,B01AD10,drotrecogin alfa (activated),500,Check manually,
+01568,R02AB30,gramicidin,Gramisidiini,R1FA,Kurkkukipuun käytettävät valmisteet
+01569,A1BC,N/A,Suolen motiliteettiä lisäävät lääkkeet,A1B,Suoliston toiminnallisten häiriöiden lääkkeet
+01570,N2G,N/A,Alzheimerin taudin lääkkeet,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+01571,A11HA02,pyridoxine (vit B6),Pyridoksiini (B6-vitamiini),V2A,Myrkytysten antidootit
+01572,J1AD,N/A,Sulfonamidit ja trimetopriimi,J1A,Bakteerilääkkeet
+01573,N3CB,N/A,Torajyväalkaloidit,N3C,Migreenilääkkeet (spesifiset)
+01574,J01XC01,fusidic acid,Fusidiinihappo,J1AL,Muut bakteerilääkkeet
+01575,N03AF01,carbamazepine,Karbamatsepiini,N3D,Neuropaattisen kivun lääkkeet
+01576,J07AJ52,"pertussis, purified antigen, combinations with toxoids","Hinkuyskärokote yhdistelmävalmisteena toksoidien kanssa, puhdistettu antigeeni",J2BC,Rokotteiden yhdistelmävalmisteet
+01577,N2L,N/A,Parasympatomimeetit,N2,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)"
+01578,D07XA01,hydrocortisone,Hydrokortisoni ja muut,D1AEA,Mietojen kortikosteroidien yhdistelmät
+01579,J01FA06,roxithromycin,Roksitromysiini,J1AE,Makrolidit
+01580,404,,,,
+01581,C09CA02,eprosartan,Eprosartaani,C1J,AT-reseptorin salpaajat
+01582,S1LB,N/A,Keinokyyneleet ja muut luokittelemattomat valmisteet,S1L,"Silmien kostutus, keratiitin hoito"
+01583,G03HA01,cyproterone,Syproteroni,G2AH,Antiandrogeenit
+01584,J05AG03,efavirenz,Efavirentsi,J1DCB,Käänteiskopioijaentsyymin estäjät
+01585,V03AB13,obidoxime,Obidoksiimi,V2A,Myrkytysten antidootit
+01586,S1B,N/A,Viruslääkkeet,S1,Silmätautien lääkkeet
+01587,N05AF03,chlorprothixene,Klooriprotikseeni,N2AA,Perinteiset psykoosilääkkeet
+01588,A03AB02,glycopyrronium bromide,Glykopyrroniumbromidi,A1BA,Antikolinergit
+01589,404,,,,
+01590,A11CC01,ergocalciferol,Ergokalsiferoli (D2-vitamiini),A3AA,D-vitamiinit
+01591,L1BAA,N/A,Estrogeenit ja progestageenit,L1BA,Hormonit
+01592,V08AB09,iodixanol,Jodiksanoli,V5A,Jodia sisältävät varjoaineet
+01593,404,,,,
+01594,C09DA06,candesartan and diuretics,Kandesartaani ja diureetit,C1KA,AT-reseptorin salpaaja ja diureetti
+01595,A1B,N/A,Suoliston toiminnallisten häiriöiden lääkkeet,A1,Ruoansulatuskanavan lääkkeet
+01596,J05AE08,atazanavir,Atatsanaviiri,J1DCA,Proteaasin estäjät
+01597,J01DC02,cefuroxime,Kefuroksiimi,J1ACB,Toisen polven kefalosporiinit
+01598,A04AA05,palonosetron,Palonosetroni,A1CA,Serotoniiniantagonistit
+01599,N05AL01,sulpiride,Sulpiridi,N2DD,Muut masennuslääkkeet
+01600,J1B,N/A,Sienilääkkeet,N/A JSON API,N/A JSON API
+01601,S01AA12,tobramycin,Tobramysiini,S1A,Mikrobilääkkeet
+01602,D06BB04,podophyllotoxin,Podofyllotoksiini,D1DB,Paikalliset viruslääkkeet
+01603,G04BE03,sildenafil,Sildenafiili,G1DB,Erektiohäiriöiden hoitoon tarkoitetut lääkkeet
+01604,A2AD,N/A,Ylipitkävaikutteiset,A2A,Insuliinit
+01605,H02AB13,deflazacort,Deflatsakorti,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+01606,R07AB01,doxapram,Doksapraami,R1FC,Hengitystoimintaa stimuloivat lääkkeet
+01607,J01MA01,ofloxacin,Ofloksasiini,J1AH,Fluorokinolonit
+01608,H02AB08,triamcinolone,Triamsinoloni,H1CB,"Glukokortikoidit, myös yhdistelmävalmisteet"
+01609,R01BA51,"phenylpropanolamine, combinations",500,Check manually,
+01610,N2DA,N/A,Tri- ja tetrasykliset masennuslääkkeet,N2D,Masennuslääkkeet
+01611,B01AC13,abciximab,Absiksimabi,B1ABC,Glykoproteiini IIb/IIIa -estäjät
+01612,M01AH04,parecoxib,Parekoksibi,M1B,Koksibit
+01613,G1,N/A,Gynekologiset lääkkeet,N/A JSON API,N/A JSON API
+01614,C09BB04,perindopril and amlodipine,Perindopriili ja amlodipiini,C1HB,ACE:n estäjä ja kalsiumkanavan salpaaja
+01615,C1BA,N/A,Ryhmä 1A,C1B,Rytmihäiriölääkkeet
+01616,J01MA06,norfloxacin,Norfloksasiini,J1AH,Fluorokinolonit
+01617,N05AF01,flupentixol,Flupentiksoli,N2AA,Perinteiset psykoosilääkkeet
+01618,B1CC,N/A,Muut anemialääkkeet,B1C,Anemialääkkeet
+01619,R03DA04,theophylline,Teofylliini ja sen yhdistelmävalmisteet,R1BC,Ksantiinijohdokset
+01620,P03AX03,malathion,Malationi,P1C,Ulkoloisten häätön käytettävät lääkkeet
+01621,J02AC02,itraconazole,Itrakonatsoli,D1BB,Systeemisesti käytettävät sienilääkkeet
+01622,J1BB,N/A,Systeemiset sienilääkkeet,J1B,Sienilääkkeet
+01623,C1PC,N/A,Sappihappojen sitojat,C1P,Lipidilääkkeet
+01624,H1C,N/A,Kortikosteroidit (systeeminen käyttö),H1,Hormonit (paitsi insuliinit) ja ehkäisy
+01625,C07AB04,acebutolol,Asebutololi,C1BDA,Selektiiviset beetasalpaajat
+01626,B2A,N/A,"Veren korvikkeet, infuusionesteet",B2,Veren korvikkeet ja perfuusioliuokset
+01627,A2BA,N/A,Sulfonyyliureat,A2B,Muut diabeteslääkkeet kuin insuliinit
+01628,A10BB01,glibenclamide,Glibenklamidi,A2BA,Sulfonyyliureat
+01629,J07AG01,"haemophilus influenzae B, purified antigen conjugated",haemophilus influenzae tyyppi b konjugaattirokote,J2BAB,Haemophilus influenzae b
+01630,J05AF11,telbivudine,Telbivudiini,J1DCB,Käänteiskopioijaentsyymin estäjät
+01631,A10BF01,acarbose,Akarboosi,A2BC,Alfaglukosidaasin estäjät
+01632,C03DA01,spironolactone,Spironolaktoni,C1CCA,Aldosteroniantagonistit
+01633,D06AX09,mupirocin,Mupirosiini,D1DA,"Paikalliset antibiootit, kemoterapia"
+01634,R05CA03,guaifenesin,Guaifenesiini,R1EB,Limaa irrottavat
+01635,L01AA02,chlorambucil,Klorambusiili,L1AA,Alkyloivat aineet
+01636,M2B,N/A,"Bisfosfonaatit,  yhdistelmävalmisteet",M2,Luukudokseen vaikuttavat lääkkeet
+01637,L01BC02,fluorouracil,Fluorourasiili,D1DA,"Paikalliset antibiootit, kemoterapia"
+01638,G04BD10,darifenacin,Darifenasiini,G1DA,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito)
+01639,V01AA02,grass pollen,Siitepöly,V1,Allergeenit
+01640,J01MA02,ciprofloxacin,Siprofloksasiini,J1AH,Fluorokinolonit
+01641,L02AE01,buserelin,Busereliini,L1BAB,Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet
+01642,R03AK04,salbutamol and sodium cromoglicate,500,Check manually,
+01643,M05BA04,alendronic acid,Alendronaatti,M2A,Bisfosfonaatit
+01644,L04AX01,azathioprine,Atsatiopriini,L1DX,Muut immunosuppressantit
+01645,B2B,N/A,Parenteraaliset ravintovalmisteet,B2,Veren korvikkeet ja perfuusioliuokset
+01646,L01XA01,cisplatin,Sisplatiini,L1AEA,Platinayhdisteet
+01647,R01AC07,nedocromil,Nedokromiili,R1DC,Muut allergialääkkeet kuin kortikosteroidit
+01648,V6AA,N/A,Keskushermosto,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+01649,A12AA12,ATCDDD N/A,500,Check manually,
+01650,J01CE09,procaine benzylpenicillin,Prokaiinipenisilliini,J1ABB,Beetalaktamaasiherkät penisilliinit
+01651,V03AE01,polystyrene sulfonate,Polystyreenisulfonaatti,V2C,Hyperkalemia- ja hyperfosfatemialääkkeet
+01652,404,,,,
+01653,N05CD02,nitrazepam,Nitratsepaami,N2CA,Bentsodiatsepiinit
+01654,N05AN01,lithium,Litium,N2A,Psykoosilääkkeet
+01655,N06BC01,caffeine,Kofeiini,R1FC,Hengitystoimintaa stimuloivat lääkkeet
+01656,A03BA01,atropine,Atropiini,V2G,Muut myrkytysten hoidossa käytettävät lääkkeet.
+01657,R05DA09,dextromethorphan,Dekstrometorfaani,R1EA,Yskänärsytystä hillitsevät
+01658,A02BX13,alginic acid,Algiinihappo,A1A,Liikahappoisuuden hoito
+01659,J01DD02,ceftazidime,Keftatsidiimi,J1ACC,Kolmannen polven kefalosporiinit
+01660,J05AE10,darunavir,Darunaviiri,J1DCA,Proteaasin estäjät
+01661,N02BE51,"paracetamol, combinations excl. psycholeptics","Parasetamoli, yhdistelmävalmisteet",M1C,Tulehduskipulääkkeet ja parasetamoli
+01662,N05AH03,olanzapine,Olantsapiini,N2AB,Uudemmat (epätyypilliset) psykoosilääkkeet
+01663,M1B,N/A,Koksibit,M1C,Tulehduskipulääkkeet ja parasetamoli
+01664,J1CA,N/A,Tuberkuloosilääkkeet,J1C,Mykobakteerilääkkeet
+01665,R03AK06,salmeterol and fluticasone,Salmeteroli ja flutikasoni,R1AD,Pitkävaikutteinen beeta-2-agonisti ja glukokortikoidi
+01666,G03FA17,drospirenone and estrogen,Drospirenoni ja estrogeeni,G2AFA,Kiinteät yhdistelmät
+01667,B2DA,N/A,Elektrolyyttiliuokset ja aminohapot,B2D,Infuusiokonsentraatit
+01668,A1AB,N/A,H2-reseptorisalpaajat,A1A,Liikahappoisuuden hoito
+01669,R06AE05,meclozine,Meklotsiini,A1C,Pahoinvointilääkkeet
+01670,R06AX26,fexofenadine,Feksofenadiini,R1CA,Väsyttämättömät antihistamiinit
+01671,404,,,,
+01672,D1FA,N/A,Muut pehmentävät ja suojaavat aineet,D1F,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito"
+01673,L1AD,N/A,Sytotoksiset antibiootit,L1A,Syöpälääkkeet
+01674,J2BCA,N/A,Papillooma,J2BB,Virusrokotteet
+01675,J04AM02,rifampicin and isoniazid,500,Check manually,
+01676,J01AA12,tigecycline,Tigesykliini,J1AA,Tetrasykliinit
+01677,B03BB01,folic acid,Foolihappo,B1CB,B-vitamiini ja foolihappo
+01678,N06BX03,piracetam,Pirasetaami,N2M,Muut hermostoon vaikuttavat lääkkeet
+01679,S1C,N/A,Anti-inflammatoriset lääkkeet,S1,Silmätautien lääkkeet
+01680,L01BC05,gemcitabine,Gemsitabiini,L1ABC,Pyrimidiinianalogit
+01681,C01CX08,levosimendan,Levosimendaani,C1AB,Inotrooppiset lääkkeet
+01682,H1DA,N/A,Kilpirauhashormonit,H1D,Kilpirauhasen toiminnan häiriöiden hoito
+01683,D1DB,N/A,Paikalliset viruslääkkeet,D1,Ihotautien lääkkeet
+01684,S01FB01,phenylephrine,Fenyyliefriini,S1EB,Sympatomimeetit
+01685,N05BB01,hydroxyzine,Hydroksitsiini,R1CB,Muut antihistamiinit
+01686,J05AF04,stavudine,Stavudiini,J1DCB,Käänteiskopioijaentsyymin estäjät
+01687,A02BC01,omeprazole,Omepratsoli,A1AD,Protonipumpun estäjät
+01688,S01EA03,apraclonidine,Apraklonidiini,S1DA,Sympatomimeetit
+01689,D07AA02,hydrocortisone,Hydrokortisoni,D1AA,Miedot (ryhmä I)
+01690,D03BA52,"collagenase, combinations","Kollagenaasi, yhdistelmävalmisteet",D1F,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito"
+01691,M01AC06,meloxicam,Meloksikaami,M1A,Tulehduskipulääkkeet
+01692,N01BB58,"articaine, combinations","Artikaiini, yhdistelmävalmisteet",N1B,Paikallispuudutteet
+01693,M01AE11,tiaprofenic acid,Tiaprofeenihappo,M1A,Tulehduskipulääkkeet
+01694,N07BC51,"buprenorphine, combinations","Buprenorfiini, yhdistelmävalmisteet",N2JC,Opioidiriippuvuuden hoito
+01695,G03DC02,norethisterone,Noretisteroni,G2AE,Progestageenit (muu kuin raskauden ehkäisy)
+01696,N03AX14,levetiracetam,Levetirasetaami,N2EE,Muut epilepsialääkkeet
+01697,G04BE09,vardenafil,Vardenafiili,G1DB,Erektiohäiriöiden hoitoon tarkoitetut lääkkeet
+01698,J01XD01,metronidazole,Metronidatsoli,J1AL,Muut bakteerilääkkeet
+01699,D1CAA,N/A,Mikrobilääkkeet,D1CA,Ulkoisesti käytettävät aknelääkkeet
+01700,C09DA08,olmesartan medoxomil and diuretics,Olmesartaanimedoksomiili ja diureetit,C1KA,AT-reseptorin salpaaja ja diureetti
+01701,R01AC01,cromoglicic acid,500,Check manually,
+01702,G1DF,N/A,Muut virtsaelinten sairauksien lääkkeet,G1D,Virtsaelinten sairauksien lääkkeet
+01703,B01AD07,reteplase,Reteplaasi,B1AC,Fibrinolyyttiset lääkeaineet
+01704,S1DC,N/A,Hiilihappoanhydraasin estäjät,S1D,Glaukoomalääkkeet
+01705,C09AA02,enalapril,Enalapriili,C1G,ACE:n estäjät
+01706,404,,,,
+01707,V03AB35,sugammadex,Sugammadeksi,V2A,Myrkytysten antidootit
+01708,A3B,N/A,Kivennäisaineet,A3,Vitamiinit ja kivennäisaineet
+01709,V09E,RESPIRATORY SYSTEM,Hengityselimet,V6A,Diagnostiset radioaktiiviset lääkevalmisteet
+01710,J07AL02,"pneumococcus, purified polysaccharides antigen conjugated",Pneumokokkikonjugaattirokote,J2BAE,Pneumokokki
