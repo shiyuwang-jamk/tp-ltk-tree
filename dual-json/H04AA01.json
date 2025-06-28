@@ -1,0 +1,112 @@
+{
+  "luokitusryhma": "H04AA01",
+  "koko_luokitus": [
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "H1E",
+          "kuvaus": "Haiman hormonit (glukagoni)",
+          "ylatunnus": "H1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "H04AA01",
+              "kuvaus": "Glukagoni",
+              "ylatunnus": "H1E",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "V2F",
+          "kuvaus": "Hypoglykemialääkkeet",
+          "ylatunnus": "V2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "H04AA01",
+              "kuvaus": "Glukagoni",
+              "ylatunnus": "V2F",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "tunnus": "V2G",
+          "kuvaus": "Muut myrkytysten hoidossa käytettävät lääkkeet.",
+          "ylatunnus": "V2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "H04AA01",
+              "kuvaus": "Glukagoni",
+              "ylatunnus": "V2G",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1
+    },
+    {
+      "tunnus": "H1E",
+      "kuvaus": "Haiman hormonit (glukagoni)",
+      "ylatunnus": "H1",
+      "taso": 2
+    },
+    {
+      "tunnus": "H04AA01",
+      "kuvaus": "Glukagoni",
+      "ylatunnus": "H1E",
+      "taso": 3
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1
+    },
+    {
+      "tunnus": "V2F",
+      "kuvaus": "Hypoglykemialääkkeet",
+      "ylatunnus": "V2",
+      "taso": 2
+    },
+    {
+      "tunnus": "H04AA01",
+      "kuvaus": "Glukagoni",
+      "ylatunnus": "V2F",
+      "taso": 3
+    },
+    {
+      "tunnus": "V2G",
+      "kuvaus": "Muut myrkytysten hoidossa käytettävät lääkkeet.",
+      "ylatunnus": "V2",
+      "taso": 2
+    },
+    {
+      "tunnus": "H04AA01",
+      "kuvaus": "Glukagoni",
+      "ylatunnus": "V2G",
+      "taso": 3
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "J01AA02",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "J1AA",
+          "kuvaus": "Tetrasykliinit",
+          "ylatunnus": "J1A",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "J01AA02",
+              "kuvaus": "Doksisykliini",
+              "ylatunnus": "J1AA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "P1",
+      "kuvaus": "Loisten häätö (alkueläimet, madot, syyhy)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "P1A",
+          "kuvaus": "Alkueläimiin vaikuttavat lääkkeet",
+          "ylatunnus": "P1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "P1AB",
+              "kuvaus": "Malarialääkkeet",
+              "ylatunnus": "P1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "J01AA02",
+                  "kuvaus": "Doksisykliini",
+                  "ylatunnus": "P1AB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "J1AA",
+      "kuvaus": "Tetrasykliinit",
+      "ylatunnus": "J1A",
+      "taso": 2
+    },
+    {
+      "tunnus": "J01AA02",
+      "kuvaus": "Doksisykliini",
+      "ylatunnus": "J1AA",
+      "taso": 3
+    },
+    {
+      "tunnus": "P1",
+      "kuvaus": "Loisten häätö (alkueläimet, madot, syyhy)",
+      "taso": 1
+    },
+    {
+      "tunnus": "P1A",
+      "kuvaus": "Alkueläimiin vaikuttavat lääkkeet",
+      "ylatunnus": "P1",
+      "taso": 2
+    },
+    {
+      "tunnus": "P1AB",
+      "kuvaus": "Malarialääkkeet",
+      "ylatunnus": "P1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "J01AA02",
+      "kuvaus": "Doksisykliini",
+      "ylatunnus": "P1AB",
+      "taso": 4
+    }
+  ]
+}

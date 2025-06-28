@@ -1,0 +1,113 @@
+{
+  "luokitusryhma": "L04AA24",
+  "koko_luokitus": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L2A",
+          "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L2AC",
+              "kuvaus": "Biologiset reumalääkkeet",
+              "ylatunnus": "L2A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L04AA24",
+                  "kuvaus": "Abatasepti",
+                  "ylatunnus": "L2AC",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1D",
+          "kuvaus": "Immunosuppressantit",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1DA",
+              "kuvaus": "Selektiiviset immunosuppressantit",
+              "ylatunnus": "L1D",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L04AA24",
+                  "kuvaus": "Abatasepti",
+                  "ylatunnus": "L1DA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "L2A",
+      "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L2AC",
+      "kuvaus": "Biologiset reumalääkkeet",
+      "ylatunnus": "L2A",
+      "taso": 3
+    },
+    {
+      "tunnus": "L04AA24",
+      "kuvaus": "Abatasepti",
+      "ylatunnus": "L2AC",
+      "taso": 4
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1D",
+      "kuvaus": "Immunosuppressantit",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1DA",
+      "kuvaus": "Selektiiviset immunosuppressantit",
+      "ylatunnus": "L1D",
+      "taso": 3
+    },
+    {
+      "tunnus": "L04AA24",
+      "kuvaus": "Abatasepti",
+      "ylatunnus": "L1DA",
+      "taso": 4
+    }
+  ]
+}

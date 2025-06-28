@@ -1,0 +1,113 @@
+{
+  "luokitusryhma": "B02BX04",
+  "koko_luokitus": [
+    {
+      "tunnus": "B1",
+      "kuvaus": "Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "B1B",
+          "kuvaus": "Hyytymistä edistävät lääkkeet",
+          "ylatunnus": "B1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "B1BE",
+              "kuvaus": "Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit",
+              "ylatunnus": "B1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "B02BX04",
+                  "kuvaus": "Romiplostiimi",
+                  "ylatunnus": "B1BE",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1C",
+          "kuvaus": "Immunostimulantit",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1CAB",
+              "kuvaus": "Verihiutalekasvutekijät",
+              "ylatunnus": "L1C",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "B02BX04",
+                  "kuvaus": "Romiplostiimi",
+                  "ylatunnus": "L1CAB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "B1",
+      "kuvaus": "Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "B1B",
+      "kuvaus": "Hyytymistä edistävät lääkkeet",
+      "ylatunnus": "B1",
+      "taso": 2
+    },
+    {
+      "tunnus": "B1BE",
+      "kuvaus": "Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit",
+      "ylatunnus": "B1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "B02BX04",
+      "kuvaus": "Romiplostiimi",
+      "ylatunnus": "B1BE",
+      "taso": 4
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1C",
+      "kuvaus": "Immunostimulantit",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1CAB",
+      "kuvaus": "Verihiutalekasvutekijät",
+      "ylatunnus": "L1C",
+      "taso": 3
+    },
+    {
+      "tunnus": "B02BX04",
+      "kuvaus": "Romiplostiimi",
+      "ylatunnus": "L1CAB",
+      "taso": 4
+    }
+  ]
+}

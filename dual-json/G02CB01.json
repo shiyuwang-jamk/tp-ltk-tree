@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "G02CB01",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2F",
+          "kuvaus": "Parkinsonismilääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N2FB",
+              "kuvaus": "Dopaminergiset lääkkeet",
+              "ylatunnus": "N2F",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "G02CB01",
+                  "kuvaus": "Bromokriptiini",
+                  "ylatunnus": "N2FB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "G1",
+      "kuvaus": "Gynekologiset lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "G1CB",
+          "kuvaus": "Prolaktiininestäjät",
+          "ylatunnus": "G1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "G02CB01",
+              "kuvaus": "Bromokriptiini",
+              "ylatunnus": "G1CB",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2F",
+      "kuvaus": "Parkinsonismilääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N2FB",
+      "kuvaus": "Dopaminergiset lääkkeet",
+      "ylatunnus": "N2F",
+      "taso": 3
+    },
+    {
+      "tunnus": "G02CB01",
+      "kuvaus": "Bromokriptiini",
+      "ylatunnus": "N2FB",
+      "taso": 4
+    },
+    {
+      "tunnus": "G1",
+      "kuvaus": "Gynekologiset lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "G1CB",
+      "kuvaus": "Prolaktiininestäjät",
+      "ylatunnus": "G1",
+      "taso": 2
+    },
+    {
+      "tunnus": "G02CB01",
+      "kuvaus": "Bromokriptiini",
+      "ylatunnus": "G1CB",
+      "taso": 3
+    }
+  ]
+}

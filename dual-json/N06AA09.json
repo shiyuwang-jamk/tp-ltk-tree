@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "N06AA09",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2D",
+          "kuvaus": "Masennuslääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N2DA",
+              "kuvaus": "Tri- ja tetrasykliset masennuslääkkeet",
+              "ylatunnus": "N2D",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N06AA09",
+                  "kuvaus": "Amitriptyliini",
+                  "ylatunnus": "N2DA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N3D",
+          "kuvaus": "Neuropaattisen kivun lääkkeet",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N06AA09",
+              "kuvaus": "Amitriptyliini",
+              "ylatunnus": "N3D",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2D",
+      "kuvaus": "Masennuslääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N2DA",
+      "kuvaus": "Tri- ja tetrasykliset masennuslääkkeet",
+      "ylatunnus": "N2D",
+      "taso": 3
+    },
+    {
+      "tunnus": "N06AA09",
+      "kuvaus": "Amitriptyliini",
+      "ylatunnus": "N2DA",
+      "taso": 4
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N3D",
+      "kuvaus": "Neuropaattisen kivun lääkkeet",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N06AA09",
+      "kuvaus": "Amitriptyliini",
+      "ylatunnus": "N3D",
+      "taso": 3
+    }
+  ]
+}

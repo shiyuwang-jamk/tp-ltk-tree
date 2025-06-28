@@ -1,0 +1,113 @@
+{
+  "luokitusryhma": "J02AC02",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1B",
+      "kuvaus": "Sienilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "J1BB",
+          "kuvaus": "Systeemiset sienilääkkeet",
+          "ylatunnus": "J1B",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "J1BA",
+              "kuvaus": "Imidatsoli- ja triatsolijohdokset",
+              "ylatunnus": "J1BB",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "J02AC02",
+                  "kuvaus": "Itrakonatsoli",
+                  "ylatunnus": "J1BA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1B",
+          "kuvaus": "Sienilääkkeet",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "D1BB",
+              "kuvaus": "Systeemisesti käytettävät sienilääkkeet",
+              "ylatunnus": "D1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "J02AC02",
+                  "kuvaus": "Itrakonatsoli",
+                  "ylatunnus": "D1BB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1B",
+      "kuvaus": "Sienilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "J1BB",
+      "kuvaus": "Systeemiset sienilääkkeet",
+      "ylatunnus": "J1B",
+      "taso": 2
+    },
+    {
+      "tunnus": "J1BA",
+      "kuvaus": "Imidatsoli- ja triatsolijohdokset",
+      "ylatunnus": "J1BB",
+      "taso": 3
+    },
+    {
+      "tunnus": "J02AC02",
+      "kuvaus": "Itrakonatsoli",
+      "ylatunnus": "J1BA",
+      "taso": 4
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1B",
+      "kuvaus": "Sienilääkkeet",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "D1BB",
+      "kuvaus": "Systeemisesti käytettävät sienilääkkeet",
+      "ylatunnus": "D1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "J02AC02",
+      "kuvaus": "Itrakonatsoli",
+      "ylatunnus": "D1BB",
+      "taso": 4
+    }
+  ]
+}

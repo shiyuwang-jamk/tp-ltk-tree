@@ -1,0 +1,127 @@
+{
+  "luokitusryhma": "N01AH02",
+  "koko_luokitus": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N3B",
+          "kuvaus": "Opioidit",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N3BB",
+              "kuvaus": "Vahvat opioidit",
+              "ylatunnus": "N3B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N01AH02",
+                  "kuvaus": "Alfentaniili",
+                  "ylatunnus": "N3BB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "N1",
+      "kuvaus": "Anestesia-aineet ja puudutteet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N1A",
+          "kuvaus": "Anestesia-aineet",
+          "ylatunnus": "N1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N1AA",
+              "kuvaus": "Yleisanesteetit",
+              "ylatunnus": "N1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N1AAC",
+                  "kuvaus": "Opioidianesteetit",
+                  "ylatunnus": "N1AA",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "N01AH02",
+                      "kuvaus": "Alfentaniili",
+                      "ylatunnus": "N1AAC",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N3B",
+      "kuvaus": "Opioidit",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N3BB",
+      "kuvaus": "Vahvat opioidit",
+      "ylatunnus": "N3B",
+      "taso": 3
+    },
+    {
+      "tunnus": "N01AH02",
+      "kuvaus": "Alfentaniili",
+      "ylatunnus": "N3BB",
+      "taso": 4
+    },
+    {
+      "tunnus": "N1",
+      "kuvaus": "Anestesia-aineet ja puudutteet",
+      "taso": 1
+    },
+    {
+      "tunnus": "N1A",
+      "kuvaus": "Anestesia-aineet",
+      "ylatunnus": "N1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N1AA",
+      "kuvaus": "Yleisanesteetit",
+      "ylatunnus": "N1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "N1AAC",
+      "kuvaus": "Opioidianesteetit",
+      "ylatunnus": "N1AA",
+      "taso": 4
+    },
+    {
+      "tunnus": "N01AH02",
+      "kuvaus": "Alfentaniili",
+      "ylatunnus": "N1AAC",
+      "taso": 5
+    }
+  ]
+}

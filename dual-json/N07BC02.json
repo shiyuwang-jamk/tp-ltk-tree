@@ -1,0 +1,113 @@
+{
+  "luokitusryhma": "N07BC02",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2J",
+          "kuvaus": "Riippuvuuden hoitoon tarkoitetut lääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N2JC",
+              "kuvaus": "Opioidiriippuvuuden hoito",
+              "ylatunnus": "N2J",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N07BC02",
+                  "kuvaus": "Metadoni",
+                  "ylatunnus": "N2JC",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N3B",
+          "kuvaus": "Opioidit",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N3BB",
+              "kuvaus": "Vahvat opioidit",
+              "ylatunnus": "N3B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N07BC02",
+                  "kuvaus": "Metadoni",
+                  "ylatunnus": "N3BB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2J",
+      "kuvaus": "Riippuvuuden hoitoon tarkoitetut lääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N2JC",
+      "kuvaus": "Opioidiriippuvuuden hoito",
+      "ylatunnus": "N2J",
+      "taso": 3
+    },
+    {
+      "tunnus": "N07BC02",
+      "kuvaus": "Metadoni",
+      "ylatunnus": "N2JC",
+      "taso": 4
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N3B",
+      "kuvaus": "Opioidit",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N3BB",
+      "kuvaus": "Vahvat opioidit",
+      "ylatunnus": "N3B",
+      "taso": 3
+    },
+    {
+      "tunnus": "N07BC02",
+      "kuvaus": "Metadoni",
+      "ylatunnus": "N3BB",
+      "taso": 4
+    }
+  ]
+}

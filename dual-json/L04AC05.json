@@ -1,0 +1,219 @@
+{
+  "luokitusryhma": "L04AC05",
+  "koko_luokitus": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L2A",
+          "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L2AC",
+              "kuvaus": "Biologiset reumalääkkeet",
+              "ylatunnus": "L2A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L2ACB",
+                  "kuvaus": "Interleukiinien estäjät",
+                  "ylatunnus": "L2AC",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "L04AC05",
+                      "kuvaus": "Ustekinumabi",
+                      "ylatunnus": "L2ACB",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A1E",
+          "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+          "ylatunnus": "A1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A1EFA",
+              "kuvaus": "IBD:n immunosuppressiiviset lääkkeet",
+              "ylatunnus": "A1E",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L04AC05",
+                  "kuvaus": "Ustekinumabi",
+                  "ylatunnus": "A1EFA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1D",
+          "kuvaus": "Immunosuppressantit",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1DC",
+              "kuvaus": "Interleukiinien estäjät",
+              "ylatunnus": "L1D",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L04AC05",
+                  "kuvaus": "Ustekinumabi",
+                  "ylatunnus": "L1DC",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1E",
+          "kuvaus": "Psoriaasilääkkeet",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L04AC05",
+              "kuvaus": "Ustekinumabi",
+              "ylatunnus": "D1E",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "L2A",
+      "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L2AC",
+      "kuvaus": "Biologiset reumalääkkeet",
+      "ylatunnus": "L2A",
+      "taso": 3
+    },
+    {
+      "tunnus": "L2ACB",
+      "kuvaus": "Interleukiinien estäjät",
+      "ylatunnus": "L2AC",
+      "taso": 4
+    },
+    {
+      "tunnus": "L04AC05",
+      "kuvaus": "Ustekinumabi",
+      "ylatunnus": "L2ACB",
+      "taso": 5
+    },
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A1E",
+      "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+      "ylatunnus": "A1",
+      "taso": 2
+    },
+    {
+      "tunnus": "A1EFA",
+      "kuvaus": "IBD:n immunosuppressiiviset lääkkeet",
+      "ylatunnus": "A1E",
+      "taso": 3
+    },
+    {
+      "tunnus": "L04AC05",
+      "kuvaus": "Ustekinumabi",
+      "ylatunnus": "A1EFA",
+      "taso": 4
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1D",
+      "kuvaus": "Immunosuppressantit",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1DC",
+      "kuvaus": "Interleukiinien estäjät",
+      "ylatunnus": "L1D",
+      "taso": 3
+    },
+    {
+      "tunnus": "L04AC05",
+      "kuvaus": "Ustekinumabi",
+      "ylatunnus": "L1DC",
+      "taso": 4
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1E",
+      "kuvaus": "Psoriaasilääkkeet",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L04AC05",
+      "kuvaus": "Ustekinumabi",
+      "ylatunnus": "D1E",
+      "taso": 3
+    }
+  ]
+}

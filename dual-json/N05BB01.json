@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "N05BB01",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2B",
+          "kuvaus": "Rauhoittavat lääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N05BB01",
+              "kuvaus": "Hydroksitsiini",
+              "ylatunnus": "N2B",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "R1",
+      "kuvaus": "Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "R1C",
+          "kuvaus": "Antihistamiinit",
+          "ylatunnus": "R1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "R1CB",
+              "kuvaus": "Muut antihistamiinit",
+              "ylatunnus": "R1C",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N05BB01",
+                  "kuvaus": "Hydroksitsiini",
+                  "ylatunnus": "R1CB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2B",
+      "kuvaus": "Rauhoittavat lääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N05BB01",
+      "kuvaus": "Hydroksitsiini",
+      "ylatunnus": "N2B",
+      "taso": 3
+    },
+    {
+      "tunnus": "R1",
+      "kuvaus": "Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "R1C",
+      "kuvaus": "Antihistamiinit",
+      "ylatunnus": "R1",
+      "taso": 2
+    },
+    {
+      "tunnus": "R1CB",
+      "kuvaus": "Muut antihistamiinit",
+      "ylatunnus": "R1C",
+      "taso": 3
+    },
+    {
+      "tunnus": "N05BB01",
+      "kuvaus": "Hydroksitsiini",
+      "ylatunnus": "R1CB",
+      "taso": 4
+    }
+  ]
+}

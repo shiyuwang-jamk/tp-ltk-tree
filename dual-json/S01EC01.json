@@ -1,0 +1,113 @@
+{
+  "luokitusryhma": "S01EC01",
+  "koko_luokitus": [
+    {
+      "tunnus": "C1",
+      "kuvaus": "Sydän- ja verenkiertoelimistön lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "C1U",
+          "kuvaus": "Verenpainelääkkeet",
+          "ylatunnus": "C1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "C1C",
+              "kuvaus": "Diureetit",
+              "ylatunnus": "C1U",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "S01EC01",
+                  "kuvaus": "Asetatsolamidi",
+                  "ylatunnus": "C1C",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "S1",
+      "kuvaus": "Silmätautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "S1D",
+          "kuvaus": "Glaukoomalääkkeet",
+          "ylatunnus": "S1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "S1DC",
+              "kuvaus": "Hiilihappoanhydraasin estäjät",
+              "ylatunnus": "S1D",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "S01EC01",
+                  "kuvaus": "Asetatsolamidi",
+                  "ylatunnus": "S1DC",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "C1",
+      "kuvaus": "Sydän- ja verenkiertoelimistön lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "C1U",
+      "kuvaus": "Verenpainelääkkeet",
+      "ylatunnus": "C1",
+      "taso": 2
+    },
+    {
+      "tunnus": "C1C",
+      "kuvaus": "Diureetit",
+      "ylatunnus": "C1U",
+      "taso": 3
+    },
+    {
+      "tunnus": "S01EC01",
+      "kuvaus": "Asetatsolamidi",
+      "ylatunnus": "C1C",
+      "taso": 4
+    },
+    {
+      "tunnus": "S1",
+      "kuvaus": "Silmätautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "S1D",
+      "kuvaus": "Glaukoomalääkkeet",
+      "ylatunnus": "S1",
+      "taso": 2
+    },
+    {
+      "tunnus": "S1DC",
+      "kuvaus": "Hiilihappoanhydraasin estäjät",
+      "ylatunnus": "S1D",
+      "taso": 3
+    },
+    {
+      "tunnus": "S01EC01",
+      "kuvaus": "Asetatsolamidi",
+      "ylatunnus": "S1DC",
+      "taso": 4
+    }
+  ]
+}

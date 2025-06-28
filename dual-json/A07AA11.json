@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "A07AA11",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "J1AL",
+          "kuvaus": "Muut bakteerilääkkeet",
+          "ylatunnus": "J1A",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A07AA11",
+              "kuvaus": "Rifaksimiini ",
+              "ylatunnus": "J1AL",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A1E",
+          "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+          "ylatunnus": "A1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A1EA",
+              "kuvaus": "Suolistoantibiootit",
+              "ylatunnus": "A1E",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "A07AA11",
+                  "kuvaus": "Rifaksimiini ",
+                  "ylatunnus": "A1EA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "J1AL",
+      "kuvaus": "Muut bakteerilääkkeet",
+      "ylatunnus": "J1A",
+      "taso": 2
+    },
+    {
+      "tunnus": "A07AA11",
+      "kuvaus": "Rifaksimiini ",
+      "ylatunnus": "J1AL",
+      "taso": 3
+    },
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A1E",
+      "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+      "ylatunnus": "A1",
+      "taso": 2
+    },
+    {
+      "tunnus": "A1EA",
+      "kuvaus": "Suolistoantibiootit",
+      "ylatunnus": "A1E",
+      "taso": 3
+    },
+    {
+      "tunnus": "A07AA11",
+      "kuvaus": "Rifaksimiini ",
+      "ylatunnus": "A1EA",
+      "taso": 4
+    }
+  ]
+}

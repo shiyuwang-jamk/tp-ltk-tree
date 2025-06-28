@@ -1,0 +1,166 @@
+{
+  "luokitusryhma": "L04AC03",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1D",
+      "kuvaus": "Viruslääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "J1DBA",
+          "kuvaus": "COVID-19-lääkkeet",
+          "ylatunnus": "J1D",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L04AC03",
+              "kuvaus": "Anakinra",
+              "ylatunnus": "J1DBA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L2A",
+          "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L2AC",
+              "kuvaus": "Biologiset reumalääkkeet",
+              "ylatunnus": "L2A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L2ACB",
+                  "kuvaus": "Interleukiinien estäjät",
+                  "ylatunnus": "L2AC",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "L04AC03",
+                      "kuvaus": "Anakinra",
+                      "ylatunnus": "L2ACB",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1D",
+          "kuvaus": "Immunosuppressantit",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1DC",
+              "kuvaus": "Interleukiinien estäjät",
+              "ylatunnus": "L1D",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L04AC03",
+                  "kuvaus": "Anakinra",
+                  "ylatunnus": "L1DC",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1D",
+      "kuvaus": "Viruslääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "J1DBA",
+      "kuvaus": "COVID-19-lääkkeet",
+      "ylatunnus": "J1D",
+      "taso": 2
+    },
+    {
+      "tunnus": "L04AC03",
+      "kuvaus": "Anakinra",
+      "ylatunnus": "J1DBA",
+      "taso": 3
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "L2A",
+      "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L2AC",
+      "kuvaus": "Biologiset reumalääkkeet",
+      "ylatunnus": "L2A",
+      "taso": 3
+    },
+    {
+      "tunnus": "L2ACB",
+      "kuvaus": "Interleukiinien estäjät",
+      "ylatunnus": "L2AC",
+      "taso": 4
+    },
+    {
+      "tunnus": "L04AC03",
+      "kuvaus": "Anakinra",
+      "ylatunnus": "L2ACB",
+      "taso": 5
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1D",
+      "kuvaus": "Immunosuppressantit",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1DC",
+      "kuvaus": "Interleukiinien estäjät",
+      "ylatunnus": "L1D",
+      "taso": 3
+    },
+    {
+      "tunnus": "L04AC03",
+      "kuvaus": "Anakinra",
+      "ylatunnus": "L1DC",
+      "taso": 4
+    }
+  ]
+}

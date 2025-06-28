@@ -1,0 +1,152 @@
+{
+  "luokitusryhma": "B02BA01",
+  "koko_luokitus": [
+    {
+      "tunnus": "B1",
+      "kuvaus": "Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "B1B",
+          "kuvaus": "Hyytymistä edistävät lääkkeet",
+          "ylatunnus": "B1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "B1BB",
+              "kuvaus": "K-vitamiini (fytomenadioni)",
+              "ylatunnus": "B1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "B02BA01",
+                  "kuvaus": "Fytomenadioni",
+                  "ylatunnus": "B1BB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "A3",
+      "kuvaus": "Vitamiinit ja kivennäisaineet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A3A",
+          "kuvaus": "Vitamiinit",
+          "ylatunnus": "A3",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "B1BB",
+              "kuvaus": "K-vitamiini (fytomenadioni)",
+              "ylatunnus": "A3A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "B02BA01",
+                  "kuvaus": "Fytomenadioni",
+                  "ylatunnus": "B1BB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "V2A",
+          "kuvaus": "Myrkytysten antidootit",
+          "ylatunnus": "V2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "B02BA01",
+              "kuvaus": "Fytomenadioni",
+              "ylatunnus": "V2A",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "B1",
+      "kuvaus": "Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "B1B",
+      "kuvaus": "Hyytymistä edistävät lääkkeet",
+      "ylatunnus": "B1",
+      "taso": 2
+    },
+    {
+      "tunnus": "B1BB",
+      "kuvaus": "K-vitamiini (fytomenadioni)",
+      "ylatunnus": "B1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "B02BA01",
+      "kuvaus": "Fytomenadioni",
+      "ylatunnus": "B1BB",
+      "taso": 4
+    },
+    {
+      "tunnus": "A3",
+      "kuvaus": "Vitamiinit ja kivennäisaineet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A3A",
+      "kuvaus": "Vitamiinit",
+      "ylatunnus": "A3",
+      "taso": 2
+    },
+    {
+      "tunnus": "B1BB",
+      "kuvaus": "K-vitamiini (fytomenadioni)",
+      "ylatunnus": "A3A",
+      "taso": 3
+    },
+    {
+      "tunnus": "B02BA01",
+      "kuvaus": "Fytomenadioni",
+      "ylatunnus": "B1BB",
+      "taso": 4
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1
+    },
+    {
+      "tunnus": "V2A",
+      "kuvaus": "Myrkytysten antidootit",
+      "ylatunnus": "V2",
+      "taso": 2
+    },
+    {
+      "tunnus": "B02BA01",
+      "kuvaus": "Fytomenadioni",
+      "ylatunnus": "V2A",
+      "taso": 3
+    }
+  ]
+}

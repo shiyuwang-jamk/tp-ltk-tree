@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "D01AE14",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1B",
+      "kuvaus": "Sienilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1BA",
+          "kuvaus": "Paikalliset sienilääkkeet",
+          "ylatunnus": "J1B",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "D01AE14",
+              "kuvaus": "Siklopiroksi",
+              "ylatunnus": "D1BA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1B",
+          "kuvaus": "Sienilääkkeet",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "D1BA",
+              "kuvaus": "Paikalliset sienilääkkeet",
+              "ylatunnus": "D1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "D01AE14",
+                  "kuvaus": "Siklopiroksi",
+                  "ylatunnus": "D1BA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1B",
+      "kuvaus": "Sienilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1BA",
+      "kuvaus": "Paikalliset sienilääkkeet",
+      "ylatunnus": "J1B",
+      "taso": 2
+    },
+    {
+      "tunnus": "D01AE14",
+      "kuvaus": "Siklopiroksi",
+      "ylatunnus": "D1BA",
+      "taso": 3
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1B",
+      "kuvaus": "Sienilääkkeet",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "D1BA",
+      "kuvaus": "Paikalliset sienilääkkeet",
+      "ylatunnus": "D1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "D01AE14",
+      "kuvaus": "Siklopiroksi",
+      "ylatunnus": "D1BA",
+      "taso": 4
+    }
+  ]
+}

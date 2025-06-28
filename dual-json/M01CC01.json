@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "M01CC01",
+  "koko_luokitus": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L2A",
+          "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L2AB",
+              "kuvaus": "Perinteiset reumalääkkeet (DMARDs)",
+              "ylatunnus": "L2A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "M01CC01",
+                  "kuvaus": "Penisillamiini",
+                  "ylatunnus": "L2AB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "V2G",
+          "kuvaus": "Muut myrkytysten hoidossa käytettävät lääkkeet.",
+          "ylatunnus": "V2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "M01CC01",
+              "kuvaus": "Penisillamiini",
+              "ylatunnus": "V2G",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "L2A",
+      "kuvaus": "Reuman ja systeemisten sidekudossairauksien lääkkeet",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L2AB",
+      "kuvaus": "Perinteiset reumalääkkeet (DMARDs)",
+      "ylatunnus": "L2A",
+      "taso": 3
+    },
+    {
+      "tunnus": "M01CC01",
+      "kuvaus": "Penisillamiini",
+      "ylatunnus": "L2AB",
+      "taso": 4
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1
+    },
+    {
+      "tunnus": "V2G",
+      "kuvaus": "Muut myrkytysten hoidossa käytettävät lääkkeet.",
+      "ylatunnus": "V2",
+      "taso": 2
+    },
+    {
+      "tunnus": "M01CC01",
+      "kuvaus": "Penisillamiini",
+      "ylatunnus": "V2G",
+      "taso": 3
+    }
+  ]
+}

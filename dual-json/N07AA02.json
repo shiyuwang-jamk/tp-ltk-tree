@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "N07AA02",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2L",
+          "kuvaus": "Parasympatomimeetit",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N07AA02",
+              "kuvaus": "Pyridostigmiini",
+              "ylatunnus": "N2L",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A1B",
+          "kuvaus": "Suoliston toiminnallisten häiriöiden lääkkeet",
+          "ylatunnus": "A1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A1BC",
+              "kuvaus": "Suolen motiliteettiä lisäävät lääkkeet",
+              "ylatunnus": "A1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N07AA02",
+                  "kuvaus": "Pyridostigmiini",
+                  "ylatunnus": "A1BC",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2L",
+      "kuvaus": "Parasympatomimeetit",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N07AA02",
+      "kuvaus": "Pyridostigmiini",
+      "ylatunnus": "N2L",
+      "taso": 3
+    },
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A1B",
+      "kuvaus": "Suoliston toiminnallisten häiriöiden lääkkeet",
+      "ylatunnus": "A1",
+      "taso": 2
+    },
+    {
+      "tunnus": "A1BC",
+      "kuvaus": "Suolen motiliteettiä lisäävät lääkkeet",
+      "ylatunnus": "A1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "N07AA02",
+      "kuvaus": "Pyridostigmiini",
+      "ylatunnus": "A1BC",
+      "taso": 4
+    }
+  ]
+}

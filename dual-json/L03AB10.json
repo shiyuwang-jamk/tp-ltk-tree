@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "L03AB10",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1D",
+      "kuvaus": "Viruslääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "J1DA",
+          "kuvaus": "C-hepatiittilääkkeet",
+          "ylatunnus": "J1D",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L03AB10",
+              "kuvaus": "Peginterferonialfa-2b",
+              "ylatunnus": "J1DA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1C",
+          "kuvaus": "Immunostimulantit",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1CB",
+              "kuvaus": "Interferonit",
+              "ylatunnus": "L1C",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L03AB10",
+                  "kuvaus": "Peginterferonialfa-2b",
+                  "ylatunnus": "L1CB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1D",
+      "kuvaus": "Viruslääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "J1DA",
+      "kuvaus": "C-hepatiittilääkkeet",
+      "ylatunnus": "J1D",
+      "taso": 2
+    },
+    {
+      "tunnus": "L03AB10",
+      "kuvaus": "Peginterferonialfa-2b",
+      "ylatunnus": "J1DA",
+      "taso": 3
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1C",
+      "kuvaus": "Immunostimulantit",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1CB",
+      "kuvaus": "Interferonit",
+      "ylatunnus": "L1C",
+      "taso": 3
+    },
+    {
+      "tunnus": "L03AB10",
+      "kuvaus": "Peginterferonialfa-2b",
+      "ylatunnus": "L1CB",
+      "taso": 4
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "R03DX05",
+  "koko_luokitus": [
+    {
+      "tunnus": "R1",
+      "kuvaus": "Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "R1K",
+          "kuvaus": "Astma/COPD -lääkkeet",
+          "ylatunnus": "R1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "R1J",
+              "kuvaus": "Monoklonaaliset vasta-aineet",
+              "ylatunnus": "R1K",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "R03DX05",
+                  "kuvaus": "Omalitsumabi",
+                  "ylatunnus": "R1J",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1HD",
+          "kuvaus": "Muut ihotautilääkkeet",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "R03DX05",
+              "kuvaus": "Omalitsumabi",
+              "ylatunnus": "D1HD",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "R1",
+      "kuvaus": "Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "R1K",
+      "kuvaus": "Astma/COPD -lääkkeet",
+      "ylatunnus": "R1",
+      "taso": 2
+    },
+    {
+      "tunnus": "R1J",
+      "kuvaus": "Monoklonaaliset vasta-aineet",
+      "ylatunnus": "R1K",
+      "taso": 3
+    },
+    {
+      "tunnus": "R03DX05",
+      "kuvaus": "Omalitsumabi",
+      "ylatunnus": "R1J",
+      "taso": 4
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1HD",
+      "kuvaus": "Muut ihotautilääkkeet",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "R03DX05",
+      "kuvaus": "Omalitsumabi",
+      "ylatunnus": "D1HD",
+      "taso": 3
+    }
+  ]
+}

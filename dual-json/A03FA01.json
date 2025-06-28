@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "A03FA01",
+  "koko_luokitus": [
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A1B",
+          "kuvaus": "Suoliston toiminnallisten häiriöiden lääkkeet",
+          "ylatunnus": "A1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A1BC",
+              "kuvaus": "Suolen motiliteettiä lisäävät lääkkeet",
+              "ylatunnus": "A1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "A03FA01",
+                  "kuvaus": "Metoklopramidi",
+                  "ylatunnus": "A1BC",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "A1C",
+      "kuvaus": "Pahoinvointilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A03FA01",
+          "kuvaus": "Metoklopramidi",
+          "ylatunnus": "A1C",
+          "taso": 2,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A1B",
+      "kuvaus": "Suoliston toiminnallisten häiriöiden lääkkeet",
+      "ylatunnus": "A1",
+      "taso": 2
+    },
+    {
+      "tunnus": "A1BC",
+      "kuvaus": "Suolen motiliteettiä lisäävät lääkkeet",
+      "ylatunnus": "A1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "A03FA01",
+      "kuvaus": "Metoklopramidi",
+      "ylatunnus": "A1BC",
+      "taso": 4
+    },
+    {
+      "tunnus": "A1C",
+      "kuvaus": "Pahoinvointilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A03FA01",
+      "kuvaus": "Metoklopramidi",
+      "ylatunnus": "A1C",
+      "taso": 2
+    }
+  ]
+}

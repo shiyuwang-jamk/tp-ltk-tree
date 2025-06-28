@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "M03AX01",
+  "koko_luokitus": [
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1HD",
+          "kuvaus": "Muut ihotautilääkkeet",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "M03AX01",
+              "kuvaus": "Botuliinitoksiini",
+              "ylatunnus": "D1HD",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "M3",
+      "kuvaus": "Lihasrelaksantit",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "M3A",
+          "kuvaus": "Perifeeriset lihasrelaksantit",
+          "ylatunnus": "M3",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "M03AX01",
+              "kuvaus": "Botuliinitoksiini",
+              "ylatunnus": "M3A",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1HD",
+      "kuvaus": "Muut ihotautilääkkeet",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "M03AX01",
+      "kuvaus": "Botuliinitoksiini",
+      "ylatunnus": "D1HD",
+      "taso": 3
+    },
+    {
+      "tunnus": "M3",
+      "kuvaus": "Lihasrelaksantit",
+      "taso": 1
+    },
+    {
+      "tunnus": "M3A",
+      "kuvaus": "Perifeeriset lihasrelaksantit",
+      "ylatunnus": "M3",
+      "taso": 2
+    },
+    {
+      "tunnus": "M03AX01",
+      "kuvaus": "Botuliinitoksiini",
+      "ylatunnus": "M3A",
+      "taso": 3
+    }
+  ]
+}

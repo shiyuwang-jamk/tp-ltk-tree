@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "L03AX13",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2O",
+          "kuvaus": "MS-taudin lääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L03AX13",
+              "kuvaus": "Glatirameeriasetaatti",
+              "ylatunnus": "N2O",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1C",
+          "kuvaus": "Immunostimulantit",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1CD",
+              "kuvaus": "Muut immunostimulantit",
+              "ylatunnus": "L1C",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L03AX13",
+                  "kuvaus": "Glatirameeriasetaatti",
+                  "ylatunnus": "L1CD",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2O",
+      "kuvaus": "MS-taudin lääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "L03AX13",
+      "kuvaus": "Glatirameeriasetaatti",
+      "ylatunnus": "N2O",
+      "taso": 3
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1C",
+      "kuvaus": "Immunostimulantit",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1CD",
+      "kuvaus": "Muut immunostimulantit",
+      "ylatunnus": "L1C",
+      "taso": 3
+    },
+    {
+      "tunnus": "L03AX13",
+      "kuvaus": "Glatirameeriasetaatti",
+      "ylatunnus": "L1CD",
+      "taso": 4
+    }
+  ]
+}

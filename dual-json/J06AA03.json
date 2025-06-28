@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "J06AA03",
+  "koko_luokitus": [
+    {
+      "tunnus": "J2",
+      "kuvaus": "Immunoseerumit, immunoglobuliinit, rokotteet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "J2A",
+          "kuvaus": "Immunoseerumit ja immunoglobuliinit",
+          "ylatunnus": "J2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "J06AA03",
+              "kuvaus": "Käärmeenmyrkkyantitoksiini",
+              "ylatunnus": "J2A",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "V2A",
+          "kuvaus": "Myrkytysten antidootit",
+          "ylatunnus": "V2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "J06AA03",
+              "kuvaus": "Käärmeenmyrkkyantitoksiini",
+              "ylatunnus": "V2A",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J2",
+      "kuvaus": "Immunoseerumit, immunoglobuliinit, rokotteet",
+      "taso": 1
+    },
+    {
+      "tunnus": "J2A",
+      "kuvaus": "Immunoseerumit ja immunoglobuliinit",
+      "ylatunnus": "J2",
+      "taso": 2
+    },
+    {
+      "tunnus": "J06AA03",
+      "kuvaus": "Käärmeenmyrkkyantitoksiini",
+      "ylatunnus": "J2A",
+      "taso": 3
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1
+    },
+    {
+      "tunnus": "V2A",
+      "kuvaus": "Myrkytysten antidootit",
+      "ylatunnus": "V2",
+      "taso": 2
+    },
+    {
+      "tunnus": "J06AA03",
+      "kuvaus": "Käärmeenmyrkkyantitoksiini",
+      "ylatunnus": "V2A",
+      "taso": 3
+    }
+  ]
+}

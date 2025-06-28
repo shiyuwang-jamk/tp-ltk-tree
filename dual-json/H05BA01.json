@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "H05BA01",
+  "koko_luokitus": [
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "H1F",
+          "kuvaus": "Kalsiumtasapainoa säätelevät lääkkeet",
+          "ylatunnus": "H1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "H1FB",
+              "kuvaus": "Lisäkilpirauhasen toimintaa estävät lääkkeet",
+              "ylatunnus": "H1F",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "H05BA01",
+                  "kuvaus": "Kalsitoniini (lohen synteettinen)",
+                  "ylatunnus": "H1FB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "M2",
+      "kuvaus": "Luukudokseen vaikuttavat lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "M2C",
+          "kuvaus": "Muut luukudokseen vaikuttavat lääkkeet",
+          "ylatunnus": "M2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "H05BA01",
+              "kuvaus": "Kalsitoniini (lohen synteettinen)",
+              "ylatunnus": "M2C",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1
+    },
+    {
+      "tunnus": "H1F",
+      "kuvaus": "Kalsiumtasapainoa säätelevät lääkkeet",
+      "ylatunnus": "H1",
+      "taso": 2
+    },
+    {
+      "tunnus": "H1FB",
+      "kuvaus": "Lisäkilpirauhasen toimintaa estävät lääkkeet",
+      "ylatunnus": "H1F",
+      "taso": 3
+    },
+    {
+      "tunnus": "H05BA01",
+      "kuvaus": "Kalsitoniini (lohen synteettinen)",
+      "ylatunnus": "H1FB",
+      "taso": 4
+    },
+    {
+      "tunnus": "M2",
+      "kuvaus": "Luukudokseen vaikuttavat lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "M2C",
+      "kuvaus": "Muut luukudokseen vaikuttavat lääkkeet",
+      "ylatunnus": "M2",
+      "taso": 2
+    },
+    {
+      "tunnus": "H05BA01",
+      "kuvaus": "Kalsitoniini (lohen synteettinen)",
+      "ylatunnus": "M2C",
+      "taso": 3
+    }
+  ]
+}

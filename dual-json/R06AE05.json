@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "R06AE05",
+  "koko_luokitus": [
+    {
+      "tunnus": "R1",
+      "kuvaus": "Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "R1C",
+          "kuvaus": "Antihistamiinit",
+          "ylatunnus": "R1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "R1CB",
+              "kuvaus": "Muut antihistamiinit",
+              "ylatunnus": "R1C",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "R06AE05",
+                  "kuvaus": "Meklotsiini",
+                  "ylatunnus": "R1CB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "A1C",
+      "kuvaus": "Pahoinvointilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "R06AE05",
+          "kuvaus": "Meklotsiini",
+          "ylatunnus": "A1C",
+          "taso": 2,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "R1",
+      "kuvaus": "Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "R1C",
+      "kuvaus": "Antihistamiinit",
+      "ylatunnus": "R1",
+      "taso": 2
+    },
+    {
+      "tunnus": "R1CB",
+      "kuvaus": "Muut antihistamiinit",
+      "ylatunnus": "R1C",
+      "taso": 3
+    },
+    {
+      "tunnus": "R06AE05",
+      "kuvaus": "Meklotsiini",
+      "ylatunnus": "R1CB",
+      "taso": 4
+    },
+    {
+      "tunnus": "A1C",
+      "kuvaus": "Pahoinvointilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "R06AE05",
+      "kuvaus": "Meklotsiini",
+      "ylatunnus": "A1C",
+      "taso": 2
+    }
+  ]
+}

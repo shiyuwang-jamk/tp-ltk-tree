@@ -1,0 +1,168 @@
+{
+  "luokitusryhma": "N05CD08",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2C",
+          "kuvaus": "Unilääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N2CA",
+              "kuvaus": "Bentsodiatsepiinit",
+              "ylatunnus": "N2C",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N05CD08",
+                  "kuvaus": "Midatsolaami",
+                  "ylatunnus": "N2CA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tunnus": "N2E",
+          "kuvaus": "Epilepsialääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N2EB",
+              "kuvaus": "Bentsodiatsepiinit",
+              "ylatunnus": "N2E",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N05CD08",
+                  "kuvaus": "Midatsolaami",
+                  "ylatunnus": "N2EB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "N1",
+      "kuvaus": "Anestesia-aineet ja puudutteet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N1A",
+          "kuvaus": "Anestesia-aineet",
+          "ylatunnus": "N1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N1AA",
+              "kuvaus": "Yleisanesteetit",
+              "ylatunnus": "N1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N1AAD",
+                  "kuvaus": "Muut yleisanesteetit",
+                  "ylatunnus": "N1AA",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "N05CD08",
+                      "kuvaus": "Midatsolaami",
+                      "ylatunnus": "N1AAD",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2C",
+      "kuvaus": "Unilääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N2CA",
+      "kuvaus": "Bentsodiatsepiinit",
+      "ylatunnus": "N2C",
+      "taso": 3
+    },
+    {
+      "tunnus": "N05CD08",
+      "kuvaus": "Midatsolaami",
+      "ylatunnus": "N2CA",
+      "taso": 4
+    },
+    {
+      "tunnus": "N2E",
+      "kuvaus": "Epilepsialääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N2EB",
+      "kuvaus": "Bentsodiatsepiinit",
+      "ylatunnus": "N2E",
+      "taso": 3
+    },
+    {
+      "tunnus": "N05CD08",
+      "kuvaus": "Midatsolaami",
+      "ylatunnus": "N2EB",
+      "taso": 4
+    },
+    {
+      "tunnus": "N1",
+      "kuvaus": "Anestesia-aineet ja puudutteet",
+      "taso": 1
+    },
+    {
+      "tunnus": "N1A",
+      "kuvaus": "Anestesia-aineet",
+      "ylatunnus": "N1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N1AA",
+      "kuvaus": "Yleisanesteetit",
+      "ylatunnus": "N1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "N1AAD",
+      "kuvaus": "Muut yleisanesteetit",
+      "ylatunnus": "N1AA",
+      "taso": 4
+    },
+    {
+      "tunnus": "N05CD08",
+      "kuvaus": "Midatsolaami",
+      "ylatunnus": "N1AAD",
+      "taso": 5
+    }
+  ]
+}

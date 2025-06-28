@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "L01DB07",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2O",
+          "kuvaus": "MS-taudin lääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L01DB07",
+              "kuvaus": "Mitoksantroni",
+              "ylatunnus": "N2O",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1A",
+          "kuvaus": "Syöpälääkkeet",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1AD",
+              "kuvaus": "Sytotoksiset antibiootit",
+              "ylatunnus": "L1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L01DB07",
+                  "kuvaus": "Mitoksantroni",
+                  "ylatunnus": "L1AD",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2O",
+      "kuvaus": "MS-taudin lääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "L01DB07",
+      "kuvaus": "Mitoksantroni",
+      "ylatunnus": "N2O",
+      "taso": 3
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1A",
+      "kuvaus": "Syöpälääkkeet",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1AD",
+      "kuvaus": "Sytotoksiset antibiootit",
+      "ylatunnus": "L1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "L01DB07",
+      "kuvaus": "Mitoksantroni",
+      "ylatunnus": "L1AD",
+      "taso": 4
+    }
+  ]
+}

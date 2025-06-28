@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "D06BB04",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1D",
+      "kuvaus": "Viruslääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1DB",
+          "kuvaus": "Paikalliset viruslääkkeet",
+          "ylatunnus": "J1D",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "D06BB04",
+              "kuvaus": "Podofyllotoksiini",
+              "ylatunnus": "D1DB",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1DB",
+          "kuvaus": "Paikalliset viruslääkkeet",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "D06BB04",
+              "kuvaus": "Podofyllotoksiini",
+              "ylatunnus": "D1DB",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1D",
+      "kuvaus": "Viruslääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1DB",
+      "kuvaus": "Paikalliset viruslääkkeet",
+      "ylatunnus": "J1D",
+      "taso": 2
+    },
+    {
+      "tunnus": "D06BB04",
+      "kuvaus": "Podofyllotoksiini",
+      "ylatunnus": "D1DB",
+      "taso": 3
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1DB",
+      "kuvaus": "Paikalliset viruslääkkeet",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "D06BB04",
+      "kuvaus": "Podofyllotoksiini",
+      "ylatunnus": "D1DB",
+      "taso": 3
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "D06BA01",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1DA",
+          "kuvaus": "Paikalliset antibiootit, kemoterapia",
+          "ylatunnus": "J1A",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "D06BA01",
+              "kuvaus": "Hopeasulfadiatsiini",
+              "ylatunnus": "D1DA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1DA",
+          "kuvaus": "Paikalliset antibiootit, kemoterapia",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "D06BA01",
+              "kuvaus": "Hopeasulfadiatsiini",
+              "ylatunnus": "D1DA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1DA",
+      "kuvaus": "Paikalliset antibiootit, kemoterapia",
+      "ylatunnus": "J1A",
+      "taso": 2
+    },
+    {
+      "tunnus": "D06BA01",
+      "kuvaus": "Hopeasulfadiatsiini",
+      "ylatunnus": "D1DA",
+      "taso": 3
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1DA",
+      "kuvaus": "Paikalliset antibiootit, kemoterapia",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "D06BA01",
+      "kuvaus": "Hopeasulfadiatsiini",
+      "ylatunnus": "D1DA",
+      "taso": 3
+    }
+  ]
+}

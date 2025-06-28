@@ -1,0 +1,152 @@
+{
+  "luokitusryhma": "N05AB04",
+  "koko_luokitus": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N2A",
+          "kuvaus": "Psykoosilääkkeet",
+          "ylatunnus": "N2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N2AA",
+              "kuvaus": "Perinteiset psykoosilääkkeet",
+              "ylatunnus": "N2A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "N2AAA",
+                  "kuvaus": "Fentiatsiinit",
+                  "ylatunnus": "N2AA",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "N05AB04",
+                      "kuvaus": "Proklooriperatsiini",
+                      "ylatunnus": "N2AAA",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N3C",
+          "kuvaus": "Migreenilääkkeet (spesifiset)",
+          "ylatunnus": "M1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N05AB04",
+              "kuvaus": "Proklooriperatsiini",
+              "ylatunnus": "N3C",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "A1C",
+      "kuvaus": "Pahoinvointilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A1CC",
+          "kuvaus": "Neuroleptit",
+          "ylatunnus": "A1C",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N05AB04",
+              "kuvaus": "Proklooriperatsiini",
+              "ylatunnus": "A1CC",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "N2",
+      "kuvaus": "Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N2A",
+      "kuvaus": "Psykoosilääkkeet",
+      "ylatunnus": "N2",
+      "taso": 2
+    },
+    {
+      "tunnus": "N2AA",
+      "kuvaus": "Perinteiset psykoosilääkkeet",
+      "ylatunnus": "N2A",
+      "taso": 3
+    },
+    {
+      "tunnus": "N2AAA",
+      "kuvaus": "Fentiatsiinit",
+      "ylatunnus": "N2AA",
+      "taso": 4
+    },
+    {
+      "tunnus": "N05AB04",
+      "kuvaus": "Proklooriperatsiini",
+      "ylatunnus": "N2AAA",
+      "taso": 5
+    },
+    {
+      "tunnus": "M1",
+      "kuvaus": "Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",
+      "taso": 1
+    },
+    {
+      "tunnus": "N3C",
+      "kuvaus": "Migreenilääkkeet (spesifiset)",
+      "ylatunnus": "M1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N05AB04",
+      "kuvaus": "Proklooriperatsiini",
+      "ylatunnus": "N3C",
+      "taso": 3
+    },
+    {
+      "tunnus": "A1C",
+      "kuvaus": "Pahoinvointilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A1CC",
+      "kuvaus": "Neuroleptit",
+      "ylatunnus": "A1C",
+      "taso": 2
+    },
+    {
+      "tunnus": "N05AB04",
+      "kuvaus": "Proklooriperatsiini",
+      "ylatunnus": "A1CC",
+      "taso": 3
+    }
+  ]
+}

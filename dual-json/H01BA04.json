@@ -1,0 +1,113 @@
+{
+  "luokitusryhma": "H01BA04",
+  "koko_luokitus": [
+    {
+      "tunnus": "B1",
+      "kuvaus": "Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "B1B",
+          "kuvaus": "Hyytymistä edistävät lääkkeet",
+          "ylatunnus": "B1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "B1BE",
+              "kuvaus": "Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit",
+              "ylatunnus": "B1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "H01BA04",
+                  "kuvaus": " Terlipressiini",
+                  "ylatunnus": "B1BE",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "H1A",
+          "kuvaus": "Aivolisäkkeen ja hypotalamuksen hormonit",
+          "ylatunnus": "H1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "H1AB",
+              "kuvaus": "Aivolisäkkeen takalohkon hormonit",
+              "ylatunnus": "H1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "H01BA04",
+                  "kuvaus": " Terlipressiini",
+                  "ylatunnus": "H1AB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "B1",
+      "kuvaus": "Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "B1B",
+      "kuvaus": "Hyytymistä edistävät lääkkeet",
+      "ylatunnus": "B1",
+      "taso": 2
+    },
+    {
+      "tunnus": "B1BE",
+      "kuvaus": "Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit",
+      "ylatunnus": "B1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "H01BA04",
+      "kuvaus": " Terlipressiini",
+      "ylatunnus": "B1BE",
+      "taso": 4
+    },
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1
+    },
+    {
+      "tunnus": "H1A",
+      "kuvaus": "Aivolisäkkeen ja hypotalamuksen hormonit",
+      "ylatunnus": "H1",
+      "taso": 2
+    },
+    {
+      "tunnus": "H1AB",
+      "kuvaus": "Aivolisäkkeen takalohkon hormonit",
+      "ylatunnus": "H1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "H01BA04",
+      "kuvaus": " Terlipressiini",
+      "ylatunnus": "H1AB",
+      "taso": 4
+    }
+  ]
+}

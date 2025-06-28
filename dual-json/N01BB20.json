@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "N01BB20",
+  "koko_luokitus": [
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1K",
+          "kuvaus": "Iholle käytettävät paikallispuudutteet",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N01BB20",
+              "kuvaus": "Yhdistelmävalmisteet",
+              "ylatunnus": "D1K",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "N1",
+      "kuvaus": "Anestesia-aineet ja puudutteet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "N1B",
+          "kuvaus": "Paikallispuudutteet",
+          "ylatunnus": "N1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "N01BB20",
+              "kuvaus": "Yhdistelmävalmisteet",
+              "ylatunnus": "N1B",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1K",
+      "kuvaus": "Iholle käytettävät paikallispuudutteet",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N01BB20",
+      "kuvaus": "Yhdistelmävalmisteet",
+      "ylatunnus": "D1K",
+      "taso": 3
+    },
+    {
+      "tunnus": "N1",
+      "kuvaus": "Anestesia-aineet ja puudutteet",
+      "taso": 1
+    },
+    {
+      "tunnus": "N1B",
+      "kuvaus": "Paikallispuudutteet",
+      "ylatunnus": "N1",
+      "taso": 2
+    },
+    {
+      "tunnus": "N01BB20",
+      "kuvaus": "Yhdistelmävalmisteet",
+      "ylatunnus": "N1B",
+      "taso": 3
+    }
+  ]
+}

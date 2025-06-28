@@ -1,0 +1,99 @@
+{
+  "luokitusryhma": "A07BA01",
+  "koko_luokitus": [
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A1E",
+          "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+          "ylatunnus": "A1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A1EB",
+              "kuvaus": "Hiilivalmisteet",
+              "ylatunnus": "A1E",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "A07BA01",
+                  "kuvaus": "Lääkehiili",
+                  "ylatunnus": "A1EB",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "V2G",
+          "kuvaus": "Muut myrkytysten hoidossa käytettävät lääkkeet.",
+          "ylatunnus": "V2",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A07BA01",
+              "kuvaus": "Lääkehiili",
+              "ylatunnus": "V2G",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A1E",
+      "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+      "ylatunnus": "A1",
+      "taso": 2
+    },
+    {
+      "tunnus": "A1EB",
+      "kuvaus": "Hiilivalmisteet",
+      "ylatunnus": "A1E",
+      "taso": 3
+    },
+    {
+      "tunnus": "A07BA01",
+      "kuvaus": "Lääkehiili",
+      "ylatunnus": "A1EB",
+      "taso": 4
+    },
+    {
+      "tunnus": "V2",
+      "kuvaus": "Myrkytysten, yliannostusten ym. hoito",
+      "taso": 1
+    },
+    {
+      "tunnus": "V2G",
+      "kuvaus": "Muut myrkytysten hoidossa käytettävät lääkkeet.",
+      "ylatunnus": "V2",
+      "taso": 2
+    },
+    {
+      "tunnus": "A07BA01",
+      "kuvaus": "Lääkehiili",
+      "ylatunnus": "V2G",
+      "taso": 3
+    }
+  ]
+}

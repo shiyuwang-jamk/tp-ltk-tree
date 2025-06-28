@@ -1,0 +1,141 @@
+{
+  "luokitusryhma": "L02AE03",
+  "koko_luokitus": [
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "H1A",
+          "kuvaus": "Aivolisäkkeen ja hypotalamuksen hormonit",
+          "ylatunnus": "H1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "H1AC",
+              "kuvaus": "Hypotalamuksen hormonit",
+              "ylatunnus": "H1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "H1ACA",
+                  "kuvaus": "Gonadotropiinia vapauttavat hormonit",
+                  "ylatunnus": "H1AC",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "L02AE03",
+                      "kuvaus": "Gosereliini",
+                      "ylatunnus": "H1ACA",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1B",
+          "kuvaus": "Endokrinologiset lääkkeet",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1BA",
+              "kuvaus": "Hormonit",
+              "ylatunnus": "L1B",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L1BAB",
+                  "kuvaus": "Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet",
+                  "ylatunnus": "L1BA",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "L02AE03",
+                      "kuvaus": "Gosereliini",
+                      "ylatunnus": "L1BAB",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "H1",
+      "kuvaus": "Hormonit (paitsi insuliinit) ja ehkäisy",
+      "taso": 1
+    },
+    {
+      "tunnus": "H1A",
+      "kuvaus": "Aivolisäkkeen ja hypotalamuksen hormonit",
+      "ylatunnus": "H1",
+      "taso": 2
+    },
+    {
+      "tunnus": "H1AC",
+      "kuvaus": "Hypotalamuksen hormonit",
+      "ylatunnus": "H1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "H1ACA",
+      "kuvaus": "Gonadotropiinia vapauttavat hormonit",
+      "ylatunnus": "H1AC",
+      "taso": 4
+    },
+    {
+      "tunnus": "L02AE03",
+      "kuvaus": "Gosereliini",
+      "ylatunnus": "H1ACA",
+      "taso": 5
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1B",
+      "kuvaus": "Endokrinologiset lääkkeet",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1BA",
+      "kuvaus": "Hormonit",
+      "ylatunnus": "L1B",
+      "taso": 3
+    },
+    {
+      "tunnus": "L1BAB",
+      "kuvaus": "Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet",
+      "ylatunnus": "L1BA",
+      "taso": 4
+    },
+    {
+      "tunnus": "L02AE03",
+      "kuvaus": "Gosereliini",
+      "ylatunnus": "L1BAB",
+      "taso": 5
+    }
+  ]
+}

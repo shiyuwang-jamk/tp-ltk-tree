@@ -1,0 +1,127 @@
+{
+  "luokitusryhma": "L01BB02",
+  "koko_luokitus": [
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "A1E",
+          "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+          "ylatunnus": "A1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "A1EFA",
+              "kuvaus": "IBD:n immunosuppressiiviset lääkkeet",
+              "ylatunnus": "A1E",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L01BB02",
+                  "kuvaus": "Merkaptopuriini",
+                  "ylatunnus": "A1EFA",
+                  "taso": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1A",
+          "kuvaus": "Syöpälääkkeet",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1AB",
+              "kuvaus": "Antimetaboliitit",
+              "ylatunnus": "L1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L1ABB",
+                  "kuvaus": "Puriinianalogit",
+                  "ylatunnus": "L1AB",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "L01BB02",
+                      "kuvaus": "Merkaptopuriini",
+                      "ylatunnus": "L1ABB",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "A1",
+      "kuvaus": "Ruoansulatuskanavan lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "A1E",
+      "kuvaus": "Ripulin ja suolistotulehdusten hoito",
+      "ylatunnus": "A1",
+      "taso": 2
+    },
+    {
+      "tunnus": "A1EFA",
+      "kuvaus": "IBD:n immunosuppressiiviset lääkkeet",
+      "ylatunnus": "A1E",
+      "taso": 3
+    },
+    {
+      "tunnus": "L01BB02",
+      "kuvaus": "Merkaptopuriini",
+      "ylatunnus": "A1EFA",
+      "taso": 4
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1A",
+      "kuvaus": "Syöpälääkkeet",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1AB",
+      "kuvaus": "Antimetaboliitit",
+      "ylatunnus": "L1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "L1ABB",
+      "kuvaus": "Puriinianalogit",
+      "ylatunnus": "L1AB",
+      "taso": 4
+    },
+    {
+      "tunnus": "L01BB02",
+      "kuvaus": "Merkaptopuriini",
+      "ylatunnus": "L1ABB",
+      "taso": 5
+    }
+  ]
+}

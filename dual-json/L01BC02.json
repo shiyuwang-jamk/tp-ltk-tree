@@ -1,0 +1,152 @@
+{
+  "luokitusryhma": "L01BC02",
+  "koko_luokitus": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1DA",
+          "kuvaus": "Paikalliset antibiootit, kemoterapia",
+          "ylatunnus": "J1A",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L01BC02",
+              "kuvaus": "Fluorourasiili",
+              "ylatunnus": "D1DA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "L1A",
+          "kuvaus": "Syöpälääkkeet",
+          "ylatunnus": "L1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L1AB",
+              "kuvaus": "Antimetaboliitit",
+              "ylatunnus": "L1A",
+              "taso": 3,
+              "children": [
+                {
+                  "tunnus": "L1ABC",
+                  "kuvaus": "Pyrimidiinianalogit",
+                  "ylatunnus": "L1AB",
+                  "taso": 4,
+                  "children": [
+                    {
+                      "tunnus": "L01BC02",
+                      "kuvaus": "Fluorourasiili",
+                      "ylatunnus": "L1ABC",
+                      "taso": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "D1DA",
+          "kuvaus": "Paikalliset antibiootit, kemoterapia",
+          "ylatunnus": "D1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "L01BC02",
+              "kuvaus": "Fluorourasiili",
+              "ylatunnus": "D1DA",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "J1A",
+      "kuvaus": "Bakteerilääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1DA",
+      "kuvaus": "Paikalliset antibiootit, kemoterapia",
+      "ylatunnus": "J1A",
+      "taso": 2
+    },
+    {
+      "tunnus": "L01BC02",
+      "kuvaus": "Fluorourasiili",
+      "ylatunnus": "D1DA",
+      "taso": 3
+    },
+    {
+      "tunnus": "L1",
+      "kuvaus": "Syöpälääkkeet ja immuunivasteen muuntajat",
+      "taso": 1
+    },
+    {
+      "tunnus": "L1A",
+      "kuvaus": "Syöpälääkkeet",
+      "ylatunnus": "L1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L1AB",
+      "kuvaus": "Antimetaboliitit",
+      "ylatunnus": "L1A",
+      "taso": 3
+    },
+    {
+      "tunnus": "L1ABC",
+      "kuvaus": "Pyrimidiinianalogit",
+      "ylatunnus": "L1AB",
+      "taso": 4
+    },
+    {
+      "tunnus": "L01BC02",
+      "kuvaus": "Fluorourasiili",
+      "ylatunnus": "L1ABC",
+      "taso": 5
+    },
+    {
+      "tunnus": "D1",
+      "kuvaus": "Ihotautien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "D1DA",
+      "kuvaus": "Paikalliset antibiootit, kemoterapia",
+      "ylatunnus": "D1",
+      "taso": 2
+    },
+    {
+      "tunnus": "L01BC02",
+      "kuvaus": "Fluorourasiili",
+      "ylatunnus": "D1DA",
+      "taso": 3
+    }
+  ]
+}

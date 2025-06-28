@@ -1,0 +1,85 @@
+{
+  "luokitusryhma": "G04BE03",
+  "koko_luokitus": [
+    {
+      "tunnus": "C1",
+      "kuvaus": "Sydän- ja verenkiertoelimistön lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "C1M",
+          "kuvaus": "Pulmonaalihypertension lääkkeet",
+          "ylatunnus": "C1",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "G04BE03",
+              "kuvaus": "Sildenafiili",
+              "ylatunnus": "C1M",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tunnus": "G1D",
+      "kuvaus": "Virtsaelinten sairauksien lääkkeet",
+      "taso": 1,
+      "children": [
+        {
+          "tunnus": "G1DB",
+          "kuvaus": "Erektiohäiriöiden hoitoon tarkoitetut lääkkeet",
+          "ylatunnus": "G1D",
+          "taso": 2,
+          "children": [
+            {
+              "tunnus": "G04BE03",
+              "kuvaus": "Sildenafiili",
+              "ylatunnus": "G1DB",
+              "taso": 3,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "avattavat": [
+    {
+      "tunnus": "C1",
+      "kuvaus": "Sydän- ja verenkiertoelimistön lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "C1M",
+      "kuvaus": "Pulmonaalihypertension lääkkeet",
+      "ylatunnus": "C1",
+      "taso": 2
+    },
+    {
+      "tunnus": "G04BE03",
+      "kuvaus": "Sildenafiili",
+      "ylatunnus": "C1M",
+      "taso": 3
+    },
+    {
+      "tunnus": "G1D",
+      "kuvaus": "Virtsaelinten sairauksien lääkkeet",
+      "taso": 1
+    },
+    {
+      "tunnus": "G1DB",
+      "kuvaus": "Erektiohäiriöiden hoitoon tarkoitetut lääkkeet",
+      "ylatunnus": "G1D",
+      "taso": 2
+    },
+    {
+      "tunnus": "G04BE03",
+      "kuvaus": "Sildenafiili",
+      "ylatunnus": "G1DB",
+      "taso": 3
+    }
+  ]
+}
