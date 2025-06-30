@@ -2,12 +2,19 @@
 
 This repo deals with coding correspondence in the proprietary Finnish platform Terveysportti (health portal) for medicines.
 
-This repo contains:
+## This repo contains:
 - Several Node.js scraper scripts collecting source data.
 - One Python script joining the indexes.
 - A result of the scraped data.
 
-Potentials of the Repo:
+## Products of the Repo:
+
+### `tdoi-drg.csv`
+### `tree-api-with-tdoi.csv`
+
+You can import the files to Excel and explore yourself.
+
+## Potentials of the Repo:
 1. Access the drugs and groups quickly with the number-only code for DRG shorthand URL
 2. Search with the DRG code in Duodecim's Finnish doctor's manual (lääkärin käsikirja, YTK) to find articles where the same drug or drug group appears.
 3. TODO Find out drugs belonging to multiple drug categories.
