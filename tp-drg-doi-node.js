@@ -4,40 +4,7 @@
  * Version 1.0.1 (2025-06-28)
  * Author: Shiyu "Simo" Wang
  * With guidance from GitHub Copilot.
- * 
- * This script deals with coding correspondence in the proprietary Finnish platform Terveysportti (health portal) for medicines.
- * 
- * Potentials of the Script:
- * 1. Access the drugs and groups quickly with the number-only code for DRG shorthand URL
- * 2. Search with the DRG code in Duodecim's doctor's manual (lääkärin käsikirja, YTK) to find articles where the same drug or drug group appears.
- * 3. TODO Find out drugs belonging to multiple drug categories.
- * 
- * The script first prompts a user for access key string from browser cookie, then queries final links of around 1700 short URLs in the form of
- *      https://www.terveysportti.fi/doi/drg*****
- *       ***** being a 5-digit code running from 00001 to 01700, after which all code bigger than 1700 should return 404 as in June 2025.
- * These URLs (DRGs) have been found in Duodecim's doctor's manual (lääkärin käsikirja, YTK), which can be accessed via similar shorthand URL form
- *      https://www.terveysportti.fi/doi/ytk*****
- * Note: YTK's English counterpart, Evidence-Based Medicine Guidelines (EBMG), uses ATC code in its entries.
- * 
- * If the DRG number code is valid, the link would redirect to a URL of Duodecim's medicine database (lääketietokanta, LTK) in the form of:
- *      https://www.terveysportti.fi/apps/laake/laakeryhma/XXXXXX
- *      XXXXXXX being either an ATC code to a specific substance name or a proprietary coding system in LTK (lääkeryhmä) categorizing medicines with slight derivations from the ATC system.
- * 
- * With the code in the redirected URL, the script then
- * - In the case of an ATC code, fetches the English and Finnish names
- * - In the case of a LTK group code, fetches the descriptive Finnish text of the group
- * 
- * Then the script also finds the upper group name of the substance or group behind the code.
- * - TODO It is possible that one substance can belong to multiple LTK groups e.g. L04AA24 aka. abatacept being drug for both cancer and rheumatic arthritis (RA). 
- * - The first version of the script (27.6.2025) failed to address the issue.
- * 
- * The fetching is achieved by:
- * - LTK's API fetching a JSON containing Finnish name and groups with the access key string from browser cookie.
- * - English drug name from the ATC/DDD website by parsing its webpage with the ATC code.
- * 
- * Then the script writes the results into a CSV file with one DRG code per line. A sample of the results can be found at file ./tdoi-drg.csv
  */
-
 
 // https://www.geeksforgeeks.org/javascript/javascript-program-to-write-data-in-a-text-file/
 const fs = require('fs'); // no DevTools
@@ -48,13 +15,16 @@ const {
 } = require('node-html-parser');
 const readline = require('readline'); // For feeding cookie;
 
-const index0 = 10;
+const index0 = 1711;
+// const index0 = 9953; // reverse?
 const count = 5;
 const final = index0+count-1;
-const intervalMin = 5000; // in milliseconds
+const intervalDefault = 2500; // in milliseconds
+let intervalMin = intervalDefault; // in milliseconds
+let interval404 = 200; // shorter if 404
 
 const tDOIHeader = 'drg';
-const filename = 'tdoi-' + tDOIHeader + '-' + '' +'.csv';
+const filename = 'tdoi-' + tDOIHeader + '-' + index0 + + '-' + final + Date.now() +'.csv';
 // const filename = 'tdoi-' + tDOIHeader + '-' + index0 + '-' + final + '-' + Date.now() +'.csv';
 const fileExists = fs.existsSync(filename);
 
@@ -201,7 +171,7 @@ async function apiToName(atcCode) {
 //     return name;
 // }
 
-let cookie = `duoauth=VFUDFKHP2UQ6J2MODL3BE0WT3CSK2630`;
+let cookie = ``;
 
 /**
  * Modifies cookies with user input
@@ -231,8 +201,9 @@ function cookieFeed() {
     })
 }
 
-let edgeCounter = 0;
-let edgeThreshold = 5;
+// 29.6.25: canceling the edge detect, e.g. drg09615
+// let edgeCounter = 0;
+// let edgeThreshold = 5;
 // const codeRegex = /[A-Z]\d([A-Z]+|$)/; // non-ATC coding like R1C
 const atcRegex = /^[A-Z]\d\d/;
 /**
@@ -246,6 +217,7 @@ const atcRegex = /^[A-Z]\d\d/;
 async function drgVisit(nro) {
     // return new Promise((resolve) => {
     const tdoi = ('00000' + nro).slice(-5);
+    intervalMin = intervalDefault; // init
 
     // https://webscraping.ai/faq/javascript/how-do-i-handle-redirects-while-scraping-with-javascript
     // axios.get(baseURL + tdoi, {}).then(response => {
@@ -286,7 +258,7 @@ async function drgVisit(nro) {
                 apiData.upperCode,
                 apiData.upperName
             ].map(csvEscape).join(','));
-            edgeCounter = 0;
+            // edgeCounter = 0;
             return;
         } catch (fetchError) {
             if (fetchError.response && fetchError.response.status !== 403) { // Access to LTK failed
@@ -300,7 +272,7 @@ async function drgVisit(nro) {
                     'Check manually',
                     ''
                 ].map(csvEscape).join(','));
-                edgeCounter = 0;
+                // edgeCounter = 0;
                 return;
 
             }
@@ -314,7 +286,7 @@ async function drgVisit(nro) {
                     await atcFin(atcCode), 
                     'KELA', 
                     'KELA'].map(csvEscape).join(','));
-                edgeCounter = 0;
+                // edgeCounter = 0;
                 return;
             } else { // Try again for group name
                 console.error(`TDOI drg${tdoi}: No access/cookie expired. For the class ${atcCode}, generate a new cookie?`);
@@ -335,7 +307,7 @@ async function drgVisit(nro) {
                             apiData.upperCode,
                             apiData.upperName
                         ].map(csvEscape).join(','));
-                        edgeCounter = 0;
+                        // edgeCounter = 0;
                 } catch (error2) {
                     console.error(`TDOI drg${tdoi}=${atcCode}: class fetch failed.`, error2.message);
                     writeNewLine([
@@ -347,20 +319,21 @@ async function drgVisit(nro) {
                         ''].map(csvEscape).join(','));
 
                 }
-                edgeCounter = 0;
+                // edgeCounter = 0;
                 return;
             }
         }
-    } else if (status === 404) {
-        edgeCounter++;
-        if (edgeCounter > edgeThreshold) {
-            const since = nro - edgeCounter;
-            throw new Error(`TDOI drg${tdoi}: 404 since`, since);
-        }
+    // } else if (status === 404) {
+    //     edgeCounter++;
+    //     if (edgeCounter > edgeThreshold) {
+    //         const since = nro - edgeCounter;
+    //         throw new Error(`TDOI drg${tdoi}: 404 since`, since);
+    //     }
     } else {
     // if (status < 300 || !headers.location) {
         console.error(`TDOI drg${tdoi}: error occurred on first redirection.`, status);
         writeNewLine([tdoi, status, '','','',''].map(csvEscape).join(','));
+        intervalMin = interval404;
     }
         
         // process.abort();
@@ -391,6 +364,7 @@ async function drgVisit(nro) {
 async function urlTraverse(start, count) {
     console.log(`Starting URL traversal from ${start} for ${count} items.`);
     for (let i = start; i < start + count; i++) {
+    // for (let i = start; i > start - count; i--) { // reverse?
         const startTime = Date.now();
 
         console.log(`Processing item ${i}...`);
@@ -398,6 +372,7 @@ async function urlTraverse(start, count) {
 
         const duration = Date.now() - startTime;
         const itemsLeft = start + count - i;
+        // const itemsLeft = start - count + i; // reverse
         console.log(`> Iteration ${i} completed in ${duration} ms. ${itemsLeft} TDOIs left`);
 
         if (duration < intervalMin) {
@@ -430,5 +405,12 @@ module.exports = {
     atcToName,
     drgVisit,
     urlTraverse,
-    writeNewLine
+    writeNewLine,
+    cookieFeed,
+    get cookie() { return cookie; },
+    recorder,
+    fileExists,
+    get atcBase() { return atcBase; },
+    get atcSimp() { return atcSimp; },
+    csvEscape
 };

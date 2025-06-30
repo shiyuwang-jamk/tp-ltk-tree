@@ -1,0 +1,2930 @@
+﻿item,lvl,ID,catSeq,Finnish,English,TDOI
+1,1,C1,1,Sydän- ja verenkiertoelimistön lääkkeet,,undefined
+2,2,C1A,10,"Sydänlääkkeet (mm. digitalis, inotroopit, nitraatit)",,undefined
+3,3,C1AA,10,Digitalisglykosidit,,undefined
+4,4,C01AA05,10,Digoksiini,digoxin,undefined
+5,3,C1AB,20,Inotrooppiset lääkkeet,,undefined
+6,4,C01CA01,10,Etilefriini,etilefrine,undefined
+7,4,C01CA02,20,Isoprenaliini,isoprenaline,NOTDOI
+8,4,C01CA03,30,Noradrenaliini,norepinephrine,NOTDOI
+9,4,C01CA04,40,Dopamiini,dopamine,undefined
+10,4,C01CA07,60,Dobutamiini,dobutamine,undefined
+11,4,C01CA24,80,Adrenaliini,epinephrine,undefined
+12,4,C01CA26,90,Efedriini,ephedrine,NOTDOI
+13,4,C01CE02,100,Milrinoni,milrinone,NOTDOI
+14,4,C01CX08,110,Levosimendaani,levosimendan,undefined
+15,4,C01CX09,120,Angiotensiini II,angiotensin II,NOTDOI
+16,3,C1AC,30,Orgaaniset nitraatit,,undefined
+17,4,C01DA02,10,Glyseryylitrinitraatti,glyceryl trinitrate,undefined
+18,4,C01DA08,20,Isosorbididinitraatti,isosorbide dinitrate,undefined
+19,4,C01DA14,30,Isosorbidimononitraatti,isosorbide mononitrate,undefined
+20,3,C1AD,40,Muut sydänlääkkeet,,undefined
+21,4,C01CA06,7,Fenyyliefriini,phenylephrine,NOTDOI
+22,4,C01CA17,8,Midodriini,midodrine,NOTDOI
+23,4,C01DX22,10,Verisiguaatti,vericiguat,NOTDOI
+24,4,C01EA01,20,Alprostadiili,alprostadil,undefined
+25,4,C01EB02,30,Kamferi,camphora,undefined
+26,4,C01EB10,40,Adenosiini,adenosine,undefined
+27,4,C01EB16,50,Ibuprofeeni,ibuprofen,undefined
+28,4,C01EB17,60,Ivabradiini,ivabradine,undefined
+29,4,C01EB18,70,Ranolatsiini,ranolazine,NOTDOI
+30,4,C01EB24,70,Mavakamteeni,mavacamten,NOTDOI
+31,4,A10BK01,71,Dapagliflotsiini,dapagliflozin,NOTDOI
+32,4,A10BK03,71,Empagliflotsiini,empagliflozin,NOTDOI
+33,4,C01EB22,71,Meldonium,meldonium,NOTDOI
+34,4,C01EB25,71,Akoramidiisi,acoramidis,NOTDOI
+35,2,C1B,20,Rytmihäiriölääkkeet,,undefined
+36,3,C1BA,10,Ryhmä 1A,,undefined
+37,4,C01BA01,10,Kinidiini,quinidine,undefined
+38,4,C01BA13,10,Hydrokinidiini,hydroquinidine,NOTDOI
+39,4,C01BA02,20,Prokaiiniamidi,procainamide,NOTDOI
+40,4,C01BA03,30,Disopyramidi,disopyramide,undefined
+41,4,C01BA05,40,Aimaliini,ajmaline,NOTDOI
+42,3,C1BB,20,Ryhmä 1B,,undefined
+43,4,C01BB01,10,Lidokaiini,lidocaine,undefined
+44,4,C01BB02,20,Meksiletiini,mexiletine,undefined
+45,3,C1BC,30,Ryhmä 1C,,undefined
+46,4,C01BC03,10,Propafenoni,propafenone,undefined
+47,4,C01BC04,20,Flekainidi,flecainide,undefined
+48,3,C1BD,40,Ryhmä 2 (beetasalpaajat),,undefined
+49,4,C1BDA,10,Selektiiviset beetasalpaajat,,undefined
+50,5,C07AB02,10,Metoprololi,metoprolol,undefined
+51,5,C07AB03,20,Atenololi,atenolol,undefined
+52,5,C07AB04,30,Asebutololi,acebutolol,undefined
+53,5,C07AB05,40,Betaksololi,betaxolol,undefined
+54,5,C07AB07,50,Bisoprololi,bisoprolol,undefined
+55,5,C07AB08,60,Seliprololi,celiprolol,undefined
+56,5,C07AB09,70,Esmololi,esmolol,undefined
+57,5,C07AB12,80,Nebivololi,nebivolol,undefined
+58,5,C07AB14,90,Landiololi,landiolol,NOTDOI
+59,4,C1BDB,20,Epäselektiiviset beetasalpaajat,,undefined
+60,5,C07AA03,10,Pindololi,pindolol,undefined
+61,5,C07AA05,20,Propranololi,propranolol,undefined
+62,5,C07AA07,30,Sotaloli,sotalol,undefined
+63,3,C1BE,50,Ryhmä 3 (repolarisaation pidentäjät),,undefined
+64,4,C01B,10,Dronedaroni,ATCDDD N/A,NOTDOI
+65,4,C01BD01,20,Amiodaroni,amiodarone,undefined
+66,4,C01BD05,30,Ibutilidi,ibutilide,undefined
+67,4,C07AA07,50,Sotaloli,sotalol,undefined
+68,3,C1BF,60,Ryhmä 4 (kalsiumkanavan salpaajat),,undefined
+69,4,C08DA01,10,Verapamiili,verapamil,undefined
+70,4,C08DB01,20,Diltiatseemi,diltiazem,undefined
+71,3,C01BG11,70,Vernakalantti,vernakalant,NOTDOI
+72,3,C01EB10,90,Adenosiini,adenosine,undefined
+73,3,C01AA05,100,Digoksiini,digoxin,undefined
+74,2,C1U,30,Verenpainelääkkeet,,NOTDOI
+75,3,C1C,30,Diureetit,,undefined
+76,4,C1CA,10,Tiatsidit ja niiden kaltaiset diureetit,,undefined
+77,5,C03AA03,10,Hydroklooritiatsidi,hydrochlorothiazide,undefined
+78,5,C03AA04,11,Klooritiatsidi,chlorothiazide,NOTDOI
+79,5,C03BA08,20,Metolatsoni,metolazone,undefined
+80,5,C03BA11,30,Indapamidi,indapamide,undefined
+81,4,C1CB,20,Loop-diureetit,,undefined
+82,5,C03CA01,10,Furosemidi,furosemide,undefined
+83,5,C03CA02,20,Bumetanidi,bumetanide,undefined
+84,4,C1CC,30,Kaliumia säästävät diureetit,,undefined
+85,5,C03DB01,10,Amiloridi,amiloride,NOTDOI
+86,5,C1CCA,20,Aldosteroniantagonistit,,NOTDOI
+87,6,C03DA01,10,Spironolaktoni,spironolactone,undefined
+88,6,C03DA02,20,Kaliumkanrenoaatti,potassium canrenoate,NOTDOI
+89,6,C03DA04,30,Eplerenoni,eplerenone,undefined
+90,6,C03DA05,31,Finerenoni,finerenone,NOTDOI
+91,4,C1CD,40,Kaliumia säästävien ja muiden diureettien yhdistelmät,,undefined
+92,5,C03EA01,10,Hydroklooritiatsidi ja kaliumia säästävät diureetit,hydrochlorothiazide and potassium-sparing agents,undefined
+93,5,C03EA02,20,Trikloorimetiatsidi ja kaliumia säästävät diureetit,trichlormethiazide and potassium-sparing agents,undefined
+94,5,C03EB01,30,Furosemidi ja kaliumia säästävät diureetit,furosemide and potassium-sparing agents,NOTDOI
+95,4,S01EC01,60,Asetatsolamidi,acetazolamide,undefined
+96,3,C1D,40,Beetasalpaajat,,undefined
+97,4,C1BDA,10,Selektiiviset beetasalpaajat,,undefined
+98,5,C07AB02,10,Metoprololi,metoprolol,undefined
+99,5,C07AB03,20,Atenololi,atenolol,undefined
+100,5,C07AB04,30,Asebutololi,acebutolol,undefined
+101,5,C07AB05,40,Betaksololi,betaxolol,undefined
+102,5,C07AB07,50,Bisoprololi,bisoprolol,undefined
+103,5,C07AB08,60,Seliprololi,celiprolol,undefined
+104,5,C07AB09,70,Esmololi,esmolol,undefined
+105,5,C07AB12,80,Nebivololi,nebivolol,undefined
+106,5,C07AB14,90,Landiololi,landiolol,NOTDOI
+107,4,C1BDB,20,Epäselektiiviset beetasalpaajat,,undefined
+108,5,C07AA03,10,Pindololi,pindolol,undefined
+109,5,C07AA05,20,Propranololi,propranolol,undefined
+110,5,C07AA07,30,Sotaloli,sotalol,undefined
+111,4,C1DC,30,Alfa- ja beetareseptoreiden salpaajat,,undefined
+112,5,C07AG01,10,Labetaloli,labetalol,undefined
+113,5,C07AG02,20,Karvediloli,carvedilol,undefined
+114,3,C1E,50,Beetasalpaajien yhdistelmävalmisteet,,undefined
+115,4,C1EA,10,Beetasalpaaja ja diureetti,,undefined
+116,5,C07BB02,10,Metoprololi ja tiatsidit,metoprolol and thiazides,undefined
+117,5,C07BB07,20,Bisoprololi ja tiatsidit,bisoprolol and thiazides,undefined
+118,5,C07BB12,30,Nebivololi ja tiatsidit,nebivolol and thiazides,NOTDOI
+119,4,C1EB,20,Beetasalpaaja ja muu verenpainelääke,,undefined
+120,5,C07FB02,10,Metoprololi ja felodipiini,metoprolol and felodipine,undefined
+121,5,C07FB03,20,Atenololi ja nifedipiini,atenolol and nifedipine,undefined
+122,3,C1EE,51,Alfasalpaajat,,NOTDOI
+123,4,C02CA01,30,Pratsosiini,prazosin,undefined
+124,4,C02CA04,31,Doksatsosiini,doxazosin,NOTDOI
+125,4,C04AB01,31,Fentolamiini,phentolamine,NOTDOI
+126,4,C04AX02,31,Fenoksibentsamiini,phenoxybenzamine,NOTDOI
+127,3,C1EF,52,Sentraalisesti vaikuttavat,,NOTDOI
+128,4,C02AC01,10,Klonidiini,clonidine,undefined
+129,4,C02AC05,11,Moksonidiini,moxonidine,undefined
+130,3,C1F,60,Kalsiumkanavan salpaajat,,undefined
+131,4,C1FA,20,Pääasiassa verisuonistoon vaikuttavat kalsiumkanavan salpaajat,,undefined
+132,5,C08CA01,10,Amlodipiini,amlodipine,undefined
+133,5,C08CA02,20,Felodipiini,felodipine,undefined
+134,5,C08CA03,30,Isradipiini,isradipine,undefined
+135,5,C08CA04,40,Nikardipiini,nicardipine,NOTDOI
+136,5,C08CA05,50,Nifedipiini,nifedipine,undefined
+137,5,C08CA06,60,Nimodipiini,nimodipine,undefined
+138,5,C08CA07,70,Nisoldipiini,nisoldipine,undefined
+139,5,C08CA10,80,Nilvadipiini,nilvadipine,undefined
+140,5,C08CA13,90,Lerkanidipiini,lercanidipine,undefined
+141,4,C1FB,21,Pääasiassa sydämeen vaikuttavat kalsiumkanavan salpaajat,,NOTDOI
+142,5,C08DA01,10,Verapamiili,verapamil,undefined
+143,5,C08DB01,11,Diltiatseemi,diltiazem,undefined
+144,3,C1G,70,ACE:n estäjät,,undefined
+145,4,C09AA01,10,Kaptopriili,captopril,undefined
+146,4,C09AA02,20,Enalapriili,enalapril,undefined
+147,4,C09AA03,30,Lisinopriili,lisinopril,undefined
+148,4,C09AA04,40,Perindopriili,perindopril,undefined
+149,4,C09AA05,50,Ramipriili,ramipril,undefined
+150,4,C09AA06,60,Kinapriili,quinapril,undefined
+151,4,C09AA15,70,Tsofenopriili,zofenopril,undefined
+152,3,C1H,80,ACE:n estäjien yhdistelmävalmisteet,,undefined
+153,4,C1HA,10,ACE:n estäjä ja diureetti,,undefined
+154,5,C09BA02,10,Enalapriili ja diureetit,enalapril and diuretics,undefined
+155,5,C09BA03,20,Lisinopriili ja diureetit,lisinopril and diuretics,undefined
+156,5,C09BA04,30,Perindopriili ja diureetit,perindopril and diuretics,undefined
+157,5,C09BA05,40,Ramipriili ja diureetit,ramipril and diuretics,undefined
+158,5,C09BA06,50,Kinapriili ja diureetit,quinapril and diuretics,undefined
+159,5,C09BA15,60,Tsofenopriili ja diureetit,zofenopril and diuretics,undefined
+160,4,C1HB,20,ACE:n estäjä ja kalsiumkanavan salpaaja,,undefined
+161,5,C09BB02,10,Enalapriili ja lerkanidipiini,enalapril and lercanidipine,undefined
+162,5,C09BB04,20,Perindopriili ja amlodipiini,perindopril and amlodipine,undefined
+163,5,C09BB05,30,Ramipriili ja felodipiini,ramipril and felodipine,undefined
+164,5,C09BB07,31,Ramipriili ja amlodipiini,ramipril and amlodipine,NOTDOI
+165,4,C1HC,30,"ACE:n estäjä, diureetti ja kalsiumkanavan salpaaja",,NOTDOI
+166,5,C09BX01,10,"Perindopriili, amlodipiini ja indapamidi","perindopril, amlodipine and indapamide",NOTDOI
+167,4,C1HD,40,ACE:n estäjä ja beetasalpaaja,,NOTDOI
+168,5,C09BX02,10,Perindopriili ja bisoprololi,perindopril and bisoprolol,NOTDOI
+169,3,C1J,90,AT-reseptorin salpaajat,,undefined
+170,4,C09CA01,10,Losartaani,losartan,undefined
+171,4,C09CA02,20,Eprosartaani,eprosartan,undefined
+172,4,C09CA03,30,Valsartaani,valsartan,undefined
+173,4,C09CA04,40,Irbesartaani,irbesartan,undefined
+174,4,C09CA06,50,Kandesartaani,candesartan,undefined
+175,4,C09CA07,60,Telmisartaani,telmisartan,undefined
+176,4,C09CA08,70,Olmesartaanimedoksomiili,olmesartan medoxomil,undefined
+177,3,C1K,100,AT-reseptorin salpaajien yhdistelmävalmisteet,,undefined
+178,4,C1KA,10,AT-reseptorin salpaaja ja diureetti,,undefined
+179,5,C09DA01,10,Losartaani ja diureetit,losartan and diuretics,undefined
+180,5,C09DA02,20,Eprosartaani ja diureetit,eprosartan and diuretics,undefined
+181,5,C09DA03,30,Valsartaani ja diureetit,valsartan and diuretics,undefined
+182,5,C09DA06,40,Kandesartaani ja diureetit,candesartan and diuretics,undefined
+183,5,C09DA07,50,Telmisartaani ja diureetit,telmisartan and diuretics,undefined
+184,5,C09DA08,60,Olmesartaanimedoksomiili ja diureetit,olmesartan medoxomil and diuretics,undefined
+185,4,C1KB,20,AT-reseptorin salpaaja ja kalsiumkanavan salpaaja,,undefined
+186,5,C09DB01,10,Valsartaani ja amlodipiini,valsartan and amlodipine,undefined
+187,5,C09DB02,20,Olmesartaanimedoksomiili ja amlodipiini,olmesartan medoxomil and amlodipine,NOTDOI
+188,5,C09DB07,21,Kandesartaani ja amlodipiini ,candesartan and amlodipine,NOTDOI
+189,4,C1KC,30,"AT-reseptorin salpaaja, diureetti ja kalsiumkanavan salpaaja",,NOTDOI
+190,5,C09DX01,10,"Valsartaani, amlodipiini ja hydroklooritiatsidi","valsartan, amlodipine and hydrochlorothiazide",NOTDOI
+191,5,C09DX03,20,"Olmesartaanimedoksomiili, amlodipiini ja hydroklooritiatsidi","olmesartan medoxomil, amlodipine and hydrochlorothiazide",NOTDOI
+192,4,C1KD,40,AT-reseptorin salpaaja ja NEP:n estäjä,,NOTDOI
+193,5,C09DX04,10,Valsartaani ja sakubitriili,valsartan and sacubitril,NOTDOI
+194,3,C1L,110,Reniininestäjät,,undefined
+195,4,C09XA02,10,Aliskireeni,aliskiren,undefined
+196,2,C1M,120,Pulmonaalihypertension lääkkeet,,NOTDOI
+197,3,B01AC09,10,Epoprostenoli,epoprostenol,NOTDOI
+198,3,B01AC11,20,Iloprosti,iloprost,undefined
+199,3,B01AC21,30,Treprostiniili,treprostinil,undefined
+200,3,B01AC27,40,Seleksipagi,selexipag,NOTDOI
+201,3,C02KX01,50,Bosentaani,bosentan,undefined
+202,3,C02KX02,60,Ambrisentaani,ambrisentan,undefined
+203,3,C02KX03,70,Sitaksentaani,sitaxentan,undefined
+204,3,C02KX04,80,Masitentaani,macitentan,NOTDOI
+205,3,C02KX05,88,Riosiguaatti,riociguat,NOTDOI
+206,3,C02KX06,89,Sotatersepti ,sotatercept,NOTDOI
+207,3,C02KX54,90,Masitentaani ja tadalafiili ,macitentan and tadalafil,NOTDOI
+208,3,G04BE03,100,Sildenafiili,sildenafil,undefined
+209,3,G04BE08,110,Tadalafiili,tadalafil,undefined
+210,2,C1N,130,Muut verenpainelääkkeet,,undefined
+211,3,C02CA06,50,Urapidiili,urapidil,NOTDOI
+212,3,C02CC02,60,Guanetidiini,guanethidine,NOTDOI
+213,3,C02DB01,80,Dihydralatsiini,dihydralazine,NOTDOI
+214,3,C02DB02,90,Hydralatsiini,hydralazine,NOTDOI
+215,3,C02DC01,100,Minoksidiili,minoxidil,NOTDOI
+216,3,C02DD01,110,Nitroprussidi,nitroprusside,NOTDOI
+217,3,C02KB01,120,Metirosiini,metirosine,NOTDOI
+218,3,C02KN01,121,Aprositentaani,aprocitentan,NOTDOI
+219,3,H01BA01,150,Vasopressiini (argipressiini),vasopressin (argipressin),NOTDOI
+220,2,C1P,140,Lipidilääkkeet,,undefined
+221,3,C1PA,10,Statiinit,,undefined
+222,4,C10AA01,10,Simvastatiini,simvastatin,undefined
+223,4,C10AA02,20,Lovastatiini,lovastatin,undefined
+224,4,C10AA03,30,Pravastatiini,pravastatin,undefined
+225,4,C10AA04,40,Fluvastatiini,fluvastatin,undefined
+226,4,C10AA05,50,Atorvastatiini,atorvastatin,undefined
+227,4,C10AA07,60,Rosuvastatiini,rosuvastatin,undefined
+228,3,C1PB,20,Fibraatit,,undefined
+229,4,C10AB02,10,Betsafibraatti,bezafibrate,undefined
+230,4,C10AB04,20,Gemfibrotsiili,gemfibrozil,undefined
+231,4,C10AB05,30,Fenofibraatti,fenofibrate,undefined
+232,3,C1PC,30,Sappihappojen sitojat,,undefined
+233,4,C10AC01,10,Kolestyramiini,colestyramine,undefined
+234,4,C10AC02,20,Kolestipoli,colestipol,NOTDOI
+235,4,C10AC04,30,Kolesevelaami,colesevelam,undefined
+236,3,C1PD,40,"Nikotiinihappo, sen johdokset ja yhdistelmävalmisteet",,undefined
+237,4,C04AC01,10,Nikotiinihappo,nicotinic acid,NOTDOI
+238,4,C10AD06,20,Asipimoksi,acipimox,NOTDOI
+239,4,C10AD52,30,"Nikotiinihappo, yhdistelmävalmisteet","nicotinic acid, combinations",undefined
+240,3,C1PE,50,Muut lipidilääkkeet,,undefined
+241,4,C1PEA,10,PCSK9-estäjät,,NOTDOI
+242,5,C10AX13,10,Evolokumabi,evolocumab,NOTDOI
+243,5,C10AX14,20,Alirokumabi,alirocumab,NOTDOI
+244,4,C10AX06,20,Ikosapenttietyyli,omega-3-triglycerides incl. other esters and acids,NOTDOI
+245,4,C10AX09,30,Etsetimibi,ezetimibe,undefined
+246,4,C10AX15,40,Bempedoiinihappo,bempedoic acid,NOTDOI
+247,4,C10AX16,50,Inklisiraani,inclisiran,NOTDOI
+248,4,C10AX17,60,Evinakumabi,evinacumab,NOTDOI
+249,3,C1PF,60,Statiini ja muu lipidilääke,,undefined
+250,4,C10BA02,10,Simvastatiini ja etsetimibi,simvastatin and ezetimibe,undefined
+251,4,C10BA06,20,Rosuvastatiini ja etsetimibi,rosuvastatin and ezetimibe,NOTDOI
+252,3,C1PG,70,Statiini ja verenpainelääke,,NOTDOI
+253,4,C10BX11,10,"Atorvastatiini, amlodipiini ja perindopriili","atorvastatin, amlodipine and perindopril",NOTDOI
+254,2,C1Q,160,"Ääreisverisuonia laajentavat aineet, suonikohjujen hoito",,undefined
+255,3,B01AC11,10,Iloprosti,iloprost,undefined
+256,3,C04AD03,20,Pentoksifylliini,pentoxifylline,undefined
+257,3,C1QA,30,Sklerosoivat lääkeaineet,,NOTDOI
+258,4,C05BB02,10,Polidokanoli (lauromakrogoli 400),polidocanol,undefined
+259,4,C05BB04,20,Natriumtetradekyylisulfaatti,sodium tetradecyl sulfate,NOTDOI
+260,1,B1,2,Veren hyytymiseen vaikuttavat lääkkeet ja anemialääkkeet,,undefined
+261,2,B1AF,3,Antikoagulantit,,NOTDOI
+262,3,B1AFA,10,Hepariinit,,NOTDOI
+263,4,B01AB01,10,Fraktioimaton hepariini,heparin,undefined
+264,4,B1ABA,20,Pienimolekyyliset hepariinit (LMWH),,undefined
+265,5,B01AB04,10,Daltepariini,dalteparin,undefined
+266,5,B01AB05,20,Enoksapariini,enoxaparin,undefined
+267,5,B01AB09,30,Danaparoidi,danaparoid,NOTDOI
+268,5,B01AB10,40,Tintsapariini,tinzaparin,undefined
+269,4,C05BA01,21,Organoheparinoidit,organo-heparinoid,undefined
+270,3,B1AA,20,K-vitamiiniantagonistit,,undefined
+271,4,B01AA02,10,Fenindioni,phenindione,NOTDOI
+272,4,B01AA03,20,Varfariini,warfarin,undefined
+273,4,B01AA04,30,Fenprokumoni,phenprocoumon,undefined
+274,3,B1AFB,30,Suorat hyytymistekijä X:n estäjät,,NOTDOI
+275,4,B01AF02,10,Apiksabaani,apixaban,NOTDOI
+276,4,B01AF03,20,Edoksabaani,edoxaban,NOTDOI
+277,4,B01AF01,30,Rivaroksabaani,rivaroxaban,undefined
+278,3,B1AFC,40,Epäsuorat hyytymistekijä X:n estäjät,,NOTDOI
+279,4,B01AX05,10,Fondaparinuuksi,fondaparinux,undefined
+280,3,B1AD,50,Suorat trombiinin estäjät,,undefined
+281,4,B01AE03,10,Argatrobaani,argatroban,NOTDOI
+282,4,B01AE06,20,Bivalirudiini,bivalirudin,undefined
+283,4,B01AE07,30,Dabigatraanieteksilaatti,dabigatran etexilate,undefined
+284,3,B01AB02,60,Antitrombiini,antithrombin III,undefined
+285,3,B01AD12,70,Proteiini C,protein C,undefined
+286,3,B01AD13,71,Apadamtaasi alfa,apadamtase alfa and cinaxadamtase alfa,NOTDOI
+287,2,B1AB,6,Verihiutaleiden estäjät,,undefined
+288,3,B1ABB,10,Asetyylisalisyylihappo ja sen yhdistelmät,,undefined
+289,4,B01AC06,10,Asetyylisalisyylihappo,acetylsalicylic acid,undefined
+290,4,B01AC30,20,Asetyylisalisyylihapon yhdistelmävalmisteet,combinations,undefined
+291,3,B01AC07,20,Dipyridamoli,dipyridamole,undefined
+292,3,B1ABD,30,ADP-reseptorin salpaajat,,NOTDOI
+293,4,B01AC04,10,Klopidogreeli,clopidogrel,undefined
+294,4,B01AC05,20,Tiklopidiini,ticlopidine,undefined
+295,4,B01AC22,30,Prasugreeli,prasugrel,undefined
+296,4,B01AC24,40,Tikagrelori,ticagrelor,NOTDOI
+297,4,B01AC25,50,Kangrelori,cangrelor,NOTDOI
+298,3,B1ABC,40,Glykoproteiini IIb/IIIa -estäjät,,NOTDOI
+299,4,B01AC13,10,Absiksimabi,abciximab,undefined
+300,4,B01AC16,20,Eptifibatidi,eptifibatide,undefined
+301,4,B01AC17,30,Tirofibaani,tirofiban,undefined
+302,3,B01AX01,50,Defibrotidi,defibrotide,NOTDOI
+303,3,B01AX07,60,Kaplasitsumabi,caplacizumab,NOTDOI
+304,2,B1AC,9,Fibrinolyyttiset lääkeaineet,,undefined
+305,3,B01AD01,10,Streptokinaasi,streptokinase,NOTDOI
+306,3,B01AD02,20,Alteplaasi,alteplase,undefined
+307,3,B01AD04,30,Urokinaasi,urokinase,NOTDOI
+308,3,B01AD07,40,Reteplaasi,reteplase,undefined
+309,3,B01AD11,50,Tenekteplaasi,tenecteplase,undefined
+310,2,B1AE,12,Prostasykliinianalogit,,undefined
+311,3,B01AC09,10,Epoprostenoli,epoprostenol,NOTDOI
+312,3,B01AC11,20,Iloprosti,iloprost,undefined
+313,2,B1B,20,Hyytymistä edistävät lääkkeet,,undefined
+314,3,B02BB01,10,Fibrinogeeni,"fibrinogen, human",undefined
+315,3,B02BC06,20,Trombiini,thrombin,NOTDOI
+316,3,B02BC30,30,Paikallisesti käytettävät hemostaatit,combinations,undefined
+317,3,B1BA,40,Antifibrinolyyttiset lääkkeet,,undefined
+318,4,B02AA02,10,Traneksaamihappo,tranexamic acid,undefined
+319,4,B02AB01,20,Aprotiniini ,aprotinin,NOTDOI
+320,3,B1BB,50,K-vitamiini (fytomenadioni),,undefined
+321,4,B02BA01,10,Fytomenadioni,phytomenadione,undefined
+322,3,B1BE,60,Veren hyytymistekijät ja muut systeemisesti käytettävät hemostaatit,,undefined
+323,4,B02BD01,10,"Hyytymistekijät IX, II, VII ja X yhdistelmävalmisteina","coagulation factor IX, II, VII and X in combination",undefined
+324,4,B02BD02,20,Hyytymistekijä VIII,coagulation factor VIII,undefined
+325,4,B02BD03,30,Hyytymistekijä VIII:n vasta-aineen ohittava aine,factor VIII inhibitor bypassing activity,undefined
+326,4,B02BD04,40,Hyytymistekijä IX,coagulation factor IX,undefined
+327,4,B02BD06,50,Von Willebrand-tekijän ja hyytymistekijä VIII:n yhdistelmävalmisteet,von Willebrand factor and coagulation factor VIII in combination,undefined
+328,4,B02BD07,60,Hyytymistekijä XIII,coagulation factor XIII,undefined
+329,4,B02BD08,70,Hyytymistekijä VIIa,coagulation factor VIIa,undefined
+330,4,B02BD10,86,Von Willebrand -tekijä,von Willebrand factor,NOTDOI
+331,4,B02BD11,87,Katridekakogi,catridecacog,NOTDOI
+332,4,B02BD14,89,Susoktokogi alfa,susoctocog alfa,NOTDOI
+333,4,B02BD15,90,Valoktokogeeniroksaparvoveekki,valoctocogene roxaparvovec,NOTDOI
+334,4,B02BD16,91,Etranakogeenidetsaparvoveekki,etranacogene dezaparvovec,NOTDOI
+335,4,B02BD17,92,Fidanakogeenielaparvoveekki,fidanacogene elaparvovec,NOTDOI
+336,4,B02BX04,120,Romiplostiimi,romiplostim,undefined
+337,4,B02BX05,130,Eltrombopagi,eltrombopag,NOTDOI
+338,4,B02BX06,168,Emisitsumabi,emicizumab,NOTDOI
+339,4,B02BX07,169,Lusutrombopagi,lusutrombopag,NOTDOI
+340,4,B02BX08,170,Avatrombopagi,avatrombopag,NOTDOI
+341,4,B02BX09,180,Fostamatinibi,fostamatinib,NOTDOI
+342,4,B02BX10,181,Konsitsumabi ,concizumab,NOTDOI
+343,4,B02BX11,182,Marstasimabi,marstacimab,NOTDOI
+344,4,H01BA02,190,Desmopressiini,desmopressin,undefined
+345,4,H01BA04,200, Terlipressiini,terlipressin,undefined
+346,4,V03AB14,210,Protamiini,protamine,undefined
+347,2,B1C,30,Anemialääkkeet,,undefined
+348,3,B1CA,10,Rauta ja rauta-foolihappoyhdistelmät,,undefined
+349,4,B1CAA,10,Oraaliset valmisteet,ATCDDD N/A,NOTDOI
+350,4,B1CAB,20,Parenteraaliset valmisteet,ATCDDD N/A,NOTDOI
+351,3,B1CC,30,Muut anemialääkkeet,,undefined
+352,4,B03XA01,10,Epoetiini,erythropoietin,undefined
+353,4,B03XA02,20,Darbepoetiini alfa,darbepoetin alfa,undefined
+354,4,B03XA03,30,Metoksipolyetyleeniglykoliepoetiini beta,methoxy polyethylene glycol-epoetin beta,NOTDOI
+355,4,B03XA05,40,Roksadustaatti,roxadustat,NOTDOI
+356,4,B03XA06,50,Luspatersepti,luspatercept,NOTDOI
+357,4,B03XA08,51,Vadadustaatti,vadadustat,NOTDOI
+358,2,B1D,40,Perinnöllisen angioedeeman (HAE) lääkkeet,,undefined
+359,3,B06AC01,8,Proteiini-C1 -estäjät,"c1-inhibitor, plasma derived",NOTDOI
+360,3,B06AC02,9,Ikatibantti,icatibant,NOTDOI
+361,3,B06AC04,9,Konestaatti alfa,conestat alfa,NOTDOI
+362,3,B06AC05,10,Lanadelumabi,lanadelumab,NOTDOI
+363,3,B06AC06,10,Berotralstaatti,berotralstat,NOTDOI
+364,3,B06AC07,10,Garadasimabi,garadacimab,NOTDOI
+365,2,B1E,40,Muut hematologiset lääkkeet,,NOTDOI
+366,3,B01AX01,10,Defibrotidi,defibrotide,NOTDOI
+367,3,B01AX07,20,Kaplasitsumabi,caplacizumab,NOTDOI
+368,3,B02BX09,59,Fostamatinibi,fostamatinib,NOTDOI
+369,3,B06AX01,59,Kritsanlitsumabi,crizanlizumab,NOTDOI
+370,3,B06AA03,60,Hyaluronidaasi,hyaluronidase,NOTDOI
+371,3,B06AB01,60,Hemiini,hemin,undefined
+372,3,B06AX02,68,Betibeglogeeniautotemseeli,betibeglogene autotemcel,NOTDOI
+373,3,B06AX03,69,Vokselotori,voxelotor,NOTDOI
+374,3,B06AX04,69,Mitapivaatti,mitapivat,NOTDOI
+375,3,B06AX05,70,Eksagamglogeeniautotemseeli,exagamglogene autotemcel,NOTDOI
+376,3,L04AJ01,80,Ekulitsumabi,eculizumab,NOTDOI
+377,3,L04AJ02,90,Ravulitsumabi,ravulizumab,NOTDOI
+378,3,L04AJ03,91,Pegsetakoplaani,pegcetacoplan,NOTDOI
+379,3,L04AJ04,92,Sutimlimabi,sutimlimab,NOTDOI
+380,3,L04AJ07,93,Krovalimabi,crovalimab,NOTDOI
+381,3,L04AJ08,93,Iptakopaani,iptacopan,NOTDOI
+382,3,L04AJ09,94,Danikopaani ,danicopan,NOTDOI
+383,1,N2,3,"Keskushermoston lääkkeet (mm. psyyken, epilepsian, Parkinsonin ja Alzheimerin taudin lääkkeet)",,undefined
+384,2,N2A,10,Psykoosilääkkeet,,undefined
+385,3,N2AA,10,Perinteiset psykoosilääkkeet,,undefined
+386,4,N2AAA,10,Fentiatsiinit,,NOTDOI
+387,5,N05AA01,10,Klooripromatsiini,chlorpromazine,undefined
+388,5,N05AA02,20,Levomepromatsiini,levomepromazine,undefined
+389,5,N05AB01,30,Diksyratsiini,dixyrazine,undefined
+390,5,N05AB02,40,Flufenatsiini,fluphenazine,undefined
+391,5,N05AB03,50,Perfenatsiini,perphenazine,undefined
+392,5,N05AB06,55,Trifluoperatsiini,trifluoperazine,NOTDOI
+393,5,N05AB04,60,Proklooriperatsiini,prochlorperazine,undefined
+394,5,N05AC01,70,Perisiatsiini,periciazine,undefined
+395,5,N05AC04,80,Pipotiatsiini,pipotiazine,NOTDOI
+396,4,N05AD01,80,Haloperidoli,haloperidol,undefined
+397,4,N05AD03,90,Melperoni,melperone,undefined
+398,4,N05AF01,100,Flupentiksoli,flupentixol,undefined
+399,4,N05AF03,110,Klooriprotikseeni,chlorprothixene,undefined
+400,4,N05AF05,120,Tsuklopentiksoli,zuclopenthixol,undefined
+401,4,N05AL01,130,Sulpiridi,sulpiride,undefined
+402,4,N05AL05,135,Amisulpridi,amisulpride,NOTDOI
+403,4,N05AL03,137,Tiapridi,tiapride,NOTDOI
+404,4,N05AG02,140,Pimotsidi,pimozide,undefined
+405,4,N05AA03,150,Promatsiini,promazine,NOTDOI
+406,4,N05AC02,160,Tioridatsiini,thioridazine,NOTDOI
+407,3,N2AB,20,Uudemmat (epätyypilliset) psykoosilääkkeet,,undefined
+408,4,N05AE03,10,Sertindoli,sertindole,undefined
+409,4,N05AE04,20,Tsiprasidoni,ziprasidone,undefined
+410,4,N05AE05,30,Lurasidoni,lurasidone,NOTDOI
+411,4,N05AH01,40,Loksapiini,loxapine,NOTDOI
+412,4,N05AH02,50,Klotsapiini,clozapine,undefined
+413,4,N05AH03,60,Olantsapiini,olanzapine,undefined
+414,4,N05AH04,70,Ketiapiini,quetiapine,undefined
+415,4,N05AH05,80,Asenapiini,asenapine,NOTDOI
+416,4,N05AX08,90,Risperidoni,risperidone,undefined
+417,4,N05AX12,100,Aripipratsoli,aripiprazole,undefined
+418,4,N05AX13,110,Paliperidoni,paliperidone,undefined
+419,4,N05AX15,120,Karipratsiini,cariprazine,NOTDOI
+420,4,N05AX16,130,Brekspipratsoli,brexpiprazole,NOTDOI
+421,3,N05AN01,30,Litium,lithium,undefined
+422,2,N2B,20,Rauhoittavat lääkkeet,,undefined
+423,3,N2BA,10,Bentsodiatsepiinit,,undefined
+424,4,N05BA01,10,Diatsepaami,diazepam,undefined
+425,4,N05BA02,20,Klooridiatsepoksidi,chlordiazepoxide,undefined
+426,4,N05BA04,30,Oksatsepaami,oxazepam,undefined
+427,4,N05BA05,40,Kaliumkloratsepaatti,potassium clorazepate,NOTDOI
+428,4,N05BA06,50,Loratsepaami,lorazepam,undefined
+429,4,N05BA08,60,Bromatsepaami,bromazepam,NOTDOI
+430,4,N05BA12,70,Alpratsolaami,alprazolam,undefined
+431,3,N05BB01,20,Hydroksitsiini,hydroxyzine,undefined
+432,3,N05BE01,30,Buspironi,buspirone,undefined
+433,2,N2C,30,Unilääkkeet,,undefined
+434,3,N2CA,10,Bentsodiatsepiinit,,undefined
+435,4,N05CD02,10,Nitratsepaami,nitrazepam,undefined
+436,4,N05CD05,20,Triatsolaami,triazolam,undefined
+437,4,N05CD07,30,Tematsepaami,temazepam,undefined
+438,4,N05CD08,40,Midatsolaami,midazolam,undefined
+439,4,N05CD14,50, Remimatsolaami,remimazolam,NOTDOI
+440,3,N2CB,20,Bentsodiatsepiinien kaltaiset unilääkkeet,,undefined
+441,4,N05CF01,10,Tsopikloni,zopiclone,undefined
+442,4,N05CF02,20,Tsolpideemi,zolpidem,undefined
+443,4,N05CF03,30,Tsaleploni,zaleplon,undefined
+444,3,N2CC,30,Muut unilääkkeet,,undefined
+445,4,N05CC01,10,Kloraalihydraatti,chloral hydrate,NOTDOI
+446,4,N05CH01,20,Melatoniini,melatonin,undefined
+447,4,N05CH03,30,Tasimelteoni,tasimelteon,NOTDOI
+448,4,N05CJ03,31,Daridoreksantti ,daridorexant,NOTDOI
+449,4,N05CM02,40,Klometiatsoli,clomethiazole,NOTDOI
+450,4,N05CM06,50,Propiomatsiini,propiomazine,NOTDOI
+451,4,N05CM09,60,Valeriaana,Valerianae radix,undefined
+452,4,R06AA09,70,Doksylamiini,doxylamine,NOTDOI
+453,2,N2D,40,Masennuslääkkeet,,undefined
+454,3,N2DA,10,Tri- ja tetrasykliset masennuslääkkeet,,undefined
+455,4,N06AA02,10,Imipramiini,imipramine,NOTDOI
+456,4,N06AA04,20,Klomipramiini,clomipramine,undefined
+457,4,N06AA06,30,Trimipramiini,trimipramine,undefined
+458,4,N06AA07,40,Lofepramiini,lofepramine,NOTDOI
+459,4,N06AA09,50,Amitriptyliini,amitriptyline,undefined
+460,4,N06AA10,60,Nortriptyliini,nortriptyline,undefined
+461,4,N06AA12,70,Doksepiini,doxepin,undefined
+462,4,N06AA21,80,Maprotiliini,maprotiline,NOTDOI
+463,3,N2DB,20,Selektiiviset serotoniinin takaisinoton estäjät (SSRI),,undefined
+464,4,N06AB03,10,Fluoksetiini,fluoxetine,undefined
+465,4,N06AB04,20,Sitalopraami,citalopram,undefined
+466,4,N06AB05,30,Paroksetiini,paroxetine,undefined
+467,4,N06AB06,40,Sertraliini,sertraline,undefined
+468,4,N06AB08,50,Fluvoksamiini,fluvoxamine,undefined
+469,4,N06AB10,60,Essitalopraami,escitalopram,undefined
+470,3,N2DF,21,Serotoniinin ja noradrenaliinin takaisinoton estäjät (SNRI),,NOTDOI
+471,4,N06AX16,10,Venlafaksiini,venlafaxine,undefined
+472,4,N06AX17,12,Milnasipraani,milnacipran,undefined
+473,4,N06AX21,13,Duloksetiini ,duloxetine,undefined
+474,3,N2DC,30,Selektiiviset MAO:n estäjät,,undefined
+475,4,N06AG02,10,Moklobemidi,moclobemide,undefined
+476,3,N2DD,40,Muut masennuslääkkeet,,undefined
+477,4,N05AL01,8,Sulpiridi,sulpiride,undefined
+478,4,N06AF04,8,Tranyylikypromiini ,tranylcypromine,NOTDOI
+479,4,N06AX01,9,Oksitriptaani ,oxitriptan,NOTDOI
+480,4,N06AX03,10,Mianseriini,mianserin,undefined
+481,4,N06AX05,20,Tratsodoni,trazodone,undefined
+482,4,N06AX11,30,Mirtatsapiini,mirtazapine,undefined
+483,4,N06AX12,40,Bupropioni,bupropion,undefined
+484,4,N06AX14,50,Tianeptiini,tianeptine,NOTDOI
+485,4,N06AX18,80,Reboksetiini,reboxetine,undefined
+486,4,N06AX22,100,Agomelatiini,agomelatine,undefined
+487,4,N06AX25,110,Mäkikuisma,Hyperici herba,NOTDOI
+488,4,N06AX26,120,Vortioksetiini,vortioxetine,NOTDOI
+489,4,N06AX27,130,Esketamiini ,esketamine,NOTDOI
+490,3,N2DE,50,Masennuslääkkeen ja muun psyykenlääkkeen yhdistelmät,,undefined
+491,4,N06CA01,10,Amitriptyliini ja muu psyykenlääke,amitriptyline and psycholeptics,undefined
+492,2,N2E,50,Epilepsialääkkeet,,undefined
+493,3,N2EA,10,Hydantoiinijohdokset,,undefined
+494,4,N03AB02,10,Fenytoiini,phenytoin,undefined
+495,4,N03AB05,20,Fosfenytoiini,fosphenytoin,undefined
+496,3,N2EB,20,Bentsodiatsepiinit,,undefined
+497,4,N03AE01,10,Klonatsepaami,clonazepam,undefined
+498,4,N05BA01,10,Diatsepaami,diazepam,undefined
+499,4,N05BA06,10,Loratsepaami,lorazepam,undefined
+500,4,N05CD08,10,Midatsolaami,midazolam,undefined
+501,4,N05BA09,20,Klobatsaami,clobazam,undefined
+502,3,N2EC,30,Karboksamidijohdokset,,undefined
+503,4,N03AF01,10,Karbamatsepiini,carbamazepine,undefined
+504,4,N03AF02,20,Okskarbatsepiini,oxcarbazepine,undefined
+505,4,N03AF03,30,Rufinamidi,rufinamide,undefined
+506,4,N03AF04,40,Eslikarbatsepiini,eslicarbazepine,NOTDOI
+507,3,N2ED,40,Rasvahappojohdokset,,undefined
+508,4,N03AG01,10,Valproiinihappo,valproic acid,undefined
+509,4,N03AG04,20,Vigabatriini,vigabatrin,undefined
+510,4,N03AG06,30,Tiagabiini,tiagabine,undefined
+511,3,N2EE,50,Muut epilepsialääkkeet,,undefined
+512,4,N03AA02,10,Fenobarbitaali,phenobarbital,undefined
+513,4,N03AA03,20,Primidoni,primidone,undefined
+514,4,N03AD01,30,Etosuksimidi,ethosuximide,NOTDOI
+515,4,N03AX03,40,Sultiaami,sultiame,undefined
+516,4,N03AX09,50,Lamotrigiini,lamotrigine,undefined
+517,4,N03AX10,60,Felbamaatti,felbamate,undefined
+518,4,N03AX11,70,Topiramaatti,topiramate,undefined
+519,4,N02BF01,80,Gabapentiini,gabapentin,NOTDOI
+520,4,N03AX14,90,Levetirasetaami,levetiracetam,undefined
+521,4,N03AX15,100,Tsonisamidi,zonisamide,undefined
+522,4,N02BF02,110,Pregabaliini,pregabalin,NOTDOI
+523,4,N03AX17,120,Stiripentoli,stiripentol,undefined
+524,4,N03AX18,130,Lakosamidi,lacosamide,undefined
+525,4,N03AX21,140,Retigabiini,retigabine,NOTDOI
+526,4,N03AX22,150,Perampaneeli,perampanel,NOTDOI
+527,4,N03AX23,160,Brivarasetaami,brivaracetam,NOTDOI
+528,4,N03AX24,161,Kannabidioli,cannabidiol,NOTDOI
+529,4,N03AX25,170,Senobamaatti,cenobamate,NOTDOI
+530,4,N03AX26,180,Fenfluramiini,fenfluramine,NOTDOI
+531,4,N03AX27,181,Ganaksoloni,ganaxolone,NOTDOI
+532,4,N03AX31,182,Kaliumbromidi,ATCDDD N/A,NOTDOI
+533,2,N2F,60,Parkinsonismilääkkeet,,undefined
+534,3,N2FA,10,Antikolinergit,,undefined
+535,4,N04AA01,10,Triheksifenidyyli,trihexyphenidyl,NOTDOI
+536,4,N04AA02,20,Biperideeni,biperiden,undefined
+537,4,N04AA04,30,Prosyklidiini,procyclidine,NOTDOI
+538,3,N2FB,20,Dopaminergiset lääkkeet,,undefined
+539,4,N04BA02,10,Levodopa ja dekarboksylaasin estäjä,levodopa and decarboxylase inhibitor,undefined
+540,4,N04BA03,20,"Levodopa, dekarboksylaasin estäjä ja COMT-estäjä","levodopa, decarboxylase inhibitor and COMT inhibitor",undefined
+541,4,N04BA07,21,Foslevodopa ja dekarboksylaasin estäjä,foslevodopa and decarboxylase inhibitor,NOTDOI
+542,4,N04BB01,30,Amantadiini,amantadine,undefined
+543,4,G02CB01,39,Bromokriptiini,bromocriptine,undefined
+544,4,N04BC01,40,Bromokriptiini,bromocriptine,undefined
+545,4,N04BC04,50,Ropiniroli,ropinirole,undefined
+546,4,N04BC05,60,Pramipeksoli,pramipexole,undefined
+547,4,N04BC06,70,Kabergoliini,cabergoline,undefined
+548,4,N04BC07,80,Apomorfiini,apomorphine,NOTDOI
+549,4,N04BC09,90,Rotigotiini,rotigotine,undefined
+550,4,N04BX01,100,Tolkaponi,tolcapone,undefined
+551,4,N04BX02,110,Entakaponi,entacapone,undefined
+552,4,N04BX04,120,Opikaponi,opicapone,NOTDOI
+553,3,N2FC,30,MAO-B:n estäjät,,undefined
+554,4,N04BD01,10,Selegiliini,selegiline,undefined
+555,4,N04BD02,20,Rasagiliini,rasagiline,undefined
+556,4,N04BD03,30,Safinamidi,safinamide,NOTDOI
+557,2,N2G,64,Alzheimerin taudin lääkkeet,,undefined
+558,3,N2GA,10,Antikoliiniesteraasit (AKE:n estäjät),,NOTDOI
+559,4,N06DA02,10,Donepetsiili,donepezil,undefined
+560,4,N06DA03,20,Rivastigmiini,rivastigmine,undefined
+561,4,N06DA04,30,Galantamiini,galantamine,undefined
+562,3,N06DX01,20,Memantiini,memantine,undefined
+563,3,N06DX04,21,Lekanemabi,lecanemab,NOTDOI
+564,2,N2O,65,MS-taudin lääkkeet,,NOTDOI
+565,3,L01DB07,10,Mitoksantroni,mitoxantrone,undefined
+566,3,L03AB07,20,Interferonibeeta-1a,interferon beta-1a,undefined
+567,3,L03AB08,30,Interferonibeeta-1b,interferon beta-1b,undefined
+568,3,L03AB13,40,Peginterferonibeeta-1a,peginterferon beta-1a,NOTDOI
+569,3,L03AX13,50,Glatirameeriasetaatti,glatiramer acetate,undefined
+570,3,L04AG03,60,Natalitsumabi,natalizumab,NOTDOI
+571,3,L04AE01,70,Fingolimodi,fingolimod,NOTDOI
+572,3,L04AK02,80,Teriflunomidi,teriflunomide,NOTDOI
+573,3,L04AG06,90,Alemtutsumabi,alemtuzumab,NOTDOI
+574,3,L04AG08,100,Okrelitsumabi,ocrelizumab,NOTDOI
+575,3,L04AA40,110,Kladribiini,cladribine,NOTDOI
+576,3,L04AE04,119,Ponesimodi,ponesimod,NOTDOI
+577,3,L04AE03,120,Siponimodi,siponimod,NOTDOI
+578,3,L04AG12,120,Ofatumumabi,ofatumumab,NOTDOI
+579,3,L04AG14,121,Ublituksimabi,ublituximab,NOTDOI
+580,3,L04AX07,128,Dimetyylifumaraatti,dimethyl fumarate,NOTDOI
+581,3,L04AX09,129,Diroksimeelifumaraatti,diroximel fumarate,NOTDOI
+582,3,N02BG10,140,Kannabinoidit,cannabinoids,NOTDOI
+583,3,N07XX07,141,Fampridiini,fampridine,NOTDOI
+584,2,N2H,80,ADHD-lääkkeet,,undefined
+585,3,C02AC02,10,Guanfasiini,guanfacine,NOTDOI
+586,3,N06BA02,20,Deksamfetamiini,dexamfetamine,NOTDOI
+587,3,N06BA04,30,Metyylifenidaatti,methylphenidate,undefined
+588,3,N06BA09,40,Atomoksetiini,atomoxetine,undefined
+589,3,N06BA12,50,Lisdeksamfetamiini,lisdexamfetamine,NOTDOI
+590,2,N2N,81,Narkolepsialääkkeet,,NOTDOI
+591,3,N06BA07,10,Modafiniili,modafinil,NOTDOI
+592,3,N06BA14,10,Solriamfetoli,solriamfetol,NOTDOI
+593,3,N07XX11,13,Pitolisantti,pitolisant,NOTDOI
+594,3,N07XX04,14,Natriumoksibaatti (hydroksivoihappo),sodium oxybate,undefined
+595,2,N2J,90,Riippuvuuden hoitoon tarkoitetut lääkkeet,,undefined
+596,3,N2JA,10,Nikotiiniriippuvuuden hoito,,undefined
+597,4,N06AX12,10,Bupropioni,bupropion,undefined
+598,4,N07BA01,20,Nikotiini,nicotine,undefined
+599,4,N07BA03,30,Varenikliini,varenicline,undefined
+600,3,N2JB,20,Alkoholiriippuvuuden hoito,,undefined
+601,4,N07BB01,10,Disulfiraami,disulfiram,undefined
+602,4,N07BB03,20,Akamprosaatti,acamprosate,NOTDOI
+603,4,N07BB04,30,Naltreksoni,naltrexone,undefined
+604,4,N07BB05,40,Nalmefeeni,nalmefene,NOTDOI
+605,3,N2JC,30,Opioidiriippuvuuden hoito,,undefined
+606,4,N07BC01,10,Buprenorfiini,buprenorphine,NOTDOI
+607,4,N07BC05,10,Levometadoni,levomethadone,NOTDOI
+608,4,N07BC02,20,Metadoni,methadone,undefined
+609,4,N07BC04,30,Lofeksidiini,lofexidine,NOTDOI
+610,4,N07BC51,40,"Buprenorfiini, yhdistelmävalmisteet","buprenorphine, combinations",undefined
+611,2,N2K,100,Huimauslääkkeet,,undefined
+612,3,N07CA01,10,Betahistiini,betahistine,undefined
+613,3,N07CA03,20,Flunaritsiini,flunarizine,NOTDOI
+614,3,N07CA52,30,"Sinnaritsiini, yhdistelmävalmisteet","cinnarizine, combinations",NOTDOI
+615,2,N2L,110,Parasympatomimeetit,,undefined
+616,3,N07AA01,10,Neostigmiini,neostigmine,NOTDOI
+617,3,N07AA02,20,Pyridostigmiini,pyridostigmine,undefined
+618,3,N07AA03,30,Distigmiini,distigmine,undefined
+619,3,N07AA30,40,Ambenoni,ambenonium,undefined
+620,3,N07AA51,50,"Neostigmiini, yhdistelmävalmisteet","neostigmine, combinations",undefined
+621,3,N07AB02,60,Betanekoliini,bethanechol,NOTDOI
+622,3,N07AX01,70,Pilokarpiini,pilocarpine,undefined
+623,2,N2M,120,Muut hermostoon vaikuttavat lääkkeet,,undefined
+624,3,N06BA14,9,Solriamfetoli,solriamfetol,NOTDOI
+625,3,N06BC01,10,Kofeiini,caffeine,undefined
+626,3,N06BX03,11,Pirasetaami,piracetam,undefined
+627,3,N06BX13,12,Idebenoni,idebenone,NOTDOI
+628,3,N07XX05,12,Amifampridiini,amifampridine,NOTDOI
+629,3,N07XX02,13,Rilutsoli,riluzole,undefined
+630,3,N07XX06,13,Tetrabenatsiini,tetrabenazine,NOTDOI
+631,3,N07XX07,14,Fampridiini,fampridine,NOTDOI
+632,3,N07XX08,15,Tafamidiisi,tafamidis,NOTDOI
+633,3,N07XX12,16,Patisiraani,patisiran,NOTDOI
+634,3,N07XX15,16,Inoterseeni,inotersen,NOTDOI
+635,3,N07XX18,17,Vutrisiraani ,vutrisiran,NOTDOI
+636,3,N07XX21,18,Eplonterseeni,eplontersen,NOTDOI
+637,3,N07XX22,18,Toferseeni,tofersen,NOTDOI
+638,3,N07XX25,19,Omaveloksoloni,omaveloxolone,NOTDOI
+639,3,A16AB21,20,Atidarsageeniautotemseeli ,atidarsagene autotemcel,NOTDOI
+640,3,L04AG16,21,Rotsanoliksitsumabi,rozanolixizumab,NOTDOI
+641,3,V03AX04,21,Difelikefaliini,difelikefalin,NOTDOI
+642,1,J1A,4,Bakteerilääkkeet,,undefined
+643,2,J1AA,10,Tetrasykliinit,,undefined
+644,3,J01AA02,10,Doksisykliini,doxycycline,undefined
+645,3,J01AA04,20,Lymesykliini,lymecycline,undefined
+646,3,J01AA07,30,Tetrasykliini,tetracycline,undefined
+647,3,J01AA08,40,Minosykliini,minocycline,NOTDOI
+648,3,J01AA12,50,Tigesykliini,tigecycline,undefined
+649,3,J01AA13,60,Eravasykliini,eravacycline,NOTDOI
+650,2,J1AB,10,Penisilliinit,,undefined
+651,3,J1ABA,10,Laajaspektriset penisilliinit,,undefined
+652,4,J01CA01,10,Ampisilliini,ampicillin,undefined
+653,4,J01CA04,20,Amoksisilliini,amoxicillin,undefined
+654,3,J1ABB,20,Beetalaktamaasiherkät penisilliinit,,undefined
+655,4,J01CE01,10,Bentsyylipenisilliini,benzylpenicillin,undefined
+656,4,J01CE02,20,Fenoksimetyylipenisilliini,phenoxymethylpenicillin,undefined
+657,4,J01CE08,30,Bentsyylipenisilliinibentsatiini,benzathine benzylpenicillin,undefined
+658,4,J01CE09,40,Prokaiinipenisilliini,procaine benzylpenicillin,undefined
+659,3,J1ABC,30,Beetalaktamaasiresistentit penisilliinit,,undefined
+660,4,J01CF01,10,Dikloksasilliini,dicloxacillin,undefined
+661,4,J01CF02,20,Kloksasilliini,cloxacillin,undefined
+662,4,J01CF05,30,Flukloksasilliini,flucloxacillin,NOTDOI
+663,3,J1ABD,40,Penisilliinien yhdistelmävalmisteet,,undefined
+664,4,J01CR01,20,Ampisilliini ja beetalaktamaasin estäjä,ampicillin and beta-lactamase inhibitor,NOTDOI
+665,4,J01CR02,30,Amoksisilliini ja beetalaktamaasin estäjä,amoxicillin and beta-lactamase inhibitor,undefined
+666,4,J01CR03,40,Tikarsilliini ja beetalaktamaasin estäjä,ticarcillin and beta-lactamase inhibitor,NOTDOI
+667,4,J01CR05,50,Piperasilliini ja beetalaktamaasin estäjä,piperacillin and beta-lactamase inhibitor,undefined
+668,2,J1AC,10,Muut beetalaktaamirakenteiset bakteerilääkkeet,,undefined
+669,3,J01CA08,10,Pivmesillinaami,pivmecillinam,undefined
+670,3,J1ACA,10,Ensimmäisen polven kefalosporiinit,,undefined
+671,4,J01DB01,10,Kefaleksiini,cefalexin,undefined
+672,4,J01DB03,20,Kefalotiini,cefalotin,NOTDOI
+673,4,J01DB04,30,Kefatsoliini,cefazolin,NOTDOI
+674,4,J01DB05,40,Kefadroksiili,cefadroxil,undefined
+675,3,J1ACB,20,Toisen polven kefalosporiinit,,undefined
+676,4,J01DC01,10,Kefoksitiini,cefoxitin,NOTDOI
+677,4,J01DC02,10,Kefuroksiimi,cefuroxime,undefined
+678,4,J01DC04,20,Kefaklori,cefaclor,undefined
+679,3,J1ACC,30,Kolmannen polven kefalosporiinit,,undefined
+680,4,J01DD01,10,Kefotaksiimi,cefotaxime,NOTDOI
+681,4,J01DD02,20,Keftatsidiimi,ceftazidime,undefined
+682,4,J01DD04,30,"Keftriaksoni, myös yhdistelmävalmisteet",ceftriaxone,NOTDOI
+683,4,J01DD52,40,Keftatsidiimi ja beetalaktamaasin estäjä,ceftazidime and beta-lactamase inhibitor,NOTDOI
+684,3,J1ACD,40,Neljännen polven kefalosporiinit,,undefined
+685,4,J01DE01,10,Kefepiimi,cefepime,undefined
+686,4,J01DE51,11,Kefepiimi ja enmetatsobaktaami,cefepime and beta-lactamase inhibitor,NOTDOI
+687,3,J1ACG,50,"Muut kefalosporiinit, myös yhdistelmävalmisteet",,NOTDOI
+688,4,J01DI01,10,Keftobiprolimedokariili,ceftobiprole medocaril,NOTDOI
+689,4,J01DI02,20,Keftaroliinifosamiili,ceftaroline fosamil,NOTDOI
+690,4,J01DI04,30,Kefiderokoli,cefiderocol,NOTDOI
+691,4,J01DI54,40,Keftolotsaani ja beetalaktamaasin estäjä,ceftolozane and beta-lactamase inhibitor,NOTDOI
+692,3,J1ACE,60,Monobaktaamit,,undefined
+693,4,J01DF01,10,Atstreonaami,aztreonam,undefined
+694,4,J01DF51,11,Atstreonaami ja beetalaktamaasin estäjä,aztreonam and beta-lactamase inhibitor,NOTDOI
+695,3,J1ACF,70,Karbapeneemit,,undefined
+696,4,J01DH02,10,Meropeneemi,meropenem,undefined
+697,4,J01DH52,10,Meropeneemi ja vaborbaktaami,meropenem and vaborbactam,NOTDOI
+698,4,J01DH03,20,Ertapeneemi,ertapenem,undefined
+699,4,J01DH04,30,Doripeneemi,doripenem,undefined
+700,4,J01DH51,40,Imipeneemi ja silastatiini,imipenem and cilastatin,undefined
+701,4,J01DH56,60,"Imipeneemi, silastatiini ja relebaktaami","imipenem, cilastatin and relebactam",NOTDOI
+702,2,J1AD,10,Sulfonamidit ja trimetopriimi,,undefined
+703,3,J01EA01,10,Trimetopriimi,trimethoprim,undefined
+704,3,J01EC02,15,Sulfadiatsiini,sulfadiazine,NOTDOI
+705,3,J1ADA,20,Sulfonamidin ja trimetopriimin yhdistelmät,,undefined
+706,4,J01EE01,10,Sulfametoksatsoli ja trimetopriimi,sulfamethoxazole and trimethoprim,undefined
+707,4,J01EE02,20,Sulfadiatsiini ja trimetopriimi,sulfadiazine and trimethoprim,undefined
+708,2,J1AE,10,Makrolidit,,undefined
+709,3,J01FA01,10,Erytromysiini,erythromycin,undefined
+710,3,J01FA02,20,Spiramysiini,spiramycin,undefined
+711,3,J01FA06,30,Roksitromysiini,roxithromycin,undefined
+712,3,J01FA09,40,Klaritromysiini,clarithromycin,undefined
+713,3,J01FA10,50,Atsitromysiini,azithromycin,undefined
+714,3,J01FA15,60,Telitromysiini,telithromycin,undefined
+715,2,J1AG,10,Aminoglykosidit,,undefined
+716,3,J01GA01,10,Streptomysiini,streptomycin,NOTDOI
+717,3,J01GB01,20,Tobramysiini,tobramycin,undefined
+718,3,J01GB03,30,Gentamisiini,gentamicin,undefined
+719,3,J01GB05,31,Neomysiini,neomycin,NOTDOI
+720,3,J01GB06,40,Amikasiini,amikacin,undefined
+721,3,J01GB07,50,Netilmisiini,netilmicin,undefined
+722,2,J1AH,20,Fluorokinolonit,,undefined
+723,3,J01MA01,10,Ofloksasiini,ofloxacin,undefined
+724,3,J01MA02,20,Siprofloksasiini,ciprofloxacin,undefined
+725,3,J01MA06,30,Norfloksasiini,norfloxacin,undefined
+726,3,J01MA12,40,Levofloksasiini,levofloxacin,undefined
+727,3,J01MA14,50,Moksifloksasiini,moxifloxacin,undefined
+728,3,J01MA23,60,Delafloksasiini,delafloxacin,NOTDOI
+729,2,J1AK,40,Peptidoglykaanit,,undefined
+730,3,J01XA01,10,Vankomysiini,vancomycin,undefined
+731,3,J01XA02,20,Teikoplaniini,teicoplanin,undefined
+732,3,J01XA04,30,Dalbavansiini,dalbavancin,NOTDOI
+733,3,J01XA05,40,Oritavansiini,oritavancin,NOTDOI
+734,2,J1AL,40,Muut bakteerilääkkeet,,undefined
+735,3,A07AA11,10,Rifaksimiini ,rifaximin,undefined
+736,3,A07AA12,10,Fidaksomisiini,fidaxomicin,NOTDOI
+737,3,J01XB01,10,Kolistiini,colistin,NOTDOI
+738,3,J01XC01,20,Fusidiinihappo,fusidic acid,undefined
+739,3,J01FF01,29,Klindamysiini,clindamycin,undefined
+740,3,J01XD01,30,Metronidatsoli,metronidazole,undefined
+741,3,J01XE01,40,Nitrofurantoiini,nitrofurantoin,undefined
+742,3,J01XX01,50,Fosfomysiini,fosfomycin,NOTDOI
+743,3,J01XX05,70,Metenamiini,methenamine,undefined
+744,3,J01XX08,80,Linetsolidi,linezolid,undefined
+745,3,J01XX09,90,Daptomysiini,daptomycin,undefined
+746,3,J01XX11,100,Teditsolidi,tedizolid,NOTDOI
+747,3,J01XX12,110,Lefamuliini,lefamulin,NOTDOI
+748,2,D1DA,50,"Paikalliset antibiootit, kemoterapia",,undefined
+749,3,D06AX01,10,Fusidiinihappo,fusidic acid,undefined
+750,3,D06AX04,20,Neomysiini,neomycin,undefined
+751,3,D06AX07,30,Gentamisiini,gentamicin,NOTDOI
+752,3,D06AX09,40,Mupirosiini,mupirocin,undefined
+753,3,D06AX13,50,Retapamuliini,retapamulin,NOTDOI
+754,3,D06BA01,60,Hopeasulfadiatsiini,silver sulfadiazine,undefined
+755,3,D06BB10,70,Imikimodi,imiquimod,undefined
+756,3,D06BX01,80,Metronidatsoli,metronidazole,undefined
+757,3,D06BX03,100,Tirbanibuliini,tirbanibulin,NOTDOI
+758,3,L01AA05,101,Kloorimetiini,chlormethine,NOTDOI
+759,3,L01BC02,102,Fluorourasiili,fluorouracil,undefined
+760,3,L01BC52,102,"Fluorourasiili, yhdistelmävalmisteet","fluorouracil, combinations",NOTDOI
+761,3,L01XD03,103,Metyyliaminolevulinaatti,methyl aminolevulinate,undefined
+762,3,L01XD04,103,Aminolevuliinihappo,aminolevulinic acid,undefined
+763,1,J1B,5,Sienilääkkeet,,undefined
+764,2,J1BB,10,Systeemiset sienilääkkeet,,undefined
+765,3,J04BA02,10,Dapsoni,dapsone,undefined
+766,3,J1BA,10,Imidatsoli- ja triatsolijohdokset,,undefined
+767,4,J02AB02,10,Ketokonatsoli,ketoconazole,undefined
+768,4,J02AC01,20,Flukonatsoli,fluconazole,undefined
+769,4,J02AC02,30,Itrakonatsoli,itraconazole,undefined
+770,4,J02AC03,40,Vorikonatsoli,voriconazole,undefined
+771,4,J02AC04,50,Posakonatsoli,posaconazole,undefined
+772,4,J02AC05,60,Isavukonatsoli,isavuconazole,NOTDOI
+773,3,D01BA01,20,Griseofulviini,griseofulvin,NOTDOI
+774,3,D01BA02,30,Terbinafiini,terbinafine,undefined
+775,3,J02AA01,40,Amfoterisiini,amphotericin B,undefined
+776,3,J02AX01,41,Flusytosiini,flucytosine,NOTDOI
+777,3,J02AX04,50,Kaspofungiini,caspofungin,undefined
+778,3,J02AX05,60,Mikafungiini,micafungin,undefined
+779,3,J02AX06,70,Anidulafungiini,anidulafungin,undefined
+780,3,J02AX08,71,Retsafungiini,rezafungin acetate,NOTDOI
+781,3,P01AX06,71,Atovakoni,atovaquone,NOTDOI
+782,3,P01CX01,72,Pentamidiini-isetionaatti,pentamidine isethionate,NOTDOI
+783,2,D1BA,20,Paikalliset sienilääkkeet,,undefined
+784,3,D01AA02,10,Natamysiini,natamycin,undefined
+785,3,D01AC01,20,Klotrimatsoli,clotrimazole,undefined
+786,3,D01AC02,30,Mikonatsoli,miconazole,undefined
+787,3,D01AC03,40,Ekonatsoli,econazole,undefined
+788,3,D01AC07,50,Tiokonatsoli,tioconazole,undefined
+789,3,D01AC08,60,Ketokonatsoli,ketoconazole,undefined
+790,3,D01AC10,70,Bifonatsoli,bifonazole,NOTDOI
+791,3,D01AC20,80,Sienilääke ja kortikosteroidi,imidazoles/triazoles in combination with corticosteroids,undefined
+792,3,D01AE02,90,Metyylirosaniliini,methylrosaniline,NOTDOI
+793,3,D01AE14,100,Siklopiroksi,ciclopirox,undefined
+794,3,D01AE15,110,Terbinafiini,terbinafine,undefined
+795,3,D01AE16,120,Amorolfiini,amorolfine,undefined
+796,3,D01AE20,130,Muut sienilääkkeiden yhdistelmävalmisteet,combinations,NOTDOI
+797,1,J1D,6,Viruslääkkeet,,undefined
+798,2,J0AB,10,Herpes/sytomegalo/Ebstein-Barr -lääkkeet,,undefined
+799,3,J05AB01,10,Asikloviiri,aciclovir,undefined
+800,3,J05AB06,20,Gansikloviiri,ganciclovir,undefined
+801,3,J05AB09,30,Famsikloviiri,famciclovir,undefined
+802,3,J05AB11,40,Valasikloviiri,valaciclovir,undefined
+803,3,J05AB12,50,Sidofoviiri,cidofovir,NOTDOI
+804,3,J05AB14,60,Valgansikloviiri,valganciclovir,undefined
+805,3,J05AD01,70,Foskarnetti,foscarnet,NOTDOI
+806,3,J05AX10,71,Maribaviiri,maribavir,NOTDOI
+807,3,J05AX18,80,Letermoviiri,letermovir,NOTDOI
+808,2,J0ABA,11, B-hepatiittilääkkeet,,NOTDOI
+809,3,J05AF05,10,Lamivudiini,lamivudine,undefined
+810,3,J05AF07,10,Tenofoviiridisoproksiili,tenofovir disoproxil,undefined
+811,3,J05AF08,11,Adefoviiridipivoksiili,adefovir dipivoxil,undefined
+812,3,J05AF10,12,Entekaviiri,entecavir,undefined
+813,2,J1DA,20,C-hepatiittilääkkeet,,NOTDOI
+814,3,J05AP01,10,Ribaviriini,ribavirin,undefined
+815,3,J05AP02,19,Telapreviiri,telaprevir,NOTDOI
+816,3,J05AP03,19,Bosepreviiri,boceprevir,NOTDOI
+817,3,J05AP05,20,Simepreviiri,simeprevir,NOTDOI
+818,3,J05AP56,30,"Sofosbuviiri, velpatasviiri ja voksilapreviiri","sofosbuvir, velpatasvir and voxilaprevir",NOTDOI
+819,3,J05AP57,40,Glekapreviiri ja pibrentasviiri,glecaprevir and pibrentasvir,NOTDOI
+820,3,J05AP07,50,Daklatasviiri,daclatasvir,NOTDOI
+821,3,J05AP08,60,Sofosbuviiri,sofosbuvir,NOTDOI
+822,3,J05AP09,70,Dasabuviiri,dasabuvir,NOTDOI
+823,3,J05AP51,80,Sofosbuviiri ja ledipasviiri,sofosbuvir and ledipasvir,NOTDOI
+824,3,J05AP53,90,"Ombitasviiri, paritapreviiri ja ritonaviiri","ombitasvir, paritaprevir and ritonavir",NOTDOI
+825,3,J05AP54,100,Elbasviiri ja gratsopreviiri,elbasvir and grazoprevir,NOTDOI
+826,3,J05AP55,110,Sofosbuviiri ja velpatasviiri,sofosbuvir and velpatasvir,NOTDOI
+827,3,L03AB10,120,Peginterferonialfa-2b,peginterferon alfa-2b,undefined
+828,3,L03AB11,130,Peginterferonialfa-2a,peginterferon alfa-2a,undefined
+829,2,J1DAA,30,Muut hepatiittilääkkeet,,NOTDOI
+830,3,J05AX28,10,Bulevirtidi,bulevirtide,NOTDOI
+831,2,J1DB,40,Influenssaviruslääkkeet,,undefined
+832,3,J05AH01,10,Tsanamiviiri,zanamivir,undefined
+833,3,J05AH02,20,Oseltamiviiri,oseltamivir,undefined
+834,3,J05AH03,30,Peramiviiri,peramivir,NOTDOI
+835,3,J05AX25,40,Baloksaviirimarboksiili,baloxavir marboxil,NOTDOI
+836,3,J05AX27,41,Favipiraviiri,favipiravir,NOTDOI
+837,2,J1DBA,41,COVID-19-lääkkeet,,NOTDOI
+838,3,J05AB16,7,Remdesiviiri,remdesivir,NOTDOI
+839,3,J05AE30,7,Nirmatrelviiri ja ritonaviiri,nirmatrelvir and ritonavir,NOTDOI
+840,3,J06BD05,8,Sotrovimabi,sotrovimab,NOTDOI
+841,3,J06BD03,9,Tiksagevimabi ja silgavimabi,tixagevimab and cilgavimab,NOTDOI
+842,3,J06BD06,10,Regdanvimabi,regdanvimab,NOTDOI
+843,3,J06BD07,10,Kasirivimabi ja imdevimabi,casirivimab and imdevimab,NOTDOI
+844,3,J06BD09,11,Sipavibarti,sipavibart,NOTDOI
+845,3,L04AC03,12,Anakinra,anakinra,undefined
+846,3,L04AC07,13,Tosilitsumabi,tocilizumab,undefined
+847,3,L04AJ10,14,Vilobelimabi,vilobelimab,NOTDOI
+848,2,J1DC,50,HIV-lääkkeet,,NOTDOI
+849,3,J1DCA,30,Proteaasin estäjät,,undefined
+850,4,J05AE01,10,Sakinaviiri,saquinavir,undefined
+851,4,J05AE02,20,Indinaviiri,indinavir,undefined
+852,4,J05AE03,30,Ritonaviiri,ritonavir,undefined
+853,4,J05AE07,40,Fosamprenaviiri,fosamprenavir,undefined
+854,4,J05AE08,50,Atatsanaviiri,atazanavir,undefined
+855,4,J05AE09,60,Tipranaviiri,tipranavir,undefined
+856,4,J05AE10,70,Darunaviiri,darunavir,undefined
+857,3,J1DCB,40,Käänteiskopioijaentsyymin estäjät,,undefined
+858,4,J05AF01,10,Tsidovudiini,zidovudine,undefined
+859,4,J05AF02,20,Didanosiini,didanosine,undefined
+860,4,J05AF04,30,Stavudiini,stavudine,undefined
+861,4,J05AF05,40,Lamivudiini,lamivudine,undefined
+862,4,J05AF06,50,Abakaviiri,abacavir,undefined
+863,4,J05AF07,60,Tenofoviiridisoproksiili,tenofovir disoproxil,undefined
+864,4,J05AF09,80,Emtrisitabiini,emtricitabine,undefined
+865,4,J05AF11,100,Telbivudiini,telbivudine,undefined
+866,4,J05AF13,110,Tenofoviirialafenamidi,tenofovir alafenamide,NOTDOI
+867,4,J05AG01,120,Nevirapiini,nevirapine,undefined
+868,4,J05AG03,130,Efavirentsi,efavirenz,undefined
+869,4,J05AG04,140,Etraviriini,etravirine,undefined
+870,4,J05AG05,150,Rilpiviriini,rilpivirine,NOTDOI
+871,4,J05AG06,160,Doraviriini,doravirine,NOTDOI
+872,3,J1DCBA,41,Integraasinestäjät,,NOTDOI
+873,4,J05AJ03,10,Dolutegraviiri,dolutegravir,NOTDOI
+874,4,J05AJ01,11,Raltegraviiri,raltegravir,NOTDOI
+875,4,J05AJ04,11,Kabotegraviiri,cabotegravir,NOTDOI
+876,3,J1DCD,50,HIV-lääkkeiden yhdistelmät,,undefined
+877,4,J05AR01,20,Tsidovudiini ja lamivudiini,zidovudine and lamivudine,undefined
+878,4,J05AR02,30,Lamivudiini ja abakaviiri,lamivudine and abacavir,undefined
+879,4,J05AR03,40,Tenofoviiridisoproksiili ja emtrisitabiini,tenofovir disoproxil and emtricitabine,undefined
+880,4,J05AR04,50,"Tsidovudiini, lamivudiini ja abakaviiri","zidovudine, lamivudine and abacavir",undefined
+881,4,J05AR06,60,"Emtrisitabiini, tenofoviiridisoproksiili ja efavirentsi","emtricitabine, tenofovir disoproxil and efavirenz",undefined
+882,4,J05AR08,70,"Emtrisitabiini, tenofoviiridisoproksiili ja rilpiviriini","emtricitabine, tenofovir disoproxil and rilpivirine",NOTDOI
+883,4,J05AR09,78,"Emtrisitabiini, tenofoviiridisoproksiili, elvitegraviiri ja kobisistaatti","emtricitabine, tenofovir disoproxil, elvitegravir and cobicistat",NOTDOI
+884,4,J05AR10,79,Lopinaviiri ja ritonaviiri,lopinavir and ritonavir,undefined
+885,4,J05AR13,90,"Lamivudiini, abakaviiri ja dolutegraviiri","lamivudine, abacavir and dolutegravir",NOTDOI
+886,4,J05AR14,100,Darunaviiri ja kobisistaatti,darunavir and cobicistat,NOTDOI
+887,4,J05AR15,110,Atatsanaviiri ja kobisistaatti,atazanavir and cobicistat,NOTDOI
+888,4,J05AR17,120,Emtrisitabiini ja tenofoviirialafenamidi,emtricitabine and tenofovir alafenamide,NOTDOI
+889,4,J05AR18,130,"Emtrisitabiini, tenofoviirialafenamidi, elvitegraviiri ja kobisistaatti","emtricitabine, tenofovir alafenamide, elvitegravir and cobicistat",NOTDOI
+890,4,J05AR19,140,"Emtrisitabiini, tenofoviirialafenamidi ja rilpiviriini","emtricitabine, tenofovir alafenamide and rilpivirine",NOTDOI
+891,4,J05AR20,150,"Biktegraviiri, emtrisitabiini ja tenofoviirialafenamidi","emtricitabine, tenofovir alafenamide and bictegravir",NOTDOI
+892,4,J05AR21,160,Dolutegraviiri ja rilpiviriini ,dolutegravir and rilpivirine,NOTDOI
+893,4,J05AR22,170,"Emtrisitabiini, tenofoviirialafenamidi, darunaviiri ja kobisistaatti","emtricitabine, tenofovir alafenamide, darunavir and cobicistat",NOTDOI
+894,4,J05AR24,180,"Doraviriini, lamivudiini ja tenofoviiridisoproksiili","lamivudine, tenofovir disoproxil and doravirine",NOTDOI
+895,4,J05AR25,190,Dolutegraviiri ja lamivudiini,lamivudine and dolutegravir,NOTDOI
+896,3,J1DD,60,Muut HIV-lääkkeet,,undefined
+897,4,J05AX07,40,Enfuvirtidi,enfuvirtide,undefined
+898,4,J05AX09,50,Maraviroki,maraviroc,undefined
+899,4,J05AX23,60,Ibalitsumabi,ibalizumab,NOTDOI
+900,4,J05AX29,61,Fostemsaviiri,fostemsavir,NOTDOI
+901,4,J05AX31,62,Lenakapaviiri,lenacapavir,NOTDOI
+902,4,V03AX03,70,Kobisistaatti,cobicistat,NOTDOI
+903,2,D1DB,60,Paikalliset viruslääkkeet,,undefined
+904,3,D06BB03,20,Asikloviiri,aciclovir,undefined
+905,3,D06BB04,30,Podofyllotoksiini,podophyllotoxin,undefined
+906,3,D06BB06,40,Pensikloviiri,penciclovir,undefined
+907,3,D06BB10,41,Imikimodi,imiquimod,undefined
+908,3,D06BB53,70,"Asikloviiri, yhdistelmävalmisteet","aciclovir, combinations",NOTDOI
+909,2,J1DE,70,Muut viruslääkkeet,,NOTDOI
+910,3,J05AX24,10,Tekovirimaatti,tecovirimat,NOTDOI
+911,1,J1C,7,Mykobakteerilääkkeet,,undefined
+912,2,J1CA,10,Tuberkuloosilääkkeet,,undefined
+913,3,J04AA01,10,Aminosalisyylihappo,4-aminosalicylic acid,NOTDOI
+914,3,J04AB01,20,Sykloseriini,cycloserine,NOTDOI
+915,3,J04AB02,30,Rifampisiini,rifampicin,undefined
+916,3,J04AB04,40,Rifabutiini,rifabutin,undefined
+917,3,J04AB05,50,Rifapentiini,rifapentine,NOTDOI
+918,3,J04AC01,60,Isoniatsidi,isoniazid,undefined
+919,3,J04AD01,70,Protionamidi,protionamide,NOTDOI
+920,3,J04AD03,80,Etionamidi,ethionamide,NOTDOI
+921,3,J04AK01,90,Pyratsiiniamidi,pyrazinamide,undefined
+922,3,J04AK02,100,Etambutoli,ethambutol,undefined
+923,3,J04AK05,110,Bedakiliini,bedaquiline,NOTDOI
+924,3,J04AK08,120,Pretomanidi,pretomanid,NOTDOI
+925,2,J1CB,20,Lepralääkkeet,,undefined
+926,3,J04BA01,10,Klofatsimiini,clofazimine,NOTDOI
+927,3,J04BA02,20,Dapsoni,dapsone,undefined
+928,1,M1,8,"Kipulääkkeet (myös migreenin, reuman ja kihdin lääkkeet)",,undefined
+929,2,M1C,10,Tulehduskipulääkkeet ja parasetamoli,,NOTDOI
+930,3,M1A,10,Tulehduskipulääkkeet,,undefined
+931,4,N02BA01,10,Asetyylisalisyylihappo,acetylsalicylic acid,undefined
+932,4,N02BA51,15,"Asetyylisalisyylihappo, yhdistelmävalmisteet","acetylsalicylic acid, combinations excl. psycholeptics",undefined
+933,4,N02BA57,15,"Etentsamidi, yhdistelmävalmisteet","ethenzamide, combinations excl. psycholeptics",NOTDOI
+934,4,M01AE17,20,Deksketoprofeeni,dexketoprofen,undefined
+935,4,M01AB05,30,Diklofenaakki,diclofenac,undefined
+936,4,M01AB55,35,"Diklofenaakki, yhdistelmävalmisteet","diclofenac, combinations",undefined
+937,4,M01AB08,40,Etodolaakki,etodolac,undefined
+938,4,M01AE01,50,Ibuprofeeni,ibuprofen,undefined
+939,4,M01AE51,55,"Ibuprofeeni, yhdistelmävalmisteet","ibuprofen, combinations",undefined
+940,4,M01AB01,60,Indometasiini,indometacin,undefined
+941,4,M01AB51,65,"Indometasiini, yhdistelmävalmisteet","indometacin, combinations",undefined
+942,4,M01AE03,70,Ketoprofeeni,ketoprofen,undefined
+943,4,M01AB15,80,Ketorolaakki,ketorolac,undefined
+944,4,M01AG01,90,Mefenaamihappo,mefenamic acid,undefined
+945,4,M01AC06,100,Meloksikaami,meloxicam,undefined
+946,4,M01AX01,110,Nabumetoni,nabumetone,undefined
+947,4,M01AE02,120,Naprokseeni,naproxen,undefined
+948,4,M01AE52,125,Naprokseeni ja esomepratsoli,naproxen and esomeprazole,NOTDOI
+949,4,M01AX17,130,Nimesulidi,nimesulide,NOTDOI
+950,4,M01AB02,140,Sulindaakki,sulindac,NOTDOI
+951,4,M01AC01,150,Piroksikaami,piroxicam,NOTDOI
+952,4,M01AC02,150,Tenoksikaami,tenoxicam,undefined
+953,4,M01AE11,160,Tiaprofeenihappo,tiaprofenic acid,undefined
+954,4,M01AG02,170,Tolfenaamihappo,tolfenamic acid,undefined
+955,3,M1B,20,Koksibit,,undefined
+956,4,M01AH01,10,Selekoksibi,celecoxib,undefined
+957,4,M01AH04,20,Parekoksibi,parecoxib,undefined
+958,4,M01AH05,30,Etorikoksibi,etoricoxib,undefined
+959,3,N02BE01,30,Parasetamoli,paracetamol,undefined
+960,3,N02BE51,60,"Parasetamoli, yhdistelmävalmisteet","paracetamol, combinations excl. psycholeptics",undefined
+961,2,M1DA,35,Paikalliset tulehduskipulääkkeet,,undefined
+962,3,M02AA06,10,Etofenamaatti,etofenamate,NOTDOI
+963,3,M02AA07,10,Piroksikaami,piroxicam,undefined
+964,3,M02AA10,20,Ketoprofeeni,ketoprofen,undefined
+965,3,M02AA13,30,Ibuprofeeni,ibuprofen,NOTDOI
+966,3,M02AA15,40,Diklofenaakki,diclofenac,undefined
+967,3,M1DAA,50,Salisyylihappojohdoksia sisältävät valmisteet,N/A,undefined
+968,2,M1D,40,Muut TULES- ja kipulääkkeet,,undefined
+969,3,M01AX05,10,Glukosamiini,glucosamine,undefined
+970,3,M01AX25,20,Kondroitiinisulfaatti,chondroitin sulfate,undefined
+971,3,M01CX,21,Kondroitiinisulfaatti ja glukosamiini,ATCDDD N/A,NOTDOI
+972,3,M02AB01,29,Kapsaisiini ,capsaicin,NOTDOI
+973,3,M09AB02,40,Clostridium histolyticum -kollagenaasi,collagenase clostridium histolyticum,NOTDOI
+974,3,M09AX01,40,Hyaluronihappo,hyaluronic acid,undefined
+975,3,N02BG08,41,Tsikonotidi,ziconotide,undefined
+976,3,N02BG09,49,Metoksifluraani,methoxyflurane,NOTDOI
+977,3,N02BG10,51,Kannabinoidit,cannabinoids,NOTDOI
+978,2,N3B,50,Opioidit,,undefined
+979,3,N3BA,10,"Heikot opioidit, osittaiset agonistit",,undefined
+980,4,N02AA59,10,"Kodeiini, yhdistelmävalmisteet",,undefined
+981,5,N02AJ06,10,Kodeiini ja parasetamoli,codeine and paracetamol,NOTDOI
+982,5,N02AJ08,20,Kodeiini ja ibuprofeeni,codeine and ibuprofen,NOTDOI
+983,4,N02AC04,20,Dekstropropoksifeeni,dextropropoxyphene,undefined
+984,4,N02AE01,30,Buprenorfiini,buprenorphine,undefined
+985,4,N02AF02,40,Nalbufiini,nalbuphine,undefined
+986,4,N02AX02,50,Tramadoli,tramadol,undefined
+987,4,N02AX52,60,"Tramadoli, yhdistelmävalmisteet",,NOTDOI
+988,5,N02AJ13,10,Tramadoli ja parasetamoli,tramadol and paracetamol,NOTDOI
+989,5,N02AJ14,20,Tramadoli ja deksketoprofeeni,tramadol and dexketoprofen,NOTDOI
+990,3,N3BB,20,Vahvat opioidit,,undefined
+991,4,N01AH02,10,Alfentaniili,alfentanil,undefined
+992,4,N02AA01,10,Morfiini,morphine,undefined
+993,4,N02AA03,20,Hydromorfoni,hydromorphone,undefined
+994,4,N02AA05,30,"Oksikodoni, myös yhdistelmävalmisteet",oxycodone,undefined
+995,4,N02AB02,40,Petidiini,pethidine,undefined
+996,4,N02AB03,50,Fentanyyli,fentanyl,undefined
+997,4,N07BC02,60,Metadoni,methadone,undefined
+998,2,N3C,60,Migreenilääkkeet (spesifiset),,undefined
+999,3,CGRPA,0,CGRP-antagonistit,,NOTDOI
+1000,4,N02CD01,10,Erenumabi,erenumab,NOTDOI
+1001,4,N02CD02,20,Galkanetsumabi,galcanezumab,NOTDOI
+1002,4,N02CD03,30,Fremanetsumabi,fremanezumab,NOTDOI
+1003,4,N02CD05,31,Eptinetsumabi,eptinezumab,NOTDOI
+1004,4,N02CD06,32,Rimegepantti,rimegepant,NOTDOI
+1005,4,N02CD07,33,Atogepantti ,atogepant,NOTDOI
+1006,3,N3CA,1,Triptaanit (5-HT1-reseptoriagonistit),,undefined
+1007,4,N02CC01,10,Sumatriptaani,sumatriptan,undefined
+1008,4,N02CC02,20,Naratriptaani,naratriptan,undefined
+1009,4,N02CC03,30,Tsolmitriptaani,zolmitriptan,undefined
+1010,4,N02CC04,40,Ritsatriptaani,rizatriptan,undefined
+1011,4,N02CC05,50,Almotriptaani,almotriptan,undefined
+1012,4,N02CC06,60,Eletriptaani,eletriptan,undefined
+1013,4,N02CC07,70,Frovatriptaani,frovatriptan,undefined
+1014,4,N02CC08,71,Lasmiditaani,lasmiditan,NOTDOI
+1015,4,N02CC51,72,Sumatriptaani ja naprokseeni ,sumatriptan and naproxen,NOTDOI
+1016,3,N3CB,2,Torajyväalkaloidit,,undefined
+1017,4,N02CA01,10,Dihydroergotamiini,dihydroergotamine,undefined
+1018,4,N02CA04,20,Metysergidi,methysergide,NOTDOI
+1019,4,N02CA52,30,"Ergotamiini, yhdistelmävalmisteet","ergotamine, combinations excl. psycholeptics",undefined
+1020,3,N02CX01,99,Pitsotifeeni,pizotifen,NOTDOI
+1021,3,N05AB04,100,Proklooriperatsiini,prochlorperazine,undefined
+1022,2,N3D,70,Neuropaattisen kivun lääkkeet,,undefined
+1023,3,D04AB01,10,Lidokaiini,lidocaine,undefined
+1024,3,N03AF01,10,Karbamatsepiini,carbamazepine,undefined
+1025,3,N01BX04,11,Kapsaisiini,capsaicin,NOTDOI
+1026,3,N02BF01,20,Gabapentiini,gabapentin,NOTDOI
+1027,3,N02BF02,30,Pregabaliini,pregabalin,NOTDOI
+1028,3,N06AA09,40,Amitriptyliini,amitriptyline,undefined
+1029,3,N06AX21,41,Duloksetiini ,duloxetine,undefined
+1030,2,L2A,80,Reuman ja systeemisten sidekudossairauksien lääkkeet,,undefined
+1031,3,L2AB,10,Perinteiset reumalääkkeet (DMARDs),,NOTDOI
+1032,4,L01AA01,10,Syklofosfamidi,cyclophosphamide,undefined
+1033,4,L04AK01,38,Leflunomidi,leflunomide,undefined
+1034,4,L04AD01,39,Siklosporiini,ciclosporin,undefined
+1035,4,L04AX01,40,Atsatiopriini,azathioprine,undefined
+1036,4,L04AX03,40,Metotreksaatti,methotrexate,undefined
+1037,4,A07EC01,41,Sulfasalatsiini,sulfasalazine,undefined
+1038,4,L2AA,41,Kulta,,undefined
+1039,5,M01CB01,10,Natriumaurotiomalaatti,sodium aurothiomalate,undefined
+1040,5,M01CB03,20,Auranofiini,auranofin,undefined
+1041,4,M01CC01,43,Penisillamiini,penicillamine,undefined
+1042,4,P01BA02,44,Hydroksiklorokiini,hydroxychloroquine,undefined
+1043,3,L2AC,20,Biologiset reumalääkkeet,,NOTDOI
+1044,4,L2ACA,10,TNF-alfan estäjät,,NOTDOI
+1045,5,L04AB01,8,Etanersepti,etanercept,NOTDOI
+1046,5,L04AB02,9,Infliksimabi,infliximab,undefined
+1047,5,L04AB04,11,Adalimumabi,adalimumab,undefined
+1048,5,L04AB05,12,Sertolitsumabipegoli,certolizumab pegol,undefined
+1049,5,L04AB06,13,Golimumabi,golimumab,undefined
+1050,4,L2ACB,10,Interleukiinien estäjät,,NOTDOI
+1051,5,L04AC05,8,Ustekinumabi,ustekinumab,undefined
+1052,5,L04AC08,8,Kanakinumabi,canakinumab,NOTDOI
+1053,5,L04AC03,9,Anakinra,anakinra,undefined
+1054,5,L04AC07,9,Tosilitsumabi,tocilizumab,undefined
+1055,5,L04AC10,9,Sekukinumabi,secukinumab,NOTDOI
+1056,5,L04AC13,10,Iksekitsumabi,ixekizumab,NOTDOI
+1057,5,L04AC14,10,Sarilumabi,sarilumab,NOTDOI
+1058,5,L04AC16,15,Guselkumabi,guselkumab,NOTDOI
+1059,5,L04AC18,16,Risankitsumabi,risankizumab,NOTDOI
+1060,5,L04AC21,17,Bimekitsumabi,bimekizumab,NOTDOI
+1061,4,L01FA01,11,Rituksimabi,rituximab,NOTDOI
+1062,4,L04AA24,11,Abatasepti,abatacept,undefined
+1063,4,L04AG04,12,Belimumabi,belimumab,NOTDOI
+1064,4,L04AG11,13,Anifrolumabi,anifrolumab,NOTDOI
+1065,3,L2AD,30,Muut selektiiviset reumalääkkeet,,NOTDOI
+1066,4,L2ADA,40,JAK-estäjät,,NOTDOI
+1067,5,L04AF01,10,Tofasitinibi,tofacitinib,NOTDOI
+1068,5,L04AF02,20,Barisitinibi,baricitinib,NOTDOI
+1069,5,L04AF03,30,Upadasitinibi,upadacitinib,NOTDOI
+1070,5,L04AF04,40,Filgotinibi,filgotinib,NOTDOI
+1071,4,L04AA32,41,Apremilasti,apremilast,NOTDOI
+1072,2,M1K,90,Kihtilääkkeet,,undefined
+1073,3,L04AC08,10,Kanakinumabi,canakinumab,NOTDOI
+1074,3,M04AA01,10,Allopurinoli,allopurinol,undefined
+1075,3,M04AA03,20,Febuksostaatti,febuxostat,NOTDOI
+1076,3,M04AB01,30,Probenesidi,probenecid,undefined
+1077,3,M04AB03,40,Bentsbromiaroni,benzbromarone,NOTDOI
+1078,3,M04AC01,50,Kolkisiini,colchicine,undefined
+1079,1,R1,9,"Hengitysteiden lääkkeet  (astma/COPD, antihistamiinit, yskänlääkkeet)",,undefined
+1080,2,R1K,10,Astma/COPD -lääkkeet,,NOTDOI
+1081,3,R1G,10,Anti-inflammatoriset lääkkeet,,NOTDOI
+1082,4,R1AE,10,Glukokortikoidit (ICS),,undefined
+1083,5,R03BA01,10,Beklometasoni,beclometasone,undefined
+1084,5,R03BA02,20,Budesonidi,budesonide,undefined
+1085,5,R03BA05,30,Flutikasoni,fluticasone,undefined
+1086,5,R03BA07,40,Mometasoni,mometasone,NOTDOI
+1087,5,R03BA08,50,Siklesonidi,ciclesonide,undefined
+1088,4,R1AG,20,Kromonit,,undefined
+1089,5,R03BC01,10,Dinatriumkromoglikaatti,cromoglicic acid,undefined
+1090,5,R03BC03,20,Nedokromiili,nedocromil,undefined
+1091,4,R1BD,30,Leukotrieenireseptorin salpaajat,,undefined
+1092,5,R03DC01,10,Tsafirlukasti,zafirlukast,undefined
+1093,5,R03DC03,20,Montelukasti,montelukast,undefined
+1094,4,R1GB,50,PDE4:n estäjät,,NOTDOI
+1095,5,R03DX07,10,Roflumilasti,roflumilast,NOTDOI
+1096,4,R1BC,60,Ksantiinijohdokset,,undefined
+1097,5,R03DA04,10,Teofylliini ja sen yhdistelmävalmisteet,theophylline,undefined
+1098,5,R03DA05,20,Aminofylliini,aminophylline,undefined
+1099,3,R1H,15,Keuhkoputkia avaavat lääkkeet,,NOTDOI
+1100,4,R03AA01,10,Adrenaliini,epinephrine,undefined
+1101,4,R1AA,20,Lyhytvaikutteiset beeta-2-agonistit (SABA),,NOTDOI
+1102,5,R03AC02,10,Salbutamoli,salbutamol,undefined
+1103,5,R03AC03,20,Terbutaliini,terbutaline,undefined
+1104,4,R1AB,30,Pitkävaikutteiset beeta-2-agonistit (LABA),,NOTDOI
+1105,5,R03AC12,10,Salmeteroli,salmeterol,undefined
+1106,5,R03AC13,20,Formoteroli,formoterol,undefined
+1107,5,R03AC18,30,Indakateroli,indacaterol,NOTDOI
+1108,5,R03AC19,40,Olodateroli,olodaterol,NOTDOI
+1109,4,R1HA,40,Lyhytvaikutteiset antikolinergit (SAMA),,NOTDOI
+1110,5,R03BB01,10,Ipratropiumbromidi,ipratropium bromide,undefined
+1111,4,R1HB,50,Pitkävaikutteiset antikolinergit (LAMA),,NOTDOI
+1112,5,R03BB04,10,Tiotropiumbromidi,tiotropium bromide,undefined
+1113,5,R03BB05,20,Aklidiniumbromidi,aclidinium bromide,NOTDOI
+1114,5,R03BB06,30,Glykopyrroniumbromidi,glycopyrronium bromide,NOTDOI
+1115,5,R03BB07,40,Umeklidiniumbromidi,umeclidinium bromide,NOTDOI
+1116,4,R1AC,60,Lyhytvaikutteinen beeta-2-agonisti ja antikolinergi tai kromoni,,NOTDOI
+1117,5,R03AL01,20,Fenoteroli ja ipratropiumbromidi,fenoterol and ipratropium bromide,NOTDOI
+1118,5,R03AL02,30,Salbutamoli ja ipratropiumbromidi,salbutamol and ipratropium bromide,NOTDOI
+1119,4,R1AH,65,Pitkävaikutteinen beeta-2-agonisti ja antikolinergi,,NOTDOI
+1120,5,R03AL03,10,Vilanteroli ja umeklidiniumbromidi,vilanterol and umeclidinium bromide,NOTDOI
+1121,5,R03AL04,20,Indakateroli ja glykopyrroniumbromidi,indacaterol and glycopyrronium bromide,NOTDOI
+1122,5,R03AL05,30,Formoteroli ja aklidiniumbromidi,formoterol and aclidinium bromide,NOTDOI
+1123,5,R03AL06,40,Olodateroli ja tiotropiumbromidi,olodaterol and tiotropium bromide,NOTDOI
+1124,5,R03AL07,50,Formoteroli ja glykopyrroniumbromidi,formoterol and glycopyrronium bromide,NOTDOI
+1125,4,R1BC,70,Ksantiinijohdokset,,undefined
+1126,5,R03DA04,10,Teofylliini ja sen yhdistelmävalmisteet,theophylline,undefined
+1127,5,R03DA05,20,Aminofylliini,aminophylline,undefined
+1128,4,R03CA02,80,Efedriini,ephedrine,undefined
+1129,3,R1I,20,Keuhkoputkia avaavat ja anti-inflammatoriset lääkkeet,,NOTDOI
+1130,4,R1AD,10,Pitkävaikutteinen beeta-2-agonisti ja glukokortikoidi,,NOTDOI
+1131,5,R03AK06,10,Salmeteroli ja flutikasoni,salmeterol and fluticasone,undefined
+1132,5,R03AK07,20,Formoteroli ja budesonidi,formoterol and budesonide,undefined
+1133,5,R03AK08,30,Formoteroli ja beklometasoni,formoterol and beclometasone,NOTDOI
+1134,5,R03AK10,40,Vilanteroli ja flutikasonifuroaatti,vilanterol and fluticasone furoate,NOTDOI
+1135,5,R03AK11,50,Formoteroli ja flutikasoni,formoterol and fluticasone,NOTDOI
+1136,5,R03AK14,60,Indakateroli ja mometasoni,indacaterol and mometasone,NOTDOI
+1137,4,R1AJ,20,"Pitkävaikutteinen beeta-2-agonisti, antikolinergi ja glukokortikoidi",,NOTDOI
+1138,5,R03AL08,10,"Vilanteroli, umeklinidiumbromidi ja flutikasoni","vilanterol, umeclidinium bromide and fluticasone furoate",NOTDOI
+1139,5,R03AL09,20,"Formoteroli, glykopyrroniumbromidi ja beklometasoni","formoterol, glycopyrronium bromide and beclometasone",NOTDOI
+1140,5,R03AL11,30,"Formoteroli, glykopyrroniumbromidi ja budesonidi","formoterol, glycopyrronium bromide and budesonide",NOTDOI
+1141,5,R03AL12,40,"Indakateroli, glykopyrroniumbromidi ja mometasoni","indacaterol, glycopyrronium bromide and mometasone",NOTDOI
+1142,3,R1J,25,Monoklonaaliset vasta-aineet,,NOTDOI
+1143,4,D11AH05,10,Dupilumabi,dupilumab,NOTDOI
+1144,4,R03DX05,30,Omalitsumabi,omalizumab,undefined
+1145,4,R03DX08,40,Reslitsumabi,reslizumab,NOTDOI
+1146,4,R03DX09,41,Mepolitsumabi,mepolizumab,NOTDOI
+1147,4,R03DX10,50,Benralitsumabi,benralizumab,NOTDOI
+1148,4,R03DX11,51,Tetsepelumabi ,tezepelumab,NOTDOI
+1149,2,R1C,28,Antihistamiinit,,undefined
+1150,3,R1CA,10,Väsyttämättömät antihistamiinit,,undefined
+1151,4,R06AE07,10,Setiritsiini,cetirizine,undefined
+1152,4,R06AE09,20,Levosetiritsiini,levocetirizine,undefined
+1153,4,R06AX13,30,Loratadiini,loratadine,undefined
+1154,4,R06AX18,40,Akrivastiini,acrivastine,undefined
+1155,4,R06AX22,50,Ebastiini,ebastine,undefined
+1156,4,R06AX26,60,Feksofenadiini,fexofenadine,undefined
+1157,4,R06AX27,70,Desloratadiini,desloratadine,undefined
+1158,4,R06AX28,75,Rupatadiini,rupatadine,NOTDOI
+1159,4,R06AX29,80,Bilastiini,bilastine,NOTDOI
+1160,3,R1CB,20,Muut antihistamiinit,,undefined
+1161,4,N05BB01,10,Hydroksitsiini,hydroxyzine,undefined
+1162,4,R06AA02,20,Difenhydramiini,diphenhydramine,NOTDOI
+1163,4,R06AA04,30,Klemastiini,clemastine,NOTDOI
+1164,4,R06AA09,40,Doksylamiini,doxylamine,NOTDOI
+1165,4,R06AA59,41,"Doksylamiini, yhdistelmävalmisteet","doxylamine, combinations",NOTDOI
+1166,4,R06AD01,50,Alimematsiini,alimemazine,NOTDOI
+1167,4,R06AD02,60,Prometatsiini,promethazine,NOTDOI
+1168,4,R06AE03,70,Syklitsiini,cyclizine,undefined
+1169,4,R06AE05,80,Meklotsiini,meclozine,undefined
+1170,4,R06AX02,90,Syproheptadiini,cyproheptadine,NOTDOI
+1171,2,R1DE,29,Systeemisesti käytettävät nenän tukkoisuutta vähentävät lääkkeet,,undefined
+1172,3,R01BA01,10,Fenyylipropanoliamiini,phenylpropanolamine,undefined
+1173,3,R01BA52,30,"Pseudoefedriini, yhdistelmävalmisteet","pseudoephedrine, combinations",undefined
+1174,2,R1D,40,Nenän tukkoisuutta lievittävät paikallisvalmisteet,,undefined
+1175,3,R1DA,10,"Sympatomimeetit, myös yhdistelmät",,undefined
+1176,4,R01AA05,10,Oksimetatsoliini,oxymetazoline,undefined
+1177,4,R01AA07,20,Ksylometatsoliini,xylometazoline,undefined
+1178,4,R01AB06,30,"Ksylometatsoliini, yhdistelmävalmisteet",xylometazoline,NOTDOI
+1179,3,R1DB,20,"Glukokortikoidit, myös yhdistelmävalmisteet",,undefined
+1180,4,R01AD01,10,Beklometasoni,beclometasone,undefined
+1181,4,R01AD05,20,Budesonidi,budesonide,undefined
+1182,4,R01AD08,30,Flutikasoni,fluticasone,undefined
+1183,4,R01AD09,40,Mometasoni,mometasone,undefined
+1184,4,R01AD11,50,Triamsinoloni,triamcinolone,undefined
+1185,4,R01AD12,60,Flutikasonifuroaatti,fluticasone furoate,undefined
+1186,4,R01AD58,70,"Flutikasoni, yhdistelmävalmisteet","fluticasone, combinations",NOTDOI
+1187,4,R01AD59,71,"Mometasoni, yhdistelmävalmisteet ","mometasone, combinations",NOTDOI
+1188,3,R1DC,30,Muut allergialääkkeet kuin kortikosteroidit,,undefined
+1189,4,R01AC02,20,Levokabastiini,levocabastine,undefined
+1190,4,R01AC03,30,Atselastiini,azelastine,undefined
+1191,4,R01AC04,40,Antatsoliini,antazoline,undefined
+1192,4,R01AC07,70,Nedokromiili,nedocromil,undefined
+1193,3,R1DD,40,Muut nenään paikallisesti käytettävät aineet,,undefined
+1194,4,R01AX02,10,Retinoli,retinol,undefined
+1195,4,R01AX03,20,Ipratropiumbromidi,ipratropium bromide,undefined
+1196,4,R01AX06,30,Mupirosiini,mupirocin,undefined
+1197,4,R01AX10,40,Natriumkloridi,various,undefined
+1198,2,R1E,50,Yskänlääkkeet,,undefined
+1199,3,R1EA,10,Yskänärsytystä hillitsevät,,undefined
+1200,4,R05DA01,10,Etyylimorfiini,ethylmorphine,undefined
+1201,4,R05DA09,30,Dekstrometorfaani,dextromethorphan,undefined
+1202,4,R05DB05,50,Pentoksiveriini,pentoxyverine,undefined
+1203,4,R05DB27,51,Levodropropitsiini,levodropropizine,NOTDOI
+1204,4,R05DB29,52,Gefapiksantti,gefapixant,NOTDOI
+1205,3,R1EB,20,Limaa irrottavat,,undefined
+1206,4,R05CA03,10,Guaifenesiini,guaifenesin,undefined
+1207,4,R05CB01,30,Asetyylikysteiini,acetylcysteine,undefined
+1208,4,R05CB02,40,Bromiheksiini,bromhexine,undefined
+1209,4,R05CB03,50,Karbosisteiini,carbocisteine,undefined
+1210,4,R05CB06,60,Ambroksoli,ambroxol,undefined
+1211,4,R05CB15,90,Erdosteiini,erdosteine,undefined
+1212,3,R1EC,30,Yhdistelmävalmisteet ja muut yskä- ja vilustumislääkkeet,,undefined
+1213,4,R05CA10,10,Yhdistelmävalmisteet,combinations,undefined
+1214,2,R1L,54,Kystisen fibroosin lääkkeet,,NOTDOI
+1215,3,R05CB13,10,Dornaasialfa (desoksyribonukleaasi),dornase alfa (desoxyribonuclease),undefined
+1216,3,R07AX30,12,Ivakaftori ja lumakaftori,ivacaftor and lumacaftor,NOTDOI
+1217,3,R07AX02,13,Ivakaftori,ivacaftor,NOTDOI
+1218,3,R07AX31,14,Ivakaftori ja tetsakaftori,ivacaftor and tezacaftor,NOTDOI
+1219,3,R07AX32,15,"Ivakaftori, tetsakaftori ja eleksakaftori","ivacaftor, tezacaftor and elexacaftor",NOTDOI
+1220,2,R1FD,61,Keuhkofibroosilääkkeet,,NOTDOI
+1221,3,L01EX09,10,Nintedanibi,nintedanib,NOTDOI
+1222,3,L04AX05,20,Pirfenidoni,pirfenidone,NOTDOI
+1223,2,R1F,62,Muut hengitysteiden sairauksien lääkkeet,,undefined
+1224,3,B02AB02,10,Alfa-1 antitrypsiini ,alfa1 antitrypsin,NOTDOI
+1225,3,R1FA,20,Kurkkukipuun käytettävät valmisteet,,undefined
+1226,4,R02AA03,10,Diklooribentsyylialkoholi,dichlorobenzyl alcohol,undefined
+1227,4,R02AA05,20,Klooriheksidiini,chlorhexidine,undefined
+1228,4,R02AA20,30,Bentsydamiini ja setyylipyridiini,various,NOTDOI
+1229,4,R02AB30,40,Gramisidiini,gramicidin,undefined
+1230,4,R02AX01,50,Flurbiprofeeni,flurbiprofen,NOTDOI
+1231,4,R02AX03,60,Bentsydamiini,benzydamine,NOTDOI
+1232,3,R1FB,30,Surfaktantit,,undefined
+1233,4,R07AA02,10,Luonnolliset fosfolipidit,natural phospholipids,undefined
+1234,3,R1FC,40,Hengitystoimintaa stimuloivat lääkkeet,,undefined
+1235,4,N06BC01,10,Kofeiini,caffeine,undefined
+1236,4,R07AB01,10,Doksapraami,doxapram,undefined
+1237,1,A1,10,Ruoansulatuskanavan lääkkeet,,undefined
+1238,2,A1A,10,Liikahappoisuuden hoito,,undefined
+1239,3,A1AA,10,Antasidit,,undefined
+1240,4,A02AA04,10,Magnesiumhydroksidi,magnesium hydroxide,undefined
+1241,4,A02AD01,20,Tavanomaiset alumiini/kalsium/magnesiumyhdisteet,ordinary salt combinations,undefined
+1242,4,A02AH,30,Natriumbikarbonaattia sisältävät antasidit,ATCDDD N/A,NOTDOI
+1243,3,A1AB,20,H2-reseptorisalpaajat,,undefined
+1244,4,A02BA01,10,Simetidiini,cimetidine,NOTDOI
+1245,4,A02BA02,20,Ranitidiini,ranitidine,undefined
+1246,4,A02BA03,30,Famotidiini,famotidine,undefined
+1247,4,A02BA53,40,"Famotidiini, yhdistelmävalmisteet","famotidine, combinations",undefined
+1248,3,A1AC,30,Prostaglandiinianalogit,,undefined
+1249,4,A02BB01,10,Misoprostoli,misoprostol,undefined
+1250,3,A1AD,40,Protonipumpun estäjät,,undefined
+1251,4,A02BC01,10,Omepratsoli,omeprazole,undefined
+1252,4,A02BC02,20,Pantopratsoli,pantoprazole,undefined
+1253,4,A02BC03,30,Lansopratsoli,lansoprazole,undefined
+1254,4,A02BC04,40,Rabepratsoli,rabeprazole,undefined
+1255,4,A02BC05,50,Esomepratsoli,esomeprazole,undefined
+1256,3,A1AE,50,Helikobakteerin häätöön tarkoitetut yhdistelmävalmisteet,,undefined
+1257,4,A02BD08,10,"Vismuttisubsitraatti, metronidatsoli ja tetrasykliini","bismuth subcitrate, tetracycline and metronidazole",NOTDOI
+1258,4,A02BD03,20,"Lansopratsoli, metronidatsoli ja amoksisilliini","lansoprazole, amoxicillin and metronidazole",undefined
+1259,4,A02BD07,30,"Lansopratsoli, amoksisilliini ja klaritromysiini","lansoprazole, amoxicillin and clarithromycin",undefined
+1260,3,A02BX02,60,Sukralfaatti,sucralfate,undefined
+1261,3,A02BX13,70,Algiinihappo,alginic acid,undefined
+1262,2,A1B,20,Suoliston toiminnallisten häiriöiden lääkkeet,,undefined
+1263,3,A1BA,19,Antikolinergit,,undefined
+1264,4,A03AA04,10,Mebeveriini,mebeverine,NOTDOI
+1265,4,A03AA07,20,Disykloveriini,dicycloverine,NOTDOI
+1266,4,A03AB02,30,Glykopyrroniumbromidi,glycopyrronium bromide,undefined
+1267,4,A03AB05,40,Propanteliini,propantheline,NOTDOI
+1268,4,A03BA03,60,Hyoskyamiini,hyoscyamine,NOTDOI
+1269,4,A03BB01,70,Butyyliskopolamiini,butylscopolamine,undefined
+1270,3,A1BB,20,Antikolinergiyhdistelmät,,undefined
+1271,4,A03CA02,10,Klidiini ja psyykenlääke,clidinium and psycholeptics,undefined
+1272,4,A03DA02,20,Pitofenoni ja analgeetti,pitofenone and analgesics,undefined
+1273,3,A1BC,30,Suolen motiliteettiä lisäävät lääkkeet,,undefined
+1274,4,A03AE04,10,Prukalopridi,ATCDDD N/A,NOTDOI
+1275,4,A03FA01,20,Metoklopramidi,metoclopramide,undefined
+1276,4,A03FA02,30,Sisapridi,cisapride,undefined
+1277,4,A03FA03,40,Domperidoni,domperidone,NOTDOI
+1278,4,A03FA07,41,Itopridihydrokloridi,itopride,NOTDOI
+1279,4,A06AX04,50,Linaklotidi,linaclotide,NOTDOI
+1280,4,N07AA02,51,Pyridostigmiini,pyridostigmine,undefined
+1281,3,A03AD01,40,Papaveriini,papaverine,NOTDOI
+1282,3,A03AX13,50,Silikonit,silicones,undefined
+1283,3,A16AX08,60,Teduglutidi,teduglutide,NOTDOI
+1284,3,A03AX15,61,Piparminttuöljy,menthae piperitae aetheroleum,NOTDOI
+1285,2,A1D,40,Ulostuslääkkeet,,undefined
+1286,3,A1DA,10,Suolta stimuloivat ulostuslääkkeet,,undefined
+1287,4,A06AB02,10,Bisakodyyli,bisacodyl,undefined
+1288,4,A06AB06,20,Sennaglykosidit,senna glycosides,undefined
+1289,4,A06AB08,30,Natriumpikosulfaatti,sodium picosulfate,undefined
+1290,4,A06AB56,40,Sennaglykosideja sisältävät yhdistelmävalmisteet,"senna glycosides, combinations",NOTDOI
+1291,4,A06AB58,50,"Natriumpikosulfaatti, yhdistelmävalmisteet","sodium picosulfate, combinations",NOTDOI
+1292,3,A1DB,20,Suolen sisältöä lisäävät ulostuslääkkeet,,undefined
+1293,4,A06AC01,10,Ispaghula (psylliumin siemenet),ispaghula (psylla seeds),undefined
+1294,4,A06AC51,20,"Ispaghula, yhdistelmävalmisteet","ispaghula, combinations",undefined
+1295,3,A1DC,30,Osmoottiset ulostuslääkkeet,,undefined
+1296,4,A06AD11,20,Laktuloosi,lactulose,undefined
+1297,4,A06AD15,21,Makrogoli,macrogol,NOTDOI
+1298,4,A06AD65,30,"Makrogoli, yhdistelmävalmisteet","macrogol, combinations",NOTDOI
+1299,4,A06AD17,40,Natriumfosfaatti,sodium phosphate,NOTDOI
+1300,3,A1DD,40,Peräruiskeet,,undefined
+1301,4,A06AG01,10,Natriumfosfaatti,sodium phosphate,NOTDOI
+1302,4,A06AG02,20,Bisakodyyli,bisacodyl,undefined
+1303,4,A06AG10,30,Natriumdokusaatti ja natriumdokusaattia sisältävät yhdistelmävalmisteet,"docusate sodium, incl. combinations",undefined
+1304,4,A06AG11,40,Lauryylisulfaatti ja lauryylisulfaattia sisältävät yhdistelmävalmisteet,"sodium lauryl sulfoacetate, incl. combinations",undefined
+1305,3,A1DE,50,Suolistossa vaikuttavat opioidiantagonistit,,undefined
+1306,4,A06AH01,10,Metyylinaltreksonibromidi,methylnaltrexone bromide,undefined
+1307,4,A06AH03,20,Naloksegoli,naloxegol,NOTDOI
+1308,4,A06AH05,21,Naldemediini ,naldemedine,NOTDOI
+1309,3,A1DF,60,Muut ulostuslääkkeet,,NOTDOI
+1310,4,A03AE04,10,Prukalopridi,ATCDDD N/A,NOTDOI
+1311,4,A06AX04,20,Linaklotidi,linaclotide,NOTDOI
+1312,2,A1E,50,Ripulin ja suolistotulehdusten hoito,,undefined
+1313,3,A07CA,0,Elektrolyytti/hiilihydraattivalmisteet,Oral rehydration salt formulations,undefined
+1314,3,A1EA,0,Suolistoantibiootit,,undefined
+1315,4,A07AA02,10,Nystatiini,nystatin,undefined
+1316,4,A07AA13,10,Rifamysiini,rifamycin,NOTDOI
+1317,4,A07AA06,20,Paromomysiini,paromomycin,NOTDOI
+1318,4,A07AA07,30,Amfoterisiini,amphotericin B,NOTDOI
+1319,4,A07AA09,40,Vankomysiini,vancomycin,undefined
+1320,4,A07AA10,50,Kolistiini,colistin,NOTDOI
+1321,4,A07AA11,60,Rifaksimiini ,rifaximin,undefined
+1322,4,A07AA12,70,Fidaksomisiini,fidaxomicin,NOTDOI
+1323,3,A1EB,0,Hiilivalmisteet,,undefined
+1324,4,A07BA01,10,Lääkehiili,medicinal charcoal,undefined
+1325,3,A1ED,0,Suolen motiliteettia vähentävät lääkkeet  (opioidijohdokset),,undefined
+1326,4,A07DA03,10,Loperamidi,loperamide,undefined
+1327,4,A07DA06,20,Eluksadolini,eluxadoline,NOTDOI
+1328,4,A07DA53,30,"Loperamidi, yhdistelmävalmisteet","loperamide, combinations",undefined
+1329,3,A1EE,0,Paikalliset kortikosteroidit,,undefined
+1330,4,A07EA01,10,Prednisoloni,prednisolone,NOTDOI
+1331,4,A07EA02,20,Hydrokortisoni,hydrocortisone,undefined
+1332,4,A07EA06,30,Budesonidi,budesonide,undefined
+1333,3,A1EF,0,5-ASA ja sen johdokset,,undefined
+1334,4,A07EC01,10,Sulfasalatsiini,sulfasalazine,undefined
+1335,4,A07EC02,20,Mesalatsiini,mesalazine,undefined
+1336,3,A1EFA,0,IBD:n immunosuppressiiviset lääkkeet,,NOTDOI
+1337,4,L01BB02,8,Merkaptopuriini,mercaptopurine,undefined
+1338,4,L04AF01,8,Tofasitinibi,tofacitinib,NOTDOI
+1339,4,L04AF03,9,Upadasitinibi,upadacitinib,NOTDOI
+1340,4,L04AG05,9,Vedolitsumabi,vedolizumab,NOTDOI
+1341,4,L04AF04,10,Filgotinibi,filgotinib,NOTDOI
+1342,4,L04AB02,30,Infliksimabi,infliximab,undefined
+1343,4,L04AB04,40,Adalimumabi,adalimumab,undefined
+1344,4,L04AB06,50,Golimumabi,golimumab,undefined
+1345,4,L04AC05,60,Ustekinumabi,ustekinumab,undefined
+1346,4,L04AC16,61,Guselkumabi,guselkumab,NOTDOI
+1347,4,L04AC18,61,Risankitsumabi,risankizumab,NOTDOI
+1348,4,L04AC24,61,Mirikitsumabi,mirikizumab,NOTDOI
+1349,4,L04AX01,61,Atsatiopriini,azathioprine,undefined
+1350,4,L04AX03,62,Metotreksaatti,methotrexate,undefined
+1351,4,L04AX08,62,Darvadstroseli,darvadstrocel,NOTDOI
+1352,3,A1EG,0,Mikro-organismit,,undefined
+1353,4,A07FA01,10,Maitohappobakteerit,lactic acid producing organisms,undefined
+1354,4,A07FA02,20,Saccharomyces boulardii,saccharomyces boulardii,undefined
+1355,4,A07FA,30,E. coli NISSLE 1917,ATCDDD N/A,NOTDOI
+1356,4,A07FA51,40,"Maitohappobakteerit, yhdistelmävalmisteet","lactic acid producing organisms, combinations",NOTDOI
+1357,3,A07XA04,100,Rasekadotriili,racecadotril,NOTDOI
+1358,3,A07EB01,150,Dinatriumkromoglikaatti,cromoglicic acid,undefined
+1359,2,A1F,60,Lihavuuslääkkeet,,undefined
+1360,3,A08AA12,20,Setmelanotidi,setmelanotide,NOTDOI
+1361,3,A08AA51,21,Fentermiini ja topiramaatti,phentermine and topiramate,NOTDOI
+1362,3,A08AA62,30,Bupropioni ja naltreksoni,bupropion and naltrexone,NOTDOI
+1363,3,A08AB01,40,Orlistaatti,orlistat,undefined
+1364,3,A10BJ02,50,Liraglutidi,liraglutide,NOTDOI
+1365,3,A10BJ06,51,Semaglutidi,semaglutide,NOTDOI
+1366,3,A10BX16,51,Tirtsepatidi,tirzepatide,NOTDOI
+1367,2,A1H,90,Ruoansulatusentsyymit ja happovalmisteet,,undefined
+1368,3,A09AA02,10,"Useita entsyymejä (lipaasi, proteaasi jne.) sisältävät valmisteet","multienzymes (lipase, protease etc.)",undefined
+1369,3,A09AB01,20,Glutamiinihappo,glutamic acid hydrochloride,undefined
+1370,2,A1L,100,Anaboliset lääkkeet,,NOTDOI
+1371,3,A14AA08,20,Oksandroloni,oxandrolone,NOTDOI
+1372,3,A14AB01,30,Nandroloni,nandrolone,undefined
+1373,2,A1K,110,"Sapen eritys, sappihapot",,undefined
+1374,3,A05AA02,10,Ursodeoksikoolihappo,ursodeoxycholic acid,undefined
+1375,3,A05AA04,20,Obetikoolihappo,obeticholic acid,NOTDOI
+1376,3,A05AX04,21,Maraliksibaatti,maralixibat chloride,NOTDOI
+1377,3,A05AX05,30,Odeviksibaatti,odevixibat,NOTDOI
+1378,3,A05AX06,31,Elafibranori,elafibranor,NOTDOI
+1379,3,A05AX07,32,Seladelpaari,seladelpar,NOTDOI
+1380,2,C1R,120,Peräpukamien ja peräaukon haavaumien hoito,,undefined
+1381,3,C05AA01,10,Hydrokortisoni,hydrocortisone,undefined
+1382,3,C05AA04,20,Prednisoloni,prednisolone,undefined
+1383,3,C05AA08,30,Fluokortoloni,fluocortolone,undefined
+1384,3,C05AD01,40,Lidokaiini,lidocaine,NOTDOI
+1385,3,C05AE01,50,Glyseryylitrinitraatti,glyceryl trinitrate,undefined
+1386,3,C05AX03,60,Muut yhdistelmävalmisteet,"other preparations, combinations",undefined
+1387,2,A1G,121,Suun ja hampaiden hoito,,undefined
+1388,3,A1GA,10,Karieksen esto,,undefined
+1389,4,A01AA01,10,Natriumfluoridi,sodium fluoride,undefined
+1390,4,A01AA03,20,Olafluuri,olaflur,undefined
+1391,4,A01AA51,30,"Natriumfluoridi, yhdistelmävalmisteet","sodium fluoride, combinations",undefined
+1392,3,A1GB,20,"Suun paikallishoito, mikrobilääkkeet",,undefined
+1393,4,A01AB03,10,Klooriheksidiini,chlorhexidine,undefined
+1394,4,A01AB04,20,Amfoterisiini,amphotericin B,undefined
+1395,4,A01AB09,30,Mikonatsoli,miconazole,undefined
+1396,4,A01AB11,40,Jodi,various,undefined
+1397,4,A07AA02,41,Nystatiini,nystatin,undefined
+1398,3,A1GC,30,"Suun paikallishoito, kortikosteroidit",,undefined
+1399,4,A01AC01,10,Triamsinoloni,triamcinolone,undefined
+1400,3,A01AD11,40,Muu suun ja hampaiden hoito,various,NOTDOI
+1401,1,A1C,11,Pahoinvointilääkkeet,,undefined
+1402,2,A1CA,10,Serotoniiniantagonistit,,undefined
+1403,3,A04AA01,10,Ondansetroni,ondansetron,undefined
+1404,3,A04AA02,20,Granisetroni,granisetron,undefined
+1405,3,A04AA03,30,Tropisetroni,tropisetron,undefined
+1406,3,A04AA05,40,Palonosetroni,palonosetron,undefined
+1407,3,A04AA55,50,"Palonosetroni, yhdistelmävalmisteet","palonosetron, combinations",NOTDOI
+1408,2,A03FA01,20,Metoklopramidi,metoclopramide,undefined
+1409,2,A04AD01,30,Skopolamiini,scopolamine,undefined
+1410,2,A04AD11,38,Nabiloni,nabilone,NOTDOI
+1411,2,R06AA59,39,"Doksylamiini, yhdistelmävalmisteet","doxylamine, combinations",NOTDOI
+1412,2,R06AE03,39,Syklitsiini,cyclizine,undefined
+1413,2,R06AE05,40,Meklotsiini,meclozine,undefined
+1414,2,A1CB,50,Substanssi P:n antagonistit,,NOTDOI
+1415,3,A04AD12,10,Aprepitantti,aprepitant,undefined
+1416,3,A04AD14,20,Rolapitantti,rolapitant,NOTDOI
+1417,2,A1CC,60,Neuroleptit,,NOTDOI
+1418,3,N05AA03,10,Promatsiini,promazine,NOTDOI
+1419,3,N05AB04,20,Proklooriperatsiini,prochlorperazine,undefined
+1420,3,N05AD08,30,Droperidoli,droperidol,NOTDOI
+1421,1,H1,12,Hormonit (paitsi insuliinit) ja ehkäisy,,undefined
+1422,2,G2A,10,Sukupuolihormonit ja sukuelimiin vaikuttavat aineet,,undefined
+1423,3,G2AA,10,Hormonaaliset ehkäisyvalmisteet (systeeminen vaikutus),,undefined
+1424,4,G2AAA,10,Progestageenin ja estrogeenin kiinteät yhdistelmät,,undefined
+1425,5,G03AA07,10,Levonorgestreeli ja etinyyliestradioli,levonorgestrel and ethinylestradiol,undefined
+1426,5,G03AA09,20,Desogestreeli ja etinyyliestradioli,desogestrel and ethinylestradiol,undefined
+1427,5,G03AA10,30,Gestodeeni ja etinyyliestradioli,gestodene and ethinylestradiol,undefined
+1428,5,G03AA11,40,Norgestimaatti ja etinyyliestradioli,norgestimate and ethinylestradiol,undefined
+1429,5,G03AA12,50,Drospirenoni ja etinyyliestradioli,drospirenone and ethinylestradiol,undefined
+1430,5,G03AA13,60,Norelgestromiini ja etinyyliestradioli,norelgestromin and ethinylestradiol,undefined
+1431,5,G03AA14,70,Nomegestroli ja estradioli,nomegestrol and estradiol,NOTDOI
+1432,5,G03AA16,80,Dienogesti ja etinyyliestradioli,dienogest and ethinylestradiol,NOTDOI
+1433,5,G03AA18,90,Drospirenoni ja estetroli,drospirenone and estetrol,NOTDOI
+1434,5,G03HB01,91,Syproteroni ja etinyyliestradioli,cyproterone and estrogen,undefined
+1435,4,G2AAB,20,Progestageenin  ja estrogeenin sekventiaalivalmisteet,,undefined
+1436,5,G03AB03,10,Levonorgestreeli ja etinyyliestradioli,levonorgestrel and ethinylestradiol,undefined
+1437,5,G03AB05,20,Desogestreeli ja etinyyliestradioli,desogestrel and ethinylestradiol,undefined
+1438,5,G03AB06,30,Gestodeeni ja etinyyliestradioli,gestodene and ethinylestradiol,undefined
+1439,5,G03AB08,40,Dienogesti ja estradioli,dienogest and estradiol,NOTDOI
+1440,4,G2AAC,30,Progestageenit,,undefined
+1441,5,G03AC01,10,Noretisteroni,norethisterone,undefined
+1442,5,G03AC03,20,Levonorgestreeli,levonorgestrel,undefined
+1443,5,G03AC06,30,Medroksiprogesteroni,medroxyprogesterone,undefined
+1444,5,G03AC08,40,Etonogestreeli,etonogestrel,undefined
+1445,5,G03AC09,50,Desogestreeli,desogestrel,undefined
+1446,5,G03AC10,60,Drospirenoni,drospirenone,NOTDOI
+1447,4,G2AAD,40,Jälkiehkäisy,,undefined
+1448,5,G03AD01,10,Levonorgestreeli,levonorgestrel,NOTDOI
+1449,5,G03AD02,20,Ulipristaali,ulipristal,undefined
+1450,3,G2AB,20,Paikallisesti käytettävät ehkäisimet,,undefined
+1451,4,G02BA03,10,Progesteronia sisältävä muovikierukka,plastic IUD with progestogen,undefined
+1452,4,G02BB01,20,Progestogeeniä ja estrogeeniä sisältävät emätinrenkaat,vaginal ring with progestogen and estrogen,undefined
+1453,3,G2AC,30,Androgeenit,,undefined
+1454,4,G03BA03,10,Testosteroni,testosterone,undefined
+1455,4,G03BB01,20,Mesteroloni,mesterolone,NOTDOI
+1456,4,G03BB02,30,Androstanoloni,androstanolone,NOTDOI
+1457,3,G2AD,40,Estrogeenit ja estrogeenireseptorin muuntelijat,,undefined
+1458,4,G03CA03,10,Estradioli,estradiol,undefined
+1459,4,G03CA04,20,Estrioli,estriol,undefined
+1460,4,G03CA57,30,Konjugoidut estrogeenit,conjugated estrogens,NOTDOI
+1461,4,G03CX01,40,Tiboloni,tibolone,undefined
+1462,4,G03XC01,50,Raloksifeeni,raloxifene,undefined
+1463,3,G2AI,45,Estrogeeni ja muu lääkeaine,ATCDDD N/A,NOTDOI
+1464,3,G2AE,50,Progestageenit (muu kuin raskauden ehkäisy),,undefined
+1465,4,G03DA02,10,Medroksiprogesteroni,medroxyprogesterone,undefined
+1466,4,G03DA03,20,Hydroksiprogesteroni,hydroxyprogesterone,NOTDOI
+1467,4,G03DA04,30,Progesteroni,progesterone,undefined
+1468,4,G03DB01,40,Dydrogesteroni,dydrogesterone,undefined
+1469,4,G03DB08,50,Dienogesti,dienogest,NOTDOI
+1470,4,G03DC02,60,Noretisteroni,norethisterone,undefined
+1471,4,G03DC03,70,Lynestrenoli,lynestrenol,undefined
+1472,3,G2AF,60,Progestageenien ja estrogeenien yhdistelmävalmisteet,,undefined
+1473,4,G2AFA,10,Kiinteät yhdistelmät,,undefined
+1474,5,G03FA01,10,Noretisteroni ja estrogeeni,norethisterone and estrogen,undefined
+1475,5,G03FA12,20,Medroksiprogesteroni ja estrogeeni,medroxyprogesterone and estrogen,undefined
+1476,5,G03FA14,30,Dydrogesteroni ja estrogeeni,dydrogesterone and estrogen,undefined
+1477,5,G03FA17,40,Drospirenoni ja estrogeeni,drospirenone and estrogen,undefined
+1478,4,G2AFB,20,Sekventiaalivalmisteet,,undefined
+1479,5,G03FB05,10,Noretisteroni ja estrogeeni,norethisterone and estrogen,undefined
+1480,5,G03FB06,20,Medroksiprogesteroni ja estrogeeni,medroxyprogesterone and estrogen,undefined
+1481,5,G03FB08,30,Dydrogesteroni ja estrogeeni,dydrogesterone and estrogen,undefined
+1482,3,G2AG,70,Ovulaation stimuloijat,,undefined
+1483,4,G03GA01,10,Koriongonadotropiini,chorionic gonadotrophin,undefined
+1484,4,G03GA02,20,Menotropiini,human menopausal gonadotrophin,undefined
+1485,4,G03GA04,30,Urofollitropiini,urofollitropin,undefined
+1486,4,G03GA05,40,Follitropiini alfa,follitropin alfa,undefined
+1487,4,G03GA06,50,Follitropiini beeta,follitropin beta,undefined
+1488,4,G03GA07,60,Lutropiini alfa,lutropin alfa,undefined
+1489,4,G03GA08,70,Koriongonadotropiini alfa,choriogonadotropin alfa,undefined
+1490,4,G03GA09,80,Korifollitropiini alfa,corifollitropin alfa,NOTDOI
+1491,4,G03GA10,81,Follitropiini delta ,follitropin delta,NOTDOI
+1492,4,G03GA30,90,Follitropiini alfa ja lutropiini alfa,combinations,NOTDOI
+1493,4,G03GB02,100,Klomifeeni,clomifene,undefined
+1494,3,G2AH,80,Antiandrogeenit,,undefined
+1495,4,G03HA01,10,Syproteroni,cyproterone,undefined
+1496,4,G03HB01,20,Syproteroni ja etinyyliestradioli,cyproterone and estrogen,undefined
+1497,3,G03XA01,90,Danatsoli,danazol,NOTDOI
+1498,3,G03XB01,100,Mifepristoni,mifepristone,undefined
+1499,3,G03XB02,110,Ulipristaali,ulipristal,NOTDOI
+1500,3,G03XX01,120,Prasteroni,prasterone,NOTDOI
+1501,2,H1A,20,Aivolisäkkeen ja hypotalamuksen hormonit,,undefined
+1502,3,H1AA,10,Aivolisäkkeen etulohkon hormonit,,undefined
+1503,4,H01AA02,10,Tetrakosaktidi,tetracosactide,NOTDOI
+1504,4,H01AC08,10,Somatrogoni ,somatrogon,NOTDOI
+1505,4,H01AB01,20,Tyrotropiini,thyrotropin alfa,undefined
+1506,4,H01AC01,30,Somatropiini,somatropin,undefined
+1507,4,H01AC03,40,Mekasermiini,mecasermin,undefined
+1508,4,H01AC07,50,Somapasitaani,somapacitan,NOTDOI
+1509,4,H01AX01,60,Pegvisomantti,pegvisomant,undefined
+1510,3,H1AB,20,Aivolisäkkeen takalohkon hormonit,,undefined
+1511,4,H01BA01,10,Vasopressiini (argipressiini),vasopressin (argipressin),NOTDOI
+1512,4,H01BA02,20,Desmopressiini,desmopressin,undefined
+1513,4,H01BA04,30, Terlipressiini,terlipressin,undefined
+1514,4,H01BB02,40,Oksitosiini,oxytocin,undefined
+1515,4,H01BB03,50,Karbetosiini,carbetocin,NOTDOI
+1516,3,H1AC,30,Hypotalamuksen hormonit,,undefined
+1517,4,H1ACA,10,Gonadotropiinia vapauttavat hormonit,,NOTDOI
+1518,5,H01CA03,9,Histreliini,ATCDDD N/A,NOTDOI
+1519,5,H01CA02,10,Nafareliini,nafarelin,undefined
+1520,5,L02AE01,10,Busereliini,buserelin,undefined
+1521,5,L02AE02,10,Leuproreliini,leuprorelin,undefined
+1522,5,L02AE03,10,Gosereliini,goserelin,undefined
+1523,5,L02AE04,10,Triptoreliini,triptorelin,undefined
+1524,4,H1ACB,20,Gonadotropiinin vapautumisen estäjät,,NOTDOI
+1525,5,H01CC01,10,Ganireliksi,ganirelix,undefined
+1526,5,H01CC02,20,Setroreliksi,cetrorelix,undefined
+1527,5,H01CC04,21,Lintsagoliksi,linzagolix,NOTDOI
+1528,5,H01CC54,30,"Relugoliksi, estradioli ja noretisteroniasetaatti","relugolix, estradiol and norethisterone",NOTDOI
+1529,4,H1ACC,30,Somatostatiinin analogit,,NOTDOI
+1530,5,H01CB02,10,Oktreotidi,octreotide,undefined
+1531,5,H01CB03,20,Lanreotidi,lanreotide,undefined
+1532,5,H01CB05,30,Pasireotidi,pasireotide,NOTDOI
+1533,2,H1C,30,Kortikosteroidit (systeeminen käyttö),,undefined
+1534,3,H1CA,10,Mineralokortikoidit,,undefined
+1535,4,H02AA02,10,Fludrokortisoni,fludrocortisone,undefined
+1536,3,H1CB,20,"Glukokortikoidit, myös yhdistelmävalmisteet",,undefined
+1537,4,H02AB01,10,Beetametasoni,betamethasone,undefined
+1538,4,H02AB02,20,Deksametasoni,dexamethasone,undefined
+1539,4,H02AB04,30,Metyyliprednisoloni,methylprednisolone,undefined
+1540,4,H02AB06,40,Prednisoloni,prednisolone,undefined
+1541,4,H02AB07,50,Prednisoni,prednisone,undefined
+1542,4,H02AB08,60,Triamsinoloni,triamcinolone,undefined
+1543,4,H02AB09,70,Hydrokortisoni,hydrocortisone,undefined
+1544,4,H02AB10,71,Kortisoni,cortisone,NOTDOI
+1545,4,H02AB13,80,Deflatsakorti,deflazacort,undefined
+1546,4,H02AB18,81,Vamoroloni,vamorolone,NOTDOI
+1547,4,H02BX01,90,"Metyyliprednisoloni, yhdistelmävalmisteet","methylprednisolone, combinations",undefined
+1548,3,H1CC,30,Kortikosteroidiantagonistit,,NOTDOI
+1549,4,H02CA02,10,Osilodrostaatti,osilodrostat,NOTDOI
+1550,2,H1D,40,Kilpirauhasen toiminnan häiriöiden hoito,,undefined
+1551,3,H1DA,10,Kilpirauhashormonit,,undefined
+1552,4,H03AA01,10,Levotyroksiini,levothyroxine sodium,undefined
+1553,4,H03AA02,20,Liotyroniini,liothyronine sodium,NOTDOI
+1554,4,H03AA03,30,Levotyroksiinin ja liotyroniinin yhdistelmävalmisteet,combinations of levothyroxine and liothyronine,NOTDOI
+1555,4,H03AA04,31,Tiratrikoli,tiratricol,NOTDOI
+1556,4,H03AA05,40,Kilpirauhasvalmisteet,thyroid gland preparations,NOTDOI
+1557,3,H1DB,20,Tyreostaatit,,undefined
+1558,4,H03BA02,10,Propyylitiourasiili,propylthiouracil,NOTDOI
+1559,4,H03BB01,20,Karbimatsoli,carbimazole,undefined
+1560,4,H03BB02,30,Tiamatsoli,thiamazole,NOTDOI
+1561,2,H1E,50,Haiman hormonit (glukagoni),,undefined
+1562,3,H04AA01,10,Glukagoni,glucagon,undefined
+1563,3,H04AA02,11,Dasiglukagoni,dasiglucagon,NOTDOI
+1564,2,H1F,60,Kalsiumtasapainoa säätelevät lääkkeet,,undefined
+1565,3,H1FA,10,Lisäkilpirauhasen hormonit ja analogit,,undefined
+1566,4,H05AA02,10,Teriparatidi,teriparatide,undefined
+1567,4,H05AA03,20,Lisäkilpirauhashormoni,parathyroid hormone,undefined
+1568,4,H05AA04,21,Abaloparatidi,abaloparatide,NOTDOI
+1569,4,H05AA05,22,Palopegteriparatidi,palopegteriparatide,NOTDOI
+1570,3,H1FB,20,Lisäkilpirauhasen toimintaa estävät lääkkeet,,undefined
+1571,4,H05BA01,10,Kalsitoniini (lohen synteettinen),calcitonin (salmon synthetic),undefined
+1572,4,H05BX01,20,Sinakalseetti,cinacalcet,undefined
+1573,4,H05BX02,30,Parikalsitoli,paricalcitol,NOTDOI
+1574,4,H05BX04,40,Etelkalsetidi,etelcalcetide,NOTDOI
+1575,1,G1,13,Gynekologiset lääkkeet,,undefined
+1576,2,G02CX06,10,Fetsolinetantti,fezolinetant,NOTDOI
+1577,2,G1A,10,Gynekologiset mikrobilääkkeet ja muu paikallishoito,,undefined
+1578,3,G01AA10,10,Klindamysiini,clindamycin,undefined
+1579,3,G01AC05,20,Dekvaliini,dequalinium,NOTDOI
+1580,3,G01AD02,30,Etikkahappo,acetic acid,NOTDOI
+1581,3,G01AF01,40,Metronidatsoli,metronidazole,undefined
+1582,3,G01AF02,50,Klotrimatsoli,clotrimazole,undefined
+1583,3,G01AF04,60,Mikonatsoli,miconazole,undefined
+1584,3,G01AF05,70,Ekonatsoli,econazole,undefined
+1585,3,G01AF08,80,Tiokonatsoli,tioconazole,undefined
+1586,3,G01AX03,90,Polikresuleeni,policresulen,NOTDOI
+1587,2,G1CA,20,Kohtua supistavat tai relaksoivat lääkeaineet,,undefined
+1588,3,H01BB02,9,Oksitosiini,oxytocin,undefined
+1589,3,H01BB03,10,Karbetosiini,carbetocin,NOTDOI
+1590,3,G02AB01,20,Metyyliergometriini,methylergometrine,undefined
+1591,3,G02AD02,39,Dinoprostoni,dinoprostone,undefined
+1592,3,G02AD06,49,Misoprostoli,misoprostol,NOTDOI
+1593,3,G02AD04,50,Karboprosti,carboprost,NOTDOI
+1594,3,G02AD05,50,Sulprostoni,sulprostone,NOTDOI
+1595,3,G02CX01,60,Atosibaani,atosiban,undefined
+1596,3,G02CA01,70,Ritodriini,ritodrine,NOTDOI
+1597,2,G1CB,30,Prolaktiininestäjät,,undefined
+1598,3,G02CB01,10,Bromokriptiini,bromocriptine,undefined
+1599,3,G02CB03,20,Kabergoliini,cabergoline,undefined
+1600,3,G02CB04,30,Kinagolidi,quinagolide,undefined
+1601,1,G1D,14,Virtsaelinten sairauksien lääkkeet,,undefined
+1602,2,G1DA,10,Virtsatiespasmolyytit (inkontinenssin ja tiheävirtsaisuuden hoito),,undefined
+1603,3,G04BD04,10,Oksibutiniini,oxybutynin,undefined
+1604,3,G04BD07,20,Tolterodiini,tolterodine,undefined
+1605,3,G04BD08,30,Solifenasiini,solifenacin,undefined
+1606,3,G04BD09,40,Trospium,trospium,undefined
+1607,3,G04BD10,50,Darifenasiini,darifenacin,undefined
+1608,3,G04BD11,60,Fesoterodiini,fesoterodine,undefined
+1609,3,G04BD12,70,Mirabegroni,mirabegron,NOTDOI
+1610,3,G04BD15,71,Vibegroni,vibegron,NOTDOI
+1611,3,N06AX21,80,Duloksetiini ,duloxetine,undefined
+1612,2,G1DB,20,Erektiohäiriöiden hoitoon tarkoitetut lääkkeet,,undefined
+1613,3,G04BE01,10,Alprostadiili,alprostadil,undefined
+1614,3,G04BE03,20,Sildenafiili,sildenafil,undefined
+1615,3,G04BE04,30,Johimbiini,yohimbine,NOTDOI
+1616,3,G04BE08,40,Tadalafiili,tadalafil,undefined
+1617,3,G04BE09,50,Vardenafiili,vardenafil,undefined
+1618,3,G04BE10,60,Avanafiili,avanafil,NOTDOI
+1619,3,G04BE30,70,Yhdistelmävalmisteet,combinations,NOTDOI
+1620,2,G1DC,30,Eturauhasen hyvänlaatuisen liikakasvun lääkkeet,,undefined
+1621,3,G1DCA,10,Alfareseptoreiden salpaajat,,undefined
+1622,4,G04CA01,10,Alfutsosiini,alfuzosin,undefined
+1623,4,G04CA02,20,Tamsulosiini,tamsulosin,undefined
+1624,4,G04CA04,30,Silodosiini,silodosin,NOTDOI
+1625,3,G1DCB,20,Testosteroni-5-alfareduktaasin estäjät,,undefined
+1626,4,G04CB01,10,Finasteridi,finasteride,undefined
+1627,4,G04CB02,20,Dutasteridi,dutasteride,undefined
+1628,3,G04CA52,30,Tamsulosiini ja dutasteridi,tamsulosin and dutasteride,NOTDOI
+1629,3,G04CA53,40,Tamsulosiini ja solifenasiini,tamsulosin and solifenacin,NOTDOI
+1630,3,G04CX02,50,Sahapalmunhedelmäuute,Sabalis serrulatae fructus,NOTDOI
+1631,2,G1DF,40,Muut virtsaelinten sairauksien lääkkeet,,undefined
+1632,3,G04BX01,9,Magnesiumhydroksidi,magnesium hydroxide,undefined
+1633,3,G04BX13,10,Dimetyylisulfoksidi,dimethyl sulfoxide,NOTDOI
+1634,3,G04BX14,30,Dapoksetiini,dapoxetine,undefined
+1635,3,G04BX15,31,Pentosaanipolysulfaattinatrium,pentosan polysulfate sodium,NOTDOI
+1636,3,G04BX16,50,Tioproniini,tiopronin,NOTDOI
+1637,3,C03XA01,51,Tolvaptaani,tolvaptan,undefined
+1638,3,C09XX01,52,Sparsentaani,sparsentan,NOTDOI
+1639,1,A2,15,Diabeteslääkkeet,,undefined
+1640,2,A2A,10,Insuliinit,,undefined
+1641,3,A2AA,10,Pikavaikutteiset,,undefined
+1642,4,A10AB04,10,Lisproinsuliini,insulin lispro,undefined
+1643,4,A10AB05,20,Aspartinsuliini,insulin aspart,undefined
+1644,4,A10AB06,30,Glulisinsuliini,insulin glulisine,undefined
+1645,3,A2AE,20,Lyhytvaikutteiset,,NOTDOI
+1646,4,A10AB01,10,Ihmisinsuliini,insulin (human),undefined
+1647,4,A10AB03,30,Sianinsuliini,insulin (pork),NOTDOI
+1648,3,A2AB,30,Pitkävaikutteiset,,undefined
+1649,4,A10AC01,10,Ihmisinsuliini,insulin (human),undefined
+1650,4,A10AC03,20,Sianinsuliini,insulin (pork),NOTDOI
+1651,3,A2AC,40,Insuliinisekoitteet,,undefined
+1652,4,A10AD01,10,Ihmisinsuliini,insulin (human),undefined
+1653,4,A10AD04,20,Lisproinsuliini,insulin lispro,undefined
+1654,4,A10AD05,30,Aspartinsuliini,insulin aspart,undefined
+1655,3,A2AD,50,Ylipitkävaikutteiset,,undefined
+1656,4,A10AE02,10,Naudaninsuliini,insulin (beef),undefined
+1657,4,A10AE04,20,Glargininsuliini,insulin glargine,undefined
+1658,4,A10AE05,30,Detemirinsuliini,insulin detemir,undefined
+1659,4,A10AE06,40,Degludekinsuliini,insulin degludec,NOTDOI
+1660,4,A10AE07,41,Ikodekinsuliini,insulin icodec,NOTDOI
+1661,4,A10AE54,50,Glargininsuliini ja liksisenatidi,insulin glargine and lixisenatide,NOTDOI
+1662,2,A2B,20,Muut diabeteslääkkeet kuin insuliinit,,undefined
+1663,3,A10BA02,10,Metformiini,metformin,undefined
+1664,3,A2BA,10,Sulfonyyliureat,,undefined
+1665,4,A10BB12,10,Glimepiridi,glimepiride,undefined
+1666,4,A10BB01,11,Glibenklamidi,glibenclamide,undefined
+1667,3,A2BC,40,Alfaglukosidaasin estäjät,,undefined
+1668,4,A10BF01,10,Akarboosi,acarbose,undefined
+1669,3,A2BD,50,Glitatsonit (insuliininherkistäjät),,undefined
+1670,4,A10BG03,20,Pioglitatsoni,pioglitazone,undefined
+1671,3,A2BE,60,DPP-4:n estäjät (gliptiinit),,undefined
+1672,4,A10BH01,10,Sitagliptiini,sitagliptin,undefined
+1673,4,A10BH02,20,Vildagliptiini,vildagliptin,undefined
+1674,4,A10BH03,30,Saksagliptiini,saxagliptin,undefined
+1675,4,A10BH04,40,Alogliptiini,alogliptin,NOTDOI
+1676,4,A10BH05,50,Linagliptiini,linagliptin,NOTDOI
+1677,3,A2BG,70,Glinidit,,NOTDOI
+1678,4,A10BX02,10,Repaglinidi,repaglinide,undefined
+1679,3,A2BH,78,GLP-1-analogit,,undefined
+1680,4,A10BJ01,40,Eksenatidi,exenatide,NOTDOI
+1681,4,A10BJ02,50,Liraglutidi,liraglutide,NOTDOI
+1682,4,A10BJ03,60,Liksisenatidi,lixisenatide,NOTDOI
+1683,4,A10BJ05,61,Dulaglutidi,dulaglutide,NOTDOI
+1684,4,A10BJ06,62,Semaglutidi,semaglutide,NOTDOI
+1685,3,A2BJ,79,GLP-1- ja GIP-analogit,,NOTDOI
+1686,4,A10BX16,10,Tirtsepatidi,tirzepatide,NOTDOI
+1687,3,A2BI,85,Glukoosinkuljettajaproteiini 2:n estäjät,,NOTDOI
+1688,4,A10BK01,30,Dapagliflotsiini,dapagliflozin,NOTDOI
+1689,4,A10BK02,31,Kanagliflotsiini,canagliflozin,NOTDOI
+1690,4,A10BK03,40,Empagliflotsiini,empagliflozin,NOTDOI
+1691,4,A10BK04,41,Ertugliflotsiini,ertugliflozin,NOTDOI
+1692,3,A2BB,86,Oraalisten diabeteslääkkeiden yhdistelmävalmisteet,,undefined
+1693,4,A10BD07,30,Metformiini ja sitagliptiini,metformin and sitagliptin,undefined
+1694,4,A10BD08,40,Metformiini ja vildagliptiini,metformin and vildagliptin,undefined
+1695,4,A10BD09,50,Pioglitatsoni ja alogliptiini,pioglitazone and alogliptin,NOTDOI
+1696,4,A10BD10,60,Metformiini ja saksagliptiini,metformin and saxagliptin,NOTDOI
+1697,4,A10BD11,70,Metformiini ja linagliptiini,metformin and linagliptin,NOTDOI
+1698,4,A10BD13,80,Metformiini ja alogliptiini,metformin and alogliptin,NOTDOI
+1699,4,A10BD15,90,Metformiini ja dapagliflotsiini,metformin and dapagliflozin,NOTDOI
+1700,4,A10BD19,100,Linagliptiini ja empagliflotsiini,linagliptin and empagliflozin,NOTDOI
+1701,4,A10BD20,110,Metformiini ja empagliflotsiini,metformin and empagliflozin,NOTDOI
+1702,4,A10BD21,120,Saksagliptiini ja dapagliflotsiini,saxagliptin and dapagliflozin,NOTDOI
+1703,4,A10BD23,130,Metformiini ja ertugliflotsiini,metformin and ertugliflozin,NOTDOI
+1704,4,A10BD24,140,Sitagliptiini ja ertugliflotsiini,sitagliptin and ertugliflozin,NOTDOI
+1705,1,L1,16,Syöpälääkkeet ja immuunivasteen muuntajat,,undefined
+1706,2,L1A,10,Syöpälääkkeet,,undefined
+1707,3,L1AA,10,Alkyloivat aineet,,undefined
+1708,4,L01AA01,10,Syklofosfamidi,cyclophosphamide,undefined
+1709,4,L01AA02,20,Klorambusiili,chlorambucil,undefined
+1710,4,L01AA03,28,Melfalaani,melphalan,undefined
+1711,4,L01AA05,29,Kloorimetiini,chlormethine,NOTDOI
+1712,4,L01AA06,40,Ifosfamidi,ifosfamide,undefined
+1713,4,L01AA07,50,Trofosfamidi,trofosfamide,undefined
+1714,4,L01AA09,60,Bendamustiini,bendamustine,NOTDOI
+1715,4,L01AA10,61,Melfalaaniflufenamidi,melphalan flufenamide,NOTDOI
+1716,4,L01AB01,70,Busulfaani,busulfan,undefined
+1717,4,L01AB02,80,Treosulfaani,treosulfan,NOTDOI
+1718,4,L01AC01,90,Tiotepa,thiotepa,NOTDOI
+1719,4,L01AD01,100,Karmustiini,carmustine,NOTDOI
+1720,4,L01AD02,110,Lomustiini,lomustine,undefined
+1721,4,L01AD04,120,Streptotsosiini,streptozocin,NOTDOI
+1722,4,L01AX03,130,Temotsolomidi,temozolomide,undefined
+1723,4,L01AX04,140,Dakarbatsiini,dacarbazine,undefined
+1724,4,L01XB01,150,Prokarbatsiini,procarbazine,NOTDOI
+1725,3,L1AB,20,Antimetaboliitit,,undefined
+1726,4,L1ABA,10,Foolihappoanalogit,,undefined
+1727,5,L01BA04,10,Pemetreksedi,pemetrexed,undefined
+1728,5,L04AX03,20,Metotreksaatti,methotrexate,undefined
+1729,4,L1ABB,20,Puriinianalogit,,undefined
+1730,5,L01BB02,10,Merkaptopuriini,mercaptopurine,undefined
+1731,5,L01BB03,20,Tioguaniini,tioguanine,undefined
+1732,5,L01BB04,30,Kladribiini,cladribine,undefined
+1733,5,L01BB05,40,Fludarabiini,fludarabine,undefined
+1734,5,L01BB06,50,Klofarabiini,clofarabine,undefined
+1735,5,L01BB07,60,Nelarabiini,nelarabine,undefined
+1736,4,L1ABC,30,Pyrimidiinianalogit,,undefined
+1737,5,L01BC01,10,Sytarabiini,cytarabine,undefined
+1738,5,L01BC02,20,Fluorourasiili,fluorouracil,undefined
+1739,5,L01BC04,30,Karmofuuri,carmofur,undefined
+1740,5,L01BC05,40,Gemsitabiini,gemcitabine,undefined
+1741,5,L01BC06,50,Kapesitabiini,capecitabine,undefined
+1742,5,L01BC07,60,Atsasitidiini,azacitidine,undefined
+1743,5,L01BC08,70,Desitabiini,decitabine,NOTDOI
+1744,5,L01BC52,80,"Fluorourasiili, yhdistelmävalmisteet","fluorouracil, combinations",NOTDOI
+1745,5,L01BC53,90,"Tegafuuri, yhdistelmävalmisteet","tegafur, combinations",NOTDOI
+1746,5,L01BC58,91,"Desitabiini, yhdistelmävalmisteet","decitabine, combinations",NOTDOI
+1747,5,L01BC59,100,"Trifluridiini, yhdistelmävalmisteet","trifluridine, combinations",NOTDOI
+1748,3,L1AC,30,Kasvialkaloidit ja muut luonnontuotteet,,undefined
+1749,4,L01AC01,10,Tiotepa,thiotepa,NOTDOI
+1750,4,L01CA01,20,Vinblastiini,vinblastine,undefined
+1751,4,L01CA02,30,Vinkristiini,vincristine,undefined
+1752,4,L01CA03,40,Vindesiini,vindesine,undefined
+1753,4,L01CA04,50,Vinorelbiini,vinorelbine,undefined
+1754,4,L01CA05,60,Vinfluniini,vinflunine,NOTDOI
+1755,4,L01CB01,70,Etoposidi,etoposide,undefined
+1756,4,L01CB02,80,Teniposidi,teniposide,NOTDOI
+1757,4,L01CD01,90,Paklitakseli,paclitaxel,undefined
+1758,4,L01CD02,100,Dosetakseli,docetaxel,undefined
+1759,4,L01CD04,110,Kabatsitakseli,cabazitaxel,NOTDOI
+1760,4,L01CX01,120,Trabektediini,trabectedin,undefined
+1761,3,L1AD,40,Sytotoksiset antibiootit,,undefined
+1762,4,L01DA01,10,Daktinomysiini,dactinomycin,undefined
+1763,4,L01DB01,20,Doksorubisiini,doxorubicin,undefined
+1764,4,L01DB02,30,Daunorubisiini,daunorubicin,undefined
+1765,4,L01DB03,40,Epirubisiini,epirubicin,undefined
+1766,4,L01DB06,50,Idarubisiini,idarubicin,undefined
+1767,4,L01DB07,60,Mitoksantroni,mitoxantrone,undefined
+1768,4,L01DB11,70,Piksantroni,pixantrone,NOTDOI
+1769,4,L01DC01,80,Bleomysiini,bleomycin,undefined
+1770,4,L01DC03,90,Mitomysiini,mitomycin,undefined
+1771,3,L1AEA,50,Platinayhdisteet,,undefined
+1772,4,L01XA01,10,Sisplatiini,cisplatin,undefined
+1773,4,L01XA02,20,Karboplatiini,carboplatin,undefined
+1774,4,L01XA03,30,Oksaliplatiini,oxaliplatin,undefined
+1775,3,L1AEB,60,Monoklonaaliset vasta-aineet,,undefined
+1776,4,L01FA01,1,Rituksimabi,rituximab,NOTDOI
+1777,4,L01FA03,1,Obinututsumabi,obinutuzumab,NOTDOI
+1778,4,L01FB01,2,Inotutsumabi-otsogamisiini,inotuzumab ozogamicin,NOTDOI
+1779,4,L01FC01,2,Daratumumabi,daratumumab,NOTDOI
+1780,4,L01FB02,3,Moksetumomabi-pasudotoksi,moxetumomab pasudotox,NOTDOI
+1781,4,L01FC02,3,Isatuksimabi,isatuximab,NOTDOI
+1782,4,L01FD01,4,Trastutsumabi,trastuzumab,NOTDOI
+1783,4,L01FD02,4,Pertutsumabi,pertuzumab,NOTDOI
+1784,4,L01FD03,4,Trastutsumabi-emtansiini,trastuzumab emtansine,NOTDOI
+1785,4,L01FD04,5,Trastutsumabi-derukstekaani,trastuzumab deruxtecan,NOTDOI
+1786,4,L01FE01,5,Setuksimabi,cetuximab,NOTDOI
+1787,4,L01FE02,6,Panitumumabi,panitumumab,NOTDOI
+1788,4,L01FE03,6,Nesitumumabi,necitumumab,NOTDOI
+1789,4,L01FF01,6,Nivolumabi,nivolumab,NOTDOI
+1790,4,L01FF02,6,Pembrolitsumabi,pembrolizumab,NOTDOI
+1791,4,L01FF07,6,Dostarlimabi,dostarlimab,NOTDOI
+1792,4,L01FF10,6,Retifanlimabi,retifanlimab,NOTDOI
+1793,4,L01FF03,7,Durvalumabi ,durvalumab,NOTDOI
+1794,4,L01FF04,7,Avelumabi,avelumab,NOTDOI
+1795,4,L01FF05,7,Atetsolitsumabi,atezolizumab,NOTDOI
+1796,4,L01FF06,7,Semiplimabi,cemiplimab,NOTDOI
+1797,4,L01FF09,7,Tislelitsumabi,tislelizumab,NOTDOI
+1798,4,L01FF11,7,Sugemalimabi,sugemalimab,NOTDOI
+1799,4,L01FF12,8,Serplulimabi,serplulimab,NOTDOI
+1800,4,L01FF13,9,Toripalimabi,toripalimab,NOTDOI
+1801,4,L01FG01,9,Bevasitsumabi,bevacizumab,NOTDOI
+1802,4,L01FG02,9,Ramusirumabi,ramucirumab,NOTDOI
+1803,4,L01FX02,40,Gemtutsumabi-otsogamisiini,gemtuzumab ozogamicin,NOTDOI
+1804,4,L01FX03,80,Katumaksomabi,catumaxomab,NOTDOI
+1805,4,L01FX04,100,Ipilimumabi,ipilimumab,NOTDOI
+1806,4,L01FX05,110,Brentuksimabivedotiini,brentuximab vedotin,NOTDOI
+1807,4,L01FX06,150,Dinutuksimabi beeta,dinutuximab beta,NOTDOI
+1808,4,L01FX07,180,Blinatumomabi,blinatumomab,NOTDOI
+1809,4,L01FX08,210,Elotutsumabi,elotuzumab,NOTDOI
+1810,4,L01FX09,230,Mogamulitosumabi,mogamulizumab,NOTDOI
+1811,4,L01FX10,250,Olaratumabi,olaratumab,NOTDOI
+1812,4,L01FX12,308,Tafasitamabi ,tafasitamab,NOTDOI
+1813,4,L01FX13,309,Enfortumabi-vedotiini,enfortumab vedotin,NOTDOI
+1814,4,L01FX14,320,Polatutsumabi-vedotiini,polatuzumab vedotin,NOTDOI
+1815,4,L01FX15,335,Belantamabi-mafodotiini,belantamab mafodotin,NOTDOI
+1816,4,L01FX17,335,Sasitutsumabigovitekaani,sacituzumab govitecan,NOTDOI
+1817,4,L01FX18,335,Amivantamabi,amivantamab,NOTDOI
+1818,4,L01FX20,336,Tremelimumabi ,tremelimumab,NOTDOI
+1819,4,L01FX22,336,Lonkastuksimabi-tesiriini,loncastuximab tesirine,NOTDOI
+1820,4,L01FX23,337,Tisotumabi-vedotiini ,tisotumab vedotin,NOTDOI
+1821,4,L01FX24,337,Teklistamabi,teclistamab,NOTDOI
+1822,4,L01FX25,338,Mosunetutsumabi,mosunetuzumab,NOTDOI
+1823,4,L01FX26,339,Mirvetuksimabi-soravtansiini,mirvetuximab soravtansine,NOTDOI
+1824,4,L01FX27,339,Epkoritamabi,epcoritamab,NOTDOI
+1825,4,L01FX28,339,Glofitamabi,glofitamab,NOTDOI
+1826,4,L01FX29,340,Talketamabi,talquetamab,NOTDOI
+1827,4,L01FX31,341,Tsolbetuksimabi,zolbetuximab,NOTDOI
+1828,4,L01FX32,341,Elranatamabi,elranatamab,NOTDOI
+1829,4,L01FX34,342,Odronekstamabi,odronextamab,NOTDOI
+1830,4,L01FX35,343,Datopotamabi-derukstekaani,datopotamab deruxtecan,NOTDOI
+1831,4,L01FX37,344,Linvoseltamabi,ATCDDD N/A,NOTDOI
+1832,4,L01XC04,361,Alemtutsumabi,ATCDDD N/A,undefined
+1833,4,L01FY01,370,Pertutsumabi ja trastutsumabi,pertuzumab and trastuzumab,NOTDOI
+1834,4,L01FY02,371,Nivolumabi ja relatlimabi,nivolumab and relatlimab,NOTDOI
+1835,3,L1AF,70,Proteasomin estäjät,,NOTDOI
+1836,4,L01XG01,10,Bortetsomibi,bortezomib,NOTDOI
+1837,4,L01XG02,20,Karfiltsomibi,carfilzomib,NOTDOI
+1838,4,L01XG03,30,Iksatsomibi,ixazomib,NOTDOI
+1839,3,L01E,80,Proteiinikinaasin estäjät,,NOTDOI
+1840,4,L01EA01,6,Imatinibi,imatinib,NOTDOI
+1841,4,L01EA02,7,Dasatinibi,dasatinib,NOTDOI
+1842,4,L01EA03,7,Nilotinibi,nilotinib,NOTDOI
+1843,4,L01EA04,8,Bosutinibi,bosutinib,NOTDOI
+1844,4,L01EA05,8,Ponatinibi,ponatinib,NOTDOI
+1845,4,L01EA06,9,Askiminibi ,asciminib,NOTDOI
+1846,4,L01EB01,9,Gefitinibi,gefitinib,NOTDOI
+1847,4,L01EB02,9,Erlotinibi,erlotinib,NOTDOI
+1848,4,L01EB03,9,Afatinibi,afatinib,NOTDOI
+1849,4,L01EB04,9,Osimertinibi,osimertinib,NOTDOI
+1850,4,L01EB07,9,Dakomitinibi,dacomitinib,NOTDOI
+1851,4,L01EB09,10,Latsertinibi ,lazertinib,NOTDOI
+1852,4,L01EC01,110,Vemurafenibi,vemurafenib,NOTDOI
+1853,4,L01EC02,120,Dabrafenibi,dabrafenib,NOTDOI
+1854,4,L01EC03,130,Enkorafenibi,encorafenib,NOTDOI
+1855,4,L01ED01,140,Kritsotinibi,crizotinib,NOTDOI
+1856,4,L01ED02,150,Seritinibi,ceritinib,NOTDOI
+1857,4,L01ED03,160,Alektinibi,alectinib,NOTDOI
+1858,4,L01ED04,170,Brigatinibi,brigatinib,NOTDOI
+1859,4,L01ED05,180,Lorlatinibi,lorlatinib,NOTDOI
+1860,4,L01EE01,190,Trametinibi,trametinib,NOTDOI
+1861,4,L01EE02,200,Kobimetinibi,cobimetinib,NOTDOI
+1862,4,L01EE03,210,Binimetinibi,binimetinib,NOTDOI
+1863,4,L01EE04,220,Selumetinibi,selumetinib,NOTDOI
+1864,4,L01EG01,230,Temsirolimuusi,temsirolimus,NOTDOI
+1865,4,L01EG02,240,Everolimuusi,everolimus,NOTDOI
+1866,4,L01EH01,250,Lapatinibi,lapatinib,NOTDOI
+1867,4,L01EH02,260,Neratinibi,neratinib,NOTDOI
+1868,4,L01EH03,270,Tukatinibi,tucatinib,NOTDOI
+1869,4,L01EJ01,278,Ruksolitinibi,ruxolitinib,NOTDOI
+1870,4,L01EJ02,279,Fedratinibi,fedratinib,NOTDOI
+1871,4,L01EJ04,280,Momelotinibi,momelotinib,NOTDOI
+1872,4,L01EK01,290,Aksitinibi,axitinib,NOTDOI
+1873,4,L01EK03,300,Tivotsanibi,tivozanib,NOTDOI
+1874,4,L01EK04,301,Frukintinibi,fruquintinib,NOTDOI
+1875,4,L01EL01,310,Ibrutinibi,ibrutinib,NOTDOI
+1876,4,L01EL02,318,Akalabrutinibi,acalabrutinib,NOTDOI
+1877,4,L01EL03,319,Tsanubrutinibi,zanubrutinib,NOTDOI
+1878,4,L01EL05,320,Pirtobrutinibi,pirtobrutinib,NOTDOI
+1879,4,L01EM01,329,Idelalisibi,idelalisib,NOTDOI
+1880,4,L01EM03,329,Alpelisibi,alpelisib,NOTDOI
+1881,4,L01EM04,330,Duvelisibi,duvelisib,NOTDOI
+1882,4,L01EN01,339,Erdafitinibi,erdafitinib,NOTDOI
+1883,4,L01EN02,339,Pemigatinibi,pemigatinib,NOTDOI
+1884,4,L01EN04,340,Futibatinibi,futibatinib,NOTDOI
+1885,4,L01EX01,340,Sunitinibi,sunitinib,NOTDOI
+1886,4,L01EX02,350,Sorafenibi,sorafenib,NOTDOI
+1887,4,L01EX03,360,Patsopanibi,pazopanib,NOTDOI
+1888,4,L01EX04,370,Vandetanibi,vandetanib,NOTDOI
+1889,4,L01EX05,380,Regorafenibi,regorafenib,NOTDOI
+1890,4,L01EX07,390,Kabotsantinibi,cabozantinib,NOTDOI
+1891,4,L01EX08,400,Lenvatinibi,lenvatinib,NOTDOI
+1892,4,L01EX09,410,Nintedanibi,nintedanib,NOTDOI
+1893,4,L01EX10,420,Midostauriini,midostaurin,NOTDOI
+1894,4,L01EX11,430,Kitsartinibi,quizartinib,NOTDOI
+1895,4,L01EX12,440,Larotrektinibi,larotrectinib,NOTDOI
+1896,4,L01EX13,450,Gilteritinibi,gilteritinib,NOTDOI
+1897,4,L01EX14,460,Entrektinibi,entrectinib,NOTDOI
+1898,4,L01EX15,470,Peksidartinibi,pexidartinib,NOTDOI
+1899,4,L01EX17,490,Kapmatinibi,capmatinib,NOTDOI
+1900,4,L01EX19,499,Ripretinibi,ripretinib,NOTDOI
+1901,4,L01EX18,500,Avapritinibi,avapritinib,NOTDOI
+1902,4,L01EX21,519,Tepotinibi,tepotinib,NOTDOI
+1903,4,L01EX22,540,Selperkatinibi,selpercatinib,NOTDOI
+1904,4,L01EX23,541,Pralsetinibi,pralsetinib,NOTDOI
+1905,4,L01EX27,542,Kapivasertibi,capivasertib,NOTDOI
+1906,4,L01EX28,543,Repotrektinibi,repotrectinib,NOTDOI
+1907,4,L1AX,560,CDK-estäjät,,NOTDOI
+1908,5,L01EF01,10,Palbosiklibi,palbociclib,NOTDOI
+1909,5,L01EF02,20,Ribosiklibi,ribociclib,NOTDOI
+1910,5,L01EF03,30,Abemasiklibi,abemaciclib,NOTDOI
+1911,3,L1F,85,PARP:n estäjät,,NOTDOI
+1912,4,L01XK01,10,Olaparibi,olaparib,NOTDOI
+1913,4,L01XK02,20,Niraparibi,niraparib,NOTDOI
+1914,4,L01XK03,30,Rukaparibi,rucaparib,NOTDOI
+1915,4,L01XK04,40,Talatsoparibi,talazoparib,NOTDOI
+1916,4,L01XK52,41,Niraparibi ja abirateroni ,niraparib and abiraterone,NOTDOI
+1917,3,L1AG,90,Hedgehog-signaalitien estäjät,,NOTDOI
+1918,4,L01XJ01,10,Vismodegibi,vismodegib,NOTDOI
+1919,4,L01XJ02,20,Sonidegibi,sonidegib,NOTDOI
+1920,4,L01XJ03,30,Glasdegibi,glasdegib,NOTDOI
+1921,3,L1AEC,100,Fotodynaamisessa/säteilyhoidossa käytettävät herkistäjät,,undefined
+1922,4,L01XD03,10,Metyyliaminolevulinaatti,methyl aminolevulinate,undefined
+1923,4,L01XD04,20,Aminolevuliinihappo,aminolevulinic acid,undefined
+1924,4,L01XD07,30,Padeliporfiini,padeliporfin,NOTDOI
+1925,3,L1E,105,CAR-T-soluvalmisteet,,NOTDOI
+1926,4,L01XL03,9,Aksikabtageenisiloleuseeli,axicabtagene ciloleucel,NOTDOI
+1927,4,L01XL04,9,Tisagenlekleuseeli,tisagenlecleucel,NOTDOI
+1928,4,L01XL05,9,Siltakabtageeniautoleuseeli ,ciltacabtagene autoleucel,NOTDOI
+1929,4,L01XL06,10,Breksukabtageeniautoleuseeli,brexucabtagene autoleucel,NOTDOI
+1930,4,L01XL07,10,Idekabtageenivikleuseeli,idecabtagene vicleucel,NOTDOI
+1931,4,L01XL08,11,Lisokabtageenimaraleuseeli ,lisocabtagene maraleucel,NOTDOI
+1932,3,L1AEE,110,Muut syöpälääkkeet,,undefined
+1933,4,L01CE01,10,Topotekaani,topotecan,NOTDOI
+1934,4,L01CE02,20,Irinotekaani,irinotecan,NOTDOI
+1935,4,L01XF01,56,Tretinoiini,tretinoin,NOTDOI
+1936,4,L01XF03,57,Beksaroteeni,bexarotene,NOTDOI
+1937,4,L01XH03,60,Panobinostaatti,panobinostat,NOTDOI
+1938,4,L01XL02,67,Talimogeenilaherparepveekki,talimogene laherparepvec,NOTDOI
+1939,4,L01XL09,68,Tabelekleuseeli,tabelecleucel,NOTDOI
+1940,4,L01XM02,69,Ivosidenibi ,ivosidenib,NOTDOI
+1941,4,L01XX01,70,Amsakriini,amsacrine,NOTDOI
+1942,4,L01XX02,80,Asparaginaasi,asparaginase,NOTDOI
+1943,4,L01XX05,90,Hydroksikarbamidi,hydroxycarbamide,undefined
+1944,4,L01XX08,100,Pentostatiini,pentostatin,NOTDOI
+1945,4,L01XX11,110,Estramustiini,estramustine,undefined
+1946,4,L01XX23,120,Mitotaani,mitotane,undefined
+1947,4,L01XX24,130,Pegaspargaasi,pegaspargase,NOTDOI
+1948,4,L01XX27,140,Arseenitrioksidi,arsenic trioxide,NOTDOI
+1949,4,L01XX35,150,Anagrelidi,anagrelide,undefined
+1950,4,L01XX41,160,Eribuliini,eribulin,NOTDOI
+1951,4,L01XX44,168,Aflibersepti,aflibercept,NOTDOI
+1952,4,L01XX52,180,Venetoklaksi,venetoclax,NOTDOI
+1953,4,L01XX66,190,Selineksori,selinexor,NOTDOI
+1954,4,L01XX67,198,Tagraksofuspi,tagraxofusp,NOTDOI
+1955,4,L01XX73,199,Sotorasibi,sotorasib,NOTDOI
+1956,4,L01XX74,200,Beltsutifaani ,belzutifan,NOTDOI
+1957,4,L01XX75,200,Tebentafuspi ,tebentafusp,NOTDOI
+1958,4,L01XX77,201,Adagrasibi,adagrasib,NOTDOI
+1959,4,L01XX80,202,Imetelstaatti,imetelstat,NOTDOI
+1960,4,L01XY01,208,Daunorubisiini ja sytarabiini,cytarabine and daunorubicin,NOTDOI
+1961,4,L03AX03,209,BCG-rokote,BCG vaccine,undefined
+1962,4,L03AX11,210,Tasonermiini,tasonermin,NOTDOI
+1963,4,L04AX02,212,Talidomidi,thalidomide,undefined
+1964,4,L04AX04,213,Lenalidomidi,lenalidomide,undefined
+1965,4,L04AX06,214,Pomalidomidi,pomalidomide,NOTDOI
+1966,2,L1B,20,Endokrinologiset lääkkeet,,undefined
+1967,3,L1BA,10,Hormonit,,undefined
+1968,4,L1BAA,10,Estrogeenit ja progestageenit,,undefined
+1969,5,G03DC03,10,Lynestrenoli,lynestrenol,undefined
+1970,5,L02AA02,10,Polyestradiolifosfaatti,polyestradiol phosphate,undefined
+1971,5,L02AB01,20,Megestroli,megestrol,undefined
+1972,5,L02AB02,30,Medroksiprogesteroni,medroxyprogesterone,undefined
+1973,4,L1BAB,20,Gonadotropiinia vapauttavan hormonin kaltaiset yhdisteet,,undefined
+1974,5,H01CA02,10,Nafareliini,nafarelin,undefined
+1975,5,L02AE01,10,Busereliini,buserelin,undefined
+1976,5,L02AE02,20,Leuproreliini,leuprorelin,undefined
+1977,5,L02AE03,30,Gosereliini,goserelin,undefined
+1978,5,L02AE04,40,Triptoreliini,triptorelin,undefined
+1979,5,L02AE05,50,Histreliini,histrelin,NOTDOI
+1980,3,L1BB,20,Hormoniantagonistit,,undefined
+1981,4,L1BBA,10,Antiestrogeenit,,undefined
+1982,5,L02BA01,10,Tamoksifeeni,tamoxifen,undefined
+1983,5,L02BA02,20,Toremifeeni,toremifene,undefined
+1984,5,L02BA03,30,Fulvestrantti,fulvestrant,undefined
+1985,5,L02BA04,31,Elasestrantti,elacestrant,NOTDOI
+1986,4,L1BBB,20,Antiandrogeenit,,undefined
+1987,5,L02BB01,10,Flutamidi,flutamide,undefined
+1988,5,L02BB03,20,Bikalutamidi,bicalutamide,undefined
+1989,5,L02BB04,30,Entsalutamidi,enzalutamide,NOTDOI
+1990,5,L02BB05,40,Apalutamidi,apalutamide,NOTDOI
+1991,5,L02BB06,50,Darolutamidi,darolutamide,NOTDOI
+1992,4,L1BBC,21,Muut hormoniantagonistit,,NOTDOI
+1993,5,L02BX02,10,Degareliksi,degarelix,undefined
+1994,5,L02BX03,11,Abirateroni,abiraterone,NOTDOI
+1995,5,L02BX04,12,Relugoliksi,relugolix,NOTDOI
+1996,3,L1BC,30,Aromataasin estäjät,,undefined
+1997,4,L02BG03,10,Anastrotsoli,anastrozole,undefined
+1998,4,L02BG04,20,Letrotsoli,letrozole,undefined
+1999,4,L02BG06,30,Eksemestaani,exemestane,undefined
+2000,2,L1C,30,Immunostimulantit,,undefined
+2001,3,L1CA,10,Kasvutekijät,,undefined
+2002,4,L03AA02,10,Filgrastiimi,filgrastim,undefined
+2003,4,L03AA10,20,Lenograstiimi,lenograstim,undefined
+2004,4,L03AA13,30,Pegfilgrastiimi,pegfilgrastim,undefined
+2005,4,L03AA14,40,Lipegfilgrastiimi,lipegfilgrastim,NOTDOI
+2006,4,L03AA18,41,Efbemalenograstiimi alfa,efbemalenograstim alfa,NOTDOI
+2007,3,L1CAB,20,Verihiutalekasvutekijät,,NOTDOI
+2008,4,B02BX04,10,Romiplostiimi,romiplostim,undefined
+2009,4,B02BX05,20,Eltrombopagi,eltrombopag,NOTDOI
+2010,4,B02BX07,30,Lusutrombopagi,lusutrombopag,NOTDOI
+2011,4,B02BX08,40,Avatrombopagi,avatrombopag,NOTDOI
+2012,3,L1CB,30,Interferonit,,undefined
+2013,4,L03AB01,10,Interferonialfa luonnollinen,interferon alfa natural,NOTDOI
+2014,4,L03AB03,20,Interferonigamma,interferon gamma,undefined
+2015,4,L03AB04,30,Interferonialfa-2a,interferon alfa-2a,undefined
+2016,4,L03AB05,40,Interferonialfa-2b,interferon alfa-2b,undefined
+2017,4,L03AB07,50,Interferonibeeta-1a,interferon beta-1a,undefined
+2018,4,L03AB08,60,Interferonibeeta-1b,interferon beta-1b,undefined
+2019,4,L03AB10,70,Peginterferonialfa-2b,peginterferon alfa-2b,undefined
+2020,4,L03AB11,80,Peginterferonialfa-2a,peginterferon alfa-2a,undefined
+2021,4,L03AB13,90,Peginterferonibeeta-1a,peginterferon beta-1a,NOTDOI
+2022,4,L03AB15,100,Ropeginterferoni alfa-2b,ropeginterferon alfa-2b,NOTDOI
+2023,3,L1CC,40,Interleukiinit,,undefined
+2024,4,L03AC01,10,Aldesleukiini,aldesleukin,undefined
+2025,3,L1CD,50,Muut immunostimulantit,,undefined
+2026,4,L03AX03,20,BCG-rokote,BCG vaccine,undefined
+2027,4,L03AX13,30,Glatirameeriasetaatti,glatiramer acetate,undefined
+2028,4,L03AX14,40,Histamiinidihydrokloridi,histamine dihydrochloride,NOTDOI
+2029,4,L03AX15,50,Mifamurtidi,mifamurtide,NOTDOI
+2030,4,L03AX16,60,Pleriksafori,plerixafor,undefined
+2031,2,L1D,40,Immunosuppressantit,,undefined
+2032,3,L1DA,10,Selektiiviset immunosuppressantit,,undefined
+2033,4,L04AA03,10,Antilymfosyytti-immunoglobuliini,antilymphocyte immunoglobulin (horse),NOTDOI
+2034,4,L04AA04,20,Antitymosyytti-immunoglobuliini,antithymocyte immunoglobulin (rabbit),undefined
+2035,4,L04AA06,30,Mykofenolihappo,mycophenolic acid,undefined
+2036,4,L04AA24,80,Abatasepti,abatacept,undefined
+2037,4,L04AA28,120,Belatasepti,belatacept,NOTDOI
+2038,4,L04AA32,140,Apremilasti,apremilast,NOTDOI
+2039,4,L04AA40,181,Kladribiini,cladribine,NOTDOI
+2040,4,L04AA41,190,Imlifidaasi,imlifidase,NOTDOI
+2041,4,L04AA58,230,Efgartigimodi alfa,efgartigimod alfa,NOTDOI
+2042,4,L04AH01,231,Sirolimuusi,sirolimus,undefined
+2043,4,L04AH02,232,Everolimuusi,everolimus,undefined
+2044,4,L04AK01,234,Leflunomidi,leflunomide,undefined
+2045,4,L04AK02,235,Teriflunomidi,teriflunomide,NOTDOI
+2046,4,L01FA01,236,Rituksimabi,rituximab,NOTDOI
+2047,3,L1DB,20,TNF-alfan estäjät,,NOTDOI
+2048,4,L04AB01,10,Etanersepti,etanercept,NOTDOI
+2049,4,L04AB02,20,Infliksimabi,infliximab,undefined
+2050,4,L04AB04,30,Adalimumabi,adalimumab,undefined
+2051,4,L04AB05,40,Sertolitsumabipegoli,certolizumab pegol,undefined
+2052,4,L04AB06,50,Golimumabi,golimumab,undefined
+2053,3,L1DC,30,Interleukiinien estäjät,,undefined
+2054,4,L04AC01,10,Daklitsumabi,daclizumab,NOTDOI
+2055,4,L04AC02,20,Basiliksimabi,basiliximab,undefined
+2056,4,L04AC03,30,Anakinra,anakinra,undefined
+2057,4,L04AC04,40,Rilonasepti,rilonacept,NOTDOI
+2058,4,L04AC05,50,Ustekinumabi,ustekinumab,undefined
+2059,4,L04AC07,60,Tosilitsumabi,tocilizumab,undefined
+2060,4,L04AC08,70,Kanakinumabi,canakinumab,NOTDOI
+2061,4,L04AC10,80,Sekukinumabi,secukinumab,NOTDOI
+2062,4,L04AC11,90,Siltuksimabi,siltuximab,NOTDOI
+2063,4,L04AC12,100,Brodalumabi,brodalumab,NOTDOI
+2064,4,L04AC13,110,Iksekitsumabi,ixekizumab,NOTDOI
+2065,4,L04AC14,111,Sarilumabi,sarilumab,NOTDOI
+2066,4,L04AC16,120,Guselkumabi,guselkumab,NOTDOI
+2067,4,L04AC17,130,Tildrakitsumabi,tildrakizumab,NOTDOI
+2068,4,L04AC18,140,Risankitsumabi,risankizumab,NOTDOI
+2069,4,L04AC19,150,Satralitsumabi,satralizumab,NOTDOI
+2070,4,L04AC21,160,Bimekitsumabi,bimekizumab,NOTDOI
+2071,4,L04AC22,161,Spesolimabi,spesolimab,NOTDOI
+2072,4,L04AC24,162,Mirikitsumabi,mirikizumab,NOTDOI
+2073,4,D11AH05,163,Dupilumabi,dupilumab,NOTDOI
+2074,4,D11AH10,164,Lebrikitsumabi ,lebrikizumab,NOTDOI
+2075,4,D11AH12,165,Nemolitsumabi,nemolizumab,NOTDOI
+2076,4,R03DX09,166,Mepolitsumabi,mepolizumab,NOTDOI
+2077,3,L1DD,40,Kalsineuriinin estäjät,,undefined
+2078,4,L04AD01,10,Siklosporiini,ciclosporin,undefined
+2079,4,L04AD02,20,Takrolimuusi,tacrolimus,undefined
+2080,4,L04AD03,21,Voklosporiini,voclosporin,NOTDOI
+2081,3,L1DE,40,S1P-reseptorin modulaattorit,,undefined
+2082,4,L04AE01,36,Fingolimodi,fingolimod,NOTDOI
+2083,4,L04AE02,36,Otsanimodi,ozanimod,NOTDOI
+2084,4,L04AE03,37,Siponimodi,siponimod,NOTDOI
+2085,4,L04AE04,38,Ponesimodi,ponesimod,NOTDOI
+2086,4,L04AE05,39,Etrasimodi,etrasimod,NOTDOI
+2087,3,L1DF,41,JAK-estäjät,,NOTDOI
+2088,4,L04AF01,8,Tofasitinibi,tofacitinib,NOTDOI
+2089,4,L04AF02,9,Barisitinibi,baricitinib,NOTDOI
+2090,4,L04AF03,10,Upadasitinibi,upadacitinib,NOTDOI
+2091,4,L04AF04,11,Filgotinibi,filgotinib,NOTDOI
+2092,4,L04AF07,12,Deukravasitinibi,deucravacitinib,NOTDOI
+2093,4,L04AF08,13,Ritlesitinibi ,ritlecitinib,NOTDOI
+2094,4,L01EJ01,14,Ruksolitinibi,ruxolitinib,NOTDOI
+2095,4,D11AH08,15,Abrositinibi,abrocitinib,NOTDOI
+2096,3,L1DG,42,Monoklonaaliset vasta-aineet,,NOTDOI
+2097,4,L04AG03,9,Natalitsumabi,natalizumab,NOTDOI
+2098,4,L04AG04,10,Belimumabi,belimumab,NOTDOI
+2099,4,L04AG05,12,Vedolitsumabi,vedolizumab,NOTDOI
+2100,4,L04AG06,13,Alemtutsumabi,alemtuzumab,NOTDOI
+2101,4,L04AG08,14,Okrelitsumabi,ocrelizumab,NOTDOI
+2102,4,L04AG10,15,Inebilitsumabi,inebilizumab,NOTDOI
+2103,4,L04AG11,16,Anifrolumabi,anifrolumab,NOTDOI
+2104,4,L04AG12,17,Ofatumumabi,ofatumumab,NOTDOI
+2105,4,L04AG14,18,Ublituksimabi,ublituximab,NOTDOI
+2106,4,L04AG16,19,Rotsanoliksitsumabi,rozanolixizumab,NOTDOI
+2107,3,L1DJ,43,Komplementin estäjät,,NOTDOI
+2108,4,L04AJ01,11,Ekulitsumabi,eculizumab,NOTDOI
+2109,4,L04AJ02,12,Ravulitsumabi,ravulizumab,NOTDOI
+2110,4,L04AJ03,13,Pegsetakoplaani,pegcetacoplan,NOTDOI
+2111,4,L04AJ04,14,Sutimlimabi,sutimlimab,NOTDOI
+2112,4,L04AJ05,15,Avakopaani ,avacopan,NOTDOI
+2113,4,L04AJ06,16,Tsilukoplaani,zilucoplan,NOTDOI
+2114,4,L04AJ08,17,Iptakopaani,iptacopan,NOTDOI
+2115,4,L04AJ09,18,Danikopaani ,danicopan,NOTDOI
+2116,4,L04AJ10,19,Vilobelimabi,vilobelimab,NOTDOI
+2117,3,L1DX,44,Muut immunosuppressantit,,NOTDOI
+2118,4,L04AX01,10,Atsatiopriini,azathioprine,undefined
+2119,4,L04AX02,11,Talidomidi,thalidomide,undefined
+2120,4,L04AX03,12,Metotreksaatti,methotrexate,undefined
+2121,4,L04AX04,13,Lenalidomidi,lenalidomide,undefined
+2122,4,L04AX06,14,Pomalidomidi,pomalidomide,NOTDOI
+2123,4,L04AX07,15,Dimetyylifumaraatti,dimethyl fumarate,NOTDOI
+2124,4,L04AX08,16,Darvadstroseli,darvadstrocel,NOTDOI
+2125,4,L04AX09,17,Diroksimeelifumaraatti,diroximel fumarate,NOTDOI
+2126,1,M2,17,Luukudokseen vaikuttavat lääkkeet,,undefined
+2127,2,M2A,10,Bisfosfonaatit,,undefined
+2128,3,M05BA02,20,Klodronaatti,clodronic acid,undefined
+2129,3,M05BA03,30,Pamidronaatti,pamidronic acid,undefined
+2130,3,M05BA04,40,Alendronaatti,alendronic acid,undefined
+2131,3,M05BA06,50,Ibandronihappo,ibandronic acid,undefined
+2132,3,M05BA07,60,Risedronaatti,risedronic acid,undefined
+2133,3,M05BA08,70,Tsoledronihappo,zoledronic acid,undefined
+2134,2,M2B,20,"Bisfosfonaatit,  yhdistelmävalmisteet",,undefined
+2135,3,M05BB03,20,Alendronaatti ja kolekalsiferoli,alendronic acid and colecalciferol,undefined
+2136,3,M05BB04,30,"Risedronaatti, kalsium ja kolekalsiferoli","risedronic acid, calcium and colecalciferol, sequential",undefined
+2137,2,M2C,30,Muut luukudokseen vaikuttavat lääkkeet,,undefined
+2138,3,H05AA02,10,Teriparatidi,teriparatide,undefined
+2139,3,H05BA01,10,Kalsitoniini (lohen synteettinen),calcitonin (salmon synthetic),undefined
+2140,3,M05BC01,10,Dibotermiini alfa,dibotermin alfa,undefined
+2141,3,M05BX04,30,Denosumabi,denosumab,NOTDOI
+2142,3,M05BX05,40,Burosumabi,burosumab,NOTDOI
+2143,3,M05BX06,50,Romosotsumabi,romosozumab,NOTDOI
+2144,3,M05BX07,60,Vosoritidiosoritidi,vosoritide,NOTDOI
+2145,1,D1,18,Ihotautien lääkkeet,,undefined
+2146,2,D1A,10,Iholle käytettävät kortikosteroidit,,undefined
+2147,3,D1AA,10,Miedot (ryhmä I),,undefined
+2148,4,D07AA02,10,Hydrokortisoni,hydrocortisone,undefined
+2149,3,D1AB,20,Keskivahvat (ryhmä II),,undefined
+2150,4,D07AB01,10,Klobetasoni,clobetasone,undefined
+2151,4,D07AB02,20,Hydrokortisonibutyraatti,hydrocortisone butyrate,undefined
+2152,4,D07AB08,30,Desonidi,desonide,undefined
+2153,3,D1AC,30,Vahvat (ryhmä III),,undefined
+2154,4,D07AC01,10,Beetametasoni,betamethasone,undefined
+2155,4,D07AC03,20,Desoksimetasoni,desoximetasone,undefined
+2156,4,D07AC07,21,Fludroksikortidi,fludroxycortide,NOTDOI
+2157,4,D07AC13,30,Mometasoni,mometasone,undefined
+2158,4,D07AC14,40,Metyyliprednisoloniaseponaatti,methylprednisolone aceponate,undefined
+2159,3,D1AD,40,Erittäin vahvat (ryhmä IV),,undefined
+2160,4,D07AD01,10,Klobetasoli,clobetasol,undefined
+2161,3,D1AE,50,Kortikosteroidien ja antiseptien/antibioottien yhdistelmät,,undefined
+2162,4,D1AEA,10,Mietojen kortikosteroidien yhdistelmät,,undefined
+2163,5,D07BA04,10,Hydrokortisoni ja antiseptit,hydrocortisone and antiseptics,undefined
+2164,5,D07CA01,20,Hydrokortisoni ja antibiootit,hydrocortisone and antibiotics,undefined
+2165,5,D07XA01,30,Hydrokortisoni ja muut,hydrocortisone,undefined
+2166,4,D1AEB,20,Keskivahvojen kortikosteroidien yhdistelmät,,undefined
+2167,5,D07BB02,10,Desonidi ja antiseptit,desonide and antiseptics,NOTDOI
+2168,5,D07BB04,20,Hydrokortisonibutyraatti ja antiseptit,hydrocortisone butyrate and antiseptics,undefined
+2169,4,D1AEC,30,Vahvojen kortikosteroidien yhdistelmät,,undefined
+2170,5,D07BC01,10,Beetametasoni ja antiseptit,betamethasone and antiseptics,undefined
+2171,5,D07BC05,20,Desoksimetasoni ja antiseptit,ATCDDD N/A,NOTDOI
+2172,5,D07CC01,30,Beetametasoni ja antibiootit,betamethasone and antibiotics,undefined
+2173,5,D07XC01,40,Beetametasoni ja salisyylihappo,betamethasone,undefined
+2174,2,D1B,20,Sienilääkkeet,,undefined
+2175,3,D1BA,10,Paikalliset sienilääkkeet,,undefined
+2176,4,D01AA02,10,Natamysiini,natamycin,undefined
+2177,4,D01AC01,20,Klotrimatsoli,clotrimazole,undefined
+2178,4,D01AC02,30,Mikonatsoli,miconazole,undefined
+2179,4,D01AC03,40,Ekonatsoli,econazole,undefined
+2180,4,D01AC07,50,Tiokonatsoli,tioconazole,undefined
+2181,4,D01AC08,60,Ketokonatsoli,ketoconazole,undefined
+2182,4,D01AC10,70,Bifonatsoli,bifonazole,NOTDOI
+2183,4,D01AC20,80,Sienilääke ja kortikosteroidi,imidazoles/triazoles in combination with corticosteroids,undefined
+2184,4,D01AE02,90,Metyylirosaniliini,methylrosaniline,NOTDOI
+2185,4,D01AE14,100,Siklopiroksi,ciclopirox,undefined
+2186,4,D01AE15,110,Terbinafiini,terbinafine,undefined
+2187,4,D01AE16,120,Amorolfiini,amorolfine,undefined
+2188,4,D01AE20,130,Muut sienilääkkeiden yhdistelmävalmisteet,combinations,NOTDOI
+2189,3,D1BB,20,Systeemisesti käytettävät sienilääkkeet,,undefined
+2190,4,D01BA02,9,Terbinafiini,terbinafine,undefined
+2191,4,D01BA01,10,Griseofulviini,griseofulvin,NOTDOI
+2192,4,J02AC01,10,Flukonatsoli,fluconazole,undefined
+2193,4,J02AC02,10,Itrakonatsoli,itraconazole,undefined
+2194,2,D1C,30,Aknelääkkeet,,undefined
+2195,3,D1CA,10,Ulkoisesti käytettävät aknelääkkeet,,undefined
+2196,4,D1CAA,10,Mikrobilääkkeet,,undefined
+2197,5,D10AF01,20,Klindamysiini,clindamycin,undefined
+2198,5,D10AF51,30,"Klindamysiini, yhdistelmävalmisteet","clindamycin, combinations",undefined
+2199,4,D1CAB,20,Muut kuin mikrobilääkkeet,,undefined
+2200,5,D10AB02,10,Rikki,sulfur,NOTDOI
+2201,5,D10AD06,10,Trifaroteeni,trifarotene,NOTDOI
+2202,5,D10AD01,20,Tretinoiini,tretinoin,undefined
+2203,5,D10AD03,30,Adapaleeni,adapalene,undefined
+2204,5,D10AD53,40,"Adapaleeni, yhdistelmävalmisteet","adapalene, combinations",undefined
+2205,5,D10AE01,50,Bentsoyyliperoksidi,benzoyl peroxide,undefined
+2206,5,D10AX03,60,Atselaiinihappo,azelaic acid,undefined
+2207,5,D10AX30,70,Muut aknen yhdistelmävalmisteet,various combinations,NOTDOI
+2208,3,D1CB,20,Systeemisesti käytettävät aknelääkkeet,,undefined
+2209,4,D10BA01,10,Isotretinoiini,isotretinoin,undefined
+2210,2,D1DA,40,"Paikalliset antibiootit, kemoterapia",,undefined
+2211,3,D06AX01,10,Fusidiinihappo,fusidic acid,undefined
+2212,3,D06AX04,20,Neomysiini,neomycin,undefined
+2213,3,D06AX07,30,Gentamisiini,gentamicin,NOTDOI
+2214,3,D06AX09,40,Mupirosiini,mupirocin,undefined
+2215,3,D06AX13,50,Retapamuliini,retapamulin,NOTDOI
+2216,3,D06BA01,60,Hopeasulfadiatsiini,silver sulfadiazine,undefined
+2217,3,D06BB10,70,Imikimodi,imiquimod,undefined
+2218,3,D06BX01,80,Metronidatsoli,metronidazole,undefined
+2219,3,D06BX03,100,Tirbanibuliini,tirbanibulin,NOTDOI
+2220,3,L01AA05,101,Kloorimetiini,chlormethine,NOTDOI
+2221,3,L01BC02,102,Fluorourasiili,fluorouracil,undefined
+2222,3,L01BC52,102,"Fluorourasiili, yhdistelmävalmisteet","fluorouracil, combinations",NOTDOI
+2223,3,L01XD03,103,Metyyliaminolevulinaatti,methyl aminolevulinate,undefined
+2224,3,L01XD04,103,Aminolevuliinihappo,aminolevulinic acid,undefined
+2225,2,D1DB,45,Paikalliset viruslääkkeet,,undefined
+2226,3,D06BB03,20,Asikloviiri,aciclovir,undefined
+2227,3,D06BB04,30,Podofyllotoksiini,podophyllotoxin,undefined
+2228,3,D06BB06,40,Pensikloviiri,penciclovir,undefined
+2229,3,D06BB10,41,Imikimodi,imiquimod,undefined
+2230,3,D06BB53,70,"Asikloviiri, yhdistelmävalmisteet","aciclovir, combinations",NOTDOI
+2231,2,D1E,50,Psoriaasilääkkeet,,undefined
+2232,3,D05AC01,10,Ditranoli,dithranol,NOTDOI
+2233,3,D05AD01,20,Trioksisaleeni,trioxysalen,undefined
+2234,3,D05AX02,30,Kalsipotrioli,calcipotriol,undefined
+2235,3,D05AX03,40,Kalsitrioli,calcitriol,undefined
+2236,3,D05AX05,50,Tatsaroteeni,tazarotene,NOTDOI
+2237,3,D05AX52,60,Kalsipotriolin ja steroidin yhdistelmävalmisteet,"calcipotriol, combinations",undefined
+2238,3,D05BA02,70,Metoksaleeni,methoxsalen,undefined
+2239,3,D05BA03,80,Bergapteeni,bergapten,NOTDOI
+2240,3,D05BB02,90,Asitretiini,acitretin,undefined
+2241,3,L04AA32,108,Apremilasti,apremilast,NOTDOI
+2242,3,L04AF07,109,Deukravasitinibi,deucravacitinib,NOTDOI
+2243,3,L04AB01,120,Etanersepti,etanercept,NOTDOI
+2244,3,L04AB02,130,Infliksimabi,infliximab,undefined
+2245,3,L04AB04,140,Adalimumabi,adalimumab,undefined
+2246,3,L04AB05,150,Sertolitsumabipegoli,certolizumab pegol,undefined
+2247,3,L04AC05,160,Ustekinumabi,ustekinumab,undefined
+2248,3,L04AC10,170,Sekukinumabi,secukinumab,NOTDOI
+2249,3,L04AC12,180,Brodalumabi,brodalumab,NOTDOI
+2250,3,L04AC13,190,Iksekitsumabi,ixekizumab,NOTDOI
+2251,3,L04AC16,200,Guselkumabi,guselkumab,NOTDOI
+2252,3,L04AC17,210,Tildrakitsumabi,tildrakizumab,NOTDOI
+2253,3,L04AC18,220,Risankitsumabi,risankizumab,NOTDOI
+2254,3,L04AC21,230,Bimekitsumabi,bimekizumab,NOTDOI
+2255,3,L04AC22,231,Spesolimabi,spesolimab,NOTDOI
+2256,3,L04AX03,231,Metotreksaatti,methotrexate,undefined
+2257,3,L04AX07,240,Dimetyylifumaraatti,dimethyl fumarate,NOTDOI
+2258,2,D1HA,55,Atooppisen ihottuman lääkkeet,,undefined
+2259,3,D1HAA,10,Paikalliset kalsineuriinin estäjät,,NOTDOI
+2260,4,D11AH01,10,Takrolimuusi,tacrolimus,undefined
+2261,4,D11AH02,11,Pimekrolimuusi,pimecrolimus,undefined
+2262,3,L04AD01,10,Siklosporiini,ciclosporin,undefined
+2263,3,D11AH05,18,Dupilumabi,dupilumab,NOTDOI
+2264,3,L04AF02,19,Barisitinibi,baricitinib,NOTDOI
+2265,3,L04AF03,19,Upadasitinibi,upadacitinib,NOTDOI
+2266,3,D11AH06,20,Krisaboroli,crisaborole,NOTDOI
+2267,3,D11AH07,20,Tralokinumabi,tralokinumab,NOTDOI
+2268,3,D11AH08,20,Abrositinibi,abrocitinib,NOTDOI
+2269,3,D11AH10,21,Lebrikitsumabi ,lebrikizumab,NOTDOI
+2270,3,D11AH12,22,Nemolitsumabi,nemolizumab,NOTDOI
+2271,2,D1HD,55,Muut ihotautilääkkeet,,NOTDOI
+2272,3,D04AA04,7,Tripelennamiini,tripelennamine,undefined
+2273,3,D11AA01,8,Glykopyrronium,glycopyrronium,NOTDOI
+2274,3,D11AA02,9,Aluminiumkloridi,ATCDDD N/A,NOTDOI
+2275,3,D11AH11,10,Delgositinibi,delgocitinib,NOTDOI
+2276,3,D11AX03,55,Kalsiumglukonaatti,calcium gluconate,NOTDOI
+2277,3,D11AX06,56,Mekinoli,mequinol,NOTDOI
+2278,3,D11AX10,57,Finasteridi,finasteride,undefined
+2279,3,D11AX11,57,Hydrokinoni,hydroquinone,NOTDOI
+2280,3,D11AX16,57,Eflornitiini,eflornithine,NOTDOI
+2281,3,D11AX18,58,Diklofenaakki,diclofenac,undefined
+2282,3,D11AX19,59,Alitretinoiini,ATCDDD N/A,NOTDOI
+2283,3,D11AX21,65,Brimonidiini,brimonidine,NOTDOI
+2284,3,D11AX22,66,Ivermektiini,ivermectin,NOTDOI
+2285,3,D11AX24,66,Deoksikoolihappo,deoxycholic acid,NOTDOI
+2286,3,J04BA02,67,Dapsoni,dapsone,undefined
+2287,3,L04AF08,72,Ritlesitinibi ,ritlecitinib,NOTDOI
+2288,3,M03AX01,73,Botuliinitoksiini,botulinum toxin,undefined
+2289,3,R03DX05,80,Omalitsumabi,omalizumab,undefined
+2290,2,D1F,60,"Pehmentävät ja suojaavat valmisteet, haavojen ja palovammojen hoito",,undefined
+2291,3,D01AE12,10,Salisyylihappo,salicylic acid,NOTDOI
+2292,3,D02AE01,20,Karbamidi,carbamide,undefined
+2293,3,D02AE51,30,"Karbamidi, yhdistelmävalmisteet","carbamide, combinations",undefined
+2294,3,D03AX03,40,Dekspantenoli,dexpanthenol,undefined
+2295,3,D03AX13,50,Betulae cortex,Betulae cortex,NOTDOI
+2296,3,D03AX16,51,Beremageenigeperpaveekki,beremagene geperpavec,NOTDOI
+2297,3,D03BA02,60,Kollagenaasi,collagenase,undefined
+2298,3,D03BA03,70,Bromelaiinit,bromelains,NOTDOI
+2299,3,D03BA52,80,"Kollagenaasi, yhdistelmävalmisteet","collagenase, combinations",undefined
+2300,3,D1FA,90,Muut pehmentävät ja suojaavat aineet,N/A,undefined
+2301,2,D1G,70,Antiseptit ja desinfektioaineet,,undefined
+2302,3,D08AC02,10,Klooriheksidiini ja sen yhdistelmävalmisteet,chlorhexidine,undefined
+2303,3,D08AE03,20,Fenoli,phenol,NOTDOI
+2304,3,D08AE04,30,Triklosaani,triclosan,undefined
+2305,3,D08AG02,40,Jodi,povidone-iodine,undefined
+2306,3,D08AJ01,50,Bentsalkoni,benzalkonium,NOTDOI
+2307,3,D08AJ57,60,Oktenidiini,"octenidine, combinations",NOTDOI
+2308,3,D08AK04,70,Merkurokromi,merbromin,NOTDOI
+2309,3,D08AL01,80,Hopeanitraatti,silver nitrate,NOTDOI
+2310,3,D08AX01,90,Vetyperoksidi,hydrogen peroxide,NOTDOI
+2311,3,D08AX06,100,Kaliumpermanganaatti,potassium permanganate,NOTDOI
+2312,2,D1K,75,Iholle käytettävät paikallispuudutteet,,NOTDOI
+2313,3,D04AB01,10,Lidokaiini,lidocaine,undefined
+2314,3,D04AB06,20,Tetrakaiini,tetracaine,NOTDOI
+2315,3,N01BB20,21,Yhdistelmävalmisteet,combinations,undefined
+2316,2,D1J,90,Lääkesiteet,,undefined
+2317,3,D09AA02,10,Fusidiinihappo,fusidic acid,undefined
+2318,3,D09AB01,20,Sinkkiside ilman muita lääkeaineita,zinc bandage without supplements,undefined
+2319,2,D1HB,100,Lääkeshampoot (hilse; kaljuuntuminen),,undefined
+2320,3,D11AC03,10,Seleeniyhdisteet,selenium compounds,undefined
+2321,3,D11AX01,20,Minoksidiili,minoxidil,undefined
+2322,1,S1,19,Silmätautien lääkkeet,,undefined
+2323,2,S1A,10,Mikrobilääkkeet,,undefined
+2324,3,S01AA01,10,Kloramfenikoli,chloramphenicol,undefined
+2325,3,S01AA02,20,Klooritetrasykliini,chlortetracycline,NOTDOI
+2326,3,S01AA10,30,Natamysiini,natamycin,NOTDOI
+2327,3,S01AA12,40,Tobramysiini,tobramycin,undefined
+2328,3,S01AA13,50,Fusidiinihappo,fusidic acid,undefined
+2329,3,S01AA26,60,Atsitromysiini,azithromycin,NOTDOI
+2330,3,S01AA27,70,Kefuroksiimi,cefuroxime,NOTDOI
+2331,3,S01AA30,78,Mikrobilääkkeiden yhdistelmävalmisteet,combinations of different antibiotics,undefined
+2332,3,S1AA,79,Fluorokinolonit,,NOTDOI
+2333,4,S01AE01,10,Ofloksasiini,ofloxacin,NOTDOI
+2334,4,S01AE02,20,Norfloksasiini,norfloxacin,NOTDOI
+2335,4,S01AE05,30,Levofloksasiini,levofloxacin,NOTDOI
+2336,4,S01AE07,40,Moksifloksasiini,moxifloxacin,NOTDOI
+2337,3,S01AX08,80,Heksamidiini,hexamidine,NOTDOI
+2338,3,S01AX15,90,Propamidiini,propamidine,NOTDOI
+2339,3,S01AX18,91,Povidonijodi,povidone-iodine,NOTDOI
+2340,3,S01AX24,92,Poliheksanidi,polihexanide,NOTDOI
+2341,2,S1B,20,Viruslääkkeet,,undefined
+2342,3,S01AD03,10,Asikloviiri,aciclovir,undefined
+2343,3,S01AD09,20,Gansikloviiri,ganciclovir,NOTDOI
+2344,2,S1C,30,Anti-inflammatoriset lääkkeet,,undefined
+2345,3,S1CA,10,Kortikosteroidit,,undefined
+2346,4,S01BA01,10,Deksametasoni,dexamethasone,undefined
+2347,4,S01BA14,10,Loteprednoli,loteprednol,NOTDOI
+2348,4,S01BA02,20,Hydrokortisoni,hydrocortisone,NOTDOI
+2349,4,S01BA04,30,Prednisoloni,prednisolone,undefined
+2350,4,S01BA05,40,Triamsinoloni,triamcinolone,NOTDOI
+2351,4,S01BA07,50,Fluorometoloni,fluorometholone,undefined
+2352,4,S01BA15,70,Fluosinoloniasetonidi,fluocinolone acetonide,NOTDOI
+2353,3,S1CB,20,Tulehduskipulääkkeet,,undefined
+2354,4,S01BC03,10,Diklofenaakki,diclofenac,undefined
+2355,4,S01BC05,20,Ketorolaakki,ketorolac,undefined
+2356,4,S01BC10,30,Nepafenaakki,nepafenac,NOTDOI
+2357,4,S01BC11,40,Bromfenaakki,bromfenac,NOTDOI
+2358,3,S1CC,30,Kortikosteroidin ja mikrobilääkkeen yhdistelmät,,undefined
+2359,4,S01CA01,10,Deksametasoni ja mikrobilääkkeet,dexamethasone and antiinfectives,undefined
+2360,4,S01CA03,20,Hydrokortisoni ja mikrobilääkkeet,hydrocortisone and antiinfectives,undefined
+2361,4,S03CA04,30,"Hydrokortisoni ja mikrobilääkkeet, silmät ja korvat",hydrocortisone and antiinfectives,NOTDOI
+2362,2,S1D,40,Glaukoomalääkkeet,,undefined
+2363,3,S1DA,10,Sympatomimeetit,,undefined
+2364,4,S01EA03,10,Apraklonidiini,apraclonidine,undefined
+2365,4,S01EA05,20,Brimonidiini,brimonidine,undefined
+2366,3,S1DB,20,Parasympatomimeetit,,undefined
+2367,4,S01EB01,10,Pilokarpiini,pilocarpine,undefined
+2368,4,S01EB02,11,Karbakoli,carbachol,NOTDOI
+2369,4,S01EB09,20,Asetyylikoliini,acetylcholine,undefined
+2370,3,S1DC,30,Hiilihappoanhydraasin estäjät,,undefined
+2371,4,S01EC01,10,Asetatsolamidi,acetazolamide,undefined
+2372,4,S01EC03,20,Dortsolamidi,dorzolamide,undefined
+2373,4,S01EC04,30,Brintsolamidi,brinzolamide,undefined
+2374,4,S01EC54,40,"Brintsolamidi, yhdistelmävalmisteet","brinzolamide, combinations",NOTDOI
+2375,3,S1DD,40,"Beetasalpaajat, myös yhdistelmät",,undefined
+2376,4,S01ED01,10,Timololi,timolol,undefined
+2377,4,S01ED02,20,Betaksololi,betaxolol,undefined
+2378,4,S01ED51,30,"Timololi, yhdistelmävalmisteet","timolol, combinations",undefined
+2379,3,S1DE,50,Prostaglandiinianalogit,,undefined
+2380,4,S01EE01,10,Latanoprosti,latanoprost,undefined
+2381,4,S01EE03,20,Bimatoprosti,bimatoprost,undefined
+2382,4,S01EE04,30,Travoprosti,travoprost,undefined
+2383,4,S01EE05,40,Tafluprosti,tafluprost,undefined
+2384,4,S01EE51,41,Latanoprosti ja netarsudiili,latanoprost and netarsudil,NOTDOI
+2385,3,S1DF,60,Muut glaukoomalääkkeet,,NOTDOI
+2386,4,S01EX05,10,Netarsudiili,netarsudil,NOTDOI
+2387,2,S1E,50,Mydriaasin ja sykloplegian aiheuttavat lääkkeet,,undefined
+2388,3,S1EA,10,Antikolinergit,,undefined
+2389,4,S01FA01,10,Atropiini,atropine,undefined
+2390,4,S01FA02,20,Skopolamiini,scopolamine,undefined
+2391,4,S01FA04,30,Syklopentolaatti,cyclopentolate,undefined
+2392,4,S01FA06,40,Tropikamidi,tropicamide,undefined
+2393,3,S1EB,20,Sympatomimeetit,,undefined
+2394,4,S01FB01,10,Fenyyliefriini,phenylephrine,undefined
+2395,3,S1EC,30,Antikolinergi ja sympatomimeetti,,NOTDOI
+2396,4,S01FA56,10,"Tropikamidi, yhdistelmävalmisteet","tropicamide, combinations",NOTDOI
+2397,2,S1F,60,Silmien punoitusta ja allergiaoireita vähentävät lääkkeet,,undefined
+2398,3,S1FA,10,Sympatomimeetit,,undefined
+2399,4,S01GA01,10,Nafatsoliini,naphazoline,NOTDOI
+2400,4,S01GA02,10,Tetrytsoliini,tetryzoline,undefined
+2401,3,S1FB,20,Allergialääkkeet,,undefined
+2402,4,S01GX01,10,Dinatriumkromoglikaatti,cromoglicic acid,undefined
+2403,4,S01GX02,20,Levokabastiini,levocabastine,undefined
+2404,4,S01GX05,30,Lodoksamidi,lodoxamide,undefined
+2405,4,S01GX06,40,Emedastiini,emedastine,undefined
+2406,4,S01GX07,50,Atselastiini,azelastine,undefined
+2407,4,S01GX08,60,Ketotifeeni,ketotifen,undefined
+2408,4,S01GX09,70,Olopatadiini,olopatadine,undefined
+2409,2,S1G,70,Paikallispuudutteet,,undefined
+2410,3,S01HA02,10,Oksibuprokaiini,oxybuprocaine,undefined
+2411,3,S01HA03,20,Tetrakaiini,tetracaine,NOTDOI
+2412,3,S01HA04,30,Proksimetakaiini,proxymetacaine,NOTDOI
+2413,2,S1H,80,Diagnostiset aineet,,undefined
+2414,3,S01JA01,10,Fluoreseiini,fluorescein,undefined
+2415,3,S01JA51,20,"Fluoreseiini, yhdistelmävalmisteet","fluorescein, combinations",undefined
+2416,2,S1K,90,Uudelleensuonittumisen estoon käytettävät lääkkeet,,undefined
+2417,3,S01LA01,10,Verteporfiini,verteporfin,undefined
+2418,3,S01LA03,20,Pegaptanibi,pegaptanib,undefined
+2419,3,S01LA04,30,Ranibitsumabi,ranibizumab,undefined
+2420,3,S01LA05,40,Aflibersepti,aflibercept,NOTDOI
+2421,3,S01LA06,50,Brolusitsumabi,brolucizumab,NOTDOI
+2422,3,S01LA09,51,Farisimabi,faricimab,NOTDOI
+2423,2,S1L,100,"Silmien kostutus, keratiitin hoito",,undefined
+2424,3,S01XA02,10,Retinoli,retinol,undefined
+2425,3,S01XA08,11,Asetyylikysteiini,acetylcysteine,NOTDOI
+2426,3,S01XA18,20,Siklosporiini,ciclosporin,NOTDOI
+2427,3,S01XA25,21,Lifitegrasti,lifitegrast,NOTDOI
+2428,3,S1LB,30,Keinokyyneleet ja muut luokittelemattomat valmisteet,N/A,undefined
+2429,2,S1M,110,Muut silmätautien lääkkeet,,NOTDOI
+2430,3,N06BX13,10,Idebenoni,idebenone,NOTDOI
+2431,3,S01XA21,10,Merkaptamiini,mercaptamine,NOTDOI
+2432,3,S01XA22,20,Okriplasmiini,ocriplasmin,NOTDOI
+2433,3,S01XA24,30,Senegermiini,cenegermin,NOTDOI
+2434,3,S01XA27,40,Voretigeenineparvoveekki,voretigene neparvovec,NOTDOI
+2435,1,S2,20,Korvatautien lääkkeet,,NOTDOI
+2436,2,S2D,20,Kortikosteroidin ja mikrobilääkkeen yhdistelmät,,NOTDOI
+2437,3,S02CA03,10,Hydrokortisoni ja mikrobilääkkeet,hydrocortisone and antiinfectives,NOTDOI
+2438,3,S03CA04,10,"Hydrokortisoni ja mikrobilääkkeet, silmät ja korvat",hydrocortisone and antiinfectives,NOTDOI
+2439,2,S02CA02,30,Flumetasoni ja mikrobilääkkeet,flumetasone and antiinfectives,undefined
+2440,2,S02BA08,31,Fluosinoloniasetonidi,fluocinolone acetonide,NOTDOI
+2441,2,S02CA05,40,Fluosinoloniasetonidi ja mikrobilääkkeet,fluocinolone acetonide and antiinfectives,NOTDOI
+2442,2,S02AA15,50,Siprofloksasiini,ciprofloxacin,NOTDOI
+2443,2,S2C,60,Puudutteet,,NOTDOI
+2444,3,S02DA02,10,Kokaiini,cocaine,NOTDOI
+2445,3,S02DA04,20,Sinkokaiini,cinchocaine,NOTDOI
+2446,3,S02DA30,30,Yhdistelmävalmisteet,combinations,NOTDOI
+2447,2,S2A,70,Boorihappo,ATCDDD N/A,NOTDOI
+2448,1,B2,21,Veren korvikkeet ja perfuusioliuokset,,undefined
+2449,2,B05ZB,10,Hemodialyysiliuokset ja hemofiltraatit,Hemofiltrates,undefined
+2450,2,B2C,19,Peritoneaalidialyysiliuokset,,undefined
+2451,3,B05DA,20,Isotoniset liuokset,Isotonic solutions,undefined
+2452,3,B05DB,30,Hypertoniset liuokset,Hypertonic solutions,undefined
+2453,2,B2A,20,"Veren korvikkeet, infuusionesteet",,undefined
+2454,3,B05AA01,10,Albumiini,albumin,undefined
+2455,3,B05AA02,20,Muut plasman proteiinifraktiot,other plasma protein fractions,undefined
+2456,3,B05AA05,30,Dekstraani,dextran,undefined
+2457,3,B05AA06,40,Gelatiini-polymeerit,gelatin agents,undefined
+2458,2,B2B,30,Parenteraaliset ravintovalmisteet,,undefined
+2459,3,B05BA01,10,Aminohapot,amino acids,undefined
+2460,3,B05BA02,20,Rasvaemulsiot,fat emulsions,undefined
+2461,3,B05BA03,30,Hiilihydraatit,carbohydrates,undefined
+2462,3,B05BA10,40,Yhdistelmävalmisteet,combinations,undefined
+2463,3,B2BE,50,Elektrolyyttiliuokset,,undefined
+2464,4,B05BB01,10,Elektrolyytit,electrolytes,undefined
+2465,4,B05BB02,20,Elektrolyytit ja hiilihydraatit,electrolytes with carbohydrates,undefined
+2466,3,B2BF,60,Osmoottiset diureetit,,undefined
+2467,4,B05BC01,10,Mannitoli,mannitol,undefined
+2468,2,B2D,50,Infuusiokonsentraatit,,undefined
+2469,3,B05XC,10,Vitamiinit,Vitamins,undefined
+2470,3,B05XX02,20,Trometamoli,trometamol,NOTDOI
+2471,3,B2DA,30,Elektrolyyttiliuokset ja aminohapot,,undefined
+2472,4,B05XA01,10,Kaliumkloridi,potassium chloride,undefined
+2473,4,B05XA03,20,Natriumkloridi,sodium chloride,undefined
+2474,4,B05XA05,30,Magnesiumsulfaatti,magnesium sulfate,undefined
+2475,4,B05XA06,40,"Kaliumfosfaatti, sis. yhdistelmävalmisteet muiden kaliumsuolojen kanssa","potassium phosphate, incl. combinations with other potassium salts",undefined
+2476,4,B05XA07,50,Kalsiumkloridi,calcium chloride,NOTDOI
+2477,4,B05XA09,60,Natriumfosfaatti,sodium phosphate,NOTDOI
+2478,4,B05XA11,61,Magnesiumkloridi,magnesium chloride,NOTDOI
+2479,4,B05XA14,70,Natriumglyserofosfaatti,sodium glycerophosphate,undefined
+2480,4,B05XA16,80,Kardioplegialiuokset,cardioplegia solutions,NOTDOI
+2481,4,B05XA30,90,Elektrolyyttiyhdistelmävalmisteet,combinations of electrolytes,undefined
+2482,4,B05XA31,100,Elektrolyyttien ja muiden lääkeaineiden yhdistelmävalmisteet,electrolytes in combination with other drugs,undefined
+2483,4,B05XB01,110,Arginiinihydrokloridi,arginine hydrochloride,NOTDOI
+2484,4,B05XB02,120,Alanyyliglutamiini,alanyl glutamine,undefined
+2485,1,N1,22,Anestesia-aineet ja puudutteet,,undefined
+2486,2,N1A,10,Anestesia-aineet,,undefined
+2487,3,N1AA,10,Yleisanesteetit,,undefined
+2488,4,N1AAA,10,Halogenoidut hiilivedyt,,undefined
+2489,5,N01AB06,10,Isofluraani,isoflurane,undefined
+2490,5,N01AB07,20,Desfluraani,desflurane,undefined
+2491,5,N01AB08,30,Sevofluraani,sevoflurane,undefined
+2492,4,N1AAB,20,Barbituraatit,,undefined
+2493,5,N01AF01,10,Metoheksitaali,methohexital,NOTDOI
+2494,5,N01AF03,20,Tiopentaali,thiopental,undefined
+2495,4,N1AAC,30,Opioidianesteetit,,undefined
+2496,5,N01AH01,10,Fentanyyli,fentanyl,undefined
+2497,5,N01AH02,20,Alfentaniili,alfentanil,undefined
+2498,5,N01AH03,30,Sufentaniili,sufentanil,undefined
+2499,5,N01AH06,40,Remifentaniili,remifentanil,undefined
+2500,4,N1AAD,40,Muut yleisanesteetit,,undefined
+2501,5,N01AX03,20,Ketamiini,ketamine,undefined
+2502,5,N01AX07,30,Etomidaatti,etomidate,NOTDOI
+2503,5,N01AX10,40,Propofoli,propofol,undefined
+2504,5,N01AX14,50,Esketamiini,esketamine,undefined
+2505,5,N05CD08,51,Midatsolaami,midazolam,undefined
+2506,5,N05CD14,52, Remimatsolaami,remimazolam,NOTDOI
+2507,5,N05CM18,60,Deksmedetomidiini,dexmedetomidine,NOTDOI
+2508,2,N1B,20,Paikallispuudutteet,,undefined
+2509,3,D04AB06,10,Tetrakaiini,tetracaine,NOTDOI
+2510,3,N01BA04,20,Klooriprokaiini,chloroprocaine,NOTDOI
+2511,3,N01BA05,30,Bentsokaiini,benzocaine,undefined
+2512,3,N01BB01,40,Bupivakaiini,bupivacaine,undefined
+2513,3,N01BB02,50,Lidokaiini,lidocaine,undefined
+2514,3,N01BB03,60,Mepivakaiini,mepivacaine,undefined
+2515,3,N01BB04,70,Prilokaiini,prilocaine,NOTDOI
+2516,3,N01BB08,71,Artikaiini,articaine,NOTDOI
+2517,3,N01BB09,80,Ropivakaiini,ropivacaine,undefined
+2518,3,N01BB10,90,Levobupivakaiini,levobupivacaine,undefined
+2519,3,N01BB20,100,Yhdistelmävalmisteet,combinations,undefined
+2520,3,N01BB51,110,"Bupivakaiini, yhdistelmävalmisteet","bupivacaine, combinations",undefined
+2521,3,N01BB52,120,"Lidokaiini, yhdistelmävalmisteet","lidocaine, combinations",undefined
+2522,3,N01BB54,130,"Prilokaiini, yhdistelmävalmisteet","prilocaine, combinations",undefined
+2523,3,N01BB58,140,"Artikaiini, yhdistelmävalmisteet","articaine, combinations",undefined
+2524,1,M3,23,Lihasrelaksantit,,undefined
+2525,2,M3A,10,Perifeeriset lihasrelaksantit,,undefined
+2526,3,M3AA,10,Anestesian yhteydessä käytettävät lihasrelaksantit,,undefined
+2527,4,M03AB01,10,Suksametoni,suxamethonium,undefined
+2528,4,M03AC01,20,Pankuroni,pancuronium,undefined
+2529,4,M03AC03,30,Vekuroni,vecuronium,undefined
+2530,4,M03AC04,31,Atrakurium,atracurium,NOTDOI
+2531,4,M03AC09,40,Rokuroniumbromidi,rocuronium bromide,undefined
+2532,4,M03AC10,50,Mivakuriumkloridi,mivacurium chloride,undefined
+2533,4,M03AC11,60,Sisatrakuuri,cisatracurium,undefined
+2534,3,M03AX01,20,Botuliinitoksiini,botulinum toxin,undefined
+2535,2,M3B,20,Keskushermostoon vaikuttavat lihasrelaksantit,,undefined
+2536,3,M03BA03,10,Metokarbamoli,methocarbamol,NOTDOI
+2537,3,M03BC01,20,Orfenadriini,orphenadrine (citrate),undefined
+2538,3,M03BC51,30,"Orfenadriini, yhdistelmävalmisteet","orphenadrine, combinations",undefined
+2539,3,M03BX01,40,Baklofeeni,baclofen,undefined
+2540,3,M03BX02,50,Titsanidiini,tizanidine,undefined
+2541,2,M03CA01,30,Dantroleeni,dantrolene,NOTDOI
+2542,1,J2,24,"Immunoseerumit, immunoglobuliinit, rokotteet",,undefined
+2543,2,J2A,10,Immunoseerumit ja immunoglobuliinit,,undefined
+2544,3,J06AA01,10,Kurkkumätäantitoksiini,diphtheria antitoxin,NOTDOI
+2545,3,J06AA03,20,Käärmeenmyrkkyantitoksiini,snake venom antiserum,undefined
+2546,3,J06AA04,30,Botuliiniantitoksiini,botulinum antitoxin,NOTDOI
+2547,3,J06BA01,50,"Immunoglobuliini, sc","immunoglobulins, normal human, for extravascular adm.",undefined
+2548,3,J06BA02,60,"Immunoglobuliini, iv","immunoglobulins, normal human, for intravascular adm.",undefined
+2549,3,J06BB01,70,Anti-D-immunoglobuliini,anti-D (rh) immunoglobulin,undefined
+2550,3,J06BB02,80,Tetanusimmunoglobuliini,tetanus immunoglobulin,undefined
+2551,3,J06BB03,90,Varicella zoster-immunoglobuliini,varicella/zoster immunoglobulin,undefined
+2552,3,J06BB04,100,Hepatiitti-B-immunoglobuliini,hepatitis B immunoglobulin,undefined
+2553,3,J06BB05,110,Rabiesimmunoglobuliini,rabies immunoglobulin,NOTDOI
+2554,3,J06BC03,130,Betslotoksumabi,bezlotoxumab,NOTDOI
+2555,3,J06BC04,140,Obiltoksaksimabi,obiltoxaximab,NOTDOI
+2556,3,J06BD01,141,Palivitsumabi,palivizumab,NOTDOI
+2557,3,J06BD08,142,Nirsevimabi ,nirsevimab,NOTDOI
+2558,2,J2B,20,Rokotteet,,undefined
+2559,3,J2BA,10,Bakteerirokotteet,,undefined
+2560,4,J2BAA,10,Kolera,,undefined
+2561,5,J07AE01,10,Inaktivoitu kolerarokote (koko solu),"cholera, inactivated, whole cell",undefined
+2562,5,J07AE02,11,"Kolerarokote, elävä heikennetty","cholera, live attenuated",NOTDOI
+2563,4,J2BAB,20,Haemophilus influenzae b,,undefined
+2564,5,J07AG01,10,haemophilus influenzae tyyppi b konjugaattirokote,"haemophilus influenzae B, purified antigen conjugated",undefined
+2565,4,J2BAC,30,Meningokokki,,undefined
+2566,5,J07AH08,10,"Meningokokkibakteeri A, C, Y, W-135, tetravalentti puhdistettu polysakkaridi antigeeniin konjugoitu","meningococcus A,C,Y,W-135, tetravalent purified polysaccharides antigen conjugated",NOTDOI
+2567,5,J07AH09,20,"Meningokokki B, monikomponenttinen rokote","meningococcus B, multicomponent vaccine",NOTDOI
+2568,5,J07AH11,21,"Meningokokki A-, C-, W-, Y- ja B-ryhmien rokote","meningococcus A,B,C,Y,W-135, pentavalent purified polysaccharides antigen conjugated and factor H binding protein",NOTDOI
+2569,4,J2BAE,40,Pneumokokki,,undefined
+2570,5,J07AL01,10,Pneumokokkipolysakkaridirokote,"pneumococcus, purified polysaccharides antigen",undefined
+2571,5,J07AL02,20,Pneumokokkikonjugaattirokote,"pneumococcus, purified polysaccharides antigen conjugated",undefined
+2572,5,J07AL52,30,Pneumokokki (ja Haemophilus influenzae) -konjugaattirokote,"pneumococcus purified polysaccharides antigen and haemophilus influenzae, conjugated",undefined
+2573,4,J2BAF,50,Jäykkäkouristus,,undefined
+2574,5,J07AM51,10,Tetanus-difteriatoksoidirokote,"tetanus toxoid, combinations with diphtheria toxoid",undefined
+2575,4,J2BAG,60,Tuberkuloosi/BCG,,undefined
+2576,5,J07AN01,10,"Tuberkuloosirokote, elävä heikennetty","tuberculosis, live attenuated",undefined
+2577,4,J2BAH,70,Lavantauti,,undefined
+2578,5,J07AP01,10,"Oraalinen lavantautirokote, elävä heikennetty","typhoid, oral, live attenuated",undefined
+2579,5,J07AP03,20,Lavantautipolysakkaridirokote,"typhoid, purified polysaccharide antigen",undefined
+2580,3,J2BB,20,Virusrokotteet,,undefined
+2581,4,J2BBA,10,Enkefaliitti,,undefined
+2582,5,J07BA01,10,Inaktivoitu puutiaisaivotulehdusrokote (koko virus),"encephalitis, tick borne, inactivated, whole virus",undefined
+2583,5,J07BA02,20,Inaktivoitu Japanin aivotulehdus -rokote (koko virus),"encephalitis, Japanese, inactivated, whole virus",undefined
+2584,4,J2BBB,20,Influenssa,,undefined
+2585,5,J07BB01,10,Inaktivoitu influenssarokote (koko virus),"influenza, inactivated, whole virus",NOTDOI
+2586,5,J07BB02,20,"Influenssarokote, puhdistettu antigeeni","influenza, inactivated, split virus or surface antigen",undefined
+2587,5,J07BB03,30,"Influenssarokote, elävä heikennetty","influenza, live attenuated",NOTDOI
+2588,4,J2BBC,30,Hepatiitti,,undefined
+2589,5,J07BC01,10,"Hepatiitti B, puhdistettu antigeeni","hepatitis B, purified antigen",undefined
+2590,5,J07BC02,20,Inaktivoitu hepatiitti A -rokote (koko virus),"hepatitis A, inactivated, whole virus",undefined
+2591,5,J07BC20,30,Hepatiitti A ja B,combinations,undefined
+2592,4,J2BBD,40,Tuhkarokko,,undefined
+2593,5,J07BD52,10,"Tuhkarokko-sikotauti-vihurirokkorokote, elävä heikennetty virus","measles, combinations with mumps and rubella, live attenuated",undefined
+2594,5,J07BD54,20,"Tuhkarokko-sikotauti-vihurirokko-vesirokkorokote, elävä heikennetty virus","measles, combinations with mumps, rubella and varicella, live attenuated",NOTDOI
+2595,4,J2BBE,50,Polio,,undefined
+2596,5,J07BF03,10,"Inaktivoitu poliorokote, trivalentti (koko virus)","poliomyelitis, trivalent, inactivated, whole virus",undefined
+2597,4,J2BBF,60,Vesikauhu,,undefined
+2598,5,J07BG01,10,"Vesikauhurokote, inaktivoitu (koko virus)","rabies, inactivated, whole virus",undefined
+2599,4,J2BBG,70,Rotavirus,,undefined
+2600,5,J07BH01,10,"Rotavirus, elävä heikennetty virus","rota virus, live attenuated",undefined
+2601,5,J07BH02,20,"Rotavirus, pentavalentti, elävä, yhdistelmävirus","rota virus, pentavalent, live, reassorted",NOTDOI
+2602,4,J2BBH,80,Vesirokko ja vyöruusu,,undefined
+2603,5,J07BK01,10,"Vesirokkorokote, elävä heikennetty virus","varicella, live attenuated",undefined
+2604,5,J07BK02,20,"Herpes zoster -rokote, elävä heikennetty virus","zoster, live attenuated",NOTDOI
+2605,5,J07BK03,30,"Herpes zoster -rokote, puhdistettu  antigeeni","zoster, purified antigen",NOTDOI
+2606,4,J2BBJ,90,Keltakuume,,undefined
+2607,5,J07BL01,10,"Keltakuumerokote, elävä heikennetty virus","yellow fever, live attenuated",undefined
+2608,4,J2BCA,99,Papillooma,,undefined
+2609,5,J07BM01,10,"Ihmisen papilloomavirus (tyyppi 6, 11, 16, 18) -rokote","papillomavirus (human types 6, 11, 16, 18)",undefined
+2610,5,J07BM02,20,"Ihmisen papilloomavirus (tyyppi 16, 18) -rokote","papillomavirus (human types 16, 18)",undefined
+2611,5,J07BM03,30,"Ihmisen papilloomavirus (tyyppi 6, 11, 16, 18, 31, 33, 45, 52, 58) -rokote","papillomavirus (human types 6, 11, 16, 18, 31, 33, 45, 52, 58)",NOTDOI
+2612,4,J2BBK,100,Ebola,,NOTDOI
+2613,5,J07BX02,10,Ebola Zaire -rokote,ebola vaccines,NOTDOI
+2614,4,J2BBL,110,COVID-19,,NOTDOI
+2615,5,J07BN01,10,"COVID-19-rokotteet, RNA-pohjaiset","covid-19, RNA-based vaccine",NOTDOI
+2616,5,J07BN02,11,"COVID-19-rokotteet, replikoitumaton virusvektori","covid-19, viral vector, non-replicating",NOTDOI
+2617,5,J07BN03,12,"COVID-19-rokotteet, inaktivoitu virus","covid-19, inactivated virus",NOTDOI
+2618,5,J07BN04,13,"COVID-19-rokotteet, proteiinipohjaiset","covid-19, protein subunit",NOTDOI
+2619,4,J2BBM,111,Dengue,,NOTDOI
+2620,5,J07BX04,10,"Denguerokote, tetravalentti",dengue virus vaccines,NOTDOI
+2621,4,J2BBN,112,RSV (respiratory syncytial virus),,NOTDOI
+2622,5,J07BX05,10,RSV-rokote,respiratory syncytial virus vaccines,NOTDOI
+2623,4,J2BBO,113,Chikungunya,,NOTDOI
+2624,5,J07BX07,10,Chikungunyarokote,ATCDDD N/A,NOTDOI
+2625,3,J2BC,30,Rokotteiden yhdistelmävalmisteet,,undefined
+2626,4,J07AJ52,10,"Hinkuyskärokote yhdistelmävalmisteena toksoidien kanssa, puhdistettu antigeeni","pertussis, purified antigen, combinations with toxoids",undefined
+2627,4,J07CA02,20,"Kurkkumätä-, hinkuyskä-, polio-, jäykkäkouristusrokote",diphtheria-pertussis-poliomyelitis-tetanus,undefined
+2628,4,J07CA06,30,"Kurkkumätä-, Haemophilus influenzae tyyppi b -, hinkuyskä-, polio-, jäykkäkouristusrokote",diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus,undefined
+2629,4,J07CA09,40,"Kurkkumätä-, Hib -, hinkuyskä-, polio-, jäykkäkouristus-, hepatiitti B -rokote",diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus-hepatitis B,undefined
+2630,4,J07CA10,50,Lavantauti - hepatiitti A -rokote,typhoid-hepatitis A,NOTDOI
+2631,1,A3,25,Vitamiinit ja kivennäisaineet,,undefined
+2632,2,A3A,10,Vitamiinit,,undefined
+2633,3,A3AD,10,A-vitamiinit,,undefined
+2634,4,A11CA01,10,Retinoli (A-vitamiini),retinol (vit A),NOTDOI
+2635,4,A11CA02,10,Beetakaroteeni,betacarotene,NOTDOI
+2636,3,A3AB,20,"B-vitamiinit, myös yhdistelmävalmisteet",,undefined
+2637,4,A11DA01,10,Tiamiini (B1-vitamiini),thiamine (vit B1),undefined
+2638,4,A11HA01,20,Nikotiiniamidi (B3-vitamiini),nicotinamide,NOTDOI
+2639,4,A11HA02,30,Pyridoksiini (B6-vitamiini),pyridoxine (vit B6),undefined
+2640,4,A11HA04,40,Riboflaviini (B2-vitamiini),riboflavin (vit B2),NOTDOI
+2641,4,A11HA06,50,Pyridoksaalifosfaatti,pyridoxal phosphate,NOTDOI
+2642,4,A3ABA,60,"B1-, B6 - ja B12-vitamiinien yhdistelmät",ATCDDD N/A,NOTDOI
+2643,4,B1CB,61,B-vitamiini ja foolihappo,,undefined
+2644,5,B03BA01,10,Syanokobalamiini,cyanocobalamin,undefined
+2645,5,B03BA03,30,Hydroksokobalamiini,hydroxocobalamin,undefined
+2646,5,B03BB01,50,Foolihappo,folic acid,undefined
+2647,4,A3ABB,70,Muut B-vitamiinien yhdistelmävalmisteet,ATCDDD N/A,NOTDOI
+2648,3,A3AC,30,C-vitamiinit,,undefined
+2649,4,A11GA01,10,Askorbiinihappo (C-vitamiini),ascorbic acid (vit C),undefined
+2650,3,A3AA,40,D-vitamiinit,,undefined
+2651,4,A11CC01,10,Ergokalsiferoli (D2-vitamiini),ergocalciferol,undefined
+2652,4,A11CC02,20,Dihydrotakysteroli,dihydrotachysterol,undefined
+2653,4,A11CC03,30,Alfakalsidoli,alfacalcidol,undefined
+2654,4,A11CC04,40,Kalsitrioli,calcitriol,NOTDOI
+2655,4,A11CC05,50,Kolekalsiferoli (D3-vitamiini),colecalciferol,undefined
+2656,3,B1BB,45,K-vitamiini (fytomenadioni),,undefined
+2657,4,B02BA01,10,Fytomenadioni,phytomenadione,undefined
+2658,3,A3AE,46,Monivitamiinivalmisteet,,NOTDOI
+2659,4,A11BA,10,Multivitamindroppar Unimedic,ATCDDD N/A,NOTDOI
+2660,4,A11JC,11,Keskostippa,ATCDDD N/A,NOTDOI
+2661,3,A11HA03,50,Tokoferoli (E-vitamiini),tocopherol (vit E),undefined
+2662,3,A11HA05,60,Biotiini,biotin,undefined
+2663,3,A11HA08,70,Tokofersolaani,tocofersolan,NOTDOI
+2664,3,A11HA30,80,Dekspantenoli,dexpanthenol,undefined
+2665,2,A3B,20,Kivennäisaineet,,undefined
+2666,3,A12CA01,20,Natriumkloridi,sodium chloride,NOTDOI
+2667,3,A3BA,28,Kalsium,,undefined
+2668,4,A12AA02,10,Kalsiumglubionaatti,calcium glubionate,undefined
+2669,4,A12AA04,20,Kalsiumkarbonaatti,calcium carbonate,undefined
+2670,4,A12AA06,30,Kalsiumlaktaattiglukonaatti,calcium lactate gluconate,undefined
+2671,4,V03AE07,40,Kalsiumasetaatti,calcium acetate,NOTDOI
+2672,4,A12AA20,41,Kalsium (eri suolojen yhdistelmävalmisteet),calcium (different salts in combination),NOTDOI
+2673,3,A12AX,29,Kalsiumin yhdistelmävalmisteet,"Calcium, combinations with vitamin D and/or other drugs",undefined
+2674,3,A3BC,40,Kalium,,undefined
+2675,4,A12BA01,10,Kaliumkloridi,potassium chloride,undefined
+2676,4,A12BA02,30,Kaliumsitraatti,potassium citrate,NOTDOI
+2677,4,A12BA30,31,Kalium (eri suolojen yhdistelmävalmisteet),potassium (different salts in combination),NOTDOI
+2678,3,A3BE,50,Magnesium,,NOTDOI
+2679,4,A12CC04,10,Magnesiumsitraatti,magnesium citrate,NOTDOI
+2680,3,A3BD,60,Muut kivennäisaineet,,undefined
+2681,4,A12CB01,10,Sinkkisulfaatti,zinc sulfate,undefined
+2682,4,A12CE02,20,Natriumseleniitti,sodium selenite,NOTDOI
+2683,2,A3C,30,Vitamiinien ja kivennäisaineiden yhdistelmävalmisteet,ATCDDD N/A,NOTDOI
+2684,1,P1,26,"Loisten häätö (alkueläimet, madot, syyhy)",,undefined
+2685,2,P1A,10,Alkueläimiin vaikuttavat lääkkeet,,undefined
+2686,3,P1AA,10,Amebiaasilääkkeet,,undefined
+2687,4,P01AB01,10,Metronidatsoli,metronidazole,undefined
+2688,4,P01AB02,20,Tinidatsoli,tinidazole,NOTDOI
+2689,4,P01AB07,30,Seknidatsoli,secnidazole,NOTDOI
+2690,4,P01AC01,40,Diloksanidi,diloxanide,NOTDOI
+2691,4,P01AX05,50,Mepakriini,mepacrine,NOTDOI
+2692,4,P01AX06,60,Atovakoni,atovaquone,NOTDOI
+2693,4,P01AX11,70,Nitatsoksanidi,nitazoxanide,NOTDOI
+2694,4,A07AA06,71,Paromomysiini,paromomycin,NOTDOI
+2695,3,P1AB,20,Malarialääkkeet,,undefined
+2696,4,P01BA01,10,Klorokiini,chloroquine,undefined
+2697,4,P01BA03,30,Primakiini,primaquine,NOTDOI
+2698,4,P01BC01,40,Kiniini,quinine,NOTDOI
+2699,4,P01BC02,50,Meflokiini,mefloquine,undefined
+2700,4,P01BD01,60,Pyrimetamiini,pyrimethamine,NOTDOI
+2701,4,P01BE02,70,Artemeetteri,artemether,NOTDOI
+2702,4,P01BE03,80,Artesunaatti,artesunate,NOTDOI
+2703,4,P01BE04,90,Artemotiili,artemotil,NOTDOI
+2704,4,P01BF01,100,"Artemisiniinijohdokset, yhdistelmävalmisteet",artemether and lumefantrine,NOTDOI
+2705,4,P1ABC,110,"Proguaniili, yhdistelmävalmisteet",N/A,undefined
+2706,4,J01AA02,111,Doksisykliini,doxycycline,undefined
+2707,3,P1AC,30,Leishmaniaasi- ja trypanosomiaasilääkkeet,,NOTDOI
+2708,4,P01CB01,10,Meglumiiniantimonaatti,meglumine antimonate,NOTDOI
+2709,4,P01CX04,50,Miltefosiini,miltefosine,NOTDOI
+2710,4,J02AA01,51,Amfoterisiini,amphotericin B,undefined
+2711,2,P1B,20,Matolääkkeet,,undefined
+2712,3,P1BA,10,Sukkulamatolääkkeet,,undefined
+2713,4,P02CA01,10,Mebendatsoli,mebendazole,undefined
+2714,4,P02CA03,30,Albendatsoli,albendazole,NOTDOI
+2715,4,P02CB02,50,Dietyylikarbamatsiini,diethylcarbamazine,NOTDOI
+2716,4,P02CC01,60,Pyranteeli,pyrantel,NOTDOI
+2717,4,P02CF01,70,Ivermektiini,ivermectin,undefined
+2718,4,P02CX01,80,Pyrviini,pyrvinium,undefined
+2719,3,P1BB,20,Laakamatolääkkeet,,undefined
+2720,4,P02DA01,10,Niklosamidi,niclosamide,undefined
+2721,3,P1BC,30,Imumatolääkkeet,,NOTDOI
+2722,4,P02BA01,10,Pratsikvanteeli,praziquantel,NOTDOI
+2723,4,P02BX04,20,Triklabendatsoli,triclabendazole,NOTDOI
+2724,2,P1C,30,Ulkoloisten häätön käytettävät lääkkeet,,undefined
+2725,3,P03AA54,10,Bentsyylibentsoaatti ja disulfiraami,"disulfiram, combinations",NOTDOI
+2726,3,P03AC04,10,Permetriini,permethrin,undefined
+2727,3,P03AX01,11,Bentsyylibentsoaatti,benzyl benzoate,NOTDOI
+2728,3,P03AX03,20,Malationi,malathion,undefined
+2729,1,V1,27,Allergeenit,,NOTDOI
+2730,2,V01AA02,10,Siitepöly,grass pollen,undefined
+2731,2,V01AA03,20,Huonepölypunkki,house dust mites,undefined
+2732,2,V01AA07,30,Hyönteiset,insects,undefined
+2733,2,V01AA11,40,Eläimet,animals,undefined
+2734,2,V01AA20,50,Muut allergeenit,,undefined
+2735,3,V01AA08,10,Maapähkinäproteiini,food,NOTDOI
+2736,1,A1J,28,"Aminohapot, entsyymit ja muut aineenvaihduntasairauksien lääkkeet",,undefined
+2737,2,A1JA,10,Aminohapot,,undefined
+2738,3,A16AA01,10,Levokarnitiini,levocarnitine,undefined
+2739,3,A16AA04,20,Merkaptamiini,mercaptamine,undefined
+2740,3,A16AA05,30,Karglumiinihappo,carglumic acid,undefined
+2741,3,A16AA06,40,Betaiini,betaine,undefined
+2742,3,A16AA07,50,Metreleptiini,metreleptin,NOTDOI
+2743,3,B05XB01,60,Arginiinihydrokloridi,arginine hydrochloride,NOTDOI
+2744,2,A1JB,20,Entsyymit,,undefined
+2745,3,A16AB02,10,Imigluseraasi,imiglucerase,undefined
+2746,3,A16AB03,20,Agalsidaasialfa,agalsidase alfa,undefined
+2747,3,A16AB04,30,Agalsidaasibeeta,agalsidase beta,undefined
+2748,3,A16AB05,40,Laronidaasi,laronidase,undefined
+2749,3,A16AB07,50,Alglukosidaasialfa,alglucosidase alfa,undefined
+2750,3,A16AB08,60,Galsulfaasi,galsulfase,NOTDOI
+2751,3,A16AB09,70,Idursulfaasi,idursulfase,undefined
+2752,3,A16AB10,80,Velagluseraasialfa,velaglucerase alfa,NOTDOI
+2753,3,A16AB13,90,Asfotaasialfa,asfotase alfa,NOTDOI
+2754,3,A16AB14,100,Sebelipaasialfa,sebelipase alfa,NOTDOI
+2755,3,A16AB15,110,Velmanaasi alfa,velmanase alfa,NOTDOI
+2756,3,A16AB17,120,Serliponaasi alfa,cerliponase alfa,NOTDOI
+2757,3,A16AB18,130,Vestronidaasi alfa,vestronidase alfa,NOTDOI
+2758,3,A16AB20,131,Pegunigalsidaasi alfa,pegunigalsidase alfa,NOTDOI
+2759,3,A16AB22,131,Avalglukosidaasi alfa,avalglucosidase alfa,NOTDOI
+2760,3,A16AB23,132,Sipaglukosidaasi alfa,cipaglucosidase alfa,NOTDOI
+2761,3,A16AB24,133,Pegtsilarginaasi,pegzilarginase,NOTDOI
+2762,3,A16AB25,134,Olipudaasi alfa,olipudase alfa,NOTDOI
+2763,3,A16AB26,135,Eladokageenieksuparvoveekki,eladocagene exuparvovec,NOTDOI
+2764,2,A1JC,30,Muut aineenvaihduntasairauksien lääkkeet,,undefined
+2765,3,A16AX03,10,Natriumfenyylibutyraatti,sodium phenylbutyrate,undefined
+2766,3,A16AX04,20,Nitisinoni,nitisinone,undefined
+2767,3,A16AX05,30,Sinkkiasetaatti,zinc acetate,undefined
+2768,3,A16AX06,40,Miglustaatti,miglustat,undefined
+2769,3,A16AX07,49,Sapropteriini,sapropterin,NOTDOI
+2770,3,A16AX09,50,Glyserolifenyylibutyraatti,glycerol phenylbutyrate,NOTDOI
+2771,3,A16AX10,60,Eliglustaatti,eliglustat,NOTDOI
+2772,3,A16AX11,61,Natriumbentsoaatti,sodium benzoate,NOTDOI
+2773,3,A16AX12,70,Trientiini,trientine,NOTDOI
+2774,3,A16AX14,78,Migalastaatti,migalastat,NOTDOI
+2775,3,A16AX15,79,Telotristaatti,telotristat,NOTDOI
+2776,3,A16AX16,90,Givosiraani,givosiran,NOTDOI
+2777,3,A16AX19,91,Fosdenopteriini,fosdenopterin,NOTDOI
+2778,3,A16AX20,91,Lonafarnibi,lonafarnib,NOTDOI
+2779,3,A16AX21,92,Elivaldogeeniautotemseeli,elivaldogene autotemcel,NOTDOI
+2780,2,A1JD,40,Lihasdystrofioiden lääkkeet,,NOTDOI
+2781,3,M09AX03,10,Atalureeni,ataluren,NOTDOI
+2782,3,M09AX07,20,Nusinerseeni,nusinersen,NOTDOI
+2783,3,M09AX09,30,Onasemnogeeniabeparvoveekki,onasemnogene abeparvovec,NOTDOI
+2784,3,M09AX10,40,Risdiplaami,risdiplam,NOTDOI
+2785,3,H02AB18,41,Vamoroloni,vamorolone,NOTDOI
+2786,1,V2,29,"Myrkytysten, yliannostusten ym. hoito",,NOTDOI
+2787,2,V2A,10,Myrkytysten antidootit,,undefined
+2788,3,A11HA02,10,Pyridoksiini (B6-vitamiini),pyridoxine (vit B6),undefined
+2789,3,B02BA01,11,Fytomenadioni,phytomenadione,undefined
+2790,3,D11AX03,20,Kalsiumglukonaatti,calcium gluconate,NOTDOI
+2791,3,J06AA03,30,Käärmeenmyrkkyantitoksiini,snake venom antiserum,undefined
+2792,3,M03CA01,30,Dantroleeni,dantrolene,NOTDOI
+2793,3,J06BB,31,Käärmeenmyrkkyantitoksiini,ATCDDD N/A,NOTDOI
+2794,3,N04BC01,31,Bromokriptiini,bromocriptine,undefined
+2795,3,R06AX02,40,Syproheptadiini,cyproheptadine,NOTDOI
+2796,3,V03ABXX,50,"DMPS, DMSA, suksimeeri ja muut",ATCDDD N/A,NOTDOI
+2797,3,V03AB01,60,Ipekakuana,ipecacuanha,undefined
+2798,3,V03AB03,70,Edetaatit,edetates,NOTDOI
+2799,3,V03AB04,80,Pralidoksiimi,pralidoxime,undefined
+2800,3,V03AB06,90,Tiosulfaatti,thiosulfate,NOTDOI
+2801,3,V03AB13,100,Obidoksiimi,obidoxime,undefined
+2802,3,V03AB14,110,Protamiini,protamine,undefined
+2803,3,V03AB15,120,Naloksoni,naloxone,undefined
+2804,3,V03AB16,130,Etanoli,ethanol,undefined
+2805,3,V03AB17,140,Metyylitioniini,methylthioninium chloride,NOTDOI
+2806,3,V03AB19,150,Fysostigmiini,physostigmine,undefined
+2807,3,V03AB21,160,Kaliumjodidi,potassium iodide,undefined
+2808,3,V03AB23,180,Asetyylikysteiini,acetylcysteine,undefined
+2809,3,V03AB24,190,Digitaliksen vasta-aine,digitalis antitoxin,undefined
+2810,3,V03AB25,200,Flumatseniili,flumazenil,undefined
+2811,3,V03AB27,210,4-dimetyyliaminofenoli,4-dimethylaminophenol,undefined
+2812,3,V03AB31,220,Preussinsini,prussian blue,NOTDOI
+2813,3,V03AB33,230,Hydroksokobalamiini,hydroxocobalamin,undefined
+2814,3,V03AB34,240,Fomepitsoli,fomepizole,undefined
+2815,3,V03AB35,250,Sugammadeksi,sugammadex,undefined
+2816,3,V03AB37,260,Idarusitsumabi,idarucizumab,NOTDOI
+2817,3,V03AB38,270,Andeksaneetti alfa,andexanet alfa,NOTDOI
+2818,3,V03AX,271,Silibiini,ATCDDD N/A,NOTDOI
+2819,2,V2B,20,Rautaa kelatoivat aineet,,undefined
+2820,3,V03AC01,10,Desferrioksamiini,deferoxamine,undefined
+2821,3,V03AC02,20,Deferiproni,deferiprone,undefined
+2822,3,V03AC03,30,Deferasiroksi,deferasirox,undefined
+2823,2,V2C,30,Hyperkalemia- ja hyperfosfatemialääkkeet,,undefined
+2824,3,V03AE01,10,Polystyreenisulfonaatti,polystyrene sulfonate,undefined
+2825,3,V03AE02,20,Sevelameeri,sevelamer,undefined
+2826,3,V03AE03,30,Lantaanikarbonaatti,lanthanum carbonate,undefined
+2827,3,V03AE04,40,Kalsiumasetaatti ja magnesiumkarbonaatti,calcium acetate and magnesium carbonate,undefined
+2828,3,V03AE09,50,Patiromeerikalsium,patiromer calcium,NOTDOI
+2829,3,V03AE10,60,Natriumsirkoniumsyklosilikaatti,sodium zirconium cyclosilicate,NOTDOI
+2830,2,V2D,40,Hyperkalsemialääkkeet,,NOTDOI
+2831,3,V03AG01,10,Fosfaatit,sodium cellulose phosphate,NOTDOI
+2832,2,V2E,50,Sytostaattihoidon haittoja vähentävät lääkkeet,,undefined
+2833,3,V03AF01,10,Mesna,mesna,undefined
+2834,3,V03AF02,20,Deksratsoksaani,dexrazoxane,undefined
+2835,3,V03AF03,30,Kalsiumfolinaatti,calcium folinate,undefined
+2836,3,V03AF04,40,Kalsiumlevofolinaatti,calcium levofolinate,undefined
+2837,3,V03AF05,50,Amifostiini,amifostine,undefined
+2838,3,V03AF07,60,Rasburikaasi,rasburicase,undefined
+2839,3,V03AF08,70,Palifermiini,palifermin,undefined
+2840,3,V03AF09,80,Glukarpidaasi,glucarpidase,NOTDOI
+2841,3,V03AF10,90,Natriumlevofolinaatti,sodium levofolinate,undefined
+2842,3,B06AA03,91,Hyaluronidaasi,hyaluronidase,NOTDOI
+2843,2,V2F,60,Hypoglykemialääkkeet,,NOTDOI
+2844,3,V03AH01,10,Diatsoksidi,diazoxide,NOTDOI
+2845,3,H04AA01,11,Glukagoni,glucagon,undefined
+2846,2,V2G,70,Muut myrkytysten hoidossa käytettävät lääkkeet.,,NOTDOI
+2847,3,A03BA01,10,Atropiini,atropine,undefined
+2848,3,A07BA01,20,Lääkehiili,medicinal charcoal,undefined
+2849,3,H01CB02,30,Oktreotidi,octreotide,undefined
+2850,3,H04AA01,40,Glukagoni,glucagon,undefined
+2851,3,M01CC01,50,Penisillamiini,penicillamine,undefined
+2852,3,N02CA04,60,Metysergidi,methysergide,NOTDOI
+2853,1,V3,30,Diagnostiset aineet,,NOTDOI
+2854,2,V3A,10,Tuberkuliinitesti,,undefined
+2855,3,V04CF01,10,Tuberkuliini,tuberculin,undefined
+2856,3,V04CFXX,11,Mycobacterium tuberculosis -bakteerista peräisin olevat antigeenit rdESAT-6 ja rCFP-10,ATCDDD N/A,NOTDOI
+2857,2,V04CL,20,Allergiatestit,Tests for allergic diseases,undefined
+2858,2,V3D,25,Hedelmällisyystestit,,NOTDOI
+2859,3,V04CM01,10,Gonadoreliini,gonadorelin,NOTDOI
+2860,2,V3C,30,Aivolisäkkeen toimintatestit,,NOTDOI
+2861,3,V04CD01,10,Metyraponi,metyrapone,NOTDOI
+2862,3,V04CD04,20,Kortikoliberiini,corticorelin,NOTDOI
+2863,3,V04CD05,30,Somatoreliini,somatorelin,NOTDOI
+2864,3,V04CD06,40,Masimoreliini,macimorelin,NOTDOI
+2865,3,V04CJ02,50,Protireliini,protirelin,NOTDOI
+2866,2,V04CX,40,Muut diagnostiset aineet,,undefined
+2867,3,V04CX01,9,Indosyaanivihreä,indocyanine green,NOTDOI
+2868,3,V04CX04,10,Mannitoli,mannitol,NOTDOI
+2869,3,V04CX07,10,Edrofonium,edrophonium,NOTDOI
+2870,3,V04CH02,11,Indigokarmiini,indigo carmine,NOTDOI
+2871,3,V04CK01,20,Sekretiini,secretin,NOTDOI
+2872,3,C01EB21,21,Regadenosoni,regadenoson,NOTDOI
+2873,1,V4,31,Tekniset valmisteet,,NOTDOI
+2874,2,V07AB,10,"Liuottimet, laimentimet, huuhteluliuokset","Solvents and diluting agents, incl. irrigating solutions",undefined
+2875,1,V5,32,Varjoaineet,,NOTDOI
+2876,2,V5A,10,Jodia sisältävät varjoaineet,,undefined
+2877,3,V08AA01,10,Diatritsoiinihappo,diatrizoic acid,undefined
+2878,3,V08AB02,20,Joheksoli,iohexol,undefined
+2879,3,V08AB03,30,Joksagliinihappo,ioxaglic acid,undefined
+2880,3,V08AB04,31,Jopamidoli,iopamidol,NOTDOI
+2881,3,V08AB05,40,Jopromidi,iopromide,undefined
+2882,3,V08AB07,50,Joversoli,ioversol,undefined
+2883,3,V08AB09,60,Jodiksanoli,iodixanol,undefined
+2884,3,V08AB10,70,Jomeproli,iomeprol,undefined
+2885,3,V08AB11,80,Jobitridoli,iobitridol,undefined
+2886,2,V5B,20,Jodittomat varjoaineet,,undefined
+2887,3,V08BA01,10,Bariumsulfaattivalmisteet,barium sulfate with suspending agents,undefined
+2888,2,V5C,30,MRI-kuvausaineet,,undefined
+2889,3,V08CA01,10,Gadopenteettihappo,gadopentetic acid,undefined
+2890,3,V08CA02,20,Gadoteerihappo,gadoteric acid,undefined
+2891,3,V08CA03,30,Gadodiamidi,gadodiamide,undefined
+2892,3,V08CA04,40,Gadoteridoli,gadoteridol,undefined
+2893,3,V08CA05,50,Mangafodipiiri,mangafodipir,undefined
+2894,3,V08CA06,60,Gadoversetamidi,gadoversetamide,undefined
+2895,3,V08CA08,70,Gadobeenihappo,gadobenic acid,undefined
+2896,3,V08CA09,80,Gadobutroli,gadobutrol,undefined
+2897,3,V08CA10,90,Gadoksetiinihappo,gadoxetic acid,undefined
+2898,3,V08CA11,100,Gadofosveseetti,gadofosveset,undefined
+2899,3,V08CA12,101,Gadopiklenoli,gadopiclenol,NOTDOI
+2900,3,V08CB01,110,Ferumoksiili,ferumoxsil,undefined
+2901,2,V5D,40,Ultraäänikuvausaineet,,undefined
+2902,3,V08DA01,10,Ihmisen albumiinin mikropartikkelit,"perflutren, human albumin microspheres",NOTDOI
+2903,3,V08DA05,20,Rikkiheksafluoridi,"sulfur hexafluoride, phospholipid microspheres",undefined
+2904,1,V6,33,Radioaktiiviset lääkevalmisteet,,NOTDOI
+2905,2,V6A,10,Diagnostiset radioaktiiviset lääkevalmisteet,,undefined
+2906,3,VG03,10,Munuaiset,,undefined
+2907,4,V09CA03,10,Teknetium[99mTc]-mertiatidi,technetium (99mTc) mertiatide,undefined
+2908,3,V09B,20,Luusto,SKELETON,undefined
+2909,3,V09D,30,Maksa ja retukuloenditeliaalijärjestelmä,HEPATIC AND RETICULO ENDOTHELIAL SYSTEM,undefined
+2910,3,V09E,40,Hengityselimet,RESPIRATORY SYSTEM,undefined
+2911,3,V09F,50,Kilpirauhanen,THYROID,undefined
+2912,3,V09G,60,Sydän ja verisuonet,,undefined
+2913,4,V09GA01,10,Teknetium(99mTc)sestamibi,technetium (99mTc) sestamibi,NOTDOI
+2914,4,V09GA02,11,Teknetium(99mTc)tetrofosmiini,technetium (99mTc) tetrofosmin,NOTDOI
+2915,3,V09H,70,Tulehdusten ja infektioiden diagnosointi,INFLAMMATION AND INFECTION DETECTION,undefined
+2916,3,V09I,80,Kasvainten diagnosointi,,undefined
+2917,4,V09IX12,10,Flusikloviini(18F),fluciclovine (18F),NOTDOI
+2918,4,V09IX14,11,Gallium(68Ga)gotsetotidi,gallium (68Ga) gozetotide,NOTDOI
+2919,4,V09IX16,12,Piflufolastaatti(18F),piflufolastat (18F),NOTDOI
+2920,3,V6AA,90,Keskushermosto,,undefined
+2921,4,V09AX07,10,Flortausipiiri (18F),flortaucipir (18F),NOTDOI
+2922,2,V6B,20,Terapeuttiset radioaktiiviset lääkevalmisteet,,undefined
+2923,3,V10A,10,Tulehdusta lievittävät valmisteet,ANTIINFLAMMATORY AGENTS,undefined
+2924,3,V10B,20,Kipua lievittävät (luustoon hakeutuvat) valmisteet,,undefined
+2925,4,V10XX03,10,Radium[223Ra]-dikloridi,radium (223Ra) dichloride,NOTDOI
+2926,3,V6BC,30,Muut terapeuttiset radioaktiiviset lääkevalmisteet,,undefined
+2927,4,V10XX02,10,Ibritumomabitiuksetaani [90Y],ibritumomab tiuxetan (90Y),undefined
+2928,4,V10XX04,10,Lutetium(177Lu)oksodotreotidi,lutetium (177Lu) oxodotreotide,NOTDOI
+2929,4,V10XX05,10,Lutetium(177Lu)vipivotiditetraksetaani,lutetium (177Lu) vipivotide tetraxetan,NOTDOI

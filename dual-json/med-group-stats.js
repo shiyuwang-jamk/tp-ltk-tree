@@ -6,71 +6,48 @@ const path = require('path');
 let maxGroup = 2;
 function groupCheck(file) {
     console.log(`Fetching group info from${file}`);
-    
-    const data = fs.readFile(file);
-    
-    const groupCount = Array.isArray(data.koko_luokitus) ? data.koko_luokitus.length : 1;
-    
-    if (groupCount > 1) {
-        console.log(`${groupCount} groups identified for ATC ${atcCode}. Current max group being ${maxGroup}.`);
-        
-        if (groupCount > maxGroup) {
-            match++;
-            maxGroup = groupCount;
+
+    try {
+        const fileContent = fs.readFileSync(file, 'utf8');
+        // const data = fs.readFile(file);
+        const data = JSON.parse(fileContent);
+        const atcCode = path.basename(file, '.json');
+
+        const groupCount = Array.isArray(data.koko_luokitus) ? data.koko_luokitus.length : 1;
+
+        if (groupCount > 1) {
+            console.log(`${groupCount} groups identified for ATC ${atcCode}. Current max group being ${maxGroup}.`);
+            if (groupCount > maxGroup) {
+                maxGroup = groupCount;
+            }
         }
+    } catch (err) {
+        console.error(`Error processing ${file}:`, err);
     }
 }
 
 /**
- * Iterate through 
- * Finds code for drug or drug group
- * Finds proper names (Finnish and English for ATC codes)
- * Writes findings to CSV
+ * Finds group count for drug or drug group
  * @param {string[]} array containing code needed for JSON
  * @returns {Promise<void>}
  */
-async function jsonTraverse(array) {
-    console.log(`Starting JSON retrieval for ${array.length} items.`);
-    for (let i = 0; i < array.length; i++) {
+function jsonTraverse(jsonArray) {
+    console.log(`Starting JSON retrieval for ${jsonArray.length} items.`);
+    jsonArray.forEach(file => {
+        groupCheck(file);
+    });
 
-        console.log(`Processing item ${i}...`);
-        const startTime = Date.now();
-        try {
-            await groupCheck(array[i]); // Wait for drgVisit to complete before continuing
-        } catch (err) {
-            console.error("An error occurred during array traversal:", err);
-            // recorder.end(); // Ensure stream is closed on error too
-        }
-
-        const duration = Date.now() - startTime;
-        const itemsLeft = array.length - i;
-        console.log(`> Iteration ${i} completed in ${duration} ms. ${itemsLeft} itemsleft`);
-
-        if (duration < intervalMin) {
-            const timeout = intervalMin - duration;
-            await new Promise(resolve => setTimeout(resolve, timeout));
-        }
-    }
 }
 
 // main()
-
 try {
-    fs.readdir('.', function (err, files) {
-        const atcJSON = files.filter(e => path.extname(e) === '.json');
-        jsonTraverse(atcJSON);
-    })
+    const files = fs.readdirSync('.');
+    const atcJSON = files.filter(e => {
+        return path.extname(e) === '.json';
+    });
+    jsonTraverse(atcJSON);
 } catch (err) {
-    console.error("An error occurred during array traversal:", err);
-    // recorder.end(); // Ensure stream is closed on error too
+    console.error("An error occurred during JSON file traversal:", err);
 } finally {
-    console.log(`Fetching completed with ${match} items out of ${atcArray.length}.`);
+    console.log(`Fetching completed with max group of ${maxGroup}.`);
 }
-
-// module.exports = {
-//     atcFind,
-//     atcToName,
-//     drgVisit,
-//     urlTraverse,
-//     writeNewLine
-// };
