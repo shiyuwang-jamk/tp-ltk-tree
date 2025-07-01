@@ -2,15 +2,17 @@
 
 This repo deals with coding correspondence in the proprietary Finnish platform Terveysportti (health portal) for medicines.
 
+Suomeksi tulossa...
+
 ## This repo contains:
 - Several Node.js scraper scripts collecting source data.
 - One Python script joining the indexes.
 - A result of the scraped data.
 
-## Products of the Repo:
+## [Products of the Repo](https://github.com/shiyuwang-jamk/tp-ltk-tree/releases):
 
-### `tdoi-drg.csv`
-### `tree-api-with-tdoi.csv`
+- `tdoi-drg.csv`
+- `tree-api-with-tdoi.csv`
 
 You can import the files to Excel and explore yourself.
 
